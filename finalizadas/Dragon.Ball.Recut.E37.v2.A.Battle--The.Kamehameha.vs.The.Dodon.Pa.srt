@@ -1,6 +1,6 @@
 1
 00:00:10,570 --> 00:00:14,070
-<font face="Avenir Black" size="33">Vamos pegar as Esferas do Dragão!</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Tsukamo ze! Doragon Booru</i></font>
 
 2
 00:00:10,570 --> 00:00:14,070
@@ -8,7 +8,7 @@
 
 3
 00:00:14,070 --> 00:00:17,540
-<font face="Avenir Black" size="33">Um dos segredos mais emocionantes do mundo</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Sekai de itto suriru na himitsu</i></font>
 
 4
 00:00:14,070 --> 00:00:17,540
@@ -16,7 +16,7 @@
 
 5
 00:00:17,540 --> 00:00:21,080
-<font face="Avenir Black" size="33">Vamos procurá-las! As Esferas do Dragão!</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Sagaso ze! Doragon Booru</i></font>
 
 6
 00:00:17,540 --> 00:00:21,080
@@ -24,7 +24,7 @@
 
 7
 00:00:21,080 --> 00:00:24,410
-<font face="Avenir Black" size="33">Um dos milagres mais encantadores do mundo</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Sekai de itto yukai na kiseki</i></font>
 
 8
 00:00:21,080 --> 00:00:24,410
@@ -32,7 +32,7 @@
 
 9
 00:00:24,420 --> 00:00:27,880
-<font face="Avenir Black" size="33">Esta vida é uma grande ilha do tesouro</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Kono yo wa dekkai takarajima</i></font>
 
 10
 00:00:24,420 --> 00:00:27,880
@@ -40,7 +40,7 @@
 
 11
 00:00:27,890 --> 00:00:33,520
-<font face="Avenir Black" size="33">É isso aí! Agora é hora de aventura!</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>So sa ima koso adobencha!</i></font>
 
 12
 00:00:27,890 --> 00:00:33,520
@@ -48,7 +48,7 @@
 
 13
 00:00:35,490 --> 00:00:39,030
-<font face="Avenir Black" size="33">O amor faz o coração disparar, aos montes</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Mune waku-waku no ai ga GISSIRI</i></font>
 
 14
 00:00:35,490 --> 00:00:39,030
@@ -56,7 +56,7 @@
 
 15
 00:00:39,030 --> 00:00:42,570
-<font face="Avenir Black" size="33">Sonhos de todas as cores caem aos montes</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Iro toridori no yume ga DOSSARI</i></font>
 
 16
 00:00:39,030 --> 00:00:42,570
@@ -64,7 +64,7 @@
 
 17
 00:00:42,570 --> 00:00:49,540
-<font face="Avenir Black" size="33">Em algum lugar deste mundo, elas brilham</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Kono yo no doko ka de hikatte 'ru</i></font>
 
 18
 00:00:42,570 --> 00:00:49,540
@@ -72,7 +72,7 @@
 
 19
 00:00:49,540 --> 00:00:52,370
-<font face="Avenir Black" size="33">Vamos encontrá-las, garoto!</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Soitsu mitsuke ni yuko ze BOY</i></font>
 
 20
 00:00:49,540 --> 00:00:52,370
@@ -80,7 +80,7 @@
 
 21
 00:00:53,210 --> 00:00:56,310
-<font face="Avenir Black" size="33">Derrubando monstros e criaturas estranhas</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Yokai henge mo buttobashi</i></font>
 
 22
 00:00:53,210 --> 00:00:56,310
@@ -88,7 +88,7 @@
 
 23
 00:00:56,310 --> 00:01:02,740
-<font face="Avenir Black" size="33">E hoje voaremos pelo céu</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Kumo no mashin de kyo mo tobu no sa</i></font>
 
 24
 00:00:56,310 --> 00:01:02,740
@@ -96,7 +96,7 @@
 
 25
 00:01:03,720 --> 00:01:07,220
-<font face="Avenir Black" size="33">Vamos tentar, tentar, tentar, que mistério!</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Let's try, try, try makafushigi</i></font>
 
 26
 00:01:03,720 --> 00:01:07,220
@@ -104,7 +104,7 @@
 
 27
 00:01:07,220 --> 00:01:09,990
-<font face="Avenir Black" size="33">Cruzando o céu e vencendo montanhas</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Sora o kakenuke yama o koe</i></font>
 
 28
 00:01:07,220 --> 00:01:09,990
@@ -112,7 +112,7 @@
 
 29
 00:01:10,890 --> 00:01:13,950
-<font face="Avenir Black" size="33">Vamos voar, voar, voar, numa grande aventura</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Let's fly, fly, fly, daiboken</i></font>
 
 30
 00:01:10,890 --> 00:01:13,950
@@ -120,7 +120,7 @@
 
 31
 00:01:14,470 --> 00:01:21,600
-<font face="Avenir Black" size="33">Nossa estranha jornada vai começar!</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Fushigi na tabi ga hajimaru ze</i></font>
 
 32
 00:01:14,470 --> 00:01:21,600
@@ -128,7 +128,7 @@
 
 33
 00:01:21,610 --> 00:01:25,110
-<font face="Avenir Black" size="33">Vamos conseguir! As Esferas do Dragão!</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Te ni irero! Doragon Booru</i></font>
 
 34
 00:01:21,610 --> 00:01:25,110
@@ -136,7 +136,7 @@
 
 35
 00:01:25,110 --> 00:01:28,310
-<font face="Avenir Black" size="33">Uma das oportunidades mais desafiadoras do mundo</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Sekai de itto tegowai chansu</i></font>
 
 36
 00:01:25,110 --> 00:01:28,310
@@ -144,7 +144,7 @@
 
 37
 00:01:28,710 --> 00:01:31,770
-<font face="Avenir Black" size="33">Vamos persegui-las! As Esferas do Dragão!</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Oikakero! Doragon Booru</i></font>
 
 38
 00:01:28,710 --> 00:01:31,770
@@ -152,7 +152,7 @@
 
 39
 00:01:32,120 --> 00:01:35,350
-<font face="Avenir Black" size="33">Um dos dramas mais emocionantes do mundo</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Sekai de itto ikashita dorama</i></font>
 
 40
 00:01:32,120 --> 00:01:35,350
@@ -160,7 +160,7 @@
 
 41
 00:01:35,350 --> 00:01:38,820
-<font face="Avenir Black" size="33">Esta vida é uma grande ilha do tesouro</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Kono yo wa dekkai takarajima</i></font>
 
 42
 00:01:35,350 --> 00:01:38,820
@@ -168,7 +168,7 @@
 
 43
 00:01:38,820 --> 00:01:48,600
-<font face="Avenir Black" size="33">É isso aí! Agora é hora de aventura!</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>So sa ima koso adobencha!</i></font>
 
 44
 00:01:38,820 --> 00:01:48,600
@@ -1108,7 +1108,7 @@
 
 278
 00:26:28,430 --> 00:26:31,340
-<font face="Avenir Black" size="33">Venha, fantasia</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Oide fantaji</i></font>
 
 279
 00:26:28,430 --> 00:26:31,340
@@ -1116,7 +1116,7 @@
 
 280
 00:26:31,340 --> 00:26:33,940
-<font face="Avenir Black" size="33">Adoro um mistério</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Suki sa misuteri</i></font>
 
 281
 00:26:31,340 --> 00:26:33,940
@@ -1124,7 +1124,7 @@
 
 282
 00:26:33,940 --> 00:26:40,510
-<font face="Avenir Black" size="33">Não esconda sua juventude</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Kimi no wakasa kakusanai de</i></font>
 
 283
 00:26:33,940 --> 00:26:40,510
@@ -1132,7 +1132,7 @@
 
 284
 00:26:40,510 --> 00:26:43,510
-<font face="Avenir Black" size="33">Quero fazer coisas misteriosas</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Fushigi shitakute</i></font>
 
 285
 00:26:40,510 --> 00:26:43,510
@@ -1140,7 +1140,7 @@
 
 286
 00:26:43,520 --> 00:26:46,020
-<font face="Avenir Black" size="33">Quero viver aventuras</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Boken shitakute</i></font>
 
 287
 00:26:43,520 --> 00:26:46,020
@@ -1148,7 +1148,7 @@
 
 288
 00:26:46,020 --> 00:26:52,020
-<font face="Avenir Black" size="33">Todo mundo está louco para partir</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Dare mo min'na uzu-uzu shite 'ru</i></font>
 
 289
 00:26:46,020 --> 00:26:52,020
@@ -1156,7 +1156,7 @@
 
 290
 00:26:52,020 --> 00:26:58,030
-<font face="Avenir Black" size="33">Se fingir ser adulto e desistir</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Otona no furi shite akiramecha</i></font>
 
 291
 00:26:52,020 --> 00:26:58,030
@@ -1164,7 +1164,7 @@
 
 292
 00:26:58,030 --> 00:27:04,200
-<font face="Avenir Black" size="33">Nunca vai desvendar o mistério do milagre</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Kiseki no nazo nado tokenai yo</i></font>
 
 293
 00:26:58,030 --> 00:27:04,200
@@ -1172,7 +1172,7 @@
 
 294
 00:27:04,200 --> 00:27:15,310
-<font face="Avenir Black" size="33">Vá viver de forma ainda mais selvagem e forte</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Motto wairudo ni motto takumashiku ikite goran</i></font>
 
 295
 00:27:04,200 --> 00:27:15,310
@@ -1180,7 +1180,7 @@
 
 296
 00:27:15,310 --> 00:27:22,890
-<font face="Avenir Black" size="33">Vou lhe dar romance, vou lhe dar romance</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Romantikku ageru yo, romantikku ageru yo</i></font>
 
 297
 00:27:15,310 --> 00:27:22,890
@@ -1188,7 +1188,7 @@
 
 298
 00:27:22,890 --> 00:27:27,390
-<font face="Avenir Black" size="33">Se você mostrar sua verdadeira coragem</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Honto no yuki misete kuretara</i></font>
 
 299
 00:27:22,890 --> 00:27:27,390
@@ -1196,7 +1196,7 @@
 
 300
 00:27:27,390 --> 00:27:34,770
-<font face="Avenir Black" size="33">Vou lhe dar romance, vou lhe dar romance</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Romantikku ageru yo, romantikku ageru yo</i></font>
 
 301
 00:27:27,390 --> 00:27:34,770
@@ -1204,7 +1204,8 @@
 
 302
 00:27:34,770 --> 00:27:43,400
-<font face="Avenir Black" size="33">Vou dar ao seu coração palpitante um sonho brilhante e cintilante!</i></font>
+<font face="Avenir Black" size="33">{\an8}<i>Tokimeku mune ni</i>
+<i>kira-kira hikatta yume o ageru yo</i></font>
 
 303
 00:27:34,770 --> 00:27:43,400
