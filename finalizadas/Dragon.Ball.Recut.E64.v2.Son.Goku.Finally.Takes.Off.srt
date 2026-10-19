@@ -1,0 +1,1233 @@
+1
+00:00:10,370 --> 00:00:13,870
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:10,370 --> 00:00:13,870
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:13,870 --> 00:00:17,340
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:13,870 --> 00:00:17,340
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:17,340 --> 00:00:20,880
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:17,340 --> 00:00:20,880
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:20,880 --> 00:00:24,210
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:20,880 --> 00:00:24,210
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:24,220 --> 00:00:27,680
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:24,220 --> 00:00:27,680
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:27,690 --> 00:00:33,320
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:27,690 --> 00:00:33,320
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:35,290 --> 00:00:38,830
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:35,290 --> 00:00:38,830
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:38,830 --> 00:00:42,370
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+16
+00:00:38,830 --> 00:00:42,370
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+17
+00:00:42,370 --> 00:00:49,340
+<i>Kono no yo doko ka de hikatteiru</i>
+
+18
+00:00:42,370 --> 00:00:49,340
+Em algum lugar do
+mundo elas vão brilhar
+
+19
+00:00:49,340 --> 00:00:52,170
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+20
+00:00:49,340 --> 00:00:52,170
+Vamos lá encontrá-las, rapaz
+
+21
+00:00:53,010 --> 00:00:56,110
+<i>Youkai henka mo buttobashi</i>
+
+22
+00:00:53,010 --> 00:00:56,110
+Enquanto passamos por cima
+de monstros e demônios
+
+23
+00:00:56,110 --> 00:01:02,540
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+24
+00:00:56,110 --> 00:01:02,540
+E na nuvem voadora
+nós vamos voar!
+
+25
+00:01:03,520 --> 00:01:07,020
+<i>Let's try try try Makafushigi</i>
+
+26
+00:01:03,520 --> 00:01:07,020
+Vamos experimentar
+esse profundo mistério
+
+27
+00:01:07,020 --> 00:01:09,790
+<i>Sora wo kakenuke yama wo koe</i>
+
+28
+00:01:07,020 --> 00:01:09,790
+Avançando pelos céus,
+superando as montanhas
+
+29
+00:01:10,690 --> 00:01:13,750
+<i>Let's fly fly fly Daibouken</i>
+
+30
+00:01:10,690 --> 00:01:13,750
+Vamos voar rumo a
+uma grande aventura
+
+31
+00:01:14,270 --> 00:01:21,400
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+32
+00:01:14,270 --> 00:01:21,400
+A nossa jornada
+estranha vai começar!
+
+33
+00:01:21,410 --> 00:01:24,910
+<i>Te ni irero! DRAGON BALL</i>
+
+34
+00:01:21,410 --> 00:01:24,910
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+35
+00:01:24,910 --> 00:01:28,110
+<i>Sekai de ittou degowai chansu</i>
+
+36
+00:01:24,910 --> 00:01:28,110
+Uma das apostas mais
+formidáveis do mundo
+
+37
+00:01:28,510 --> 00:01:31,570
+<i>Oikakero! DRAGON BALL</i>
+
+38
+00:01:28,510 --> 00:01:31,570
+Vamos persegui-las!
+As Esferas do Dragão!
+
+39
+00:01:31,920 --> 00:01:35,150
+<i>Sekai de ittou ikashita dorama</i>
+
+40
+00:01:31,920 --> 00:01:35,150
+Um dos mistérios mais
+dramáticos do mundo
+
+41
+00:01:35,150 --> 00:01:38,620
+<i>Kono yo wa dekkai takarajima</i>
+
+42
+00:01:35,150 --> 00:01:38,620
+A vida é uma grande
+ilha do tesouro
+
+43
+00:01:38,620 --> 00:01:48,400
+<i>Sou sa Ima koso adobenchaa!</i>
+
+44
+00:01:38,620 --> 00:01:48,400
+Isso mesmo!
+A aventura começou!
+
+45
+00:01:51,100 --> 00:01:55,010
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+46
+00:01:57,630 --> 00:01:58,960
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+47
+00:01:58,970 --> 00:02:01,800
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+48
+00:02:01,800 --> 00:02:03,330
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+49
+00:02:09,680 --> 00:02:12,380
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+50
+00:02:12,380 --> 00:02:14,110
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+51
+00:02:14,110 --> 00:02:17,310
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+52
+00:02:23,360 --> 00:02:26,550
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+53
+00:02:37,100 --> 00:02:38,660
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+54
+00:02:58,830 --> 00:03:00,790
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+55
+00:03:00,790 --> 00:03:02,030
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+56
+00:03:02,030 --> 00:03:05,590
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+57
+00:03:10,000 --> 00:03:13,870
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+58
+00:03:29,180 --> 00:03:33,390
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+59
+00:03:33,390 --> 00:03:36,880
+<i>Guerreiros de todo o planeta se 
+reuniram no Torneio de Artes Marciais.</i>
+
+60
+00:04:25,810 --> 00:04:27,640
+<i>A primeira batalha da semifinal</i>
+
+61
+00:04:38,050 --> 00:04:40,090
+<i>será entre Jackie Chun e Tenshinhan.</i>
+
+62
+00:04:40,090 --> 00:04:44,290
+<i>será entre Jackie Chun e Tenshinhan.</i>
+
+63
+00:04:44,290 --> 00:04:47,330
+Igualmente poderosos!!
+Tenshinhan vs. Jackie!
+
+64
+00:04:47,330 --> 00:04:50,030
+Igualmente poderosos!!
+Tenshinhan vs. Jackie!
+
+65
+00:04:50,030 --> 00:04:52,020
+Igualmente poderosos!!
+Tenshinhan vs. Jackie!
+
+66
+00:04:55,010 --> 00:04:56,630
+<i>"Igualmente poderosos!
+Tenshinhan vs. Jackie!"</i>
+
+67
+00:04:58,380 --> 00:05:01,400
+<i>"Igualmente poderosos!
+Tenshinhan vs. Jackie!"</i>
+
+68
+00:05:04,880 --> 00:05:06,970
+Aquele jeito de lutar do Goku...
+
+69
+00:05:14,320 --> 00:05:16,050
+Acho que enfrentarei o assassino 
+de Tao Pai Pai em breve.
+
+70
+00:06:43,270 --> 00:06:45,160
+Venha comigo.
+
+71
+00:06:46,670 --> 00:06:49,170
+Quero comer alguma coisa.
+
+72
+00:06:49,170 --> 00:06:50,770
+Quero comer alguma coisa.
+
+73
+00:06:59,980 --> 00:07:02,450
+Ei...
+
+74
+00:07:02,450 --> 00:07:05,450
+Agora que me toquei.
+Aonde o Mestre Kame foi?
+
+75
+00:07:26,240 --> 00:07:29,640
+Será que ele foi para onde vendem camisetas?
+
+76
+00:07:45,800 --> 00:07:48,790
+Perdão, mas tenho negócios 
+urgentes a tratar.
+
+77
+00:07:50,530 --> 00:07:53,270
+Perdão, mas tenho negócios 
+urgentes a tratar.
+
+78
+00:07:53,270 --> 00:07:54,970
+Perfeito. Ele está sozinho agora.
+
+79
+00:07:54,970 --> 00:07:56,970
+Perfeito. Ele está sozinho agora.
+
+80
+00:07:56,970 --> 00:07:59,640
+Perfeito. Ele está sozinho agora.
+
+81
+00:07:59,640 --> 00:08:01,280
+Perfeito. Ele está sozinho agora.
+
+82
+00:08:01,280 --> 00:08:04,650
+Perfeito. Ele está sozinho agora.
+
+83
+00:08:04,650 --> 00:08:07,480
+Perfeito. Ele está sozinho agora.
+
+84
+00:08:07,480 --> 00:08:10,150
+Não creio!
+
+85
+00:08:36,180 --> 00:08:38,010
+Ten, o que pretende fazer?
+
+86
+00:08:47,660 --> 00:08:50,130
+Você verá em breve, Mestre Tsuru.
+
+87
+00:08:52,660 --> 00:08:55,330
+Isso vai servir.
+
+88
+00:08:55,330 --> 00:08:58,800
+Isso vai servir.
+
+89
+00:08:58,800 --> 00:09:00,530
+Ei...
+
+90
+00:09:03,670 --> 00:09:05,740
+Desculpa, mas todas as 
+nossas camisetas esgotaram!
+
+91
+00:09:05,740 --> 00:09:08,180
+Desculpa, mas todas as 
+nossas camisetas esgotaram!
+
+92
+00:09:08,180 --> 00:09:11,150
+Desculpa, mas todas as 
+nossas camisetas esgotaram!
+
+93
+00:09:11,150 --> 00:09:13,480
+Desculpa, mas todas as 
+nossas camisetas esgotaram!
+
+94
+00:09:13,480 --> 00:09:15,650
+<i>Poxa, queria ser bajulado 
+pelas minhas fãs...</i>
+
+95
+00:09:15,650 --> 00:09:17,550
+<i>Poxa, queria ser bajulado 
+pelas minhas fãs...</i>
+
+96
+00:09:17,550 --> 00:09:20,250
+<i>Poxa, queria ser bajulado 
+pelas minhas fãs...</i>
+
+97
+00:09:35,240 --> 00:09:36,970
+Ele desviou!
+
+98
+00:09:36,970 --> 00:09:40,380
+Ele desviou!
+
+99
+00:09:40,380 --> 00:09:42,510
+Ele desviou!
+
+100
+00:09:42,510 --> 00:09:45,970
+Será que o Chun sabe o 
+que a gente está fazendo?
+
+101
+00:09:50,150 --> 00:09:52,590
+N-Não pode ser...
+
+102
+00:09:58,800 --> 00:10:00,420
+Desculpa, não era a minha—
+
+103
+00:10:06,690 --> 00:10:09,070
+Ah, é? O Goku venceu?
+
+104
+00:10:09,070 --> 00:10:10,900
+Ah, é? O Goku venceu?
+
+105
+00:10:10,900 --> 00:10:14,210
+Ah, é? O Goku venceu?
+
+106
+00:10:14,210 --> 00:10:18,140
+A próxima luta será entre 
+o Jackie Chun e o Tenshinhan.
+
+107
+00:10:18,140 --> 00:10:20,610
+Tenshinhan?!
+
+108
+00:10:20,610 --> 00:10:22,950
+Tenshinhan?!
+
+109
+00:10:22,950 --> 00:10:28,050
+Não se preocupa! O Jackie com 
+certeza vai acabar com ele!
+
+110
+00:10:28,050 --> 00:10:31,260
+Não...
+
+111
+00:10:31,260 --> 00:10:33,060
+Não...
+
+112
+00:10:33,060 --> 00:10:34,650
+Não...
+
+113
+00:10:49,980 --> 00:10:51,700
+Tenshinhan...
+
+114
+00:11:00,750 --> 00:11:03,090
+Tenshinhan...
+
+115
+00:11:13,800 --> 00:11:15,700
+<i>E se tudo der errado, ficará 
+em suas mãos, Goku!</i>
+
+116
+00:11:15,700 --> 00:11:18,170
+<i>E se tudo der errado, ficará 
+em suas mãos, Goku!</i>
+
+117
+00:11:20,310 --> 00:11:22,270
+<i>E se tudo der errado, ficará 
+em suas mãos, Goku!</i>
+
+118
+00:11:22,270 --> 00:11:25,710
+Que péssima ideia...
+
+119
+00:11:25,710 --> 00:11:29,880
+Que péssima ideia...
+
+120
+00:11:29,880 --> 00:11:32,180
+Que péssima ideia...
+
+121
+00:11:32,180 --> 00:11:35,190
+Que péssima ideia...
+
+122
+00:11:35,190 --> 00:11:37,620
+Jackie, onde você se meteu?
+
+123
+00:11:37,620 --> 00:11:39,590
+Ah, só fui aquecer o corpo um pouquinho...
+
+124
+00:11:51,040 --> 00:11:52,570
+Eu vou acabar com ele!
+
+125
+00:11:52,570 --> 00:11:55,510
+Eu vou acabar com ele!
+
+126
+00:11:59,550 --> 00:12:02,310
+Eu prometi ao Yamcha!
+
+127
+00:12:02,310 --> 00:12:05,950
+Eu acredito no que vocês disseram.
+
+128
+00:12:05,950 --> 00:12:09,520
+Mas não vou perder tão facilmente.
+
+129
+00:12:09,520 --> 00:12:11,820
+Mas não vou perder tão facilmente.
+
+130
+00:12:11,820 --> 00:12:13,850
+Mas não vou perder tão facilmente.
+
+131
+00:12:21,170 --> 00:12:23,600
+Não há com o que se preocupar.
+
+132
+00:12:23,600 --> 00:12:25,330
+Não há com o que se preocupar.
+
+133
+00:12:34,610 --> 00:12:37,120
+O seu verdadeiro inimigo é o assassino 
+de Tao Pai Pai, o execrável Son Goku!
+
+134
+00:12:37,120 --> 00:12:40,790
+Eu juro que acabarei com ele!
+
+135
+00:12:40,790 --> 00:12:43,860
+Eu juro que acabarei com ele!
+
+136
+00:12:43,860 --> 00:12:44,860
+Son Goku
+
+137
+00:12:44,860 --> 00:12:46,420
+Son Goku
+
+138
+00:12:46,430 --> 00:12:49,090
+Son Goku
+
+139
+00:12:49,090 --> 00:12:52,260
+Son Goku
+
+140
+00:12:52,260 --> 00:12:54,270
+Son Goku
+
+141
+00:12:54,270 --> 00:12:57,240
+Son Goku
+
+142
+00:12:59,040 --> 00:13:00,730
+A luta começará em instantes.
+
+143
+00:13:09,450 --> 00:13:11,050
+A luta começará em instantes.
+
+144
+00:13:11,050 --> 00:13:12,650
+A luta começará em instantes.
+
+145
+00:13:12,650 --> 00:13:16,820
+Pedimos para que Jackie Chun e
+
+146
+00:13:16,820 --> 00:13:18,290
+Tenshinhan se apresentem 
+para a quinta batalha.
+
+147
+00:13:18,290 --> 00:13:19,790
+Já chegou a minha vez?
+
+148
+00:13:19,790 --> 00:13:21,420
+Já chegou a minha vez?
+
+149
+00:13:23,600 --> 00:13:29,800
+Já chegou a minha vez?
+
+150
+00:13:29,800 --> 00:13:32,230
+Muito bem...
+
+151
+00:13:47,240 --> 00:13:50,580
+Muito bem...
+
+152
+00:13:50,580 --> 00:13:54,720
+Muito bem...
+
+153
+00:13:54,720 --> 00:14:01,720
+Muito bem...
+
+154
+00:14:01,720 --> 00:14:04,460
+A rodada semifinal começará agora.
+
+155
+00:14:04,460 --> 00:14:09,700
+A rodada semifinal começará agora.
+
+156
+00:14:09,700 --> 00:14:12,430
+A rodada semifinal começará agora.
+
+157
+00:14:12,430 --> 00:14:14,960
+A rodada semifinal começará agora.
+
+158
+00:14:16,570 --> 00:14:20,440
+A rodada semifinal começará agora.
+
+159
+00:14:20,440 --> 00:14:26,540
+A rodada semifinal começará agora.
+
+160
+00:14:29,950 --> 00:14:33,250
+A rodada semifinal começará agora.
+
+161
+00:14:33,260 --> 00:14:39,590
+A rodada semifinal começará agora.
+
+162
+00:14:39,590 --> 00:14:45,930
+A rodada semifinal começará agora.
+
+163
+00:14:45,930 --> 00:14:50,340
+O vencedor da primeira luta, Tenshinhan,
+
+164
+00:14:50,340 --> 00:14:52,410
+O vencedor da primeira luta, Tenshinhan,
+
+165
+00:14:52,410 --> 00:14:53,430
+O vencedor da primeira luta, Tenshinhan,
+
+166
+00:14:59,950 --> 00:15:06,120
+contra o vencedor da 
+segunda luta, Jackie Chun!
+
+167
+00:15:06,120 --> 00:15:08,960
+Boa sorte, Jackie!
+
+168
+00:15:08,960 --> 00:15:12,290
+Seguimos com um desfecho muito 
+interessante neste torneio!
+
+169
+00:15:12,290 --> 00:15:17,500
+Seguimos com um desfecho muito 
+interessante neste torneio!
+
+170
+00:15:17,500 --> 00:15:20,470
+Estamos com Jackie Chun, o 
+vencedor do último torneio,
+
+171
+00:15:20,470 --> 00:15:25,170
+e o extremamente poderoso Tenshinhan!
+
+172
+00:15:25,170 --> 00:15:31,680
+Com certeza será uma batalha memorável!
+
+173
+00:15:31,680 --> 00:15:36,050
+Agora verei se você é bom mesmo.
+
+174
+00:15:36,050 --> 00:15:39,110
+Calma, não precisa ter tanta pressa.
+
+175
+00:15:42,990 --> 00:15:45,160
+E que a luta comece!
+
+176
+00:15:45,160 --> 00:15:47,360
+E que a luta comece!
+
+177
+00:15:49,460 --> 00:15:53,970
+Não tem como aquele 
+maldito derrotar o Jackie!
+
+178
+00:15:53,970 --> 00:15:59,740
+Ele vai ter o troco pelo o 
+que ele fez com o Yamcha!
+
+179
+00:15:59,740 --> 00:16:02,970
+Como assim?
+
+180
+00:16:04,850 --> 00:16:10,920
+Aquele Tenshinhan é muito forte!
+
+181
+00:16:10,920 --> 00:16:15,360
+Aquele Tenshinhan é muito forte!
+
+182
+00:16:15,360 --> 00:16:18,260
+Qualquer um dos dois pode vencer!
+
+183
+00:16:18,260 --> 00:16:22,230
+É mesmo?
+
+184
+00:16:22,230 --> 00:16:28,860
+É mesmo?
+
+185
+00:16:37,110 --> 00:16:38,770
+<i>Ele está em posição defensiva.</i>
+
+186
+00:16:38,770 --> 00:16:46,350
+<i>Ele está em posição defensiva.</i>
+
+187
+00:16:46,350 --> 00:16:48,050
+...a minha única escolha é atacar!
+
+188
+00:16:48,050 --> 00:16:51,020
+...a minha única escolha é atacar!
+
+189
+00:17:09,580 --> 00:17:13,640
+Boa!
+
+190
+00:17:26,680 --> 00:17:30,750
+Ei, o que é isso?!
+
+191
+00:17:30,760 --> 00:17:33,120
+Ei, o que é isso?!
+
+192
+00:17:33,120 --> 00:17:36,060
+A brincadeira acabou.
+
+193
+00:17:36,060 --> 00:17:38,600
+A brincadeira acabou.
+
+194
+00:17:38,600 --> 00:17:42,000
+A brincadeira acabou.
+
+195
+00:17:42,000 --> 00:17:45,100
+É o que espero desta luta.
+
+196
+00:17:45,100 --> 00:17:48,110
+Será que seus velhos 
+ossos conseguem desviar disso?
+
+197
+00:17:49,790 --> 00:17:53,590
+Será que seus velhos 
+ossos conseguem desviar disso?
+
+198
+00:17:55,840 --> 00:17:57,960
+Ele desapareceu!
+
+199
+00:17:57,960 --> 00:18:00,260
+Ele é rápido!
+
+200
+00:18:00,260 --> 00:18:02,630
+Ele é rápido!
+
+201
+00:18:07,810 --> 00:18:11,140
+Ele é rápido!
+
+202
+00:18:12,800 --> 00:18:16,900
+Ele é rápido!
+
+203
+00:18:16,900 --> 00:18:21,570
+Ele é rápido!
+
+204
+00:18:21,580 --> 00:18:28,080
+<i>Ele, definitivamente, não 
+é um velho qualquer.</i>
+
+205
+00:18:28,080 --> 00:18:32,150
+<i>Ele, definitivamente, não 
+é um velho qualquer.</i>
+
+206
+00:18:32,150 --> 00:18:34,250
+<i>Ele, definitivamente, não 
+é um velho qualquer.</i>
+
+207
+00:18:36,760 --> 00:18:38,550
+<i>Ele, definitivamente, não 
+é um velho qualquer.</i>
+
+208
+00:18:44,400 --> 00:18:46,760
+<i>Nada mau...</i>
+
+209
+00:18:49,770 --> 00:18:53,410
+Agora é a minha vez!
+
+210
+00:18:53,410 --> 00:18:57,080
+Agora é a minha vez!
+
+211
+00:18:57,080 --> 00:19:01,100
+O Jackie Chun se tornou três pessoas!
+
+212
+00:19:11,930 --> 00:19:13,430
+Múltiplos Zanzouken?!
+
+213
+00:19:13,430 --> 00:19:16,590
+O Chun virou oito pessoas!
+
+214
+00:19:46,290 --> 00:19:48,660
+O Tenshinhan não consegue 
+fazer nada quanto a isso!
+
+215
+00:19:48,660 --> 00:19:50,630
+Não.
+
+216
+00:19:59,840 --> 00:20:02,440
+O seu múltiplo Zanzouken 
+é digno de elogios.
+
+217
+00:20:02,440 --> 00:20:05,140
+Mas não vai funcionar comigo!
+
+218
+00:20:05,150 --> 00:20:08,910
+Mas não vai funcionar comigo!
+
+219
+00:20:08,920 --> 00:20:12,990
+Mas não vai funcionar comigo!
+
+220
+00:20:12,990 --> 00:20:16,160
+Mas não vai funcionar comigo!
+
+221
+00:20:16,160 --> 00:20:17,660
+Mas não vai funcionar comigo!
+
+222
+00:20:17,660 --> 00:20:21,830
+Mas não vai funcionar comigo!
+
+223
+00:20:21,830 --> 00:20:25,930
+Achei!
+
+224
+00:20:25,930 --> 00:20:27,870
+Achei!
+
+225
+00:20:32,210 --> 00:20:35,660
+Achei!
+
+226
+00:20:41,850 --> 00:20:45,150
+Achei!
+
+227
+00:20:46,690 --> 00:20:49,120
+Jackie!
+
+228
+00:20:59,700 --> 00:21:01,000
+Parece que eu também 
+precisarei lutar a sério...
+
+229
+00:21:01,000 --> 00:21:04,700
+Parece que eu também 
+precisarei lutar a sério...
+
+230
+00:21:04,700 --> 00:21:06,910
+Parece que eu também 
+precisarei lutar a sério...
+
+231
+00:21:06,910 --> 00:21:10,310
+Parece que eu também 
+precisarei lutar a sério...
+
+232
+00:21:10,310 --> 00:21:15,580
+Parece que eu também 
+precisarei lutar a sério...
+
+233
+00:21:17,690 --> 00:21:22,650
+Venha!
+
+234
+00:21:31,980 --> 00:21:34,780
+O Tenshinhan está—
+
+235
+00:21:34,780 --> 00:21:37,880
+O Tenshinhan está—
+
+236
+00:21:37,880 --> 00:21:40,050
+O Tenshinhan está—
+
+237
+00:21:41,720 --> 00:21:45,190
+O Tenshinhan está—
+
+238
+00:21:45,190 --> 00:21:48,230
+O Tenshinhan está—
+
+239
+00:21:48,230 --> 00:21:50,030
+O Tenshinhan está—
+
+240
+00:21:50,030 --> 00:21:52,520
+O Tenshinhan está—
+
+241
+00:21:57,200 --> 00:22:00,740
+O Tenshinhan está—
+
+242
+00:22:00,740 --> 00:22:04,040
+<i>Não importa se você é idoso, 
+eu não vou me segurar!</i>
+
+243
+00:22:04,040 --> 00:22:05,410
+<i>Acha que é melhor que as 
+minhas mãos rápidas?!</i>
+
+244
+00:22:05,410 --> 00:22:07,880
+Boa!
+
+245
+00:22:11,050 --> 00:22:15,550
+Ele venceu!
+
+246
+00:22:18,760 --> 00:22:21,560
+Ele conseguiu!
+
+247
+00:22:21,560 --> 00:22:25,730
+Ainda não acabou!
+
+248
+00:22:25,730 --> 00:22:30,740
+O quê?!
+
+249
+00:22:30,740 --> 00:22:32,430
+Não pode ser!
+
+250
+00:22:56,740 --> 00:22:59,010
+Que batalha impressionante.
+
+251
+00:23:06,090 --> 00:23:07,880
+<i>Não acredito que exista um velho assim...</i>
+
+252
+00:23:15,600 --> 00:23:18,100
+<i>Eu não sei quem ele é,</i>
+
+253
+00:23:18,100 --> 00:23:21,690
+<i>mas suas habilidades ultrapassam 
+as do Mestre Tsuru!</i>
+
+254
+00:23:25,440 --> 00:23:27,570
+<i>Quem é esse homem?!</i>
+
+255
+00:23:27,570 --> 00:23:30,340
+<i>Ele está batendo frente a 
+frente com as minhas técnicas.</i>
+
+256
+00:23:45,090 --> 00:23:47,090
+<i>Sua força está em um 
+nível nunca vista antes!</i>
+
+257
+00:23:47,090 --> 00:23:48,760
+<i>Parece que a nova geração de 
+lutadores chegou para ficar...</i>
+
+258
+00:23:48,760 --> 00:23:53,800
+<i>Jackie Chun contra Tenshinhan.</i>
+
+259
+00:23:53,800 --> 00:23:56,700
+<i>Qual será o resultado 
+desta batalha eletrizante?!</i>
+
+260
+00:24:14,620 --> 00:24:17,490
+Venha aqui, fantasia
+
+261
+00:24:14,620 --> 00:24:17,490
+<i>Oide FANTAJI</i>
+
+262
+00:24:17,490 --> 00:24:20,130
+Eu adoro um mistério
+
+263
+00:24:17,490 --> 00:24:20,130
+<i>suki sa MISUTERI</i>
+
+264
+00:24:20,130 --> 00:24:26,670
+Não vá esconder
+a sua juventude!
+
+265
+00:24:20,130 --> 00:24:26,670
+<i>Kimi no wakasa kakusa nai de</i>
+
+266
+00:24:26,670 --> 00:24:29,670
+Quero fazer o que é misterioso
+
+267
+00:24:26,670 --> 00:24:29,670
+<i>Fushigi shitakute</i>
+
+268
+00:24:29,670 --> 00:24:32,170
+Quero correr atrás de aventura
+
+269
+00:24:29,670 --> 00:24:32,170
+<i>Bouken shitakute</i>
+
+270
+00:24:32,170 --> 00:24:38,180
+Todo mundo não vê a hora de ir!
+
+271
+00:24:32,170 --> 00:24:38,180
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+272
+00:24:38,180 --> 00:24:44,180
+Se você agir feito
+adulto e desistir
+
+273
+00:24:38,180 --> 00:24:44,180
+<i>Otona no furi shite akiramecha</i>
+
+274
+00:24:44,180 --> 00:24:50,360
+Você nunca desvendará
+o mistério do milagre
+
+275
+00:24:44,180 --> 00:24:50,360
+<i>Kiseki no nazo nado tokenai yo</i>
+
+276
+00:24:50,360 --> 00:25:01,500
+Vá e viva de forma
+mais intensa e forte!
+
+277
+00:24:50,360 --> 00:25:01,500
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+278
+00:25:01,500 --> 00:25:09,040
+Vou te dar um romance
+
+279
+00:25:01,500 --> 00:25:09,040
+<i>ROMANTIKKU Ageru yo!</i>
+
+280
+00:25:09,040 --> 00:25:13,550
+Se você me mostrar sua
+verdadeira coragem
+
+281
+00:25:09,040 --> 00:25:13,550
+<i>Hontou no yuuki wo misete kuretara</i>
+
+282
+00:25:13,550 --> 00:25:20,920
+Vou te dar um romance
+
+283
+00:25:13,550 --> 00:25:20,920
+<i>ROMANTIKKU Ageru yo!</i>
+
+284
+00:25:20,920 --> 00:25:29,560
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+285
+00:25:20,920 --> 00:25:29,560
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>
