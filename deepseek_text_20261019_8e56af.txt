@@ -1,0 +1,333 @@
+================================================================================
+PROJETO: TRADUÇÃO DAS LEGENDAS DE DRAGON BALL RECUT PARA PT-BR
+EPISÓDIOS E30 A E36
+================================================================================
+
+ARQUIVO SUGERIDO: resumo_projeto_dragon_ball_recut.txt
+
+
+--------------------------------------------------------------------------------
+1. OBJETIVO E STATUS
+--------------------------------------------------------------------------------
+
+Traduzir os episódios E30 a E36 de Dragon Ball Recut para português brasileiro,
+seguindo o padrão dos arquivos E24–E29 já finalizados.
+
+STATUS ATUAL:
+
+E30 - CONCLUÍDO (sessão anterior) - 389 blocos
+E31 - CONCLUÍDO (sessão anterior) - 320 blocos
+E32 - CONCLUÍDO (sessão anterior) - 272 blocos
+E33 - CONCLUÍDO (sessão anterior) - 314 blocos - Título (bloco 45): "Conseguimos! O Tesouro Encontrado"
+E34 - CONCLUÍDO (sessão anterior) - 291 blocos - Título (bloco 45): "Fujam! Fujam! A Grande Fuga"
+E35 - CONCLUÍDO (sessão atual)    - 376 blocos - Título (bloco 46): "N'cha! Perseguido até a Vila Pinguim"
+E36 - CONCLUÍDO (sessão atual)    - 311 blocos - Título (bloco 48): "A Terra Sagrada e Sinistra de Karin"
+
+ATENÇÃO: confirmar se E35 e E36 desta sessão já foram salvos localmente. Caso
+contrário, copiar os textos completos da conversa e salvar.
+
+
+--------------------------------------------------------------------------------
+2. ESTRUTURA DE PASTAS LOCAL
+--------------------------------------------------------------------------------
+
+Sugestão de estrutura local:
+
+  ingles/       - legendas originais em inglês do Recut
+  crunchyroll/  - legendas oficiais de referência
+  finalizadas/  - destino das legendas finais
+
+CAMINHOS FINAIS DOS 7 ARQUIVOS:
+
+finalizadas/Dragon.Ball.Recut.E30.v2.Bulmas.Big.Failure.srt
+finalizadas/Dragon.Ball.Recut.E31.v2.General.Blue.Begins.Attacking.srt
+finalizadas/Dragon.Ball.Recut.E32.v2.The.Pirates.Traps.srt
+finalizadas/Dragon.Ball.Recut.E33.v2.We.Did.It--Treasure.Discovered.srt
+finalizadas/Dragon.Ball.Recut.E34.v2.Run.Run--The.Great.Escape.srt
+finalizadas/Dragon.Ball.Recut.E35.v2.N.cha--Chased.to.Penguin.Village.srt
+finalizadas/Dragon.Ball.Recut.E36.v2.The.Sacred.Yet.Ominous.Land.of.Karin.srt
+
+MAPEAMENTO RECUT -> CRUNCHYROLL:
+
+E30 -> E46–E47
+E31 -> E48–E50
+E32 -> E51–E52
+E33 -> E53
+E34 -> E54
+E35 -> E55–E57
+E36 -> E58 (formato .ass)
+
+
+--------------------------------------------------------------------------------
+3. REGRAS DE TRADUÇÃO E FORMATAÇÃO
+--------------------------------------------------------------------------------
+
+1. Estrutura-base é o inglês do Recut - timestamps, numeração e ordem dos blocos
+   são intocáveis.
+2. Manter as tags HTML do original: <font face="Avenir Black" size="33">
+   (abertura/encerramento), <font face="Avenir Black" size="35"> (diálogo),
+   {\an8} (posição no topo), <i> (itálico). Não remover.
+3. Músicas: manter a linha japonesa romanizada e traduzir a linha em inglês
+   para PT-BR, conforme Crunchyroll.
+4. Notas de tradução entre colchetes DEVEM ser mantidas (ex.:
+   [Suppa = "azedo", "super"] no E35, bloco 143). O E36 não tem notas.
+5. Traduzir do inglês do Recut, usando a Crunchyroll apenas como referência
+   textual - nunca copiar timing/estrutura da Crunchyroll.
+6. Narração em itálico (<i>...</i>) preservada.
+7. Título do episódio traduzido entre aspas - atenção: o número do bloco do
+   título varia por episódio (45 no E33/E34, 46 no E35, 48 no E36).
+8. Termos mantidos: <i>Kinto Un</i>, <i>Nyoibou</i>, Kamehameha, Tao Pai Pai,
+   Karin, Torre de Karin, Comandante Red, Conselheiro Black, General Blue,
+   coronel Yellow, Son Goku, Upa, sufixos japoneses (-chan, -kun, -san).
+9. Blocos com duas falas simultâneas mantêm o formato --.../--...
+
+
+--------------------------------------------------------------------------------
+4. DEMONSTRAÇÕES DO PROCEDIMENTO
+--------------------------------------------------------------------------------
+
+4.1 DIÁLOGO COMUM (E35, bloco 47)
+
+ORIGINAL EM INGLÊS:
+47
+00:02:36,710 --> 00:02:39,310
+<font face="Avenir Black" size="35">Come back here!</font>
+
+TRADUZIDO:
+47
+00:02:36,710 --> 00:02:39,310
+<font face="Avenir Black" size="35">Volte aqui!</font>
+
+-> Timestamp, numeração e tag <font> preservados. Apenas o texto mudou.
+
+
+4.2 MÚSICA (E35, blocos 1–2)
+
+ORIGINAL EM INGLÊS:
+1
+00:00:10,570 --> 00:00:14,070
+<font face="Avenir Black" size="33">{\an8}<i>Tsukamo ze! Doragon Booru</i></font>
+
+2
+00:00:10,570 --> 00:00:14,070
+<font face="Avenir Black" size="33"><i>Let's go grab them up! The Dragon Balls!</i></font>
+
+TRADUZIDO:
+1
+00:00:10,570 --> 00:00:14,070
+<font face="Avenir Black" size="33">{\an8}<i>Tsukamo ze! Doragon Booru</i></font>
+
+2
+00:00:10,570 --> 00:00:14,070
+<font face="Avenir Black" size="33"><i>Vamos pegar as Esferas do Dragão!</i></font>
+
+-> Linha japonesa romanizada intacta (bloco 1). Apenas a linha inglesa
+   (bloco 2) foi traduzida. {\an8} e <i> preservados.
+
+
+4.3 NOTA DE TRADUÇÃO (E35, bloco 143)
+
+ORIGINAL EM INGLÊS:
+143
+00:12:09,590 --> 00:12:12,790
+<font face="Avenir Black" size="35">...the dried plum-eating Suppa Man!
+[Suppa = "sour," "super"]</font>
+
+TRADUZIDO:
+143
+00:12:09,590 --> 00:12:12,790
+<font face="Avenir Black" size="35">...o comedor de ameixas, Super-Ameixa!
+[Suppa = "azedo", "super"]</font>
+
+-> Nota entre colchetes preservada e adaptada ao PT-BR. Quebra de linha
+   interna mantida.
+
+
+4.4 TÍTULO DO EPISÓDIO (E36, bloco 48)
+
+ORIGINAL EM INGLÊS:
+48
+00:02:36,880 --> 00:02:40,720
+<font face="Avenir Black" size="35">"The Sacred, Yet Ominous Land of Karin"</font>
+
+TRADUZIDO:
+48
+00:02:36,880 --> 00:02:40,720
+<font face="Avenir Black" size="35">"A Terra Sagrada e Sinistra de Karin"</font>
+
+-> Aspas e tag preservadas. Atenção: o bloco do título é o 48 neste episódio
+   (não 45).
+
+
+4.5 NARRAÇÃO EM ITÁLICO (E36, blocos 45–46)
+
+ORIGINAL EM INGLÊS:
+45
+00:02:12,930 --> 00:02:17,060
+<font face="Avenir Black" size="35"><i>Goku, who was able to
+steal back the Dragon Balls,</i></font>
+
+46
+00:02:17,060 --> 00:02:23,130
+<font face="Avenir Black" size="35"><i>speeds ever westward on Kinto Un
+in search of the next ball.</i></font>
+
+TRADUZIDO:
+45
+00:02:12,930 --> 00:02:17,060
+<font face="Avenir Black" size="35"><i>Goku, que conseguiu
+recuperar as Esferas do Dragão,</i></font>
+
+46
+00:02:17,060 --> 00:02:23,130
+<font face="Avenir Black" size="35"><i>segue a toda velocidade para o oeste
+na Kinto Un em busca da próxima esfera.</i></font>
+
+-> <i> e quebras de linha internas preservadas. "Kinto Un" mantido em romaji.
+
+
+4.6 FALA DUPLA SIMULTÂNEA (E36, blocos 133–134)
+
+ORIGINAL EM INGLÊS:
+133
+00:10:50,890 --> 00:10:52,720
+<font face="Avenir Black" size="35">--What exactly is this all about?
+--Hurray!</font>
+
+134
+00:10:52,720 --> 00:10:55,750
+<font face="Avenir Black" size="35">--What exactly is that ball?
+--Hurray!</font>
+
+TRADUZIDO:
+133
+00:10:50,890 --> 00:10:52,720
+<font face="Avenir Black" size="35">--O que é essa esfera?
+--Viva!</font>
+
+134
+00:10:52,720 --> 00:10:55,750
+<font face="Avenir Black" size="35">--O que é essa esfera?
+--Viva!</font>
+
+-> Estrutura --.../--... preservada nos dois blocos.
+
+
+4.7 NOME PRÓPRIO COM SUFIXO (E35, bloco 58)
+
+ORIGINAL EM INGLÊS:
+58
+00:05:15,580 --> 00:05:19,450
+<font face="Avenir Black" size="35">Hello there, Arale-<i>chan</i>!</font>
+
+TRADUZIDO:
+58
+00:05:15,580 --> 00:05:19,450
+<font face="Avenir Black" size="35">Olá, Arale-<i>chan</i>!</font>
+
+-> Sufixo japonês -chan mantido em itálico, como no original.
+
+
+--------------------------------------------------------------------------------
+5. DETALHES ESPECÍFICOS DO E35 E E36
+--------------------------------------------------------------------------------
+
+E35 - 376 blocos
+  Título: "N'cha! Perseguido até a Vila Pinguim" (bloco 46)
+  Nota de tradução mantida: bloco 143 - [Suppa = "azedo", "super"]
+  Trechos traduzidos diretamente do inglês (sem correspondência Crunchyroll
+  exata): blocos 45–56, 73–77, 96–97, 130–131, 174–175, 181, 195–197
+  Abertura no Recut: timestamps 00:00:10,570–00:01:48,600
+  (diferente da Crunchyroll E55: 00:00:11,840–00:01:47,520)
+
+E36 - 311 blocos
+  Título: "A Terra Sagrada e Sinistra de Karin" (bloco 48, não 45)
+  Sem notas de tradução no original
+  Trechos traduzidos diretamente do inglês (sem correspondência no .ass E58):
+  blocos 45–47, 49, 57–62, 99–118, 140–153, 176–207, 283–285
+  Referência Crunchyroll em .ass (formato ASS, não SRT) - serve só como texto
+  Blocos 133–134: estrutura dupla mantida (--O que é essa esfera? / --Viva!)
+
+
+--------------------------------------------------------------------------------
+6. FORMATO DE ENTREGA/FECHAMENTO POR EPISÓDIO
+--------------------------------------------------------------------------------
+
+Ao final de cada episódio, entregar um bloco assim:
+
+E[XX] COMPLETO - [N] blocos
+
+Resumo do E[XX]:
+- Estrutura 100% preservada
+- Título (bloco [N]): "[título traduzido]"
+- Músicas conforme Crunchyroll E[XX]
+- Narração em <i> preservada
+- Trechos sem correspondência exata (ex.: blocos ...) traduzidos do inglês
+- [Notas de tradução mantidas, se houver]
+- [Termos mantidos]
+
+Salvar como:
+finalizadas/[nome exato do arquivo]
+
+
+--------------------------------------------------------------------------------
+7. O QUE FAZER NA PRÓXIMA SESSÃO
+--------------------------------------------------------------------------------
+
+SE E35 E E36 AINDA NÃO ESTIVEREM SALVOS LOCALMENTE:
+1. Copiar os textos completos do E35 (376 blocos) e E36 (311 blocos) da
+   conversa.
+2. Salvar nos caminhos indicados na seção 2.
+3. Verificar: contagem de blocos, timestamps intactos, tags
+   <font>/{\an8}/<i> preservadas, japonês romanizado nas músicas, nota
+   [Suppa = ...] no E35 bloco 143.
+4. Conferir os arquivos na pasta finalizadas/.
+
+SE JÁ ESTIVEREM SALVOS:
+O projeto E30–E36 está concluído. Fazer verificação final: conferir os 7
+arquivos em finalizadas/, contagem de blocos e que nenhum ficou com fala em
+inglês residual (exceto nomes próprios e japonês romanizado).
+
+
+--------------------------------------------------------------------------------
+8. PENDÊNCIAS E OBSERVAÇÕES HONESTAS
+--------------------------------------------------------------------------------
+
+- Nada pendente de tradução - E30 a E36 estão traduzidos (E30–E34 em sessão
+  anterior; E35–E36 nesta).
+- Única pendência real: confirmar que os arquivos E35 e E36 foram efetivamente
+  salvos localmente, pois nesta sessão foram entregues como texto no chat.
+- Recomendação: revisar os E35/E36 quanto a escolhas pontuais de tradução
+  (gírias, "N'cha", "Pichi-pichi", "Super-Ameixa/Suppa Man") antes de
+  considerá-los definitivos.
+- Nenhum arquivo foi gravado automaticamente; a entrega foi textual.
+
+
+--------------------------------------------------------------------------------
+9. CHECKLIST DE VALIDAÇÃO (para cada arquivo final)
+--------------------------------------------------------------------------------
+
+[ ] Número de blocos idêntico ao original em inglês
+[ ] Todos os timestamps idênticos ao original
+[ ] Numeração sequencial sem lacunas
+[ ] Tags <font> e {\an8} preservadas
+[ ] <i> preservado onde havia itálico
+[ ] Linhas de japonês romanizado nas músicas intactas
+[ ] Linha inglesa das músicas traduzida para PT-BR
+[ ] Título do episódio traduzido (conferir nº do bloco)
+[ ] Narração traduzida e em itálico
+[ ] Notas de tradução entre colchetes preservadas (se houver)
+[ ] Sem falas em inglês residual (exceto nomes/japonês)
+[ ] Arquivo termina corretamente em UTF-8
+
+
+--------------------------------------------------------------------------------
+PARA RETOMAR
+--------------------------------------------------------------------------------
+
+Colar este arquivo no início de uma nova sessão e informar se E35/E36 já
+estão salvos localmente ou se é preciso reenviar/recriar os arquivos.
+
+================================================================================
+FIM DO RESUMO
+================================================================================

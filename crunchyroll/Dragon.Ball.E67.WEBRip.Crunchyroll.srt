@@ -1,0 +1,1253 @@
+1
+00:00:11,840 --> 00:00:15,490
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:11,840 --> 00:00:15,490
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:15,490 --> 00:00:19,010
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:15,490 --> 00:00:19,010
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:19,010 --> 00:00:22,590
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:19,010 --> 00:00:22,590
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:22,590 --> 00:00:25,760
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:22,590 --> 00:00:25,760
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:25,760 --> 00:00:28,980
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:25,760 --> 00:00:28,980
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:28,980 --> 00:00:36,770
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:28,980 --> 00:00:36,770
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:36,770 --> 00:00:39,990
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:36,770 --> 00:00:39,990
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:39,990 --> 00:00:43,940
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+16
+00:00:39,990 --> 00:00:43,940
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+17
+00:00:43,940 --> 00:00:50,840
+<i>Kono no yo doko ka de hikatteiru</i>
+
+18
+00:00:43,940 --> 00:00:50,840
+Em algum lugar do
+mundo elas vão brilhar
+
+19
+00:00:50,840 --> 00:00:54,420
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+20
+00:00:50,840 --> 00:00:54,420
+Vamos lá encontrá-las, rapaz
+
+21
+00:00:54,420 --> 00:00:57,430
+<i>Youkai henka mo buttobashi</i>
+
+22
+00:00:54,420 --> 00:00:57,430
+Enquanto passamos por cima
+de monstros e demônios
+
+23
+00:00:57,430 --> 00:01:04,980
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+24
+00:00:57,430 --> 00:01:04,980
+E na nuvem voadora
+nós vamos voar!
+
+25
+00:01:04,980 --> 00:01:08,810
+<i>Let's try try try Makafushigi</i>
+
+26
+00:01:04,980 --> 00:01:08,810
+Vamos experimentar
+esse profundo mistério
+
+27
+00:01:08,810 --> 00:01:11,980
+<i>Sora wo kakenuke yama wo koe</i>
+
+28
+00:01:08,810 --> 00:01:11,980
+Avançando pelos céus,
+superando as montanhas
+
+29
+00:01:11,980 --> 00:01:15,820
+<i>Let's fly fly fly Daibouken</i>
+
+30
+00:01:11,980 --> 00:01:15,820
+Vamos voar rumo a
+uma grande aventura
+
+31
+00:01:15,820 --> 00:01:22,850
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+32
+00:01:15,820 --> 00:01:22,850
+A nossa jornada
+estranha vai começar!
+
+33
+00:01:22,850 --> 00:01:26,410
+<i>Te ni irero! DRAGON BALL</i>
+
+34
+00:01:22,850 --> 00:01:26,410
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+35
+00:01:26,410 --> 00:01:30,030
+<i>Sekai de ittou degowai chansu</i>
+
+36
+00:01:26,410 --> 00:01:30,030
+Uma das apostas mais
+formidáveis do mundo
+
+37
+00:01:30,030 --> 00:01:33,610
+<i>Oikakero! DRAGON BALL</i>
+
+38
+00:01:30,030 --> 00:01:33,610
+Vamos persegui-las!
+As Esferas do Dragão!
+
+39
+00:01:33,610 --> 00:01:36,840
+<i>Sekai de ittou ikashita dorama</i>
+
+40
+00:01:33,610 --> 00:01:36,840
+Um dos mistérios mais
+dramáticos do mundo
+
+41
+00:01:36,840 --> 00:01:40,200
+<i>Kono yo wa dekkai takarajima</i>
+
+42
+00:01:36,840 --> 00:01:40,200
+A vida é uma grande
+ilha do tesouro
+
+43
+00:01:40,200 --> 00:01:47,520
+<i>Sou sa Ima koso adobenchaa!</i>
+
+44
+00:01:40,200 --> 00:01:47,520
+Isso mesmo!
+A aventura começou!
+
+45
+00:01:57,530 --> 00:02:00,050
+<i>Goku decidiu reviver o pai de Upa,</i>
+
+46
+00:02:00,050 --> 00:02:04,230
+<i>que foi assassinado,
+com o poder de Shenlong,</i>
+
+47
+00:02:04,560 --> 00:02:09,190
+<i>e agora finalmente se infiltrou 
+na base maligna da Força Red Ribbon</i>
+
+48
+00:02:09,190 --> 00:02:15,550
+<i>em busca de duas das três 
+Esferas do Dragão que faltam!</i>
+
+49
+00:02:15,550 --> 00:02:24,330
+<i>Ele, enfim, está bem próximo 
+do Comandante Red!</i>
+
+50
+00:02:25,850 --> 00:02:29,000
+Ué, mas não tem escada...
+
+51
+00:02:35,480 --> 00:02:39,240
+Eu me recuso a deixar a Força Red 
+Ribbon ser derrotada por esse garoto,
+
+52
+00:02:39,240 --> 00:02:43,370
+que sequer sabe como usar um elevador!
+
+53
+00:02:50,750 --> 00:02:58,700
+O fim do Comandante Red!!
+
+54
+00:02:51,500 --> 00:02:55,340
+<i>O fim do Comandante Red!</i>
+
+55
+00:02:59,590 --> 00:03:01,090
+Seu moleque!
+
+56
+00:03:03,160 --> 00:03:04,370
+Diga as suas últimas palavras!
+
+57
+00:03:28,500 --> 00:03:29,830
+Pegamos ele!
+
+58
+00:03:29,830 --> 00:03:31,770
+Na sua cara!
+
+59
+00:03:34,250 --> 00:03:35,280
+Quase morri!
+
+60
+00:03:45,760 --> 00:03:47,210
+Ele é um monstro!
+
+61
+00:03:47,510 --> 00:03:48,850
+Salve-se quem puder!
+
+62
+00:03:51,430 --> 00:03:53,140
+Como podem ser tão imprestáveis?!
+
+63
+00:03:53,140 --> 00:03:55,210
+E eles ainda se chamam de 
+membros da Red Ribbon?!
+
+64
+00:03:55,810 --> 00:03:58,150
+Mas o poder dele é assustador.
+
+65
+00:03:58,150 --> 00:04:01,110
+Que papo de covarde é esse?!
+
+66
+00:04:01,110 --> 00:04:05,220
+Eles estão passando vergonha pra um garoto
+por causa do seu treinamento ruim!
+
+67
+00:04:05,220 --> 00:04:06,870
+S-Sim, senhor...
+
+68
+00:04:06,870 --> 00:04:10,290
+Por que não foi mais severo ao treiná-los?!
+ Tudo o que você fez foi juntar
+
+69
+00:04:10,290 --> 00:04:13,670
+um bando de lixo que foge 
+quando a situação aperta!
+
+70
+00:04:13,670 --> 00:04:15,220
+Perdoe-me, senhor.
+
+71
+00:04:18,460 --> 00:04:20,490
+Só mais um pouco!
+
+72
+00:04:25,390 --> 00:04:28,580
+Ai... Que teto duro!
+
+73
+00:04:30,140 --> 00:04:31,640
+Garoto idiota!
+
+74
+00:04:31,640 --> 00:04:34,730
+Este piso é feito de uma liga especial!
+
+75
+00:04:34,730 --> 00:04:37,690
+Não será fácil quebrar este aqui.
+
+76
+00:04:37,690 --> 00:04:42,400
+E não há <i>nenhum </i>soldado corajoso 
+o suficiente para enfrentá-lo?!
+
+77
+00:04:42,400 --> 00:04:46,490
+Nem a minha bonificação 
+generosa os convenceu!
+
+78
+00:04:49,830 --> 00:04:51,230
+Coronel Violet!
+
+79
+00:04:52,480 --> 00:04:55,250
+A nossa Coronel Violet não decepciona!
+
+80
+00:04:55,250 --> 00:04:59,490
+Que mulher de coragem! Está prestes 
+a lutar contra o garoto sozinha...
+
+81
+00:05:03,670 --> 00:05:05,490
+Ele é um monstro!
+
+82
+00:05:11,970 --> 00:05:14,170
+Então a Força Red Ribbon 
+finalmente chegou ao seu fim.
+
+83
+00:05:19,730 --> 00:05:21,480
+Coronel! Não é por aí!
+
+84
+00:05:21,480 --> 00:05:23,930
+Ele ainda está mais à frente!
+
+85
+00:05:30,870 --> 00:05:32,020
+Aquela sala é...
+
+86
+00:05:40,340 --> 00:05:42,340
+Ela não vai fazer isso...
+
+87
+00:05:42,340 --> 00:05:45,070
+A Coronel Violet nunca 
+faria uma coisa dessas!
+
+88
+00:05:46,370 --> 00:05:48,830
+Aonde o senhor vai, Comandante?!
+
+89
+00:05:50,010 --> 00:05:54,430
+Black! Aquela mulher está 
+tentando abrir o nosso cofre!
+
+90
+00:05:54,430 --> 00:05:57,480
+Mas o garoto está logo abaixo.
+
+91
+00:05:57,480 --> 00:06:00,210
+Não temos escolha a não 
+ser abrir mão do cofre!
+
+92
+00:06:03,150 --> 00:06:07,490
+Já chega de falar na minha orelha!
+
+93
+00:06:07,490 --> 00:06:07,890
+S-Sim, senhor...
+
+94
+00:06:49,350 --> 00:06:52,990
+Juntando todas as minhas 
+recompensas, mais um bônus...
+
+95
+00:06:58,620 --> 00:07:00,820
+Obrigada por tudo!
+
+96
+00:07:07,260 --> 00:07:09,370
+Como ela ousa?!
+
+97
+00:07:23,650 --> 00:07:28,030
+Traidora! Ladra de dinheiro!
+
+98
+00:07:28,030 --> 00:07:28,990
+Comandante!
+
+99
+00:07:28,990 --> 00:07:32,490
+Todos os soldados que restaram 
+parecem estar desertando!
+
+100
+00:07:32,490 --> 00:07:33,180
+O quê?!
+
+101
+00:07:38,580 --> 00:07:41,650
+Desertores são executados! 
+Acione o pelotão de fuzilamento!
+
+102
+00:07:42,330 --> 00:07:44,130
+Atenção, soldados!
+
+103
+00:07:44,130 --> 00:07:47,150
+Todos que desertarem de seus 
+postos serão executados!
+
+104
+00:07:47,150 --> 00:07:52,470
+Repito, todos que desertarem de 
+seus postos serão executados!
+
+105
+00:08:03,140 --> 00:08:07,150
+Não acredito! Tudo por causa 
+daquele maldito moleque...
+
+106
+00:08:07,150 --> 00:08:11,700
+Parece que demoramos demais para 
+perceber que esse tal de Son Goku
+
+107
+00:08:11,700 --> 00:08:15,370
+é muito mais forte do que imaginávamos.
+
+108
+00:08:16,490 --> 00:08:18,840
+Comandante! Também deveríamos fugir—
+
+109
+00:08:19,240 --> 00:08:20,480
+O que está dizendo?!
+
+110
+00:08:21,830 --> 00:08:26,710
+Acha mesmo que vou fugir com o rabo entre 
+as pernas por causa de um garoto idiota?!
+
+111
+00:08:26,710 --> 00:08:29,170
+E-Então o senhor pretende lutar contra ele?
+
+112
+00:08:29,170 --> 00:08:31,240
+<i>Você </i>é que vai lutar contra ele!
+
+113
+00:08:31,590 --> 00:08:32,450
+Hã?
+
+114
+00:08:34,130 --> 00:08:37,180
+Estarei pensando no nosso próximo plano.
+
+115
+00:08:37,180 --> 00:08:43,410
+Proteja-me e dê um jeito de pegar 
+aquelas quatro Esferas do Dragão!
+
+116
+00:08:43,410 --> 00:08:44,170
+Mas...
+
+117
+00:08:44,810 --> 00:08:47,230
+Sem reclamar!
+
+118
+00:08:47,230 --> 00:08:52,680
+Você sequer é capaz de aceitar 
+ordens de seu comandante?!
+
+119
+00:08:52,990 --> 00:08:55,180
+E-Entendido...
+
+120
+00:08:58,160 --> 00:09:00,490
+Estarei no andar de cima!
+
+121
+00:09:00,490 --> 00:09:04,190
+Faça tudo o que for possível 
+para derrotar aquele garoto!
+
+122
+00:09:23,180 --> 00:09:25,090
+Você apareceu.
+
+123
+00:09:25,090 --> 00:09:26,920
+Você que é o chefão?!
+
+124
+00:09:27,190 --> 00:09:28,670
+Eu não sou o comandante daqui.
+
+125
+00:09:28,670 --> 00:09:30,650
+Cadê o chefe?!
+
+126
+00:09:30,650 --> 00:09:33,650
+Calado! Eu serei o seu adversário!
+
+127
+00:09:33,650 --> 00:09:36,530
+Acho melhor não, moço! Vai se machucar.
+
+128
+00:09:36,530 --> 00:09:38,320
+Você parece estar bem confiante,
+
+129
+00:09:38,320 --> 00:09:42,440
+mas não serei derrotado como os 
+que você derrotou até agora.
+
+130
+00:09:53,300 --> 00:09:57,200
+Ele não está batendo nele!
+Que imprestável!
+
+131
+00:10:02,760 --> 00:10:07,710
+Achei que você fosse fortão! 
+Mas é só isso o que sabe fazer?
+
+132
+00:10:07,710 --> 00:10:10,310
+O quê?!
+
+133
+00:10:10,310 --> 00:10:12,730
+Muito bem, agora é a minha vez!
+
+134
+00:10:21,620 --> 00:10:27,310
+Garoto! Este é o seu fim!
+
+135
+00:11:11,170 --> 00:11:16,090
+Consegui! Finalmente acabei 
+com aquele moleque!
+
+136
+00:11:46,080 --> 00:11:51,410
+Comandante Red, seu maldito... 
+Você tentou me matar junto!
+
+137
+00:12:15,230 --> 00:12:21,760
+Só preciso tirar o cadáver daquele moleque 
+e pegar as quatro Esferas do Dragão,
+
+138
+00:12:21,760 --> 00:12:23,860
+e aí só faltará uma...
+
+139
+00:12:25,120 --> 00:12:29,940
+Falta pouco... Mais uma esfera, 
+e eu realizarei o meu sonho...
+
+140
+00:12:30,330 --> 00:12:35,320
+Finalmente... Finalmente...
+
+141
+00:12:35,320 --> 00:12:39,170
+...poderei ficar mais alto!
+
+142
+00:12:45,640 --> 00:12:48,300
+Comandante!
+
+143
+00:12:48,300 --> 00:12:50,040
+O que foi que você disse?
+
+144
+00:12:50,040 --> 00:12:53,060
+Black! Como você...?
+
+145
+00:12:53,060 --> 00:12:54,310
+Comandante!
+
+146
+00:12:54,310 --> 00:12:59,020
+Nós sacrificamos inúmeros homens 
+em busca das Esferas do Dragão
+
+147
+00:12:59,020 --> 00:13:02,310
+para você ficar mais alto?!
+
+148
+00:13:02,310 --> 00:13:04,810
+Isso mesmo! Algum problema com isso?!
+
+149
+00:13:05,240 --> 00:13:08,990
+Então não era para conquistarmos 
+o mundo inteiro?!
+
+150
+00:13:08,990 --> 00:13:13,200
+Eu posso fazer isso em questão de tempo!
+
+151
+00:13:13,200 --> 00:13:17,190
+Mas o comandante precisa 
+ter uma boa imagem, antes de mais nada!
+
+152
+00:13:17,190 --> 00:13:20,630
+Eu nunca serei popular 
+com as mulheres sendo baixinho!
+
+153
+00:13:20,630 --> 00:13:23,490
+Então esse era o motivo...?!
+
+154
+00:13:23,490 --> 00:13:29,160
+Calado! Um homem alto como você nunca 
+entenderá como é ser baixinho!
+
+155
+00:13:30,180 --> 00:13:32,640
+Desde os meus tempos de 
+escola, as pessoas viviam
+
+156
+00:13:32,640 --> 00:13:35,640
+zombando de mim, me chamando 
+de "Anãozinho Ruivo"!
+
+157
+00:13:35,640 --> 00:13:39,170
+Já me disseram que eu pareço 
+uma criança com cara de adulto!
+
+158
+00:13:39,650 --> 00:13:44,320
+Então qual é o problema de pegar as 
+Esferas do Dragão para me deixar mais alto?!
+
+159
+00:13:44,320 --> 00:13:47,200
+Eu sou o comandante, então 
+a escolha é toda minha!
+
+160
+00:13:47,200 --> 00:13:52,230
+Você é maluco! Quase me matou 
+por causa desse desejo idiota!
+
+161
+00:13:52,230 --> 00:13:57,170
+Silêncio! Como ousa falar desse 
+jeito comigo?! Eu sou o comandante!
+
+162
+00:13:57,170 --> 00:14:00,170
+Como seu superior, você não 
+tem o direito de reclamar,
+
+163
+00:14:00,170 --> 00:14:02,920
+não importa o quanto eu te trate mal!
+
+164
+00:14:02,920 --> 00:14:06,370
+Além disso, eu nunca poderei 
+depender de você para—
+
+165
+00:14:26,360 --> 00:14:29,160
+Você não serve para ser comandante.
+
+166
+00:14:29,160 --> 00:14:34,270
+<i>Eu </i>me tornarei o comandante e 
+irei recriar a Força Red Ribbon.
+
+167
+00:14:35,500 --> 00:14:39,170
+Eu, o grande Black, irei dominar o mundo!
+
+168
+00:14:53,260 --> 00:14:54,500
+É você de novo?
+
+169
+00:14:55,140 --> 00:14:57,500
+Vai pagar por isso!
+
+170
+00:14:57,500 --> 00:15:02,300
+Você foi esmagado entre o teto 
+e o chão e ainda sobreviveu?!
+
+171
+00:15:02,650 --> 00:15:04,800
+Não vou me segurar desta vez!
+
+172
+00:15:04,800 --> 00:15:06,750
+E-Espera aí!
+
+173
+00:15:07,640 --> 00:15:09,640
+O que você quer? Vai se render?
+
+174
+00:15:09,640 --> 00:15:14,140
+E-Eu acabei de me tornar o 
+comandante da Força Red Ribbon.
+
+175
+00:15:14,140 --> 00:15:16,650
+O quê? Você virou o novo 
+estudante da Red Ribbon?
+
+176
+00:15:19,160 --> 00:15:21,370
+Não é "estudante", é "comandante"!
+
+177
+00:15:21,370 --> 00:15:24,840
+Em outras palavras, sou o chefe 
+da Red Ribbon a partir de agora!
+
+178
+00:15:24,840 --> 00:15:26,660
+Ah, então você é o chefe?
+
+179
+00:15:26,910 --> 00:15:30,910
+Isso mesmo. Tenho uma proposta 
+para você. Veja bem...
+
+180
+00:15:32,720 --> 00:15:35,970
+Você vai me dar as esferas se 
+eu te deixar sair ileso dessa?
+
+181
+00:15:35,970 --> 00:15:37,420
+Não!
+
+182
+00:15:37,420 --> 00:15:40,350
+Que tal nos unirmos para 
+pegar as Esferas do Dragão
+
+183
+00:15:40,350 --> 00:15:42,460
+e o mundo ser todo nosso?
+
+184
+00:15:42,460 --> 00:15:45,420
+O mundo seria seu e meu?
+
+185
+00:15:45,420 --> 00:15:48,780
+Sim! Poderíamos controlar o 
+mundo do jeito que quisermos!
+
+186
+00:15:48,780 --> 00:15:50,780
+Você poderia ter o quanto 
+de dinheiro quisesse,
+
+187
+00:15:50,780 --> 00:15:54,930
+e teria todos deste planeta 
+como seus escravos!
+
+188
+00:15:54,930 --> 00:15:58,620
+Poderia até juntar várias garotas 
+lindas e construir um harém!
+
+189
+00:15:58,620 --> 00:16:00,440
+Que tal?
+
+190
+00:16:01,250 --> 00:16:02,940
+Nem pensar!
+
+191
+00:16:02,940 --> 00:16:07,840
+Upa perdeu o pai graças 
+aos seus amigos. Eu vou ressuscitá-lo!
+
+192
+00:16:10,050 --> 00:16:11,630
+Que tal o seguinte...
+
+193
+00:16:11,630 --> 00:16:17,640
+Eu te dou as Esferas do Dragão, aí 
+você pode ressuscitar esse homem.
+
+194
+00:16:17,640 --> 00:16:20,530
+Mas você se aliaria comigo,
+
+195
+00:16:20,530 --> 00:16:23,980
+e conquistaríamos o mundo sem 
+a ajuda das Esferas do Dragão!
+
+196
+00:16:23,980 --> 00:16:25,960
+Já disse que não!
+
+197
+00:16:27,190 --> 00:16:30,260
+Não quero ser amigo de um cara mau!
+
+198
+00:16:30,990 --> 00:16:33,890
+Desista e se entregue para a polícia!
+
+199
+00:16:44,070 --> 00:16:46,670
+<i>Ah, não! As Esferas do Dragão!</i>
+
+200
+00:16:46,670 --> 00:16:49,070
+<i>Preciso dar um fim nesse garoto primeiro!</i>
+
+201
+00:17:04,140 --> 00:17:07,770
+Nem <i>você </i>é páreo para 
+esta máquina de combate!
+
+202
+00:17:07,770 --> 00:17:10,880
+Você deve morrer para que eu possa 
+reconstruir a Força Red Ribbon!
+
+203
+00:17:20,660 --> 00:17:22,410
+Não deve faltar muito.
+
+204
+00:17:22,410 --> 00:17:25,670
+Espero que ele ainda não 
+tenha sido derrotado...
+
+205
+00:17:25,670 --> 00:17:30,360
+Até parece! O Son não
+seria morto tão fácil.
+
+206
+00:17:30,360 --> 00:17:32,840
+Mas ele está lutando contra 
+a Força Red Ribbon!
+
+207
+00:17:32,840 --> 00:17:35,370
+Ninguém sabe qual tipo
+de arma que eles têm!
+
+208
+00:17:36,680 --> 00:17:39,390
+Mesmo o Goku sendo forte,
+
+209
+00:17:39,390 --> 00:17:44,170
+não sei se ele seria páreo para um
+adversário com armas de última geração...
+
+210
+00:17:45,500 --> 00:17:47,900
+Não fala uma coisa dessas!
+
+211
+00:17:47,900 --> 00:17:51,130
+Se nem o Son é capaz de derrotá-los, 
+o que <i>nós</i> seremos capazes de fazer?!
+
+212
+00:17:51,780 --> 00:17:56,390
+B-Bem, temos o Mestre Muten Roshi
+e o Yamcha com a gente, então...
+
+213
+00:17:58,390 --> 00:18:00,840
+Ih, não sei não...
+
+214
+00:17:59,960 --> 00:18:03,390
+A gente tenta dar um jeito...
+
+215
+00:18:03,830 --> 00:18:06,670
+O inimigo possui armas de última geração.
+
+216
+00:18:08,460 --> 00:18:10,960
+Isso mesmo. Precisamos 
+seguir com extremo cuidado.
+
+217
+00:18:10,960 --> 00:18:14,410
+Não precisamos de cuidado
+merda nenhuma!
+
+218
+00:18:14,960 --> 00:18:16,840
+O que é aquilo?!
+
+219
+00:18:16,840 --> 00:18:17,640
+Qual é o problema?
+
+220
+00:18:18,590 --> 00:18:21,220
+Tem algo vindo na nossa direção.
+
+221
+00:18:21,220 --> 00:18:24,250
+Aposto que é algum caça 
+da Força Red Ribbon!
+
+222
+00:18:24,850 --> 00:18:25,750
+O quê?!
+
+223
+00:18:28,310 --> 00:18:31,520
+Parece que tenho um probleminha 
+vindo na minha direção.
+
+224
+00:18:31,520 --> 00:18:33,720
+Tomei tanto cuidado para 
+fugir com esse dinheiro!
+
+225
+00:18:33,980 --> 00:18:35,220
+O que vamos fazer?
+
+226
+00:18:35,220 --> 00:18:37,550
+O que vocês sugerem?
+
+227
+00:18:37,990 --> 00:18:42,060
+Não podemos lutar com este avião!
+Não temos nenhuma arma!
+
+228
+00:18:42,060 --> 00:18:44,490
+Temos tudo o que precisamos bem aqui!
+
+229
+00:18:44,490 --> 00:18:46,060
+Deixa que eu acabo com eles!
+
+230
+00:18:46,060 --> 00:18:49,330
+Por favor, acalme-se, Lunch...
+
+231
+00:18:49,330 --> 00:18:53,340
+De qualquer forma, já decidimos 
+ir até a base inimiga.
+
+232
+00:18:53,340 --> 00:18:56,570
+Não seremos capazes de ajudar 
+o Goku se formos abatidos.
+
+233
+00:18:57,010 --> 00:19:01,080
+Isso mesmo! E o inimigo pode ter mísseis...
+
+234
+00:19:01,720 --> 00:19:05,870
+Tudo bem! Vamos baixar a altitude
+e tentar passar despercebidos!
+
+235
+00:19:05,870 --> 00:19:09,850
+As coisas podem ficar feias se aquela 
+nave for dos aliados daquele garoto...
+
+236
+00:19:09,850 --> 00:19:11,130
+Preciso proceder com cuidado primeiro.
+
+237
+00:19:19,860 --> 00:19:21,760
+Eles também baixaram a altitude!
+
+238
+00:19:22,950 --> 00:19:25,230
+Isso não é bom, eles baixaram a altitude.
+
+239
+00:19:25,580 --> 00:19:30,250
+Ferrou! Talvez devêssemos subir 
+e nos esconder nas nuvens!
+
+240
+00:19:30,250 --> 00:19:31,960
+Isso, vamos tentar!
+
+241
+00:19:42,870 --> 00:19:45,930
+O quê? Eles estão copiando 
+os meus movimentos perfeitamente.
+
+242
+00:19:45,930 --> 00:19:48,880
+Com certeza são amigos daquele garoto doido!
+
+243
+00:19:48,880 --> 00:19:50,590
+Ah, de novo não!
+
+244
+00:19:50,590 --> 00:19:52,310
+Só pode ser brincadeira!
+
+245
+00:19:52,310 --> 00:19:56,090
+Vai saber o que iria acontecer comigo se 
+eu tivesse que lutar com os amigos dele?!
+
+246
+00:20:29,270 --> 00:20:31,500
+Não sei como, mas parece que despistamos...
+
+247
+00:20:56,580 --> 00:20:58,860
+Essa passou por muito perto.
+
+248
+00:20:59,750 --> 00:21:01,630
+Enfim, vamos nos apressar!
+
+249
+00:21:01,630 --> 00:21:03,370
+S-Sim...
+
+250
+00:21:23,320 --> 00:21:26,970
+Ai! Isso machuca! Me solta, seu idiota!
+
+251
+00:21:27,320 --> 00:21:29,730
+Resistir é inútil, garoto.
+
+252
+00:21:38,960 --> 00:21:42,320
+Mas espere, colocarei um fim na 
+sua vida miserável em instantes.
+
+253
+00:21:54,430 --> 00:21:56,270
+Sinto muito por você, garoto.
+
+254
+00:21:56,270 --> 00:22:00,690
+Se tivesse cooperado comigo, 
+poderia ter vivido um pouco mais!
+
+255
+00:22:13,160 --> 00:22:15,000
+<i>Hora de morrer!</i>
+
+256
+00:22:18,360 --> 00:22:21,360
+<i>As coisas não parecem boas para Goku!</i>
+
+257
+00:22:21,360 --> 00:22:24,360
+<i>Ele será capaz de escapar 
+desta situação terrível?!</i>
+
+258
+00:22:24,360 --> 00:22:28,010
+<i>E o que acontecerá com 
+as Esferas do Dragão?!</i>
+
+259
+00:22:47,760 --> 00:22:50,410
+Venha aqui, fantasia
+
+260
+00:22:47,760 --> 00:22:50,410
+<i>Oide FANTAJI</i>
+
+261
+00:22:50,410 --> 00:22:53,030
+Eu adoro um mistério
+
+262
+00:22:50,410 --> 00:22:53,030
+<i>suki sa MISUTERI</i>
+
+263
+00:22:53,030 --> 00:22:59,420
+Não vá esconder
+a sua juventude!
+
+264
+00:22:53,030 --> 00:22:59,420
+<i>Kimi no wakasa kakusa nai de</i>
+
+265
+00:22:59,420 --> 00:23:02,420
+Quero fazer o que é misterioso
+
+266
+00:22:59,420 --> 00:23:02,420
+<i>Fushigi shitakute</i>
+
+267
+00:23:02,420 --> 00:23:05,050
+Quero correr atrás de aventura
+
+268
+00:23:02,420 --> 00:23:05,050
+<i>Bouken shitakute</i>
+
+269
+00:23:05,050 --> 00:23:11,080
+Todo mundo não vê a hora de ir!
+
+270
+00:23:05,050 --> 00:23:11,080
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+271
+00:23:11,080 --> 00:23:17,230
+Se você agir feito
+adulto e desistir
+
+272
+00:23:11,080 --> 00:23:17,230
+<i>Otona no furi shite akiramecha</i>
+
+273
+00:23:17,230 --> 00:23:23,090
+Você nunca desvendará
+o mistério do milagre
+
+274
+00:23:17,230 --> 00:23:23,090
+<i>Kiseki no nazo nado tokenai yo</i>
+
+275
+00:23:23,090 --> 00:23:34,410
+Vá e viva de forma
+mais intensa e forte!
+
+276
+00:23:23,090 --> 00:23:34,410
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+277
+00:23:34,410 --> 00:23:42,040
+Vou te dar um romance
+
+278
+00:23:34,410 --> 00:23:42,040
+<i>ROMANTIKKU Ageru yo!</i>
+
+279
+00:23:42,040 --> 00:23:46,570
+Se você me mostrar sua
+verdadeira coragem
+
+280
+00:23:42,040 --> 00:23:46,570
+<i>Hontou no yuuki wo misete kuretara</i>
+
+281
+00:23:46,570 --> 00:23:53,950
+Vou te dar um romance
+
+282
+00:23:46,570 --> 00:23:53,950
+<i>ROMANTIKKU Ageru yo!</i>
+
+283
+00:23:53,950 --> 00:24:02,560
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+284
+00:23:53,950 --> 00:24:02,560
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>

@@ -1,0 +1,276 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0015,0015,0015,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0015,0015,0015,1
+Style: Title,Verdana,35,&H00FBF0FC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,70,100,0,0,1,0,0,8,0018,0018,0060,1
+Style: OpeningPT,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00683D1B,&H00381B0D,-1,0,0,0,100,100,0,0,1,3,1,2,0040,0040,0015,1
+Style: OpeningJP,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H001B399D,&H0013267C,-1,-1,0,0,100,100,0,0,1,3,1,8,0040,0040,0015,1
+Style: EndingPT,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H003F40C9,&H00000677,-1,0,0,0,100,100,0,0,1,3,1,2,0040,0040,0015,1
+Style: EndingJP,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H0036210B,&H00000000,-1,-1,0,0,100,100,0,0,1,3,1,8,0040,0040,0015,1
+Style: Sign,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0015,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0015,0015,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.84,0:00:15.45,OpeningPT,,0000,0000,0000,,Vamos pegar as\NEsferas do Dragão!
+Dialogue: 0,0:00:11.84,0:00:15.45,OpeningJP,,0000,0000,0000,,Tsukamou ze! DRAGON BALL
+Dialogue: 0,0:00:15.45,0:00:19.01,OpeningPT,,0000,0000,0000,,Um dos segredos mais\Nimpressionantes do mundo
+Dialogue: 0,0:00:15.45,0:00:19.01,OpeningJP,,0000,0000,0000,,Sekai de ittou suriru na himitsu
+Dialogue: 0,0:00:19.01,0:00:22.54,OpeningPT,,0000,0000,0000,,Vamos procurar as\NEsferas do Dragão!
+Dialogue: 0,0:00:19.01,0:00:22.54,OpeningJP,,0000,0000,0000,,Sagasou ze! DRAGON BALL
+Dialogue: 0,0:00:22.54,0:00:25.71,OpeningPT,,0000,0000,0000,,Um dos milagres mais\Nencantadores do mundo
+Dialogue: 0,0:00:22.54,0:00:25.71,OpeningJP,,0000,0000,0000,,Sekai de ittou yukai na kiseki
+Dialogue: 0,0:00:25.71,0:00:28.98,OpeningPT,,0000,0000,0000,,A vida é uma grande\Nilha do tesouro
+Dialogue: 0,0:00:25.71,0:00:28.98,OpeningJP,,0000,0000,0000,,Kono yo wa dekkai takarajima
+Dialogue: 0,0:00:28.98,0:00:36.72,OpeningPT,,0000,0000,0000,,Isso mesmo!\NA aventura começou!
+Dialogue: 0,0:00:28.98,0:00:36.72,OpeningJP,,0000,0000,0000,,Sou sa Ima koso adobenchaa!
+Dialogue: 0,0:00:36.99,0:00:39.99,OpeningPT,,0000,0000,0000,,O amor que bate no\Npeito faz GISSIRI
+Dialogue: 0,0:00:36.99,0:00:39.99,OpeningJP,,0000,0000,0000,,Mune waku-waku no ai ga GISSIRI
+Dialogue: 0,0:00:39.99,0:00:43.89,OpeningPT,,0000,0000,0000,,Uma chuva de sonhos\Nmulticoloridos faz DOSSARI
+Dialogue: 0,0:00:39.99,0:00:43.89,OpeningJP,,0000,0000,0000,,Iro tori-dori no yume ga DOSSARI
+Dialogue: 0,0:00:43.89,0:00:50.84,OpeningPT,,0000,0000,0000,,Em algum lugar do\Nmundo elas vão brilhar
+Dialogue: 0,0:00:43.89,0:00:50.84,OpeningJP,,0000,0000,0000,,Kono no yo doko ka de hikatteiru
+Dialogue: 0,0:00:50.84,0:00:54.42,OpeningPT,,0000,0000,0000,,Vamos lá encontrá-las, rapaz
+Dialogue: 0,0:00:50.84,0:00:54.42,OpeningJP,,0000,0000,0000,,Soitsu mitsuke ni yukou ze BOY
+Dialogue: 0,0:00:54.42,0:00:57.43,OpeningPT,,0000,0000,0000,,Enquanto passamos por cima\Nde monstros e demônios
+Dialogue: 0,0:00:54.42,0:00:57.43,OpeningJP,,0000,0000,0000,,Youkai henka mo buttobashi
+Dialogue: 0,0:00:57.43,0:01:04.98,OpeningPT,,0000,0000,0000,,E na nuvem voadora\Nnós vamos voar!
+Dialogue: 0,0:00:57.43,0:01:04.98,OpeningJP,,0000,0000,0000,,Kumo no mashin de kyou mo tobu no sa
+Dialogue: 0,0:01:04.98,0:01:08.81,OpeningPT,,0000,0000,0000,,Vamos experimentar\Nesse profundo mistério
+Dialogue: 0,0:01:04.98,0:01:08.81,OpeningJP,,0000,0000,0000,,Let's try try try Makafushigi
+Dialogue: 0,0:01:08.81,0:01:11.98,OpeningPT,,0000,0000,0000,,Avançando pelos céus,\Nsuperando as montanhas
+Dialogue: 0,0:01:08.81,0:01:11.98,OpeningJP,,0000,0000,0000,,Sora wo kakenuke yama wo koe
+Dialogue: 0,0:01:11.98,0:01:15.82,OpeningPT,,0000,0000,0000,,Vamos voar rumo a\Numa grande aventura
+Dialogue: 0,0:01:11.98,0:01:15.82,OpeningJP,,0000,0000,0000,,Let's fly fly fly Daibouken
+Dialogue: 0,0:01:15.82,0:01:22.83,OpeningPT,,0000,0000,0000,,A nossa jornada\Nestranha vai começar!
+Dialogue: 0,0:01:15.82,0:01:22.83,OpeningJP,,0000,0000,0000,,Fushigi na tabi ga hajimaru ze
+Dialogue: 0,0:01:22.83,0:01:26.35,OpeningPT,,0000,0000,0000,,Vamos pegá-las em mãos!\NAs Esferas do Dragão!
+Dialogue: 0,0:01:22.83,0:01:26.35,OpeningJP,,0000,0000,0000,,Te ni irero! DRAGON BALL
+Dialogue: 0,0:01:26.35,0:01:30.00,OpeningPT,,0000,0000,0000,,Uma das apostas mais\Nformidáveis do mundo
+Dialogue: 0,0:01:26.35,0:01:30.00,OpeningJP,,0000,0000,0000,,Sekai de ittou degowai chansu
+Dialogue: 0,0:01:30.00,0:01:33.57,OpeningPT,,0000,0000,0000,,Vamos persegui-las!\NAs Esferas do Dragão!
+Dialogue: 0,0:01:30.00,0:01:33.57,OpeningJP,,0000,0000,0000,,Oikakero! DRAGON BALL
+Dialogue: 0,0:01:33.57,0:01:36.84,OpeningPT,,0000,0000,0000,,Um dos mistérios mais\Ndramáticos do mundo
+Dialogue: 0,0:01:33.57,0:01:36.84,OpeningJP,,0000,0000,0000,,Sekai de ittou ikashita dorama
+Dialogue: 0,0:01:36.84,0:01:40.16,OpeningPT,,0000,0000,0000,,A vida é uma grande\Nilha do tesouro
+Dialogue: 0,0:01:36.84,0:01:40.16,OpeningJP,,0000,0000,0000,,Kono yo wa dekkai takarajima
+Dialogue: 0,0:01:40.16,0:01:47.52,OpeningPT,,0000,0000,0000,,Isso mesmo!\NA aventura começou!
+Dialogue: 0,0:01:40.16,0:01:47.52,OpeningJP,,0000,0000,0000,,Sou sa Ima koso adobenchaa!
+Dialogue: 0,0:02:14.50,0:02:18.63,Italics,,0000,0000,0000,,Goku conseguiu pegar de\Nvolta as Esferas do Dragão
+Dialogue: 0,0:02:18.63,0:02:24.87,Italics,,0000,0000,0000,,e parte a toda velocidade a oeste, na\NNuvem, em busca da próxima esfera.
+Dialogue: 0,0:02:26.22,0:02:31.00,Default,,0000,0000,0000,,Espero que a próxima seja a\Nesfera de 4 estrelas do vovô.
+Dialogue: 0,0:02:36.62,0:02:44.60,Title,,0000,0000,0000,,{\q2\fad(771,1)\pos(309.204,89.779)}A Terra Sagrada e Sinistra de Karin
+Dialogue: 0,0:02:38.45,0:02:42.28,Italics,,0000,0000,0000,,A terra sagrada e\Nsinistra de Karin.
+Dialogue: 0,0:02:59.22,0:03:03.18,Default,,0000,0000,0000,,Que calor! Está acabando\Ncom minha bela pele!
+Dialogue: 0,0:03:03.18,0:03:08.54,Default,,0000,0000,0000,,Isso tudo é culpa\Ndaquele tal de Goku!
+Dialogue: 0,0:03:09.02,0:03:10.54,Default,,0000,0000,0000,,Ele vai pagar por isso!
+Dialogue: 0,0:03:16.02,0:03:20.99,Italics,,0000,0000,0000,,Enquanto isso, no quartel-general\Nda grande Força Red Ribbon...
+Dialogue: 0,0:03:45.01,0:03:46.39,Default,,0000,0000,0000,,Pode entrar.
+Dialogue: 0,0:03:46.39,0:03:47.54,Default,,0000,0000,0000,,Com licença.
+Dialogue: 0,0:03:47.76,0:03:52.38,Default,,0000,0000,0000,,Comandante Red, como pensamos, parece\Nque o garoto está rumando a oeste.
+Dialogue: 0,0:03:52.73,0:03:55.65,Default,,0000,0000,0000,,Rumo ao coronel Yellow, sim?
+Dialogue: 0,0:03:55.65,0:04:01.01,Default,,0000,0000,0000,,É um absurdo que o Yellow ainda não\Ntenha encontrado a Esfera do Dragão!
+Dialogue: 0,0:04:01.01,0:04:04.31,Default,,0000,0000,0000,,Sim, ele parece estar com mais\Ndificuldade do que antecipamos.
+Dialogue: 0,0:04:04.86,0:04:09.85,Default,,0000,0000,0000,,É um mais incompetente do que o outro.\NEu só quero acabar com esse jogo logo.
+Dialogue: 0,0:04:46.36,0:04:51.58,Default,,0000,0000,0000,,Droga, estamos procurando com tanto\Nempenho, então por que não encontramos?
+Dialogue: 0,0:04:54.16,0:04:55.33,Default,,0000,0000,0000,,O que foi?
+Dialogue: 0,0:04:55.33,0:04:56.83,Italics,,0000,0000,0000,,Coronel Yellow!
+Dialogue: 0,0:04:56.83,0:05:00.07,Italics,,0000,0000,0000,,Encontramos a\NEsfera do Dragão!
+Dialogue: 0,0:05:00.07,0:05:01.13,Default,,0000,0000,0000,,O quê?!
+Dialogue: 0,0:05:16.02,0:05:19.55,Default,,0000,0000,0000,,Não há dúvidas de que\Né a Esfera do Dragão!
+Dialogue: 0,0:05:19.86,0:05:22.36,Default,,0000,0000,0000,,Mas, coronel,\Ncomo vamos pegar?
+Dialogue: 0,0:05:22.36,0:05:26.61,Default,,0000,0000,0000,,Simples: use um helicóptero\Ne entre na cratera pelo ar!
+Dialogue: 0,0:05:26.61,0:05:28.11,Default,,0000,0000,0000,,Sim, senhor!
+Dialogue: 0,0:07:01.62,0:07:05.45,Default,,0000,0000,0000,,Você conseguiu!\NComo você é demais, pai!
+Dialogue: 0,0:07:13.93,0:07:15.51,Default,,0000,0000,0000,,Upa!
+Dialogue: 0,0:07:26.02,0:07:27.90,Default,,0000,0000,0000,,Pai!
+Dialogue: 0,0:07:31.91,0:07:35.12,Default,,0000,0000,0000,,Não chore. Temos a proteção\Ndivina do nosso deus.
+Dialogue: 0,0:07:35.12,0:07:37.94,Default,,0000,0000,0000,,Não precisa temer nada.
+Dialogue: 0,0:08:18.45,0:08:20.58,Default,,0000,0000,0000,,Pegamos!
+Dialogue: 0,0:08:32.61,0:08:35.39,Default,,0000,0000,0000,,Todos se refugiem!
+Dialogue: 0,0:09:01.75,0:09:04.04,Default,,0000,0000,0000,,Pai!
+Dialogue: 0,0:09:04.04,0:09:07.94,Default,,0000,0000,0000,,O Monte Kanae está entrando em\Nerupção. É um mau presságio.
+Dialogue: 0,0:09:41.45,0:09:46.33,Default,,0000,0000,0000,,Entre em contato com o QG e descubra\Na localização da Esfera do Dragão.
+Dialogue: 0,0:09:46.33,0:09:47.23,Italics,,0000,0000,0000,,Sim, senhor!
+Dialogue: 0,0:09:47.75,0:09:50.94,Default,,0000,0000,0000,,Responda, QG!
+Dialogue: 0,0:09:54.42,0:09:58.89,Default,,0000,0000,0000,,Oeste! A Esfera do Dragão se moveu\Na três quilômetros pro oeste!
+Dialogue: 0,0:09:58.89,0:10:00.04,Italics,,0000,0000,0000,,Entendido!
+Dialogue: 0,0:10:00.30,0:10:02.04,Default,,0000,0000,0000,,Certo, todas as\Nunidades para o oeste!
+Dialogue: 0,0:10:12.44,0:10:14.55,Default,,0000,0000,0000,,Acalmou-se?
+Dialogue: 0,0:10:14.86,0:10:16.61,Default,,0000,0000,0000,,Você está bem?
+Dialogue: 0,0:10:16.61,0:10:19.07,Default,,0000,0000,0000,,Sim, não foi nada.
+Dialogue: 0,0:10:28.06,0:10:29.79,Default,,0000,0000,0000,,Que quente!
+Dialogue: 0,0:10:36.59,0:10:38.09,Default,,0000,0000,0000,,O que é isso, pai?
+Dialogue: 0,0:10:38.09,0:10:42.45,Default,,0000,0000,0000,,Não sei. É uma bola misteriosa\Nque nunca vi antes.
+Dialogue: 0,0:10:45.97,0:10:47.46,Default,,0000,0000,0000,,É tão linda!
+Dialogue: 0,0:10:53.19,0:10:57.97,Default,,0000,0000,0000,,Droga, uma selva? Vai ser\Ndifícil encontrar aqui.
+Dialogue: 0,0:11:05.16,0:11:08.62,Default,,0000,0000,0000,,Perfeito! Podemos montar\Nnossa base lá embaixo.
+Dialogue: 0,0:11:08.62,0:11:10.73,Default,,0000,0000,0000,,Todas as unidades,\Npreparar aterrissagem!
+Dialogue: 0,0:11:13.59,0:11:17.15,Default,,0000,0000,0000,,Pássaros, pai! Tem uns pássaros\Nque eu nunca vi pousando!
+Dialogue: 0,0:11:19.01,0:11:21.51,Default,,0000,0000,0000,,Não tema, Upa.\NNão são pássaros.
+Dialogue: 0,0:11:21.51,0:11:23.16,Default,,0000,0000,0000,,São veículos chamados aviões.
+Dialogue: 0,0:11:47.24,0:11:53.75,Default,,0000,0000,0000,,Ah! Quem ia imaginar que haveria\Npessoas morando num lugar destes.
+Dialogue: 0,0:11:53.75,0:11:56.45,Default,,0000,0000,0000,,Quem são vocês?
+Dialogue: 0,0:11:56.67,0:12:00.22,Default,,0000,0000,0000,,Sou o coronel Yellow\Nda Força Red Ribbon.
+Dialogue: 0,0:12:00.22,0:12:03.64,Default,,0000,0000,0000,,A partir de agora, esta área é\No nosso acampamento base.
+Dialogue: 0,0:12:03.64,0:12:04.42,Default,,0000,0000,0000,,O quê?
+Dialogue: 0,0:12:04.42,0:12:06.46,Default,,0000,0000,0000,,Ah, e vocês vão\Ntrabalhar para nós.
+Dialogue: 0,0:12:06.85,0:12:09.71,Default,,0000,0000,0000,,Você tem jeito que seria\Nótimo com trabalho manual.
+Dialogue: 0,0:12:10.02,0:12:10.96,Default,,0000,0000,0000,,Me recuso.
+Dialogue: 0,0:12:12.39,0:12:16.47,Default,,0000,0000,0000,,Este lugar não é para\Ngente como vocês.
+Dialogue: 0,0:12:17.15,0:12:18.73,Default,,0000,0000,0000,,Vá embora!
+Dialogue: 0,0:12:20.15,0:12:22.22,Default,,0000,0000,0000,,Quer morrer?
+Dialogue: 0,0:12:54.73,0:12:58.30,Default,,0000,0000,0000,,Coronel, veja o que\Ntem nas mãos dele!
+Dialogue: 0,0:13:00.07,0:13:02.49,Default,,0000,0000,0000,,A Esfera do Dragão!
+Dialogue: 0,0:13:02.49,0:13:05.18,Default,,0000,0000,0000,,Entregue essa esfera!
+Dialogue: 0,0:13:05.36,0:13:08.05,Default,,0000,0000,0000,,Não vou entregar\Nnada para vocês!
+Dialogue: 0,0:13:08.05,0:13:11.16,Default,,0000,0000,0000,,Muito bem, então!\NAtirem, matem!
+Dialogue: 0,0:13:31.66,0:13:32.91,Default,,0000,0000,0000,,Não pode ser...
+Dialogue: 0,0:13:32.91,0:13:34.41,Default,,0000,0000,0000,,É loucura!
+Dialogue: 0,0:13:34.41,0:13:37.06,Default,,0000,0000,0000,,Armas não funcionam em mim!
+Dialogue: 0,0:13:37.06,0:13:39.04,Default,,0000,0000,0000,,Upa, traga uma lança.
+Dialogue: 0,0:13:39.04,0:13:41.61,Default,,0000,0000,0000,,Tá!
+Dialogue: 0,0:13:41.61,0:13:43.63,Default,,0000,0000,0000,,Pai!
+Dialogue: 0,0:13:43.63,0:13:47.74,Default,,0000,0000,0000,,Está querendo virar inimigo\Ndeclarado da Força Red Ribbon?
+Dialogue: 0,0:13:47.74,0:13:51.08,Default,,0000,0000,0000,,Obedeça e entregue a esfera!
+Dialogue: 0,0:13:51.08,0:13:55.16,Default,,0000,0000,0000,,Não me importo com a esfera, mas eu\Nsou o protetor desta terra sagrada.
+Dialogue: 0,0:13:55.16,0:13:57.48,Default,,0000,0000,0000,,Não permitirei que\Ndestruam este solo sagrado!
+Dialogue: 0,0:13:57.75,0:14:01.42,Default,,0000,0000,0000,,Terra sagrada? Que piada.
+Dialogue: 0,0:14:01.42,0:14:03.34,Default,,0000,0000,0000,,É verdade.
+Dialogue: 0,0:14:03.34,0:14:07.26,Default,,0000,0000,0000,,Há muito tempo, um grande\Ndeus nasceu nesta terra.
+Dialogue: 0,0:14:07.26,0:14:12.39,Default,,0000,0000,0000,,Mesmo agora ele mora\Nno topo de sua torre.
+Dialogue: 0,0:14:18.56,0:14:22.52,Default,,0000,0000,0000,,Sumam ou morram!
+Dialogue: 0,0:14:24.88,0:14:27.20,Default,,0000,0000,0000,,Pai! Atrás!
+Dialogue: 0,0:14:41.44,0:14:43.17,Default,,0000,0000,0000,,Droga!
+Dialogue: 0,0:14:43.17,0:14:44.65,Default,,0000,0000,0000,,Atirem! Deixem-no\Nem pedacinhos!
+Dialogue: 0,0:14:58.14,0:15:02.08,Default,,0000,0000,0000,,Este também está\Nmuito longe...
+Dialogue: 0,0:15:02.08,0:15:05.22,Default,,0000,0000,0000,,Já disse que armas\Nnão funcionam!
+Dialogue: 0,0:15:36.14,0:15:38.29,Default,,0000,0000,0000,,Ele partiu?
+Dialogue: 0,0:15:41.52,0:15:44.02,Default,,0000,0000,0000,,Pai!
+Dialogue: 0,0:15:44.02,0:15:46.90,Default,,0000,0000,0000,,Vou enterrar esses\Nhomens. Espere aqui.
+Dialogue: 0,0:15:46.90,0:15:48.34,Default,,0000,0000,0000,,Está bem!
+Dialogue: 0,0:15:57.70,0:16:02.06,Default,,0000,0000,0000,,Aqui é o coronel Yellow.\NQG, responda!
+Dialogue: 0,0:16:04.00,0:16:08.07,Default,,0000,0000,0000,,Conselheiro Black! O coronel\NYellow entrou em contato!
+Dialogue: 0,0:16:08.88,0:16:11.01,Default,,0000,0000,0000,,O que é?
+Dialogue: 0,0:16:11.01,0:16:13.76,Default,,0000,0000,0000,,O quê? Todos foram\Ndizimados fora você?
+Dialogue: 0,0:16:13.76,0:16:15.37,Default,,0000,0000,0000,,E a Esfera do Dragão?
+Dialogue: 0,0:16:15.72,0:16:19.16,Default,,0000,0000,0000,,Parece que caiu\Nem mãos inimigas.
+Dialogue: 0,0:16:19.16,0:16:21.43,Default,,0000,0000,0000,,Obtenha custe o que custar!
+Dialogue: 0,0:16:21.43,0:16:25.06,Default,,0000,0000,0000,,Se fracassar ainda mais,\Npode se considerar morto!
+Dialogue: 0,0:16:25.06,0:16:29.19,Italics,,0000,0000,0000,,Eu sei, mas ainda\Ntenho cartas na manga!
+Dialogue: 0,0:16:29.19,0:16:33.14,Default,,0000,0000,0000,,Como pode se considerar integrante\Nda grande Força Red Ribbon?
+Dialogue: 0,0:16:33.32,0:16:34.75,Default,,0000,0000,0000,,Comandante Red!
+Dialogue: 0,0:16:34.75,0:16:37.03,Default,,0000,0000,0000,,Me dá! Escuta bem, Yellow!
+Dialogue: 0,0:16:37.03,0:16:40.45,Italics,,0000,0000,0000,,Sim, comandante Red!
+Dialogue: 0,0:16:40.45,0:16:43.16,Default,,0000,0000,0000,,Você tem uma hora.
+Dialogue: 0,0:16:43.16,0:16:48.52,Default,,0000,0000,0000,,Se não roubar a Esfera do Dragão em\Numa hora, vou enviar o Tao Pai Pai!
+Dialogue: 0,0:16:48.52,0:16:50.05,Default,,0000,0000,0000,,Tao Pai Pai?
+Dialogue: 0,0:16:50.05,0:16:52.38,Default,,0000,0000,0000,,Tao Pai Pai, o assassino?
+Dialogue: 0,0:16:52.38,0:16:54.09,Default,,0000,0000,0000,,Uma medida tão drástica não...
+Dialogue: 0,0:16:54.09,0:16:58.97,Default,,0000,0000,0000,,Silêncio! Vou acabar com o\Ngaroto e todos de uma só vez.
+Dialogue: 0,0:16:58.97,0:17:03.44,Default,,0000,0000,0000,,Claro que se você fracassar, enviarei\NTao Pai Pai atrás de você também!
+Dialogue: 0,0:17:03.44,0:17:05.04,Italics,,0000,0000,0000,,Sim, senhor!
+Dialogue: 0,0:17:05.04,0:17:11.11,Default,,0000,0000,0000,,Ele tem um filho! Vou usar\Ncomo refém para obter a esfera!
+Dialogue: 0,0:17:26.27,0:17:30.27,Default,,0000,0000,0000,,Tenho que ficar forte\Ncomo o pai depressa!
+Dialogue: 0,0:17:51.07,0:17:53.13,Default,,0000,0000,0000,,Pai!
+Dialogue: 0,0:17:53.74,0:17:56.15,Default,,0000,0000,0000,,Ah, não. Upa!
+Dialogue: 0,0:17:56.15,0:17:59.14,Default,,0000,0000,0000,,Aonde ele foi?
+Dialogue: 0,0:18:07.04,0:18:08.86,Default,,0000,0000,0000,,O que está fazendo\Ncom o meu filho?
+Dialogue: 0,0:18:09.33,0:18:11.38,Default,,0000,0000,0000,,Aí está você!
+Dialogue: 0,0:18:11.38,0:18:14.21,Default,,0000,0000,0000,,Pai!
+Dialogue: 0,0:18:14.21,0:18:18.86,Default,,0000,0000,0000,,Se não quiser que a criança\Nmorra, entregue a sua esfera.
+Dialogue: 0,0:18:18.86,0:18:21.62,Default,,0000,0000,0000,,Jogue a esfera aqui, por ser?
+Dialogue: 0,0:18:22.35,0:18:24.62,Default,,0000,0000,0000,,Que falta de honra.
+Dialogue: 0,0:18:24.85,0:18:28.10,Default,,0000,0000,0000,,Parece que vai dar certo\Ndesta vez, não acha?
+Dialogue: 0,0:18:28.10,0:18:32.44,Default,,0000,0000,0000,,Mesmo que a gente roube, o verdadeiro\Nproblema é o pirralho chamado Son Goku.
+Dialogue: 0,0:18:32.44,0:18:36.11,Default,,0000,0000,0000,,Comandante! Son Goku está se aproximando\Nda localização do coronel Yellow
+Dialogue: 0,0:18:36.11,0:18:37.82,Default,,0000,0000,0000,,a uma velocidade tremenda!
+Dialogue: 0,0:18:40.66,0:18:45.15,Default,,0000,0000,0000,,Maldição, é muito\Nrápido! Ele já chegou?
+Dialogue: 0,0:18:45.62,0:18:49.04,Default,,0000,0000,0000,,A esfera está bem aqui.\NVenha que eu te dou!
+Dialogue: 0,0:18:49.04,0:18:52.00,Default,,0000,0000,0000,,Até parece. Você vai\Nme matar se eu descer.
+Dialogue: 0,0:18:52.00,0:18:54.15,Default,,0000,0000,0000,,Jogue aqui pra cima!
+Dialogue: 0,0:18:54.71,0:18:58.65,Default,,0000,0000,0000,,Ao contrário de vocês,\Neu não sou tão covarde.
+Dialogue: 0,0:19:02.10,0:19:03.85,Default,,0000,0000,0000,,Certo, por aqui...
+Dialogue: 0,0:19:03.85,0:19:07.67,Default,,0000,0000,0000,,Socorro! Pai!
+Dialogue: 0,0:19:08.89,0:19:09.67,Default,,0000,0000,0000,,O que foi isso?
+Dialogue: 0,0:19:15.07,0:19:17.36,Default,,0000,0000,0000,,Jogue logo aqui pra cima!
+Dialogue: 0,0:19:21.03,0:19:23.68,Default,,0000,0000,0000,,Já vi seu tipo de avião\Nem algum lugar...
+Dialogue: 0,0:19:24.12,0:19:25.69,Default,,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:19:26.45,0:19:29.81,Default,,0000,0000,0000,,Já sei, você é da\NForça Red Ribbon!
+Dialogue: 0,0:19:30.37,0:19:32.48,Default,,0000,0000,0000,,Será que esse é o garoto que...
+Dialogue: 0,0:19:37.53,0:19:38.36,Default,,0000,0000,0000,,Upa!
+Dialogue: 0,0:19:42.01,0:19:43.60,Default,,0000,0000,0000,,Peguei você!
+Dialogue: 0,0:19:55.19,0:19:56.13,Default,,0000,0000,0000,,E aí!
+Dialogue: 0,0:19:59.19,0:20:01.49,Default,,0000,0000,0000,,Perdemos contato!
+Dialogue: 0,0:20:01.49,0:20:05.20,Default,,0000,0000,0000,,Chame o Tao Pai Pai!
+Dialogue: 0,0:20:05.20,0:20:08.04,Default,,0000,0000,0000,,Mesmo que o garoto seja nosso\Ninimigo, fico com pena dele.
+Dialogue: 0,0:20:08.04,0:20:11.83,Default,,0000,0000,0000,,Que morte horrível\NTao Pai Pai dará a ele?
+Dialogue: 0,0:20:11.83,0:20:14.83,Default,,0000,0000,0000,,Ele é a máquina\Nmortífera suprema.
+Dialogue: 0,0:20:14.83,0:20:18.95,Default,,0000,0000,0000,,Inúmeras pessoas morreram\Nsem sequer encostar nele!
+Dialogue: 0,0:20:19.17,0:20:20.94,Default,,0000,0000,0000,,Traga o Tao Pai Pai aqui!
+Dialogue: 0,0:20:20.94,0:20:22.95,Default,,0000,0000,0000,,Sim, senhor!
+Dialogue: 0,0:20:26.18,0:20:29.02,Default,,0000,0000,0000,,Obrigado por\Nresgatar meu filho.
+Dialogue: 0,0:20:29.02,0:20:32.98,Default,,0000,0000,0000,,Eu só o resgatei enquanto dava uma\Nsurra no cara da Força Red Ribbon.
+Dialogue: 0,0:20:32.98,0:20:34.96,Default,,0000,0000,0000,,Obrigado, moço!
+Dialogue: 0,0:20:39.34,0:20:43.15,Default,,0000,0000,0000,,É isso! Você está com a\NEsfera do Dragão, moço!
+Dialogue: 0,0:20:43.15,0:20:46.85,Default,,0000,0000,0000,,Quero ver!
+Dialogue: 0,0:20:47.03,0:20:49.56,Default,,0000,0000,0000,,Você também\Ndeseja esta esfera?
+Dialogue: 0,0:20:50.16,0:20:56.57,Default,,0000,0000,0000,,Uma, duas, três, quatro!
+Dialogue: 0,0:20:57.04,0:20:59.71,Default,,0000,0000,0000,,Achei! É a esfera de 4 estrelas!
+Dialogue: 0,0:20:59.71,0:21:03.07,Default,,0000,0000,0000,,Achei a esfera do\Nvovô de 4 estrelas!
+Dialogue: 0,0:21:03.30,0:21:05.14,Default,,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:21:04.75,0:21:05.14,Top,,0000,0000,0000,,Viva!
+Dialogue: 0,0:21:05.14,0:21:08.08,Default,,0000,0000,0000,,O que é essa esfera?
+Dialogue: 0,0:21:05.14,0:21:08.08,Top,,0000,0000,0000,,Viva!
+Dialogue: 0,0:21:21.03,0:21:24.47,Default,,0000,0000,0000,,Ei, você tem ideia\Nde que lugar é aqui?
+Dialogue: 0,0:21:24.47,0:21:27.43,Default,,0000,0000,0000,,Se manda se não quiser morrer!
+Dialogue: 0,0:21:38.63,0:21:42.84,Default,,0000,0000,0000,,Esquecer o rosto de um oficial\Nsuperior é o cúmulo do cúmulo!
+Dialogue: 0,0:21:46.05,0:21:49.18,Default,,0000,0000,0000,,General Blue!
+Dialogue: 0,0:21:49.18,0:21:51.89,Default,,0000,0000,0000,,Abra logo o portão!
+Dialogue: 0,0:22:09.93,0:22:14.25,Default,,0000,0000,0000,,Tao Pai Pai, o maior assassino\Ndo mundo, a seu serviço!
+Dialogue: 0,0:22:14.25,0:22:19.94,Italics,,0000,0000,0000,,Finalmente Goku encontra a\Nesfera de 4 estrelas de seu avô.
+Dialogue: 0,0:22:20.13,0:22:24.26,Italics,,0000,0000,0000,,Mas mal sabe ele que\Num novo inimigo surgiu.
+Dialogue: 0,0:22:24.26,0:22:28.22,Italics,,0000,0000,0000,,Tao Pai Pai é tão\Nhabilidoso assim?
+Dialogue: 0,0:22:47.72,0:22:50.41,EndingPT,,0000,0000,0000,,Venha aqui, fantasia
+Dialogue: 0,0:22:47.72,0:22:50.41,EndingJP,,0000,0000,0000,,Oide FANTAJI
+Dialogue: 0,0:22:50.41,0:22:53.03,EndingPT,,0000,0000,0000,,Eu adoro um mistério
+Dialogue: 0,0:22:50.41,0:22:53.03,EndingJP,,0000,0000,0000,,suki sa MISUTERI
+Dialogue: 0,0:22:53.03,0:22:57.98,EndingPT,,0000,0000,0000,,Não vá esconder\Na sua juventude!
+Dialogue: 0,0:22:53.03,0:22:57.98,EndingJP,,0000,0000,0000,,Kimi no wakasa kakusa nai de
+Dialogue: 0,0:22:59.64,0:23:02.42,EndingPT,,0000,0000,0000,,Quero fazer o que é misterioso
+Dialogue: 0,0:22:59.64,0:23:02.42,EndingJP,,0000,0000,0000,,Fushigi shitakute
+Dialogue: 0,0:23:02.42,0:23:04.65,EndingPT,,0000,0000,0000,,Quero correr atrás de aventura
+Dialogue: 0,0:23:02.42,0:23:04.65,EndingJP,,0000,0000,0000,,Bouken shitakute
+Dialogue: 0,0:23:05.05,0:23:09.70,EndingPT,,0000,0000,0000,,Todo mundo não vê a hora de ir!
+Dialogue: 0,0:23:05.05,0:23:09.70,EndingJP,,0000,0000,0000,,Dare mo minna uzu-uzu shiteru
+Dialogue: 0,0:23:11.22,0:23:15.16,EndingPT,,0000,0000,0000,,Se você agir feito\Nadulto e desistir
+Dialogue: 0,0:23:11.22,0:23:15.16,EndingJP,,0000,0000,0000,,Otona no furi shite akiramecha
+Dialogue: 0,0:23:17.23,0:23:23.04,EndingPT,,0000,0000,0000,,Você nunca desvendará\No mistério do milagre
+Dialogue: 0,0:23:17.23,0:23:23.04,EndingJP,,0000,0000,0000,,Kiseki no nazo nado tokenai yo
+Dialogue: 0,0:23:23.23,0:23:34.35,EndingPT,,0000,0000,0000,,Vá e viva de forma\Nmais intensa e forte!
+Dialogue: 0,0:23:23.23,0:23:34.35,EndingJP,,0000,0000,0000,,Motto WAIRUDO ni \Nmotto takumashiku ikite goran
+Dialogue: 0,0:23:34.35,0:23:41.60,EndingPT,,0000,0000,0000,,Vou te dar um romance
+Dialogue: 0,0:23:34.35,0:23:41.60,EndingJP,,0000,0000,0000,,ROMANTIKKU Ageru yo!
+Dialogue: 0,0:23:42.04,0:23:46.52,EndingPT,,0000,0000,0000,,Se você me mostrar sua\Nverdadeira coragem
+Dialogue: 0,0:23:42.04,0:23:46.52,EndingJP,,0000,0000,0000,,Hontou no yuuki wo misete kuretara
+Dialogue: 0,0:23:46.52,0:23:53.91,EndingPT,,0000,0000,0000,,Vou te dar um romance
+Dialogue: 0,0:23:46.52,0:23:53.91,EndingJP,,0000,0000,0000,,ROMANTIKKU Ageru yo!
+Dialogue: 0,0:23:53.91,0:24:02.56,EndingPT,,0000,0000,0000,,Vou dar um sonho brilhante e\Nreluzente ao seu coração acelerado!
+Dialogue: 0,0:23:53.91,0:24:02.56,EndingJP,,0000,0000,0000,,Tokimeku mune ni \Nkirakira hikatta yume wo ageru yo

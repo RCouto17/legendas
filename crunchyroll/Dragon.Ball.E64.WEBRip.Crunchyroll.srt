@@ -1,0 +1,1208 @@
+1
+00:00:11,840 --> 00:00:15,490
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:11,840 --> 00:00:15,490
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:15,490 --> 00:00:19,010
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:15,490 --> 00:00:19,010
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:19,010 --> 00:00:22,590
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:19,010 --> 00:00:22,590
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:22,590 --> 00:00:25,760
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:22,590 --> 00:00:25,760
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:25,760 --> 00:00:28,980
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:25,760 --> 00:00:28,980
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:28,980 --> 00:00:36,770
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:28,980 --> 00:00:36,770
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:36,770 --> 00:00:39,990
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:36,770 --> 00:00:39,990
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:39,990 --> 00:00:43,940
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+16
+00:00:39,990 --> 00:00:43,940
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+17
+00:00:43,940 --> 00:00:50,840
+<i>Kono no yo doko ka de hikatteiru</i>
+
+18
+00:00:43,940 --> 00:00:50,840
+Em algum lugar do
+mundo elas vão brilhar
+
+19
+00:00:50,840 --> 00:00:54,420
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+20
+00:00:50,840 --> 00:00:54,420
+Vamos lá encontrá-las, rapaz
+
+21
+00:00:54,420 --> 00:00:57,430
+<i>Youkai henka mo buttobashi</i>
+
+22
+00:00:54,420 --> 00:00:57,430
+Enquanto passamos por cima
+de monstros e demônios
+
+23
+00:00:57,430 --> 00:01:04,980
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+24
+00:00:57,430 --> 00:01:04,980
+E na nuvem voadora
+nós vamos voar!
+
+25
+00:01:04,980 --> 00:01:08,810
+<i>Let's try try try Makafushigi</i>
+
+26
+00:01:04,980 --> 00:01:08,810
+Vamos experimentar
+esse profundo mistério
+
+27
+00:01:08,810 --> 00:01:11,980
+<i>Sora wo kakenuke yama wo koe</i>
+
+28
+00:01:08,810 --> 00:01:11,980
+Avançando pelos céus,
+superando as montanhas
+
+29
+00:01:11,980 --> 00:01:15,820
+<i>Let's fly fly fly Daibouken</i>
+
+30
+00:01:11,980 --> 00:01:15,820
+Vamos voar rumo a
+uma grande aventura
+
+31
+00:01:15,820 --> 00:01:22,850
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+32
+00:01:15,820 --> 00:01:22,850
+A nossa jornada
+estranha vai começar!
+
+33
+00:01:22,850 --> 00:01:26,410
+<i>Te ni irero! DRAGON BALL</i>
+
+34
+00:01:22,850 --> 00:01:26,410
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+35
+00:01:26,410 --> 00:01:30,030
+<i>Sekai de ittou degowai chansu</i>
+
+36
+00:01:26,410 --> 00:01:30,030
+Uma das apostas mais
+formidáveis do mundo
+
+37
+00:01:30,030 --> 00:01:33,610
+<i>Oikakero! DRAGON BALL</i>
+
+38
+00:01:30,030 --> 00:01:33,610
+Vamos persegui-las!
+As Esferas do Dragão!
+
+39
+00:01:33,610 --> 00:01:36,840
+<i>Sekai de ittou ikashita dorama</i>
+
+40
+00:01:33,610 --> 00:01:36,840
+Um dos mistérios mais
+dramáticos do mundo
+
+41
+00:01:36,840 --> 00:01:40,200
+<i>Kono yo wa dekkai takarajima</i>
+
+42
+00:01:36,840 --> 00:01:40,200
+A vida é uma grande
+ilha do tesouro
+
+43
+00:01:40,200 --> 00:01:47,520
+<i>Sou sa Ima koso adobenchaa!</i>
+
+44
+00:01:40,200 --> 00:01:47,520
+Isso mesmo!
+A aventura começou!
+
+45
+00:01:54,280 --> 00:01:55,850
+<i>Apesar de ter sido derrotado antes,</i>
+
+46
+00:01:55,850 --> 00:02:02,860
+<i>Goku continuou a sua intensa batalha
+contra o terrível assassino Tao Pai Pai.</i>
+
+47
+00:02:03,620 --> 00:02:08,070
+<i>Então, Tao Pai Pai começou
+a escalar a Torre Karin</i>
+
+48
+00:02:08,070 --> 00:02:11,170
+<i>para beber da Água Super Sagrada</i>
+
+49
+00:02:11,170 --> 00:02:14,530
+<i>e se tornar ainda mais poderoso!</i>
+
+50
+00:02:28,940 --> 00:02:36,800
+Tao Pai Pai superior
+
+51
+00:02:30,730 --> 00:02:34,570
+<i>Tao Pai Pai superior.</i>
+
+52
+00:02:54,670 --> 00:02:58,700
+<i>Maldição! Quanto tempo levará 
+até eu chegar ao topo?</i>
+
+53
+00:03:09,380 --> 00:03:13,400
+Goku, tudo bem deixar aquele 
+assassino beber a Água Super Sagrada?
+
+54
+00:03:13,400 --> 00:03:16,320
+Se o Tao Pai Pai vai beber a 
+Água Sagrada, então eu vou—
+
+55
+00:03:16,320 --> 00:03:18,140
+Você tem outro truque na manga?!
+
+56
+00:03:18,640 --> 00:03:20,140
+Eu vou comer alguma coisa!
+
+57
+00:03:34,150 --> 00:03:37,170
+Que delícia!
+
+58
+00:03:37,170 --> 00:03:39,990
+Sua barriga tá doendo, Upa?
+
+59
+00:03:40,670 --> 00:03:45,000
+A essa hora, o Tao Pai Pai já deve 
+ter chegado no topo da torre...
+
+60
+00:03:45,430 --> 00:03:48,670
+Não se preocupa com isso! Vem comer!
+
+61
+00:03:49,310 --> 00:03:52,350
+Você ainda tem outro truque
+na manga, não tem?
+
+62
+00:03:53,410 --> 00:03:55,550
+Está tão calmo...
+
+63
+00:03:56,110 --> 00:03:57,130
+Upa!
+
+64
+00:03:57,130 --> 00:03:59,840
+Existe algo ainda mais poderoso 
+que a Água Super Sagrada?!
+
+65
+00:04:01,320 --> 00:04:03,390
+Eu vou é tirar uma sonequinha...
+
+66
+00:04:20,340 --> 00:04:23,910
+<i>Como o Goku consegue dormir 
+sem se preocupar com a situação?</i>
+
+67
+00:04:48,370 --> 00:04:50,330
+<i>Não se preocupa com isso!</i>
+
+68
+00:04:50,330 --> 00:04:54,330
+<i>Não leve tão a sério! 
+Dá pra viver sem piupiu e bolas!</i>
+
+69
+00:04:55,670 --> 00:04:59,750
+<i>"Piupiu"? 
+O que será que ele está sonhando?</i>
+
+70
+00:05:02,510 --> 00:05:05,200
+O que foi, Bulma?
+
+71
+00:05:05,840 --> 00:05:07,430
+Bulma...?
+
+72
+00:05:16,350 --> 00:05:17,710
+Entendo...
+
+73
+00:05:17,710 --> 00:05:22,720
+A Misteriosa Filosofia Oriental
+
+74
+00:05:19,480 --> 00:05:22,720
+É bem profundo mesmo. 
+Estou aprendendo bastante!
+
+75
+00:05:24,150 --> 00:05:25,010
+Acabei!
+
+76
+00:05:27,160 --> 00:05:29,220
+Terminei o novo Radar do Dragão!
+
+77
+00:05:29,220 --> 00:05:31,930
+Ah, você terminou? Deixe-me ver...
+
+78
+00:05:31,930 --> 00:05:32,950
+Aqui.
+
+79
+00:05:35,620 --> 00:05:36,570
+Parado aí!
+
+80
+00:05:41,840 --> 00:05:43,510
+Oh, você está bem?!
+
+81
+00:05:53,310 --> 00:05:54,640
+Seu safado!
+
+82
+00:05:54,640 --> 00:05:55,930
+Do que você está falando?!
+
+83
+00:05:55,930 --> 00:05:58,810
+Estou aprendendo sobre a anatomia humana!
+
+84
+00:05:58,810 --> 00:06:02,320
+Francamente! Como consegue 
+ler um livro como esse
+
+85
+00:06:02,320 --> 00:06:05,510
+quando dois de seus alunos desapareceram?!
+
+86
+00:06:06,030 --> 00:06:09,520
+Mas é raro você fazer alguma 
+coisa que não funciona...
+
+87
+00:06:09,910 --> 00:06:16,520
+Funciona, sim! Alguém deve estar 
+causando interferência no radar.
+
+88
+00:06:38,810 --> 00:06:42,360
+Transmitir interferência das esferas 
+é ótimo, mas como faremos
+
+89
+00:06:42,360 --> 00:06:46,910
+para encontrar as Esferas do Dragão 
+sem saber do paradeiro de Goku?
+
+90
+00:06:46,910 --> 00:06:50,930
+Não se preocupe com ele. 
+Deixe isso nas mãos de Tao Pai Pai.
+
+91
+00:06:51,410 --> 00:06:54,480
+Você não acha que está demorando demais?
+
+92
+00:06:54,480 --> 00:06:58,560
+Mas Tao Pai Pai conseguirá as 
+Esferas do Dragão, tenho certeza.
+
+93
+00:07:05,840 --> 00:07:07,030
+Vejo alguma coisa!
+
+94
+00:07:07,550 --> 00:07:09,010
+É o topo da torre!
+
+95
+00:07:12,290 --> 00:07:15,560
+Por que eles construíram uma 
+torre tão alta como esta?
+
+96
+00:07:20,310 --> 00:07:21,920
+Essa é a Água Super Sagrada?
+
+97
+00:07:31,700 --> 00:07:33,270
+O que é isso?
+
+98
+00:07:33,660 --> 00:07:38,400
+Veio refletir sobre o poço 
+de pecados que você cometeu?
+
+99
+00:07:40,500 --> 00:07:41,960
+Quem é você?!
+
+100
+00:07:41,960 --> 00:07:44,080
+Sou o mestre desta torre.
+
+101
+00:07:44,080 --> 00:07:45,900
+Como é? <i>Você </i>é o mestre?!
+
+102
+00:07:46,920 --> 00:07:50,280
+Mas ter conseguido subir até aqui 
+foi impressionante, preciso dizer.
+
+103
+00:07:51,340 --> 00:07:53,740
+Para um gato, você se acha bastante.
+
+104
+00:07:53,740 --> 00:07:56,290
+<i>Você </i>que se acha bastante, 
+para um assassino...
+
+105
+00:07:57,180 --> 00:07:59,470
+Seu velho maldito!
+
+106
+00:07:59,470 --> 00:08:02,290
+Mate-me agora e nunca poderá 
+beber da Água Super Sagrada!
+
+107
+00:08:05,190 --> 00:08:06,550
+Ande logo e me dê.
+
+108
+00:08:08,190 --> 00:08:12,390
+Sente-se ali, de joelhos, 
+e não olhe para cá.
+
+109
+00:08:12,950 --> 00:08:14,850
+Está me dando ordens?
+
+110
+00:08:15,370 --> 00:08:18,850
+Eu fiz um juramento de não preparar a Água
+Super Sagrada com as pessoas olhando.
+
+111
+00:08:18,850 --> 00:08:20,950
+Seu gato insolente...
+
+112
+00:08:23,160 --> 00:08:25,200
+Eu disse para sentar de joelhos!
+
+113
+00:08:26,330 --> 00:08:30,070
+As coisas ficarão feias para você 
+se me der algo que não funciona!
+
+114
+00:08:43,140 --> 00:08:44,750
+Pronto.
+
+115
+00:08:46,980 --> 00:08:48,760
+Esta é a Água Super Sagrada?
+
+116
+00:08:49,150 --> 00:08:52,430
+Sim. O Goku bebeu isso e ficou mais forte.
+
+117
+00:09:00,160 --> 00:09:01,520
+O que você está fazendo?!
+
+118
+00:09:02,540 --> 00:09:04,400
+Acho que farei um teste antes de beber isso.
+
+119
+00:09:04,400 --> 00:09:05,730
+Quer lutar contra mim?!
+
+120
+00:09:05,730 --> 00:09:08,460
+Preste bem atenção, o meu 
+oponente será aquele pilar!
+
+121
+00:09:08,750 --> 00:09:10,860
+<i>Dodonpa</i>!
+
+122
+00:09:18,350 --> 00:09:19,850
+É um pilar bem resistente.
+
+123
+00:09:19,850 --> 00:09:23,960
+É feito da pedra dos céus. 
+Não será fácil derrubá-lo.
+
+124
+00:09:24,520 --> 00:09:26,810
+Se essa Água Super Sagrada for real,
+
+125
+00:09:26,810 --> 00:09:29,630
+então eu deveria ser capaz de 
+destruí-lo assim que a bebesse!
+
+126
+00:09:30,070 --> 00:09:34,150
+Achava que você só fosse forte, 
+mas vejo que também é esperto.
+
+127
+00:09:44,750 --> 00:09:46,020
+É aquela criança?
+
+128
+00:09:46,410 --> 00:09:49,170
+Será que tudo ficará bem?
+
+129
+00:09:49,170 --> 00:09:54,030
+Se o Tao Pai Pai beber a Água Super
+Sagrada e ficar ainda mais forte...
+
+130
+00:09:56,340 --> 00:10:01,140
+O Goku será morto assim como o meu pai...
+
+131
+00:10:03,640 --> 00:10:06,170
+Aquele garoto está em um lugar perfeito.
+
+132
+00:10:06,560 --> 00:10:10,150
+Se esta Água Super Sagrada 
+for algum truque barato,
+
+133
+00:10:10,150 --> 00:10:12,170
+então jogarei esse jarro 
+bem na cabeça dele!
+
+134
+00:10:12,980 --> 00:10:15,930
+Por que matar uma criança inocente?
+
+135
+00:10:15,930 --> 00:10:19,570
+Nada acontecerá se essa 
+água for verdadeira.
+
+136
+00:10:26,500 --> 00:10:28,330
+É hora de tentar!
+
+137
+00:10:28,330 --> 00:10:30,880
+Mas não achou aquele pilar 
+resistente demais?
+
+138
+00:10:30,880 --> 00:10:32,780
+Vamos descobrir isso agora!
+
+139
+00:10:36,780 --> 00:10:39,590
+<i>Dodonpa</i>!
+
+140
+00:10:43,080 --> 00:10:46,640
+Como ousa me enganar?!
+
+141
+00:10:47,350 --> 00:10:48,520
+Acalme-se!
+
+142
+00:10:50,100 --> 00:10:52,960
+Vai me dar a Água Super Sagrada verdadeira agora?!
+
+143
+00:10:52,960 --> 00:10:56,440
+Escute bem! A Água Super Sagrada 
+é uma água normal.
+
+144
+00:10:56,440 --> 00:10:59,470
+Essa é a exata mesma água que o Goku bebeu.
+
+145
+00:10:59,470 --> 00:11:03,680
+Aquela peste provavelmente ficará mais 
+feliz ao se juntar com o seu pai morto!
+
+146
+00:11:03,680 --> 00:11:04,940
+Poder mágico!
+
+147
+00:11:12,670 --> 00:11:16,840
+Viu só? A Água Super Sagrada 
+funciona, só demora um pouco.
+
+148
+00:11:20,130 --> 00:11:22,760
+Eu finalmente derrubei o 
+pilar de pedra dos céus!
+
+149
+00:11:22,760 --> 00:11:24,790
+Agora posso derrotar o Goku!
+
+150
+00:11:25,310 --> 00:11:31,480
+<i>Upa está a salvo agora, mas temo 
+ter dado confiança ao Tao Pai Pai...</i>
+
+151
+00:11:34,800 --> 00:11:36,050
+Espera!
+
+152
+00:11:42,660 --> 00:11:44,950
+Suba nela para descer.
+
+153
+00:11:44,950 --> 00:11:46,050
+Nisso aí?
+
+154
+00:11:46,790 --> 00:11:49,000
+Subir até aqui deve ter sido bem cansativo.
+
+155
+00:11:49,000 --> 00:11:52,190
+Você não quer se cansar antes 
+de uma luta importante, não é?
+
+156
+00:11:56,250 --> 00:11:59,710
+Parece que o fim do Goku está próximo...
+
+157
+00:12:26,830 --> 00:12:29,540
+Darei algum jeito de 
+criar um Radar do Dragão
+
+158
+00:12:29,540 --> 00:12:32,160
+que não dará ruim por causa de 
+um sinal de interferência idiota!
+
+159
+00:12:32,160 --> 00:12:34,780
+Mas não precisa se preocupar 
+com o Goku, já te falei!
+
+160
+00:12:34,780 --> 00:12:37,940
+Mas estou com um sentimento ruim no 
+meu peito desde hoje de manhã...
+
+161
+00:12:38,880 --> 00:12:42,740
+N-No seu peito?! Me mostra!
+
+162
+00:12:51,310 --> 00:12:56,590
+Um, dois... Um, dois...
+
+163
+00:12:56,940 --> 00:13:00,480
+Me sinto ótimo agora que 
+comi e dormi bastante!
+
+164
+00:13:00,480 --> 00:13:03,530
+Mas o Tao Pai Pai provavelmente 
+bebeu a Água Super Sagrada
+
+165
+00:13:03,530 --> 00:13:04,740
+e ficou ainda mais forte...
+
+166
+00:13:04,740 --> 00:13:06,260
+Aquilo é só uma água normal!
+
+167
+00:13:06,280 --> 00:13:08,850
+O quê?! É sério? 
+É apenas uma água normal?!
+
+168
+00:13:09,200 --> 00:13:12,190
+Eu bebi, posso te dar certeza!
+
+169
+00:13:12,190 --> 00:13:14,080
+Mas...
+
+170
+00:13:36,710 --> 00:13:40,980
+<i>Que velhote esquisito. 
+Me dando uma nuvem para voar assim...</i>
+
+171
+00:13:40,980 --> 00:13:44,050
+<i>Mas graças a ele, posso economizar 
+tempo e energia para descer.</i>
+
+172
+00:13:56,250 --> 00:13:59,670
+<i>Fazer aquele assassino descer a torre 
+com a sua própria força</i>
+
+173
+00:13:59,670 --> 00:14:03,630
+<i>o deixaria mais forte... 
+Não posso permitir isso.</i>
+
+174
+00:14:22,270 --> 00:14:23,940
+Tao Pai Pai...
+
+175
+00:14:26,030 --> 00:14:28,390
+Aquele velhote! Ele vai pagar por isso!
+
+176
+00:14:28,660 --> 00:14:32,030
+Tao Pai Pai! Você foi rápido mesmo!
+
+177
+00:14:32,030 --> 00:14:34,080
+Eu sou um homem impaciente!
+
+178
+00:14:34,080 --> 00:14:37,400
+Não precisa de tanta pressa. 
+Por que não descansa um pouquinho?
+
+179
+00:14:38,210 --> 00:14:39,710
+Não brinque comigo!
+
+180
+00:14:39,710 --> 00:14:43,400
+Venha, mostrarei a você 
+a minha verdadeira força!
+
+181
+00:14:43,400 --> 00:14:44,450
+Você quer lutar?!
+
+182
+00:14:51,180 --> 00:14:53,140
+Cuidado, Goku...
+
+183
+00:14:53,140 --> 00:14:56,980
+Tá! Darei o troco no assassino do seu pai, 
+pode ter certeza!
+
+184
+00:14:56,980 --> 00:14:58,920
+Tá bom, mas não morra!
+
+185
+00:15:01,020 --> 00:15:02,760
+Quais serão as suas últimas palavras?
+
+186
+00:15:03,150 --> 00:15:06,550
+Eu vou falar o que me der vontade!
+
+187
+00:15:10,030 --> 00:15:12,310
+Receba o poder da Água Super Sagrada!
+
+188
+00:15:46,320 --> 00:15:48,070
+O que aconteceu, Goku?!
+
+189
+00:15:48,070 --> 00:15:50,430
+Por que é você quem está 
+apanhando nessa luta?!
+
+190
+00:16:07,280 --> 00:16:08,570
+É o seu fim!
+
+191
+00:16:11,760 --> 00:16:13,890
+G-Goku!
+
+192
+00:16:54,780 --> 00:16:57,790
+I-Isso não é bom...
+
+193
+00:17:02,230 --> 00:17:05,180
+Parece que aquela Água Super Sagrada 
+realmente fez alguma coisa.
+
+194
+00:17:07,310 --> 00:17:09,270
+Ele finalmente morreu!
+
+195
+00:17:09,270 --> 00:17:11,820
+Quando ele perceber o quanto 
+um assassino profissional pode ser cruel,
+
+196
+00:17:11,820 --> 00:17:13,990
+já será bem tarde para ele!
+
+197
+00:17:23,830 --> 00:17:27,230
+Nada mau. Deu pra sentir o seu golpe.
+
+198
+00:17:28,610 --> 00:17:30,240
+Goku!
+
+199
+00:17:30,240 --> 00:17:33,030
+V-Você é algum tipo de monstro?!
+
+200
+00:17:34,050 --> 00:17:37,620
+Eu já entendi o que você 
+fez! Agora é a minha vez!
+
+201
+00:17:40,010 --> 00:17:41,330
+Seu moleque insolente!
+
+202
+00:18:10,280 --> 00:18:12,780
+Impressionante.
+
+203
+00:18:13,050 --> 00:18:14,510
+Goku!
+
+204
+00:18:26,270 --> 00:18:29,310
+<i>Q-Que velocidade...</i>
+
+205
+00:18:29,310 --> 00:18:30,520
+<i>Inacreditável!</i>
+
+206
+00:18:30,520 --> 00:18:32,900
+<i>Isso não pode estar acontecendo...</i>
+
+207
+00:18:36,030 --> 00:18:37,550
+Lá vou eu de novo!
+
+208
+00:18:44,660 --> 00:18:46,560
+<i>S-Se continuar assim, eu vou perder!</i>
+
+209
+00:18:46,830 --> 00:18:48,330
+Me perdoe!
+
+210
+00:18:50,110 --> 00:18:53,500
+Eu sinto muito! Me perdoe!
+
+211
+00:18:53,500 --> 00:18:56,670
+Por favor, eu te imploro!
+
+212
+00:18:56,670 --> 00:18:59,120
+Eu nunca mais cometerei 
+atrocidades em minha vida!
+
+213
+00:19:07,480 --> 00:19:11,630
+Por favor, eu te imploro! Tudo bem?
+
+214
+00:19:11,630 --> 00:19:16,150
+Eu não sei o que acho disso...
+O que devemos fazer?
+
+215
+00:19:21,990 --> 00:19:23,810
+Você caiu!
+
+216
+00:19:26,490 --> 00:19:27,520
+Uma bomba!
+
+217
+00:19:28,270 --> 00:19:29,420
+Adeus!
+
+218
+00:19:30,870 --> 00:19:32,540
+Morra!
+
+219
+00:20:05,200 --> 00:20:06,990
+Conseguimos, Upa!
+
+220
+00:20:06,990 --> 00:20:09,200
+Eba! Eba!
+
+221
+00:20:18,000 --> 00:20:19,420
+Comandante!
+
+222
+00:20:19,420 --> 00:20:20,570
+O que foi?!
+
+223
+00:20:22,010 --> 00:20:25,010
+O sinal do transmissor que
+penduramos secretamente no
+
+224
+00:20:25,010 --> 00:20:27,250
+cinto de Tao Pai Pai desapareceu!
+
+225
+00:20:27,810 --> 00:20:29,100
+Significa que...
+
+226
+00:20:29,100 --> 00:20:31,520
+Ele deve ter sido exterminado.
+
+227
+00:20:34,270 --> 00:20:36,400
+Consegui!
+
+228
+00:20:41,260 --> 00:20:45,160
+Terminei o meu Radar do Dragão que não 
+será afetado por interferência alguma!
+
+229
+00:20:45,160 --> 00:20:49,440
+Que maravilhoso. Que tal tomarmos 
+um banho juntos para comemorar?
+
+230
+00:20:50,450 --> 00:20:52,110
+Parece ótimo.
+
+231
+00:20:57,170 --> 00:20:59,130
+J-Já esperava por isso...
+
+232
+00:21:04,970 --> 00:21:08,600
+Hã? Tem duas esferas aparecendo aqui.
+
+233
+00:21:09,470 --> 00:21:13,810
+Significa que essas duas 
+esferas do dragão...
+
+234
+00:21:13,810 --> 00:21:15,190
+Faz sentido!
+
+235
+00:21:18,230 --> 00:21:21,360
+Esse sinal deve ser do pessoal da Red Ribbon!
+
+236
+00:21:23,320 --> 00:21:27,320
+Perfeito! Vou acabar com 
+eles enquanto estou aqui!
+
+237
+00:21:27,320 --> 00:21:28,830
+V-Você só pode estar brincando...
+
+238
+00:21:28,830 --> 00:21:32,980
+Enfrentar a Red Ribbon inteira 
+é demais até para você, Goku!
+
+239
+00:21:34,120 --> 00:21:38,610
+Mas não tenho como pegar as esferas 
+se não for assim, né?
+
+240
+00:21:40,170 --> 00:21:41,950
+Se ficar perigoso, 
+fuja imediatamente. Tudo bem?
+
+241
+00:21:42,630 --> 00:21:44,880
+Não se preocupa, eu darei um jeito!
+
+242
+00:21:45,630 --> 00:21:46,990
+Nuvem Voadora!
+
+243
+00:21:55,980 --> 00:21:58,560
+Beleza. Você fica aqui, Upa!
+
+244
+00:21:58,560 --> 00:22:03,130
+Prometo pegar todas as Esferas do Dragão 
+e trazer seu pai de volta à vida!
+
+245
+00:22:04,030 --> 00:22:04,820
+Tá bom!
+
+246
+00:22:04,820 --> 00:22:07,140
+Se cuida, Goku!
+
+247
+00:22:07,150 --> 00:22:08,200
+Pode deixar!
+
+248
+00:22:15,410 --> 00:22:17,540
+<i>Qual será o destino de Goku,</i>
+
+249
+00:22:17,540 --> 00:22:23,150
+<i>que está prestes a enfrentar 
+a Força Red Ribbon sozinho,</i>
+
+250
+00:22:23,510 --> 00:22:26,160
+<i>na sua busca pelas Esferas do Dragão?!</i>
+
+251
+00:22:26,550 --> 00:22:30,140
+<i>Descubra no próximo episódio!</i>
+
+252
+00:22:47,760 --> 00:22:50,410
+Venha aqui, fantasia
+
+253
+00:22:47,760 --> 00:22:50,410
+<i>Oide FANTAJI</i>
+
+254
+00:22:50,410 --> 00:22:53,030
+Eu adoro um mistério
+
+255
+00:22:50,410 --> 00:22:53,030
+<i>suki sa MISUTERI</i>
+
+256
+00:22:53,030 --> 00:22:59,420
+Não vá esconder
+a sua juventude!
+
+257
+00:22:53,030 --> 00:22:59,420
+<i>Kimi no wakasa kakusa nai de</i>
+
+258
+00:22:59,420 --> 00:23:02,420
+Quero fazer o que é misterioso
+
+259
+00:22:59,420 --> 00:23:02,420
+<i>Fushigi shitakute</i>
+
+260
+00:23:02,420 --> 00:23:05,050
+Quero correr atrás de aventura
+
+261
+00:23:02,420 --> 00:23:05,050
+<i>Bouken shitakute</i>
+
+262
+00:23:05,050 --> 00:23:11,080
+Todo mundo não vê a hora de ir!
+
+263
+00:23:05,050 --> 00:23:11,080
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+264
+00:23:11,080 --> 00:23:17,230
+Se você agir feito
+adulto e desistir
+
+265
+00:23:11,080 --> 00:23:17,230
+<i>Otona no furi shite akiramecha</i>
+
+266
+00:23:17,230 --> 00:23:23,090
+Você nunca desvendará
+o mistério do milagre
+
+267
+00:23:17,230 --> 00:23:23,090
+<i>Kiseki no nazo nado tokenai yo</i>
+
+268
+00:23:23,090 --> 00:23:34,410
+Vá e viva de forma
+mais intensa e forte!
+
+269
+00:23:23,090 --> 00:23:34,410
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+270
+00:23:34,410 --> 00:23:42,040
+Vou te dar um romance
+
+271
+00:23:34,410 --> 00:23:42,040
+<i>ROMANTIKKU Ageru yo!</i>
+
+272
+00:23:42,040 --> 00:23:46,570
+Se você me mostrar sua
+verdadeira coragem
+
+273
+00:23:42,040 --> 00:23:46,570
+<i>Hontou no yuuki wo misete kuretara</i>
+
+274
+00:23:46,570 --> 00:23:53,950
+Vou te dar um romance
+
+275
+00:23:46,570 --> 00:23:53,950
+<i>ROMANTIKKU Ageru yo!</i>
+
+276
+00:23:53,950 --> 00:24:02,560
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+277
+00:23:53,950 --> 00:24:02,560
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>
