@@ -1,1457 +1,1331 @@
 1
 00:00:10,570 --> 00:00:14,070
-Vamos lá encontrá-las, rapaz
+<font face="Avenir Black" size="33">Vamos pegar as Esferas do Dragão!</font>
 
 2
 00:00:10,570 --> 00:00:14,070
-Vamos lá encontrá-las, rapaz
+<font face="Avenir Black" size="33">Tsukamou ze! DRAGON BALL</font>
 
 3
 00:00:14,070 --> 00:00:17,540
-E na nuvem voadora
-nós vamos voar!
+<font face="Avenir Black" size="33">Um dos segredos mais impressionantes do mundo</font>
 
 4
 00:00:14,070 --> 00:00:17,540
-E na nuvem voadora
-nós vamos voar!
+<font face="Avenir Black" size="33">Sekai de ittou suriru na himitsu</font>
 
 5
 00:00:17,540 --> 00:00:21,080
-E na nuvem voadora
-nós vamos voar!
+<font face="Avenir Black" size="33">Vamos procurar as Esferas do Dragão!</font>
 
 6
 00:00:17,540 --> 00:00:21,080
-E na nuvem voadora
-nós vamos voar!
+<font face="Avenir Black" size="33">Sagasou ze! DRAGON BALL</font>
 
 7
 00:00:21,080 --> 00:00:24,410
-Let's try try try Makafushigi
+<font face="Avenir Black" size="33">Um dos milagres mais encantadores do mundo</font>
 
 8
 00:00:21,080 --> 00:00:24,410
-Let's try try try Makafushigi
+<font face="Avenir Black" size="33">Sekai de ittou yukai na kiseki</font>
 
 9
 00:00:24,420 --> 00:00:27,880
-Let's try try try Makafushigi
+<font face="Avenir Black" size="33">A vida é uma grande ilha do tesouro</font>
 
 10
 00:00:24,420 --> 00:00:27,880
-Let's try try try Makafushigi
+<font face="Avenir Black" size="33">Kono yo wa dekkai takarajima</font>
 
 11
 00:00:27,890 --> 00:00:33,520
-Sora wo kakenuke yama wo koe
+<font face="Avenir Black" size="33">Isso mesmo! A aventura começou!</font>
 
 12
 00:00:27,890 --> 00:00:33,520
-Sora wo kakenuke yama wo koe
+<font face="Avenir Black" size="33">Sou sa Ima koso adobenchaa!</font>
 
 13
 00:00:35,490 --> 00:00:39,030
-Fushigi na tabi ga hajimaru ze
+<font face="Avenir Black" size="33">O amor que bate no peito faz GISSIRI</font>
 
 14
 00:00:35,490 --> 00:00:39,030
-Fushigi na tabi ga hajimaru ze
+<font face="Avenir Black" size="33">Mune waku-waku no ai ga GISSIRI</font>
 
 15
 00:00:39,030 --> 00:00:42,570
-Te ni irero! DRAGON BALL
+<font face="Avenir Black" size="33">Uma chuva de sonhos multicoloridos faz DOSSARI</font>
 
 16
 00:00:39,030 --> 00:00:42,570
-Te ni irero! DRAGON BALL
+<font face="Avenir Black" size="33">Iro tori-dori no yume ga DOSSARI</font>
 
 17
 00:00:42,570 --> 00:00:49,540
-Te ni irero! DRAGON BALL
+<font face="Avenir Black" size="33">Em algum lugar do mundo elas vão brilhar</font>
 
 18
 00:00:42,570 --> 00:00:49,540
-Te ni irero! DRAGON BALL
+<font face="Avenir Black" size="33">Kono no yo doko ka de hikatteiru</font>
 
 19
 00:00:49,540 --> 00:00:52,370
-Oikakero! DRAGON BALL
+<font face="Avenir Black" size="33">Vamos lá encontrá-las, rapaz</font>
 
 20
 00:00:49,540 --> 00:00:52,370
-Oikakero! DRAGON BALL
+<font face="Avenir Black" size="33">Soitsu mitsuke ni yukou ze BOY</font>
 
 21
 00:00:53,210 --> 00:00:56,310
-Sekai de ittou ikashita dorama
+<font face="Avenir Black" size="33">Enquanto passamos por cima de monstros e demônios</font>
 
 22
 00:00:53,210 --> 00:00:56,310
-Sekai de ittou ikashita dorama
+<font face="Avenir Black" size="33">Youkai henka mo buttobashi</font>
 
 23
 00:00:56,310 --> 00:01:02,740
-Kono yo wa dekkai takarajima
+<font face="Avenir Black" size="33">E na nuvem voadora nós vamos voar!</font>
 
 24
 00:00:56,310 --> 00:01:02,740
-Kono yo wa dekkai takarajima
+<font face="Avenir Black" size="33">Kumo no mashin de kyou mo tobu no sa</font>
 
 25
 00:01:03,720 --> 00:01:07,220
-Sou sa Ima koso adobenchaa!
+<font face="Avenir Black" size="33">Vamos experimentar esse profundo mistério</font>
 
 26
 00:01:03,720 --> 00:01:07,220
-Sou sa Ima koso adobenchaa!
+<font face="Avenir Black" size="33">Let's try try try Makafushigi</font>
 
 27
 00:01:07,220 --> 00:01:09,990
-Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão
+<font face="Avenir Black" size="33">Avançando pelos céus, superando as montanhas</font>
 
 28
 00:01:07,220 --> 00:01:09,990
-Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão
+<font face="Avenir Black" size="33">Sora wo kakenuke yama wo koe</font>
 
 29
 00:01:10,890 --> 00:01:13,950
-Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão
+<font face="Avenir Black" size="33">Vamos voar rumo a uma grande aventura</font>
 
 30
 00:01:10,890 --> 00:01:13,950
-Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão
+<font face="Avenir Black" size="33">Let's fly fly fly Daibouken</font>
 
 31
 00:01:14,470 --> 00:01:21,600
-para poder trazer o pai 
-de Upa de volta à vida,
+<font face="Avenir Black" size="33">A nossa jornada estranha vai começar!</font>
 
 32
 00:01:14,470 --> 00:01:21,600
-para poder trazer o pai 
-de Upa de volta à vida,
+<font face="Avenir Black" size="33">Fushigi na tabi ga hajimaru ze</font>
 
 33
 00:01:21,610 --> 00:01:25,110
-Goku libera um poderoso Kamehameha contra
+<font face="Avenir Black" size="33">Te ni irero! DRAGON BALL</font>
 
 34
 00:01:21,610 --> 00:01:25,110
-Goku libera um poderoso Kamehameha contra
+<font face="Avenir Black" size="33">Vamos pegá-las em mãos! As Esferas do Dragão!</font>
 
 35
 00:01:25,110 --> 00:01:28,310
-o lutador mascarado pela 
-primeira vez. Porém...
+<font face="Avenir Black" size="33">Sekai de ittou degowai chansu</font>
 
 36
 00:01:25,110 --> 00:01:28,310
-o lutador mascarado pela 
-primeira vez. Porém...
+<font face="Avenir Black" size="33">Uma das apostas mais formidáveis do mundo</font>
 
 37
 00:01:28,710 --> 00:01:31,770
-Ah, não! A cauda é a fraqueza de Goku!
+<font face="Avenir Black" size="33">Oikakero! DRAGON BALL</font>
 
 38
 00:01:28,710 --> 00:01:31,770
-Ah, não! A cauda é a fraqueza de Goku!
+<font face="Avenir Black" size="33">Vamos persegui-las! As Esferas do Dragão!</font>
 
 39
 00:01:32,120 --> 00:01:35,350
-Ele perde toda a sua força 
-quando alguém a aperta!
+<font face="Avenir Black" size="33">Sekai de ittou ikashita dorama</font>
 
 40
 00:01:32,120 --> 00:01:35,350
-Ele perde toda a sua força 
-quando alguém a aperta!
+<font face="Avenir Black" size="33">Um dos mistérios mais dramáticos do mundo</font>
 
 41
 00:01:35,350 --> 00:01:38,820
-Goku se encontra em apuros!
+<font face="Avenir Black" size="33">Kono yo wa dekkai takarajima</font>
 
 42
 00:01:35,350 --> 00:01:38,820
-Goku se encontra em apuros!
+<font face="Avenir Black" size="33">A vida é uma grande ilha do tesouro</font>
 
 43
 00:01:38,820 --> 00:01:48,600
-Então, a identidade do 
-homem mascarado é revelada!
+<font face="Avenir Black" size="33">Sou sa Ima koso adobenchaa!</font>
 
 44
 00:01:38,820 --> 00:01:48,600
-Então, a identidade do 
-homem mascarado é revelada!
+<font face="Avenir Black" size="33">Isso mesmo! A aventura começou!</font>
 
 45
 00:01:51,340 --> 00:01:55,330
-A Identidade do Homem Mascarado
+<font face="Avenir Black" size="35">A identidade do homem mascarado</font>
 
 46
 00:01:59,640 --> 00:02:01,710
-Ele é...
+<font face="Avenir Black" size="35">Ele é... ...o avô...</font>
 
 47
 00:02:01,710 --> 00:02:03,710
-...do Goku?!
+<font face="Avenir Black" size="35">...do Goku?!</font>
 
 48
 00:02:03,710 --> 00:02:09,510
-N-Não fala uma besteira dessas! 
-Ele morreu faz muito tempo!
+<font face="Avenir Black" size="35">N-Não fala uma besteira dessas! Ele morreu faz muito tempo!</font>
 
 49
 00:02:09,510 --> 00:02:11,550
-Son Gohan realmente morreu!
+<font face="Avenir Black" size="35">Son Gohan realmente morreu!</font>
 
 50
 00:02:11,550 --> 00:02:17,320
-Mas reparem que há uma auréola 
-flutuando sobre sua cabeça.
+<font face="Avenir Black" size="35">Mas reparem que há uma auréola flutuando sobre sua cabeça.</font>
 
 51
 00:02:17,320 --> 00:02:19,520
-M-Mas por quê?!
+<font face="Avenir Black" size="35">M-Mas por quê?!</font>
 
 52
 00:02:19,520 --> 00:02:23,090
-Como eu disse, esta batalha 
-é uma obra do destino!
+<font face="Avenir Black" size="35">Como eu disse, esta batalha é uma obra do destino!</font>
 
 53
 00:02:30,240 --> 00:02:32,070
-Goku...
+<font face="Avenir Black" size="35">Goku...</font>
 
 54
 00:02:34,440 --> 00:02:37,270
-Aguenta firme, Goku.
+<font face="Avenir Black" size="35">Aguenta firme, Goku.</font>
 
 55
 00:02:37,280 --> 00:02:38,680
-Se você perder agora,
+<font face="Avenir Black" size="35">Se você perder agora,</font>
 
 56
 00:02:38,680 --> 00:02:42,880
-ele terá vindo até aqui à toa.
+<font face="Avenir Black" size="35">ele terá vindo até aqui à toa.</font>
 
 57
 00:02:56,580 --> 00:03:01,570
-Ah, não! É o Esplendor Mortal do Diabo!
+<font face="Avenir Black" size="35">Você não pode fazer nada enquanto eu segurar a sua cauda, a sua única fraqueza!</font>
 
 58
 00:03:02,720 --> 00:03:04,420
-Ah, não! É o Esplendor Mortal do Diabo!
+<font face="Avenir Black" size="35">Ouviram isso? Aquela é a fraqueza dele!</font>
 
 59
 00:03:04,420 --> 00:03:07,220
-Ah, não! É o Esplendor Mortal do Diabo!
+<font face="Avenir Black" size="35">Sim! Precisamos contar para o Imperador Pilaf!</font>
 
 60
 00:03:11,900 --> 00:03:16,230
-Ah, não! É o Esplendor Mortal do Diabo!
+<font face="Avenir Black" size="35">Ah, é mesmo? Então aquela cauda é o ponto fraco dele!</font>
 
 61
 00:03:17,270 --> 00:03:20,950
-Ah, não! É o Esplendor Mortal do Diabo!
+<font face="Avenir Black" size="35">Eu finalmente descobri a fraqueza daquele pivete!</font>
 
 62
 00:03:20,960 --> 00:03:24,180
-Ah, não! É o Esplendor Mortal do Diabo!
+<font face="Avenir Black" size="35">A cauda é o ponto fraco!</font>
 
 63
 00:03:24,180 --> 00:03:26,650
-Ah, não! É o Esplendor Mortal do Diabo!
+<font face="Avenir Black" size="35">Que notícia maravilhosa, Imperador Pilaf.</font>
 
 64
 00:03:26,650 --> 00:03:28,610
-Ah, não! É o Esplendor Mortal do Diabo!
+<font face="Avenir Black" size="35">Estava preocupado com o que poderia acontecer</font>
 
 65
 00:03:28,620 --> 00:03:33,280
-Estas armas de última geração eram o que 
-precisávamos para acabar com aquele moleque!
+<font face="Avenir Black" size="35">se aquele monstrinho estivesse atrás das Esferas do Dragão de novo.</font>
 
 66
 00:03:37,160 --> 00:03:40,730
-Estas armas de última geração eram o que 
-precisávamos para acabar com aquele moleque!
+<font face="Avenir Black" size="35">Parece que os Deuses não me abandonaram ainda!</font>
 
 67
 00:03:40,730 --> 00:03:46,190
-Estas armas de última geração eram o que 
-precisávamos para acabar com aquele moleque!
+<font face="Avenir Black" size="35">Eles estão me dizendo para virar o comandante deste mundo!</font>
 
 68
 00:03:50,790 --> 00:03:55,730
-Ah, então eles estão com as esferas.
+<font face="Avenir Black" size="35">De toda forma, a Esfera do Dragão está dentro desta caixa especial</font>
 
 69
 00:03:55,730 --> 00:03:59,000
-Aquele monstrinho está levando uma surra!
+<font face="Avenir Black" size="35">que eu fiz para não aparecer no radar deles!</font>
 
 70
 00:03:59,000 --> 00:04:04,410
-Você não pode fazer nada enquanto eu 
-segurar a sua cauda, a sua única fraqueza!
+<font face="Avenir Black" size="35">Ou seja, aquele moleque não encontrará a sétima Esfera do Dragão!</font>
 
 71
 00:04:04,410 --> 00:04:08,380
-Ouviram isso? Aquela é a fraqueza dele!
+<font face="Avenir Black" size="35">Mas com o nosso satélite do Radar do Dragão,</font>
 
 72
 00:04:08,380 --> 00:04:12,610
-Sim! Precisamos contar 
-para o Imperador Pilaf!
+<font face="Avenir Black" size="35">as esferas dele logo serão nossas!</font>
 
 73
 00:04:12,610 --> 00:04:17,080
-Ah, é mesmo? Então aquela 
-cauda é o ponto fraco dele!
+<font face="Avenir Black" size="35">Mas, Imperador Pilaf...</font>
 
 74
 00:04:17,080 --> 00:04:18,880
-Eu finalmente descobri a 
-fraqueza daquele pivete!
+<font face="Avenir Black" size="35">Ele não está lutando contra a Vovó Uranai e os outros</font>
 
 75
 00:04:29,360 --> 00:04:34,330
-Estava preocupado com
-o que poderia acontecer
+<font face="Avenir Black" size="35">para que ela localize a Esfera do Dragão que está dentro dessa caixa?</font>
 
 76
 00:04:34,330 --> 00:04:38,000
-se aquele monstrinho estivesse atrás 
-das Esferas do Dragão de novo.
+<font face="Avenir Black" size="35">Se o garoto vencer...</font>
 
 77
 00:04:38,000 --> 00:04:41,970
-Parece que os Deuses não 
-me abandonaram ainda!
+<font face="Avenir Black" size="35">Idiotas! Aquela velha não passa de uma trambiqueira!</font>
 
 78
 00:04:41,970 --> 00:04:43,100
-Eles estão me dizendo para 
-virar o comandante deste mundo!
+<font face="Avenir Black" size="35">Mesmo se as leituras dela forem verdade,</font>
 
 79
 00:05:07,500 --> 00:05:10,900
-que eu fiz para não aparecer no radar deles!
+<font face="Avenir Black" size="35">ainda sabemos qual é a fraqueza do garoto!</font>
 
 80
 00:05:10,900 --> 00:05:14,200
-Ou seja, aquele moleque não encontrará 
-a sétima Esfera do Dragão!
+<font face="Avenir Black" size="35">Está claro quem sairá vitorioso desta batalha!</font>
 
 81
 00:05:14,200 --> 00:05:17,240
-Mas com o nosso satélite 
-do Radar do Dragão,
+<font face="Avenir Black" size="35">V-Verdade!</font>
 
 82
 00:05:17,240 --> 00:05:20,610
-Mas com o nosso satélite 
-do Radar do Dragão,
+<font face="Avenir Black" size="35">Com essas máquinas demoníacas que o meu cérebro genial criou,</font>
 
 83
 00:05:22,880 --> 00:05:25,150
-Mas, Imperador Pilaf...
+<font face="Avenir Black" size="35">qualquer um que entrar no meu caminho será destruído!</font>
 
 84
 00:05:25,150 --> 00:05:29,020
-Ele não está lutando contra 
-a Vovó Uranai e os outros
+<font face="Avenir Black" size="35">Muito bem, vamos roubar as Esferas do Dragão dele!</font>
 
 85
 00:05:31,550 --> 00:05:33,580
-Se o garoto vencer...
+<font face="Avenir Black" size="35">Sim, senhor!</font>
 
 86
 00:05:43,940 --> 00:05:45,740
-Além disso, temos as nossas 
-armas de última geração!
+Ow!
 
 87
 00:05:45,740 --> 00:05:50,970
-Além disso, temos as nossas 
-armas de última geração!
+<font face="Avenir Black" size="35">As seis Esferas do Dragão daquele garoto já são minhas!</font>
 
 88
 00:05:52,650 --> 00:05:59,480
-Além disso, temos as nossas 
-armas de última geração!
+<font face="Avenir Black" size="35">Não tenho mais medo dele! O sonho da minha vida se tornará verdade desta vez! Vamos!</font>
 
 89
 00:05:59,490 --> 00:06:00,950
-Está claro quem sairá 
-vitorioso desta batalha!
+Then that means!
 
 90
 00:06:00,950 --> 00:06:02,390
-Está claro quem sairá 
-vitorioso desta batalha!
+<font face="Avenir Black" size="35">Goku-san!</font>
 
 91
 00:06:04,960 --> 00:06:06,140
-Está claro quem sairá 
-vitorioso desta batalha!
+<font face="Avenir Black" size="35">Sim, senhor!</font>
 
 92
 00:06:06,150 --> 00:06:12,450
-V-Verdade!
+<font face="Avenir Black" size="35">Então? Vai desistir?</font>
 
 93
 00:06:13,490 --> 00:06:17,720
-Com essas máquinas demoníacas 
-que o meu cérebro genial criou,
+<font face="Avenir Black" size="35">Eu sugiro que você desista...</font>
 
 94
 00:06:23,460 --> 00:06:26,490
-Sim, senhor!
+<font face="Avenir Black" size="35">N-Nunca...</font>
 
 95
 00:06:47,420 --> 00:06:49,860
-Sim, senhor!
+<font face="Avenir Black" size="35">Que garoto cabeça-dura.</font>
 
 96
 00:06:49,860 --> 00:06:53,710
-Sim, senhor!
+<font face="Avenir Black" size="35">Vocês não acham que ele está sendo violento demais?!</font>
 
 97
 00:06:53,710 --> 00:06:58,620
-Sim, senhor!
+<font face="Avenir Black" size="35">Não acredito que um velho conseguiria fazer algo assim!</font>
 
 98
 00:07:00,590 --> 00:07:03,650
-Prepare-se para explodir!
+<font face="Avenir Black" size="35">Goku...</font>
 
 99
 00:07:08,590 --> 00:07:11,060
-Então? Vai desistir?
+<font face="Avenir Black" size="35">Ei, faça alguma coisa!</font>
 
 100
 00:07:11,060 --> 00:07:13,760
-Então? Vai desistir?
+<font face="Avenir Black" size="35">Mesmo que seja coisa do destino, o Son pode acabar morrendo!</font>
 
 101
 00:07:13,770 --> 00:07:16,030
-Então? Vai desistir?
+<font face="Avenir Black" size="35">Faça eles parar! Alguém precisa impedir esta luta!</font>
 
 102
 00:07:16,030 --> 00:07:18,340
-Então? Vai desistir?
+<font face="Avenir Black" size="35">O único jeito de fazer ele parar é o Goku admitindo a derrota!</font>
 
 103
 00:07:18,340 --> 00:07:23,310
-Eu sugiro que você desista...
+<font face="Avenir Black" size="35">Mas o Goku não está nem perto de mostrar que quer desistir.</font>
 
 104
 00:07:23,310 --> 00:07:26,310
-Que garoto cabeça-dura.
+<font face="Avenir Black" size="35">Tudo bem pra vocês se o Goku morrer?!</font>
 
 105
 00:07:26,310 --> 00:07:29,610
-Que garoto cabeça-dura.
+<font face="Avenir Black" size="35">É claro que não! Mas...</font>
 
 106
 00:07:29,610 --> 00:07:33,620
-Vocês não acham que ele 
-está sendo violento demais?!
+<font face="Avenir Black" size="35">Q-Qual é o problema?</font>
 
 107
 00:07:33,620 --> 00:07:36,790
-Não acredito que um velho 
-conseguiria fazer algo assim!
+<font face="Avenir Black" size="35">Vejo que você fez ótimos amigos.</font>
 
 108
 00:07:36,790 --> 00:07:40,690
-Goku...
+<font face="Avenir Black" size="35">Desde o começo eles estão preocupados com você.</font>
 
 109
 00:07:40,690 --> 00:07:45,320
-Goku...
+<font face="Avenir Black" size="35">O que foi? A batalha ainda não acabou!</font>
 
 110
 00:07:46,570 --> 00:07:48,670
-Ei, faça alguma coisa!
+<font face="Avenir Black" size="35">Ah, é mesmo.</font>
 
 111
 00:07:48,670 --> 00:07:51,600
-Mesmo que seja coisa do destino, 
-o Son pode acabar morrendo!
+<font face="Avenir Black" size="35">Não faz diferença o quanto eles se preocupem com você,</font>
 
 112
 00:07:55,110 --> 00:07:58,130
-Faça eles parar! 
-Alguém precisa impedir esta luta!
+<font face="Avenir Black" size="35">esta luta é entre nós dois!</font>
 
 113
 00:08:01,150 --> 00:08:03,450
-O único jeito de fazer ele parar 
-é o Goku admitindo a derrota!
+<font face="Avenir Black" size="35">Já sei!</font>
 
 114
 00:08:03,450 --> 00:08:06,510
-Mas o Goku não está nem perto 
-de mostrar que quer desistir.
+<font face="Avenir Black" size="35">Por que não jogamos uma toalha? Existem algumas lutas</font>
 
 115
 00:08:08,790 --> 00:08:12,420
-Tudo bem pra vocês se o Goku morrer?!
+<font face="Avenir Black" size="35">que possuem a regra de jogar a toalha dentro do ringue</font>
 
 116
 00:08:12,420 --> 00:08:13,690
-É claro que não! Mas...
+<font face="Avenir Black" size="35">para mostrar que o seu lutador perdeu!</font>
 
 117
 00:08:13,690 --> 00:08:17,460
-É claro que não! Mas...
+<font face="Avenir Black" size="35">Isso aí não é coisa de boxe?</font>
 
 118
 00:08:17,460 --> 00:08:20,460
-É claro que não! Mas...
+<font face="Avenir Black" size="35">Sim, é!</font>
 
 119
 00:08:20,470 --> 00:08:23,970
-É claro que não! Mas...
+<font face="Avenir Black" size="35">Talvez se jogarmos uma toalha daqui...</font>
 
 120
 00:08:23,970 --> 00:08:25,200
-Q-Qual é o problema?
+<font face="Avenir Black" size="35">Não!</font>
 
 121
 00:08:25,200 --> 00:08:26,670
-Q-Qual é o problema?
+I'm sorry for doing that.
 
 122
 00:08:26,670 --> 00:08:32,010
-Q-Qual é o problema?
+<font face="Avenir Black" size="35">Esta não é uma luta de boxe! A minha irmã nunca iria permitir uma regra como esta!</font>
 
 123
 00:08:32,010 --> 00:08:35,310
-Vejo que você fez ótimos amigos.
+<font face="Avenir Black" size="35">Sim, mas não podemos ficar parados assistindo isso!</font>
 
 124
 00:08:35,310 --> 00:08:36,980
-Desde o começo eles estão 
-preocupados com você.
+I'm fine!
 
 125
 00:08:36,980 --> 00:08:40,750
-Desde o começo eles estão 
-preocupados com você.
+<font face="Avenir Black" size="35">Acham que o Goku ficaria feliz se fizéssemos ele perder?</font>
 
 126
 00:08:40,750 --> 00:08:43,750
-Desde o começo eles estão 
-preocupados com você.
+<font face="Avenir Black" size="35">Mas ainda é melhor que morrer!</font>
 
 127
 00:08:43,760 --> 00:08:47,020
-Desde o começo eles estão 
-preocupados com você.
+<font face="Avenir Black" size="35">Isso mesmo! Ele já lutou bastante!</font>
 
 128
 00:08:47,430 --> 00:08:48,790
-O que foi? A batalha ainda não acabou!
+Yeah!
 
 129
 00:08:51,460 --> 00:08:55,730
-O que foi? A batalha ainda não acabou!
+<font face="Avenir Black" size="35">Não, o Goku sentiria mal se fizéssemos isso!</font>
 
 130
 00:08:55,730 --> 00:08:57,370
-Ah, é mesmo.
+<font face="Avenir Black" size="35">Além disso, acho que ele iria gostar de</font>
 
 131
 00:08:57,370 --> 00:09:01,170
-Não faz diferença o quanto 
-eles se preocupem com você,
+<font face="Avenir Black" size="35">lutar até o fim se soubesse que seu oponente é Son Gohan!</font>
 
 132
 00:09:01,170 --> 00:09:02,470
-esta luta é entre nós dois!
+<font face="Avenir Black" size="35">Mas...</font>
 
 133
 00:09:02,470 --> 00:09:05,840
-esta luta é entre nós dois!
+<font face="Avenir Black" size="35">Por que ele precisa lutar até esse ponto?!</font>
 
 134
 00:09:05,840 --> 00:09:10,250
-Já sei!
+<font face="Avenir Black" size="35">Minha nossa, agora a fraqueza do Goku se foi!</font>
 
 135
 00:09:10,250 --> 00:09:12,780
-que possuem a regra de jogar 
-a toalha dentro do ringue
+<font face="Avenir Black" size="35">Isso significa que...</font>
 
 136
 00:09:12,780 --> 00:09:17,320
-que possuem a regra de jogar 
-a toalha dentro do ringue
+<font face="Avenir Black" size="35">Goku! G-Goku!</font>
 
 137
 00:09:17,320 --> 00:09:19,560
-Isso aí não é coisa de boxe?
+<font face="Avenir Black" size="35">Ai, que dor!</font>
 
 138
 00:09:19,560 --> 00:09:24,520
-Sim, é!
+<font face="Avenir Black" size="35">Tá doendo!</font>
 
 139
 00:09:25,430 --> 00:09:28,570
-Esta não é uma luta de boxe! A minha irmã 
-nunca iria permitir uma regra como esta!
+<font face="Avenir Black" size="35">Como você ousa arrancar o meu rabo?!</font>
 
 140
 00:09:28,570 --> 00:09:31,700
-Esta não é uma luta de boxe! A minha irmã 
-nunca iria permitir uma regra como esta!
+<font face="Avenir Black" size="35">Goku! Isso é ótimo!</font>
 
 141
 00:09:31,700 --> 00:09:34,570
-Sim, mas não podemos ficar 
-parados assistindo isso!
+<font face="Avenir Black" size="35">Agora ele pode vencer!</font>
 
 142
 00:09:34,570 --> 00:09:37,270
-Acham que o Goku ficaria feliz 
-se fizéssemos ele perder?
+<font face="Avenir Black" size="35">Estou bem irritado agora!</font>
 
 143
 00:09:39,580 --> 00:09:42,780
-Mas ainda é melhor que morrer!
+<font face="Avenir Black" size="35">Eu desisto.</font>
 
 144
 00:09:42,780 --> 00:09:47,050
-Mas ainda é melhor que morrer!
+<font face="Avenir Black" size="35">O que foi que você disse? Você disse que existe?</font>
 
 145
 00:09:47,050 --> 00:09:51,460
-Não, o Goku sentiria 
-mal se fizéssemos isso!
+<font face="Avenir Black" size="35">É aquele cheiro alegre de novo!</font>
 
 146
 00:09:51,460 --> 00:09:54,890
-Além disso, acho que ele iria gostar de
+<font face="Avenir Black" size="35">Não é "existo", eu disse que eu desisto.</font>
 
 147
 00:09:54,890 --> 00:09:57,090
-lutar até o fim se soubesse 
-que seu oponente é Son Gohan!
+<font face="Avenir Black" size="35">O-O Goku venceu...?</font>
 
 148
 00:09:57,100 --> 00:09:58,660
-Mas...
+<font face="Avenir Black" size="35">Bom, fazer o quê?</font>
 
 149
 00:09:58,660 --> 00:10:01,770
-Mas...
+<font face="Avenir Black" size="35">Goku, você está bem forte!</font>
 
 150
 00:10:01,770 --> 00:10:07,610
-Por que ele precisa lutar até esse ponto?!
+<font face="Avenir Black" size="35">Você esteve treinando muito bem.</font>
 
 151
 00:10:07,610 --> 00:10:10,740
-Ai!
+<font face="Avenir Black" size="35">C-Como você sabe o meu nome?</font>
 
 152
 00:10:10,740 --> 00:10:16,010
-Ai!
+<font face="Avenir Black" size="35">Mas parece que você esqueceu de tomar cuidado com esta cauda, Goku.</font>
 
 153
 00:10:17,120 --> 00:10:18,580
-Ah, não! O rabo dele caiu!
+<font face="Avenir Black" size="35">Eu te alertei diversas vezes.</font>
 
 154
 00:10:18,580 --> 00:10:25,590
-Ah, não! O rabo dele caiu!
+<font face="Avenir Black" size="35">Não me diga que você é...</font>
 
 155
 00:10:25,590 --> 00:10:28,780
-Minha nossa, agora a
-fraqueza do Goku se foi!
+<font face="Avenir Black" size="35">Ai, ai. Lamentável você só ter percebido agora.</font>
 
 156
 00:10:30,630 --> 00:10:34,730
-Goku!
+<font face="Avenir Black" size="35">Isso mesmo, sou eu.</font>
 
 157
 00:10:34,740 --> 00:10:39,940
-G-Goku!
+<font face="Avenir Black" size="35">V-Vovô! É você, Vovô!</font>
 
 158
 00:10:39,940 --> 00:10:42,510
-Ai, que dor!
+<font face="Avenir Black" size="35">Goku!</font>
 
 159
 00:10:42,510 --> 00:10:46,610
-Ai, que dor!
+<font face="Avenir Black" size="35">Eu senti tanto a sua falta, Vovô!</font>
 
 160
 00:10:46,610 --> 00:10:51,380
-Tá doendo!
+<font face="Avenir Black" size="35">Que besteira. Você não deveria estar chorando!</font>
 
 161
 00:10:51,390 --> 00:10:57,020
-Tá doendo!
+<font face="Avenir Black" size="35">Nossa, o Son está chorando.</font>
 
 162
 00:10:58,690 --> 00:11:03,030
-Como você ousa arrancar o meu rabo?!
+<font face="Avenir Black" size="35">E ninguém pode julgá-lo.</font>
 
 163
 00:11:03,030 --> 00:11:07,000
-Como você ousa arrancar o meu rabo?!
+<font face="Avenir Black" size="35">Mesmo ele sendo forte, ele ainda é uma criança.</font>
 
 164
 00:11:07,000 --> 00:11:09,970
-Goku!
+<font face="Avenir Black" size="35">O Goku parece bem feliz!</font>
 
 165
 00:11:09,970 --> 00:11:12,170
-Isso é ótimo!
+No, nothing at all!
 
 166
 00:11:12,170 --> 00:11:15,610
-Agora ele pode vencer!
+<font face="Avenir Black" size="35">Como está o seu bumbum, Goku? Ainda está doendo?</font>
 
 167
 00:11:15,610 --> 00:11:17,200
-Estou bem irritado agora!
+<font face="Avenir Black" size="35">Não...</font>
 
 168
 00:11:27,920 --> 00:11:29,560
-Estou bem irritado agora!
+<font face="Avenir Black" size="35">Me desculpe por ter feito aquilo.</font>
 
 169
 00:11:29,560 --> 00:11:34,160
-Droga! Como você sequer consegue 
-entender uma piada, moleque?!
+<font face="Avenir Black" size="35">Queria alertá-lo por não ter tomado cuidado com a sua fraqueza,</font>
 
 170
 00:11:34,160 --> 00:11:37,160
-Droga! Como você sequer consegue 
-entender uma piada, moleque?!
+<font face="Avenir Black" size="35">mas acabei colocando muita força sem querer.</font>
 
 171
 00:11:37,160 --> 00:11:41,500
-Eu desisto.
+<font face="Avenir Black" size="35">Eu tô legal!</font>
 
 172
 00:11:41,500 --> 00:11:45,600
-Eu desisto.
+<font face="Avenir Black" size="35">Entendi. Mas você está bem forte.</font>
 
 173
 00:11:45,610 --> 00:11:48,190
-O que foi que você disse? 
-Você disse que existe?
+<font face="Avenir Black" size="35">Não imaginava que não seria páreo para você...</font>
 
 174
 00:11:50,600 --> 00:11:53,100
-O que foi que você disse? 
-Você disse que existe?
+<font face="Avenir Black" size="35">O Mestre Muten Roshi te treinou direitinho?</font>
 
 175
 00:11:53,100 --> 00:11:56,870
-É aquele cheiro alegre de novo!
+<font face="Avenir Black" size="35">Sim!</font>
 
 176
 00:11:56,870 --> 00:12:00,770
-Não é "existo", eu disse que eu desisto.
+<font face="Avenir Black" size="35">É um prazer te ver novamente, Mestre Roshi.</font>
 
 177
 00:12:00,770 --> 00:12:04,510
-Não é "existo", eu disse que eu desisto.
+<font face="Avenir Black" size="35">This is great! Now your old man will come back to life for sure!</font>
 
 178
 00:12:04,510 --> 00:12:05,680
-O-O Goku venceu...?
+<font face="Avenir Black" size="35">É, há quanto tempo.</font>
 
 179
 00:12:05,680 --> 00:12:08,270
-O-O Goku venceu...?
+<font face="Avenir Black" size="35">Não fazia ideia de que você estava passando um tempo por aqui.</font>
 
 180
 00:12:09,680 --> 00:12:12,120
-Bom, fazer o quê?
+<font face="Avenir Black" size="35">Peço desculpas.</font>
 
 181
 00:12:12,120 --> 00:12:14,690
-Bom, fazer o quê?
+<font face="Avenir Black" size="35">Achei que o Goku iria se segurar e não usaria toda a sua força</font>
 
 182
 00:12:14,690 --> 00:12:16,990
-Goku, você está bem forte!
+<font face="Avenir Black" size="35">se ele soubesse que era eu.</font>
 
 183
 00:12:16,990 --> 00:12:19,560
-Você esteve treinando muito bem.
+<font face="Avenir Black" size="35">Sim, eu entendo o seu desejo</font>
 
 184
 00:12:19,560 --> 00:12:22,660
-C-Como você sabe o meu nome?
+<font face="Avenir Black" size="35">de ver o quanto o Goku evoluiu.</font>
 
 185
 00:12:22,660 --> 00:12:24,130
-Mas parece que você esqueceu de 
-tomar cuidado com esta cauda, Goku.
+<font face="Avenir Black" size="35">Desculpa atrapalhar...</font>
 
 186
 00:12:24,130 --> 00:12:28,200
-Mas parece que você esqueceu de 
-tomar cuidado com esta cauda, Goku.
+<font face="Avenir Black" size="35">O que foi?</font>
 
 187
 00:12:28,200 --> 00:12:32,870
-Eu te alertei diversas vezes.
+<font face="Avenir Black" size="35">Soubemos que o avô do Son estava morto, mas...</font>
 
 188
 00:12:32,870 --> 00:12:34,990
-Ai, ai. Lamentável 
-você só ter percebido agora.
+<font face="Avenir Black" size="35">Não, eu ainda estou morto.</font>
 
 189
 00:12:35,000 --> 00:12:37,440
-Ai, ai. Lamentável 
-você só ter percebido agora.
+<font face="Avenir Black" size="35">Mas como você está aqui?! Não me diga que é um fantasma...?</font>
 
 190
 00:12:37,440 --> 00:12:42,910
-Isso mesmo, sou eu.
+<font face="Avenir Black" size="35">Se bem que você tem pernas. Permitam-me responder a essa pergunta.</font>
 
 191
 00:12:43,880 --> 00:12:49,160
-Vovô! Vovô!
+<font face="Avenir Black" size="35">Eu tenho a habilidade de atravessar este e o Outro Mundo livremente.</font>
 
 192
 00:12:49,160 --> 00:12:54,160
-Goku!
+<font face="Avenir Black" size="35">Eu procuro mestres de artes marciais mortos no Outro Mundo</font>
 
 193
 00:12:54,160 --> 00:12:57,200
-Vovô! Vovô!
+<font face="Avenir Black" size="35">para que eles lutem por mim aqui.</font>
 
 194
 00:12:57,200 --> 00:12:59,970
-Eu senti tanto a sua falta, Vovô!
+<font face="Avenir Black" size="35">E por bastante dinheiro!</font>
 
 195
 00:12:59,970 --> 00:13:05,140
-Eu senti tanto a sua falta, Vovô!
+<font face="Avenir Black" size="35">E é isso.</font>
 
 196
 00:13:05,140 --> 00:13:07,310
-Vovô!
+<font face="Avenir Black" size="35">Quer dizer que você pode voltar a viver comigo de novo?!</font>
 
 197
 00:13:07,310 --> 00:13:12,080
-Que besteira. Você não 
-deveria estar chorando!
+<font face="Avenir Black" size="35">Infelizmente não. Eu só podia ficar neste mundo por um dia.</font>
 
 198
 00:13:12,080 --> 00:13:14,780
-Nossa, o Son está chorando.
+<font face="Avenir Black" size="35">Então o encontro de vocês foi pura coincidência?</font>
 
 199
 00:13:14,780 --> 00:13:17,320
-E ninguém pode julgá-lo.
+Die in good health again!
 
 200
 00:13:17,320 --> 00:13:21,650
-Mesmo ele sendo forte, ele 
-ainda é uma criança.
+<font face="Avenir Black" size="35">Não, a minha irmã provavelmente previu que viríamos aqui hoje.</font>
 
 201
 00:13:21,660 --> 00:13:23,420
-O Goku parece bem feliz!
+<font face="Avenir Black" size="35">Isso mesmo.</font>
 
 202
 00:13:23,420 --> 00:13:24,660
-Como está o seu bumbum, 
-Goku? Ainda está doendo?
+Yeah!
 
 203
 00:13:24,660 --> 00:13:29,400
-Como está o seu bumbum, 
-Goku? Ainda está doendo?
+<font face="Avenir Black" size="35">Mas não fazia ideia de que se tratava de seu neto...</font>
 
 204
 00:13:29,400 --> 00:13:31,960
-Me desculpe por ter feito aquilo.
+<font face="Avenir Black" size="35">Eu não muito bem sobre o que você falou,</font>
 
 205
 00:13:31,970 --> 00:13:35,430
-Queria alertá-lo por não ter 
-tomado cuidado com a sua fraqueza,
+<font face="Avenir Black" size="35">mas você é incrível, Vovó!</font>
 
 206
 00:13:35,440 --> 00:13:36,930
-mas acabei colocando
-muita força sem querer.
+<font face="Avenir Black" size="35">É claro que eu sou!</font>
 
 207
 00:13:38,670 --> 00:13:43,080
-Eu tô legal!
+<font face="Avenir Black" size="35">Não sei como ele chegou aos seus cuidados,</font>
 
 208
 00:13:43,980 --> 00:13:47,440
-Não imaginava que não 
-seria páreo para você...
+<font face="Avenir Black" size="35">mas sou eternamente grato por ter deixado o Goku tão forte, Mestre Roshi.</font>
 
 209
 00:13:48,620 --> 00:13:51,120
-O Mestre Muten Roshi te treinou direitinho?
+<font face="Avenir Black" size="35">Muito obrigado.</font>
 
 210
 00:13:51,120 --> 00:13:53,320
-Sim!
+<font face="Avenir Black" size="35">Não, eu só ensinei o básico a ele.</font>
 
 211
 00:13:53,320 --> 00:13:59,660
-É um prazer te ver novamente,
-Mestre Roshi.
+<font face="Avenir Black" size="35">Eu também estou bem surpreso com o quão forte ele se tornou.</font>
 
 212
 00:13:59,660 --> 00:14:04,500
-É, há quanto tempo.
+<font face="Avenir Black" size="35">Obrigado! Agora posso voltar em paz para o Outro Mundo.</font>
 
 213
 00:14:04,500 --> 00:14:07,300
-Peço desculpas.
+<font face="Avenir Black" size="35">Aliás, o Goku chegou a se tornar um macaco gigante?</font>
 
 214
 00:14:09,540 --> 00:14:12,540
-se ele soubesse que era eu.
+<font face="Avenir Black" size="35">Não se preocupe com isso. Não tivemos problemas depois que eu explodi a lua.</font>
 
 215
 00:14:12,540 --> 00:14:15,910
-Sim, eu entendo o seu desejo
+<font face="Avenir Black" size="35">Do que vocês estão falando?</font>
 
 216
 00:14:20,810 --> 00:14:23,050
-Desculpa atrapalhar...
+<font face="Avenir Black" size="35">N-Nada de especial!</font>
 
 217
 00:14:23,050 --> 00:14:24,980
-Soubemos que o avô do
-Son estava morto, mas...
+<font face="Avenir Black" size="35">"Uma coisa legal"?</font>
 
 218
 00:14:24,990 --> 00:14:26,790
-Soubemos que o avô do
-Son estava morto, mas...
+<font face="Avenir Black" size="35">É isto aqui!</font>
 
 219
 00:14:26,790 --> 00:14:34,860
-Vovô, você ressuscitou!
+<font face="Avenir Black" size="35">Eu ainda tenho a lembrança que o senhor me deixou!</font>
 
 220
 00:14:34,860 --> 00:14:40,870
-Mas como você está aqui?!
-Não me diga que é um fantasma...?
+<font face="Avenir Black" size="35">Ah, se não é a esfera que encontrei há muito tempo...</font>
 
 221
 00:14:40,870 --> 00:14:43,670
-Permitam-me responder a essa pergunta.
+<font face="Avenir Black" size="35">Hã? Por que há outras dessas esferas com outros números?</font>
 
 222
 00:14:43,670 --> 00:14:48,710
-Permitam-me responder a essa pergunta.
+<font face="Avenir Black" size="35">A vida do Son mudou por causa dessas esferas!</font>
 
 223
 00:14:48,710 --> 00:14:49,980
-Eu tenho a habilidade de atravessar 
-este e o Outro Mundo livremente.
+That's close!
 
 224
 00:14:49,980 --> 00:14:53,410
-Eu procuro mestres de artes 
-marciais mortos no Outro Mundo
+<font face="Avenir Black" size="35">A vida dele mudou?</font>
 
 225
 00:14:53,410 --> 00:14:54,800
-para que eles lutem por mim aqui.
+<font face="Avenir Black" size="35">Isso mesmo!</font>
 
 226
 00:15:20,700 --> 00:15:24,870
-Isso mesmo.
+<font face="Avenir Black" size="35">Elas são chamadas de Esferas do Dragão,</font>
 
 227
 00:15:26,540 --> 00:15:32,480
-Mas não fazia ideia de que 
-se tratava de seu neto...
+<font face="Avenir Black" size="35">e foi graças à sua esfera que o Son e eu nos conhecemos!</font>
 
 228
 00:15:32,480 --> 00:15:35,920
-Eu não muito bem sobre o que você falou,
+<font face="Avenir Black" size="35">Dizem que elas podem realizar qualquer desejo</font>
 
 229
 00:15:35,920 --> 00:15:39,120
-mas você é incrível, Vovó!
+<font face="Avenir Black" size="35">Exatamente como uma pessoa deseja</font>
 
 230
 00:15:39,120 --> 00:15:41,420
-É claro que eu sou!
+<font face="Avenir Black" size="35">Um drama bem escondido</font>
 
 231
 00:15:41,420 --> 00:15:46,330
-Não sei como ele chegou aos seus cuidados,
+<font face="Avenir Black" size="35">Nos sonhos de dias longínquos</font>
 
 232
 00:15:46,330 --> 00:15:49,500
-mas sou eternamente grato por ter 
-deixado o Goku tão forte, Mestre Roshi.
+<font face="Avenir Black" size="35">Os milagres colocados nas 7 esferas</font>
 
 233
 00:15:49,500 --> 00:15:55,560
-Muito obrigado.
+<font face="Avenir Black" size="35">Vão reviver aqui</font>
 
 234
 00:15:56,770 --> 00:15:59,270
-Eu também estou bem surpreso 
-com o quão forte ele se tornou.
+<font face="Avenir Black" size="35">Venha só para mim, dragão</font>
 
 235
 00:15:59,270 --> 00:16:00,940
-Eu também estou bem surpreso 
-com o quão forte ele se tornou.
+<font face="Avenir Black" size="35">Meu coração está palpitando</font>
 
 236
 00:16:00,940 --> 00:16:02,280
-Obrigado! Agora posso voltar 
-em paz para o Outro Mundo.
+Yes...
 
 237
 00:16:02,280 --> 00:16:06,410
-Obrigado! Agora posso voltar 
-em paz para o Outro Mundo.
+<font face="Avenir Black" size="35">Tenha coragem e voe para longe</font>
 
 238
 00:16:12,120 --> 00:16:14,790
-Não se preocupe com isso. Não tivemos 
-problemas depois que eu explodi a lua.
+<font face="Avenir Black" size="35">Venha só para mim, dragão</font>
 
 239
 00:16:14,790 --> 00:16:16,620
-Não se preocupe com isso. Não tivemos 
-problemas depois que eu explodi a lua.
+<font face="Avenir Black" size="35">Quero que você realize o meu desejo</font>
 
 240
 00:16:16,620 --> 00:16:17,620
-Do que vocês estão falando?
+Right!
 
 241
 00:16:17,630 --> 00:16:22,530
-Do que vocês estão falando?
+<font face="Avenir Black" size="35">Corra longe atrás dos seus sonhos</font>
 
 242
 00:16:28,470 --> 00:16:30,630
-"Uma coisa legal"?
+<font face="Avenir Black" size="35">Let's go! Kinto Un!</font>
 
 243
 00:16:36,140 --> 00:16:40,270
-É isto aqui!
+<font face="Avenir Black" size="35">Esferas do Dragão</font>
 
 244
 00:16:48,120 --> 00:16:53,290
-Hã? Por que há outras dessas 
-esferas com outros números?
+<font face="Avenir Black" size="35">Esferas do Dragão, eu vou pegar!</font>
 
 245
 00:17:12,750 --> 00:17:15,020
-Exatamente como uma pessoa deseja
+<font face="Avenir Black" size="35">E isso é tudo.</font>
 
 246
 00:17:15,020 --> 00:17:19,690
-Exatamente como uma pessoa deseja
+<font face="Avenir Black" size="35">Nossa, é mesmo? Eu não fazia ideia.</font>
 
 247
 00:17:19,690 --> 00:17:24,560
-Um drama bem escondido
+<font face="Avenir Black" size="35">Goku, você vivenciou tantas aventuras!</font>
 
 248
 00:17:34,340 --> 00:17:39,670
-Os milagres colocados nas 7 esferas
+<font face="Avenir Black" size="35">Agora você pode ficar feliz! Seu pai voltará à vida.</font>
 
 249
 00:17:39,670 --> 00:17:44,950
-Vão reviver aqui
+<font face="Avenir Black" size="35">M-Mas...</font>
 
 250
 00:17:45,730 --> 00:17:52,410
-Meu coração está palpitando
+<font face="Avenir Black" size="35">O que foi? Não está feliz com isso?</font>
 
 251
 00:17:52,410 --> 00:17:57,240
-Tenha coragem e voe para longe
+<font face="Avenir Black" size="35">O avô do Goku também morreu,</font>
 
 252
 00:17:57,240 --> 00:17:59,210
-Quero que você realize o meu desejo
+<font face="Avenir Black" size="35">mas só iremos ressuscitar o meu pai...</font>
 
 253
 00:17:59,210 --> 00:18:01,750
-Quero que você realize o meu desejo
+<font face="Avenir Black" size="35">Não se preocupem comigo.</font>
 
 254
 00:18:01,750 --> 00:18:03,580
-Corra longe atrás dos seus sonhos
+<font face="Avenir Black" size="35">Estou me divertindo bastante no Outro Mundo.</font>
 
 255
 00:18:03,580 --> 00:18:06,750
-Corra longe atrás dos seus sonhos
+<font face="Avenir Black" size="35">Além disso, há várias gracinhas no Outro Mundo também.</font>
 
 256
 00:18:06,750 --> 00:18:09,760
-Esferas do Dragão
+<font face="Avenir Black" size="35">É-É mesmo?!</font>
 
 257
 00:18:09,760 --> 00:18:12,930
-Esferas do Dragão, eu vou pegar!
+<font face="Avenir Black" size="35">Você ainda não mudou esse seu jeito!</font>
 
 258
 00:18:12,930 --> 00:18:16,260
-Esferas do Dragão, eu vou pegar!
+<font face="Avenir Black" size="35">Faz sentido um dos melhores aprendizes do Mestre Roshi adorar mulheres.</font>
 
 259
 00:18:16,260 --> 00:18:18,260
-Esferas do Dragão, eu vou pegar!
+<font face="Avenir Black" size="35">Não se metam nisso!</font>
 
 260
 00:18:18,270 --> 00:18:22,600
-E isso é tudo.
+<font face="Avenir Black" size="35">Mas não fazia ideia de que há várias gracinhas no Outro Mundo...</font>
 
 261
 00:18:40,120 --> 00:18:42,820
-M-Mas...
+<font face="Avenir Black" size="35">Talvez eu não devesse ter tomado o elixir da vida eterna...</font>
 
 262
 00:18:49,460 --> 00:18:52,430
-Não se preocupem comigo.
+<font face="Avenir Black" size="35">O-Obrigado!</font>
 
 263
 00:18:52,430 --> 00:18:55,970
-Estou me divertindo bastante no Outro Mundo.
+<font face="Avenir Black" size="35">Não, sou eu quem estou grato por ver como o Goku está ajudando outras pessoas.</font>
 
 264
 00:18:55,970 --> 00:19:00,440
-Além disso, há várias gracinhas 
-no Outro Mundo também.
+<font face="Avenir Black" size="35">Bem, agora que vocês venceram, encontrarei o objeto que desejam.</font>
 
 265
 00:19:00,440 --> 00:19:05,500
-Você ainda não mudou esse seu jeito!
+<font face="Avenir Black" size="35">Bem, a minha hora chegou. Preciso retornar ao Outro Mundo agora.</font>
 
 266
 00:19:18,290 --> 00:19:20,460
-O-Obrigado!
+<font face="Avenir Black" size="35">Você já está indo, Vovô?!</font>
 
 267
 00:19:20,460 --> 00:19:23,000
-Não, sou eu quem estou grato por ver como 
-o Goku está ajudando outras pessoas.
+<font face="Avenir Black" size="35">Agora que vi o quanto você cresceu</font>
 
 268
 00:19:23,000 --> 00:19:25,400
-Não, sou eu quem estou grato por ver como 
-o Goku está ajudando outras pessoas.
+<font face="Avenir Black" size="35">e os incríveis amigos que você fez, não preciso mais me preocupar.</font>
 
 269
 00:19:25,400 --> 00:19:29,070
-Bem, agora que vocês venceram, 
-encontrarei o objeto que desejam.
+<font face="Avenir Black" size="35">Mestre Roshi. Amigos de Goku.</font>
 
 270
 00:19:29,070 --> 00:19:31,970
-Bem, agora que vocês venceram, 
-encontrarei o objeto que desejam.
+<font face="Avenir Black" size="35">Continuem a cuidar desse garoto travesso.</font>
 
 271
 00:19:31,970 --> 00:19:35,840
-Bem, a minha hora chegou. Preciso 
-retornar ao Outro Mundo agora.
+<font face="Avenir Black" size="35">Vovó. Muito obrigado.</font>
 
 272
 00:19:35,840 --> 00:19:39,350
-Você já está indo, Vovô?!
+<font face="Avenir Black" size="35">Desejo-lhe uma boa morte.</font>
 
 273
 00:19:39,350 --> 00:19:44,150
-Agora que vi o quanto você cresceu
+<font face="Avenir Black" size="35">Espero poder te ver no Outro Mundo daqui um bom tempo,</font>
 
 274
 00:19:45,020 --> 00:19:47,020
-e os incríveis amigos que você 
-fez, não preciso mais me preocupar.
+<font face="Avenir Black" size="35">quando você estiver grande!</font>
 
 275
 00:19:47,020 --> 00:19:49,190
-Mestre Roshi. Amigos de Goku.
+<font face="Avenir Black" size="35">Tá!</font>
 
 276
 00:19:49,190 --> 00:19:52,260
-Mestre Roshi. Amigos de Goku.
+<font face="Avenir Black" size="35">Bem, devo encontrar vocês algum dia no Outro Mundo.</font>
 
 277
 00:19:52,260 --> 00:19:54,660
-Continuem a cuidar desse garoto travesso.
+<font face="Avenir Black" size="35">É, depois que a gente morrer...</font>
 
 278
 00:19:54,660 --> 00:20:00,100
-Vovó. Muito obrigado.
+<font face="Avenir Black" size="35">When you think about it, it's perfect that he came he alone!</font>
 
 279
 00:20:00,100 --> 00:20:04,260
-Espero poder te ver no Outro 
-Mundo daqui um bom tempo,
+<font face="Avenir Black" size="35">Cuide-se também. Se bem que isso soa esquisito.</font>
 
 280
 00:20:10,110 --> 00:20:16,520
-É, depois que a gente morrer...
+<font face="Avenir Black" size="35">Vovô, que bom que a gente se reencontrou.</font>
 
 281
 00:20:16,520 --> 00:20:19,380
-Cuide-se também. 
-Se bem que isso soa esquisito.
+<font face="Avenir Black" size="35">Cuidem-se, pessoal.</font>
 
 282
 00:20:41,810 --> 00:20:46,280
-O que acontecerá com o meu título 
-se ele ficar mais forte ainda?
+<font face="Avenir Black" size="35">Próxima vez que a minha cauda crescer, a deixarei ainda mais forte para eu também ficar forte!</font>
 
 283
 00:20:46,280 --> 00:20:49,580
-Ei, vou encontrar a sua coisa.
+<font face="Avenir Black" size="35">O que acontecerá com o meu título se ele ficar mais forte ainda?</font>
 
 284
 00:20:49,580 --> 00:20:55,420
-Tá.
+<font face="Avenir Black" size="35">Ei, vou encontrar a sua coisa.</font>
 
 285
 00:20:55,420 --> 00:21:01,920
-Cadê a sétima Esfera do Dragão?!
+<font face="Avenir Black" size="35">Tá.</font>
 
 286
 00:21:03,460 --> 00:21:06,900
-Vejamos...
+<font face="Avenir Black" size="35">Zimzalabim, zimzalabim! Objeto, apareça para mim!</font>
 
 287
 00:21:06,900 --> 00:21:12,100
-Ah, está se movendo...
+<font face="Avenir Black" size="35">Cadê a sétima Esfera do Dragão?!</font>
 
 288
 00:21:12,110 --> 00:21:20,280
-Consegue ver? A Esfera do Dragão que 
-você procura está dentro desse carro.
+<font face="Avenir Black" size="35">Ah, está se movendo...</font>
 
 289
 00:21:20,280 --> 00:21:23,650
-Mas se está dentro de um carro, deveria 
-ter aparecido no meu radar. Que esquisito.
+<font face="Avenir Black" size="35">Se movendo?!</font>
 
 290
 00:21:25,120 --> 00:21:29,120
-E cadê esse carro, Vovó?
+<font face="Avenir Black" size="35">Consegue ver? A Esfera do Dragão que você procura está dentro desse carro.</font>
 
 291
 00:21:29,120 --> 00:21:34,130
-Está a cerca de 200 quilómetros 
-naquela direção, vindo para cá.
+<font face="Avenir Black" size="35">Mas se está dentro de um carro, deveria ter aparecido no meu radar. Que esquisito.</font>
 
 292
 00:21:34,130 --> 00:21:37,960
-Upa, falta bem pouco para eu trazer 
-o seu pai de volta à vida!
+<font face="Avenir Black" size="35">E cadê esse carro, Vovó?</font>
 
 293
 00:21:37,970 --> 00:21:40,700
-Finalmente a localização da sétima 
-Esfera do Dragão foi revelada.
+<font face="Avenir Black" size="35">Está a cerca de 200 quilómetros naquela direção, vindo para cá.</font>
 
 294
 00:21:40,700 --> 00:21:42,500
-Mas Goku não sabe que terá 
-de enfrentar o grupo de Pilaf,
+<font face="Avenir Black" size="35">Então está perto!</font>
 
 295
 00:21:43,600 --> 00:21:46,600
-que estão municiados com um novo arsenal!
+<font face="Avenir Black" size="35">Upa, falta bem pouco para eu trazer o seu pai de volta à vida!</font>
 
 296
 00:21:48,280 --> 00:21:52,310
-O que irá acontecer?!
+<font face="Avenir Black" size="35">Finalmente a localização da sétima Esfera do Dragão foi revelada.</font>
 
 297
 00:21:52,310 --> 00:21:54,480
-O que irá acontecer?!
+<font face="Avenir Black" size="35">Mas Goku não sabe que terá de enfrentar o grupo de Pilaf,</font>
 
 298
 00:21:54,480 --> 00:21:59,650
-O que irá acontecer?!
+<font face="Avenir Black" size="35">que estão municiados com um novo arsenal!</font>
 
 299
 00:22:06,990 --> 00:22:11,160
-Venha aqui, fantasia
+<font face="Avenir Black" size="35">O que irá acontecer?!</font>
 
 300
 00:22:11,160 --> 00:22:13,130
-Não vá esconder
-a sua juventude!
+<font face="Avenir Black" size="35">Venha aqui, fantasia</font>
 
 301
 00:22:14,700 --> 00:22:17,340
-Quero fazer o que é misterioso
+<font face="Avenir Black" size="35">Eu adoro um mistério</font>
 
 302
 00:22:17,340 --> 00:22:20,310
-Quero fazer o que é misterioso
+<font face="Avenir Black" size="35">Não vá esconder a sua juventude!</font>
 
 303
 00:22:20,310 --> 00:22:21,670
-Quero correr atrás de aventura
+Let's go!
 
 304
 00:22:26,680 --> 00:22:30,020
-Se você agir feito
-adulto e desistir
+<font face="Avenir Black" size="35">Quero fazer o que é misterioso</font>
 
 305
 00:22:30,020 --> 00:22:32,180
-Se você agir feito
-adulto e desistir
+<font face="Avenir Black" size="35">Quero correr atrás de aventura</font>
 
 306
 00:22:34,320 --> 00:22:35,790
-Você nunca desvendará
-o mistério do milagre
+Come on!
 
 307
 00:22:48,270 --> 00:22:50,900
-Vou te dar um romance
+<font face="Avenir Black" size="35">Todo mundo não vê a hora de ir!</font>
 
 308
 00:23:07,190 --> 00:23:10,090
-Vou te dar um romance
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 309
 00:23:07,190 --> 00:23:10,090
-Vou te dar um romance
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 310
 00:23:10,090 --> 00:23:12,700
-Vou dar um sonho brilhante e
-reluzente ao seu coração acelerado!
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 311
 00:23:10,090 --> 00:23:12,700
-Vou dar um sonho brilhante e
-reluzente ao seu coração acelerado!
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 312
 00:23:12,700 --> 00:23:19,240
-Vou dar um sonho brilhante e
-reluzente ao seu coração acelerado!
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 313
 00:23:12,700 --> 00:23:19,240
-Vou dar um sonho brilhante e
-reluzente ao seu coração acelerado!
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 314
 00:23:19,240 --> 00:23:22,240
-Vou dar um sonho brilhante e
-reluzente ao seu coração acelerado!
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 315
 00:23:19,240 --> 00:23:22,240
-Vou dar um sonho brilhante e
-reluzente ao seu coração acelerado!
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 316
 00:23:22,240 --> 00:23:24,770
-Vou dar um sonho brilhante e
-reluzente ao seu coração acelerado!
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 317
 00:23:22,240 --> 00:23:24,770
-Vou dar um sonho brilhante e
-reluzente ao seu coração acelerado!
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 318
 00:23:24,780 --> 00:23:30,750
-Todo mundo não vê a hora de ir!
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 319
 00:23:24,780 --> 00:23:30,750
-Dare mo minna uzu-uzu shiteru
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 320
 00:23:30,750 --> 00:23:36,750
-Se você agir feito
-adulto e desistir
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 321
 00:23:30,750 --> 00:23:36,750
-Otona no furi shite akiramecha
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 322
 00:23:36,750 --> 00:23:42,930
-Você nunca desvendará
-o mistério do milagre
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 323
 00:23:36,750 --> 00:23:42,930
-Kiseki no nazo nado tokenai yo
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 324
 00:23:42,930 --> 00:23:54,070
-Vá e viva de forma
-mais intensa e forte!
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 325
 00:23:42,930 --> 00:23:54,070
-Motto WAIRUDO ni 
-motto takumashiku ikite goran
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 326
 00:23:54,070 --> 00:24:01,650
-Vou te dar um romance
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 327
 00:23:54,070 --> 00:24:01,650
-ROMANTIKKU Ageru yo!
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 328
 00:24:01,650 --> 00:24:06,120
-Se você me mostrar sua
-verdadeira coragem
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 329
 00:24:01,650 --> 00:24:06,120
-Hontou no yuuki wo misete kuretara
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 330
 00:24:06,120 --> 00:24:13,520
-Vou te dar um romance
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 331
 00:24:06,120 --> 00:24:13,520
-ROMANTIKKU Ageru yo!
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 332
 00:24:13,520 --> 00:24:22,130
-Vou dar um sonho brilhante e
-reluzente ao seu coração acelerado!
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
 
 333
 00:24:13,520 --> 00:24:22,130
-Tokimeku mune ni 
-kirakira hikatta yume wo ageru yo
+<font face="Avenir Black" size="33">Vou dar um sonho brilhante e reluzente ao seu coração acelerado!</font>
