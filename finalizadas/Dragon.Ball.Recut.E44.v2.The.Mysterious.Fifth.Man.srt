@@ -5,7 +5,7 @@ Esferas do Dragão!
 
 2
 00:00:10,570 --> 00:00:14,070
-<i>Tsukamou ze! DRAGON BALL</i>
+Tsukamou ze! DRAGON BALL
 
 3
 00:00:14,070 --> 00:00:17,540
@@ -14,7 +14,7 @@ impressionantes do mundo
 
 4
 00:00:14,070 --> 00:00:17,540
-<i>Sekai de ittou suriru na himitsu</i>
+Sekai de ittou suriru na himitsu
 
 5
 00:00:17,540 --> 00:00:21,080
@@ -23,7 +23,7 @@ Esferas do Dragão!
 
 6
 00:00:17,540 --> 00:00:21,080
-<i>Sagasou ze! DRAGON BALL</i>
+Sagasou ze! DRAGON BALL
 
 7
 00:00:21,080 --> 00:00:24,410
@@ -32,7 +32,7 @@ encantadores do mundo
 
 8
 00:00:21,080 --> 00:00:24,410
-<i>Sekai de ittou yukai na kiseki</i>
+Sekai de ittou yukai na kiseki
 
 9
 00:00:24,420 --> 00:00:27,880
@@ -41,7 +41,7 @@ ilha do tesouro
 
 10
 00:00:24,420 --> 00:00:27,880
-<i>Kono yo wa dekkai takarajima</i>
+Kono yo wa dekkai takarajima
 
 11
 00:00:27,890 --> 00:00:33,520
@@ -50,7 +50,7 @@ A aventura começou!
 
 12
 00:00:27,890 --> 00:00:33,520
-<i>Sou sa Ima koso adobenchaa!</i>
+Sou sa Ima koso adobenchaa!
 
 13
 00:00:35,490 --> 00:00:39,030
@@ -59,7 +59,7 @@ peito faz GISSIRI
 
 14
 00:00:35,490 --> 00:00:39,030
-<i>Mune waku-waku no ai ga GISSIRI</i>
+Mune waku-waku no ai ga GISSIRI
 
 15
 00:00:39,030 --> 00:00:42,570
@@ -68,7 +68,7 @@ multicoloridos faz DOSSARI
 
 16
 00:00:39,030 --> 00:00:42,570
-<i>Iro tori-dori no yume ga DOSSARI</i>
+Iro tori-dori no yume ga DOSSARI
 
 17
 00:00:42,570 --> 00:00:49,540
@@ -77,7 +77,7 @@ mundo elas vão brilhar
 
 18
 00:00:42,570 --> 00:00:49,540
-<i>Kono no yo doko ka de hikatteiru</i>
+Kono no yo doko ka de hikatteiru
 
 19
 00:00:49,540 --> 00:00:52,370
@@ -85,7 +85,7 @@ Vamos lá encontrá-las, rapaz
 
 20
 00:00:49,540 --> 00:00:52,370
-<i>Soitsu mitsuke ni yukou ze BOY</i>
+Soitsu mitsuke ni yukou ze BOY
 
 21
 00:00:53,210 --> 00:00:56,310
@@ -94,7 +94,7 @@ de monstros e demônios
 
 22
 00:00:53,210 --> 00:00:56,310
-<i>Youkai henka mo buttobashi</i>
+Youkai henka mo buttobashi
 
 23
 00:00:56,310 --> 00:01:02,740
@@ -103,7 +103,7 @@ nós vamos voar!
 
 24
 00:00:56,310 --> 00:01:02,740
-<i>Kumo no mashin de kyou mo tobu no sa</i>
+Kumo no mashin de kyou mo tobu no sa
 
 25
 00:01:03,720 --> 00:01:07,220
@@ -112,7 +112,7 @@ esse profundo mistério
 
 26
 00:01:03,720 --> 00:01:07,220
-<i>Let's try try try Makafushigi</i>
+Let's try try try Makafushigi
 
 27
 00:01:07,220 --> 00:01:09,990
@@ -121,7 +121,7 @@ superando as montanhas
 
 28
 00:01:07,220 --> 00:01:09,990
-<i>Sora wo kakenuke yama wo koe</i>
+Sora wo kakenuke yama wo koe
 
 29
 00:01:10,890 --> 00:01:13,950
@@ -130,7 +130,7 @@ uma grande aventura
 
 30
 00:01:10,890 --> 00:01:13,950
-<i>Let's fly fly fly Daibouken</i>
+Let's fly fly fly Daibouken
 
 31
 00:01:14,470 --> 00:01:21,600
@@ -139,7 +139,7 @@ estranha vai começar!
 
 32
 00:01:14,470 --> 00:01:21,600
-<i>Fushigi na tabi ga hajimaru ze</i>
+Fushigi na tabi ga hajimaru ze
 
 33
 00:01:21,610 --> 00:01:25,110
@@ -148,7 +148,7 @@ As Esferas do Dragão!
 
 34
 00:01:21,610 --> 00:01:25,110
-<i>Te ni irero! DRAGON BALL</i>
+Te ni irero! DRAGON BALL
 
 35
 00:01:25,110 --> 00:01:28,310
@@ -157,7 +157,7 @@ formidáveis do mundo
 
 36
 00:01:25,110 --> 00:01:28,310
-<i>Sekai de ittou degowai chansu</i>
+Sekai de ittou degowai chansu
 
 37
 00:01:28,710 --> 00:01:31,770
@@ -166,7 +166,7 @@ As Esferas do Dragão!
 
 38
 00:01:28,710 --> 00:01:31,770
-<i>Oikakero! DRAGON BALL</i>
+Oikakero! DRAGON BALL
 
 39
 00:01:32,120 --> 00:01:35,350
@@ -175,7 +175,7 @@ dramáticos do mundo
 
 40
 00:01:32,120 --> 00:01:35,350
-<i>Sekai de ittou ikashita dorama</i>
+Sekai de ittou ikashita dorama
 
 41
 00:01:35,350 --> 00:01:38,820
@@ -184,11 +184,11 @@ ilha do tesouro
 
 42
 00:01:35,350 --> 00:01:38,820
-<i>Kono yo wa dekkai takarajima</i>
+Kono yo wa dekkai takarajima
 
 43
 00:01:38,820 --> 00:01:48,600
-<i>Sou sa Ima koso adobenchaa!</i>
+Sou sa Ima koso adobenchaa!
 
 44
 00:01:38,820 --> 00:01:48,600
@@ -197,974 +197,1004 @@ A aventura começou!
 
 45
 00:01:51,130 --> 00:01:55,200
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
+O Quinto Homem Misterioso
 
 46
 00:02:16,710 --> 00:02:21,610
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
+Que história é essa?
+Ele é só um moleque!
 
 47
 00:02:21,620 --> 00:02:24,380
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
+Como isso é possível?!
 
 48
 00:02:28,450 --> 00:02:31,110
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
+O que foi? Me ataca, vai!
 
 49
 00:02:32,150 --> 00:02:33,810
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
+O que está acontecendo?
 
 50
 00:02:36,220 --> 00:02:39,250
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
+Por que aquela múmia está encarando o Son?
 
 51
 00:02:46,000 --> 00:02:48,630
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
+Ele disse brecha, não festa.
 
 52
 00:02:57,840 --> 00:03:01,980
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
+ele não tem nenhuma brecha!
 
 53
 00:03:01,980 --> 00:03:04,610
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
-
-54
-00:03:05,650 --> 00:03:07,090
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
-
-55
-00:03:14,810 --> 00:03:18,070
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
-
-56
-00:03:18,070 --> 00:03:20,310
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
-
-57
-00:03:20,310 --> 00:03:22,040
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
-
-58
-00:03:22,050 --> 00:03:25,850
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
-
-59
-00:03:25,850 --> 00:03:30,690
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
-
-60
-00:03:30,690 --> 00:03:32,990
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
-
-61
-00:03:32,990 --> 00:03:36,820
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
-
-62
-00:03:37,860 --> 00:03:39,960
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
-
-63
-00:03:39,960 --> 00:03:43,000
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
-
-64
-00:03:43,000 --> 00:03:47,470
-Muito bem, chegou a hora de chamar 
-o terceiro guerreiro para a luta...
-
-65
-00:03:47,470 --> 00:03:52,980
-Venha, Múmia!
-
-66
-00:03:52,980 --> 00:03:59,520
-Venha, Múmia!
-
-67
-00:03:59,520 --> 00:04:03,490
-<i>Rogafufu-ken!</i>
-
-68
-00:04:03,490 --> 00:04:05,890
-<i>Rogafufu-ken!</i>
-
-69
-00:04:05,890 --> 00:04:07,090
-Então, você desiste?
-
-70
-00:04:07,090 --> 00:04:12,890
-Então, você desiste?
-
-71
-00:04:15,770 --> 00:04:18,170
-<i>Goku e seus amigos precisam 
-derrotar poderosos adversários</i>
-
-72
-00:04:53,710 --> 00:04:57,810
-Acha que com a força do Goku, 
-ele tem chances de vencer?
-
-73
-00:05:00,170 --> 00:05:04,450
-Mas não há dúvidas de que ele se tornou 
-muito mais forte desde seu último treinamento.
-
-74
-00:05:19,530 --> 00:05:21,000
-<i>"O que é o Esplendor Mortal do Diabo?!"</i>
-
-75
-00:05:45,120 --> 00:05:48,290
-Que história é essa?
-Ele é só um moleque!
-
-76
-00:05:48,290 --> 00:05:52,120
-Que história é essa?
-Ele é só um moleque!
-
-77
-00:05:56,600 --> 00:05:59,200
-Que história é essa?
-Ele é só um moleque!
-
-78
-00:05:59,200 --> 00:06:09,210
-Que história é essa?
-Ele é só um moleque!
-
-79
-00:06:09,210 --> 00:06:11,140
-O que foi? Me ataca, vai!
-
-80
-00:06:11,140 --> 00:06:14,110
-O que está acontecendo?
-
-81
-00:06:14,110 --> 00:06:18,580
-O que está acontecendo?
-
-82
-00:06:18,580 --> 00:06:22,950
-Ele está procurando uma <i>brecha</i> no Goku.
-
-83
-00:06:22,950 --> 00:06:24,490
-O quê? Aquela múmia quer 
-chamar o Son para uma <i>festa</i>?!
-
-84
-00:06:24,490 --> 00:06:28,290
-Ele disse brecha, não festa.
-
-85
-00:06:31,830 --> 00:06:37,500
-Ah, entendi...
-
-86
-00:06:37,500 --> 00:06:41,030
-ele não tem nenhuma brecha!
-
-87
-00:06:43,890 --> 00:06:49,260
 Mas essa múmia que te 
 derrotou é bem rápida!
 
-88
-00:06:51,390 --> 00:06:54,720
-Além disso, múmias são imortais!
+54
+00:03:05,650 --> 00:03:07,090
+Mas essa múmia que te 
+derrotou é bem rápida!
 
-89
-00:06:58,860 --> 00:07:00,980
+55
+00:03:14,810 --> 00:03:18,070
+São pessoas que morreram há muito tempo 
+e foram trazidas de volta à vida...
+
+56
+00:03:18,070 --> 00:03:20,310
 Pessoas que morreram há muito 
 tempo e foram trazidas de volta?
 
-90
-00:07:03,830 --> 00:07:05,230
+57
+00:03:20,310 --> 00:03:22,040
+Sim. Antigamente, as pessoas eram mumificadas
+
+58
+00:03:22,050 --> 00:03:25,850
+Sim. Antigamente, as pessoas eram mumificadas
+
+59
+00:03:25,850 --> 00:03:30,690
 para que pudessem ser ressuscitadas depois.
 
-91
-00:07:07,100 --> 00:07:09,600
+60
+00:03:30,690 --> 00:03:32,990
 Isso significa que a pessoa dentro 
 daquelas bandagens já morreu?!
 
-92
-00:07:09,600 --> 00:07:14,300
-Isso significa que a pessoa dentro 
-daquelas bandagens já morreu?!
-
-93
-00:07:14,310 --> 00:07:17,610
+61
+00:03:32,990 --> 00:03:36,820
 Sim, há milhares de anos.
 
-94
-00:07:17,610 --> 00:07:19,910
-Milhares de anos...
-
-95
-00:07:19,910 --> 00:07:25,750
+62
+00:03:37,860 --> 00:03:39,960
 Isso significa que ele não 
 desistirá tão fácil, né?
 
-96
-00:07:25,750 --> 00:07:32,280
+63
+00:03:39,960 --> 00:03:43,000
+Isso significa que ele não 
+desistirá tão fácil, né?
+
+64
+00:03:43,000 --> 00:03:47,470
 Isso mesmo.
 
-97
-00:07:33,260 --> 00:07:35,330
+65
+00:03:47,470 --> 00:03:52,980
+Qual é o problema? Você ficou assustado?
+
+66
+00:03:52,980 --> 00:03:59,520
 Sim! O Goku está prestes a lutar 
 contra aquela múmia terrível
 
-98
-00:07:35,330 --> 00:07:38,160
-só para trazer meu pai de volta à vida!
+67
+00:03:59,520 --> 00:04:03,490
+Papai... Ajude o Goku a vencer!
 
-99
-00:08:05,360 --> 00:08:08,020
-Acabarei com você de uma vez só!
+68
+00:04:03,490 --> 00:04:05,890
+Papai... Ajude o Goku a vencer!
 
-100
-00:08:08,030 --> 00:08:10,620
-Aí vou eu!
+69
+00:04:05,890 --> 00:04:07,090
+O que você está fazendo? Começa logo!
 
-101
-00:08:12,840 --> 00:08:14,610
-Goku, cuidado! A velocidade 
-dele não é normal!
+70
+00:04:07,090 --> 00:04:12,890
+O que você está fazendo? Começa logo!
 
-102
-00:08:14,610 --> 00:08:18,110
-Goku, cuidado! A velocidade 
-dele não é normal!
+71
+00:04:15,770 --> 00:04:18,170
+Você pagará por me ridicularizar!
 
-103
-00:08:18,110 --> 00:08:19,340
-Seu moleque!
-
-104
-00:08:19,340 --> 00:08:21,110
-Seu moleque!
-
-105
-00:08:21,110 --> 00:08:23,610
-Seu moleque!
-
-106
-00:08:23,620 --> 00:08:28,520
-Ah, não! Ele recebeu um ataque direto!
-
-107
-00:08:28,520 --> 00:08:30,990
-Goku!
-
-108
-00:08:30,990 --> 00:08:33,260
-Goku!
-
-109
-00:08:33,260 --> 00:08:36,460
-Goku!
-
-110
-00:08:36,460 --> 00:08:40,300
+72
+00:04:53,710 --> 00:04:57,810
 Goku...!
 
-111
-00:08:40,300 --> 00:08:44,390
+73
+00:05:00,170 --> 00:05:04,450
 Goku...!
 
-112
-00:08:46,840 --> 00:08:50,510
-Parece que ele ainda não 
-está forte o suficiente...
-
-113
-00:08:50,510 --> 00:08:54,980
-Acabou pra você. Até que foi fácil...
-
-114
-00:08:54,980 --> 00:08:57,550
+74
+00:05:19,530 --> 00:05:21,000
 Ei, garoto! Diga alguma 
 coisa se ainda estiver vivo!
 
-115
-00:08:57,550 --> 00:09:02,350
-Ei, garoto! Diga alguma 
-coisa se ainda estiver vivo!
+75
+00:05:45,120 --> 00:05:48,290
+parece até que não aconteceu nada!
 
-116
-00:09:15,900 --> 00:09:19,540
-Ei, Tio Múmia! É só isso?
-
-117
-00:09:19,540 --> 00:09:21,230
-Ele se levantou!
-
-118
-00:09:22,240 --> 00:09:25,040
-Embora ele tenha recebido aquele ataque,
-
-119
-00:09:28,350 --> 00:09:33,940
+76
+00:05:48,290 --> 00:05:52,120
 Parece que o Goku fez um 
 treinamento bem intenso...
 
-120
-00:09:35,950 --> 00:09:38,090
+77
+00:05:56,600 --> 00:05:59,200
 Maldito! Você quer tanto assim morrer?!
 
-121
-00:09:38,090 --> 00:09:43,030
+78
+00:05:59,200 --> 00:06:09,210
 Maldito! Você quer tanto assim morrer?!
 
-122
-00:09:43,030 --> 00:09:47,100
+79
+00:06:09,210 --> 00:06:11,140
 Maldito! Você quer tanto assim morrer?!
 
-123
-00:09:47,100 --> 00:09:49,630
+80
+00:06:11,140 --> 00:06:14,110
 Maldito! Você quer tanto assim morrer?!
 
-124
-00:09:49,630 --> 00:09:53,370
-Maldito! Você quer tanto assim morrer?!
-
-125
-00:09:53,370 --> 00:09:56,310
-Maldito! Você quer tanto assim morrer?!
-
-126
-00:09:59,910 --> 00:10:02,310
+81
+00:06:14,110 --> 00:06:18,580
 O mesmo ataque não vai 
 funcionar comigo, Tio!
 
-127
-00:10:02,310 --> 00:10:06,650
+82
+00:06:18,580 --> 00:06:22,950
 O mesmo ataque não vai 
 funcionar comigo, Tio!
 
-128
-00:10:06,650 --> 00:10:09,090
+83
+00:06:22,950 --> 00:06:24,490
 O mesmo ataque não vai 
 funcionar comigo, Tio!
 
-129
-00:10:10,920 --> 00:10:16,560
+84
+00:06:24,490 --> 00:06:28,290
 O mesmo ataque não vai 
 funcionar comigo, Tio!
 
-130
-00:10:16,560 --> 00:10:22,090
+85
+00:06:31,830 --> 00:06:37,500
+O que disse?!
+
+86
+00:06:37,500 --> 00:06:41,030
 Droga! Sendo assim...
 
-131
-00:10:23,230 --> 00:10:26,470
+87
+00:06:43,890 --> 00:06:49,260
 O que será que ele vai fazer?
 
-132
-00:10:26,470 --> 00:10:33,060
-O que será que ele vai fazer?
+88
+00:06:51,390 --> 00:06:54,720
+O que é aquilo?!
 
-133
-00:10:33,060 --> 00:10:34,960
-Hã?
+89
+00:06:58,860 --> 00:07:00,980
+Não me diga que aquelas faixas são...
 
-134
-00:10:45,050 --> 00:10:49,890
+90
+00:07:03,830 --> 00:07:05,230
 Cuidado, Goku!
 Não encoste nessas bandagens!
 
-135
-00:10:49,890 --> 00:10:53,190
+91
+00:07:07,100 --> 00:07:09,600
+Cuidado, Goku!
+Não encoste nessas bandagens!
+
+92
+00:07:09,600 --> 00:07:14,300
 Que droga!
 
-136
-00:10:53,190 --> 00:10:58,200
+93
+00:07:14,310 --> 00:07:17,610
 Que droga!
 
-137
-00:10:58,200 --> 00:11:02,970
+94
+00:07:17,610 --> 00:07:19,910
 Não consigo rasgá-las!
 
-138
-00:11:02,970 --> 00:11:05,200
+95
+00:07:19,910 --> 00:07:25,750
 Seu idiota, você não será capaz 
 de rasgá-las com facilidade.
 
-139
-00:11:05,210 --> 00:11:08,070
+96
+00:07:25,750 --> 00:07:32,280
 Toma essa!
 
-140
-00:11:08,080 --> 00:11:11,880
-Toma essa!
-
-141
-00:11:11,880 --> 00:11:15,780
+97
+00:07:33,260 --> 00:07:35,330
 Goku!
 
-142
-00:11:19,660 --> 00:11:23,480
-Agora você não pode mais se mexer. Gostou?
+98
+00:07:35,330 --> 00:07:38,160
+Ah, não!
 
-143
-00:11:25,390 --> 00:11:30,130
-Se pretende desistir, a hora é agora.
-
-144
-00:11:30,130 --> 00:11:33,190
-Caso contrário, te apertarei mais forte com 
-estas bandagens e irei estraçalhar seus ossos.
-
-145
-00:11:52,490 --> 00:11:57,220
+99
+00:08:05,360 --> 00:08:08,020
 Você não me deixa escolhas...
 
-146
-00:11:57,220 --> 00:11:58,490
+100
+00:08:08,030 --> 00:08:10,620
+Você não me deixa escolhas...
+
+101
+00:08:12,840 --> 00:08:14,610
+Você não me deixa escolhas...
+
+102
+00:08:14,610 --> 00:08:18,110
 E aí? Ainda se recusa a desistir?
 
-147
-00:11:58,490 --> 00:12:02,330
+103
+00:08:18,110 --> 00:08:19,340
 E aí? Ainda se recusa a desistir?
 
-148
-00:12:04,230 --> 00:12:05,430
+104
+00:08:19,340 --> 00:08:21,110
 E aí? Ainda se recusa a desistir?
 
-149
-00:13:16,560 --> 00:13:18,000
+105
+00:08:21,110 --> 00:08:23,610
+E aí? Ainda se recusa a desistir?
+
+106
+00:08:23,620 --> 00:08:28,520
+E aí? Ainda se recusa a desistir?
+
+107
+00:08:28,520 --> 00:08:30,990
+O quê? É só isso?
+
+108
+00:08:30,990 --> 00:08:33,260
+S-Seu pivete!
+
+109
+00:08:33,260 --> 00:08:36,460
+S-Seu pivete!
+
+110
+00:08:36,460 --> 00:08:40,300
+Então, seja esmagado!
+
+111
+00:08:40,300 --> 00:08:44,390
+Quanto mais você luta contra 
+elas, mais apertadas elas ficam!
+
+112
+00:08:46,840 --> 00:08:50,510
+Então, garoto? Sugiro admitir a derrota.
+
+113
+00:08:50,510 --> 00:08:54,980
+Ele não pode fazer nada 
+contra aquelas bandagens?
+
+114
+00:08:54,980 --> 00:08:57,550
+Ouvi dizer que as faixas das múmias são 
+feitas um tecido que parecem fibra metálica
+
+115
+00:08:57,550 --> 00:09:02,350
+para durarem milhares de anos.
+
+116
+00:09:15,900 --> 00:09:19,540
+Se continuar assim, todos
+os ossos de seu corpo
+
+117
+00:09:19,540 --> 00:09:21,230
+podem acabar se quebrando,
+e ele nunca mais voltará ao normal.
+
+118
+00:09:22,240 --> 00:09:25,040
+Ai, não...
+
+119
+00:09:28,350 --> 00:09:33,940
+O Mestre Muten Roshi falou que 
+é melhor você desistir!
+
+120
+00:09:35,950 --> 00:09:38,090
 Prometi ao Upa que pegaria 
 todas as Esferas do Dragão,
 
-150
-00:13:18,000 --> 00:13:20,130
+121
+00:09:38,090 --> 00:09:43,030
 e traria seu pai de volta à vida...
 
-151
-00:13:20,130 --> 00:13:24,270
+122
+00:09:43,030 --> 00:09:47,100
 e traria seu pai de volta à vida...
 
-152
-00:13:24,270 --> 00:13:26,340
+123
+00:09:47,100 --> 00:09:49,630
 Desiste, Goku, por favor! Não 
 se preocupe com o meu pai!
 
+124
+00:09:49,630 --> 00:09:53,370
+Desiste, Goku, por favor! Não 
+se preocupe com o meu pai!
+
+125
+00:09:53,370 --> 00:09:56,310
+Upa...
+
+126
+00:09:59,910 --> 00:10:02,310
+Eu... nunca...
+
+127
+00:10:02,310 --> 00:10:06,650
+Eu... nunca...
+
+128
+00:10:06,650 --> 00:10:09,090
+Vai desistir?
+
+129
+00:10:10,920 --> 00:10:16,560
+Vai desistir?
+
+130
+00:10:16,560 --> 00:10:22,090
+Vai desistir?
+
+131
+00:10:23,230 --> 00:10:26,470
+Desiste, Goku!
+
+132
+00:10:26,470 --> 00:10:33,060
+Desiste, Goku!
+
+133
+00:10:33,060 --> 00:10:34,960
+Desiste, Goku!
+
+134
+00:10:45,050 --> 00:10:49,890
+Desista, garoto!
+
+135
+00:10:49,890 --> 00:10:53,190
+Só mais um pouco e seus 
+ossos ficarão em pedaços!
+
+136
+00:10:53,190 --> 00:10:58,200
+Só mais um pouco e seus 
+ossos ficarão em pedaços!
+
+137
+00:10:58,200 --> 00:11:02,970
+Anda logo, Goku! Desiste!
+
+138
+00:11:02,970 --> 00:11:05,200
+Eu...
+
+139
+00:11:05,210 --> 00:11:08,070
+Finalmente irá desistir?
+
+140
+00:11:08,080 --> 00:11:11,880
+Finalmente irá desistir?
+
+141
+00:11:11,880 --> 00:11:15,780
+Eu prefiro morrer do que desistir!
+
+142
+00:11:19,660 --> 00:11:23,480
+Ah, é? Então vamos ver.
+
+143
+00:11:25,390 --> 00:11:30,130
+Já que é assim, destruirei 
+todos os seus ossos!
+
+144
+00:11:30,130 --> 00:11:33,190
+Já que é assim, destruirei 
+todos os seus ossos!
+
+145
+00:11:52,490 --> 00:11:57,220
+O-O que ele está fazendo?!
+
+146
+00:11:57,220 --> 00:11:58,490
+O-O que ele está fazendo?!
+
+147
+00:11:58,490 --> 00:12:02,330
+O-O que ele está fazendo?!
+
+148
+00:12:04,230 --> 00:12:05,430
+O-O que ele está fazendo?!
+
+149
+00:13:16,560 --> 00:13:18,000
+Essa foi por pouco, mas 
+não acontecerá de novo!
+
+150
+00:13:18,000 --> 00:13:20,130
+Essa foi por pouco, mas 
+não acontecerá de novo!
+
+151
+00:13:20,130 --> 00:13:24,270
+Essa foi por pouco, mas 
+não acontecerá de novo!
+
+152
+00:13:24,270 --> 00:13:26,340
+Agora, é a minha vez!
+
 153
 00:14:35,630 --> 00:14:36,830
-Anda logo, Goku! Desiste!
+Quem iria imaginar que 
+ele derrotaria uma múmia
 
 154
 00:14:36,830 --> 00:14:38,660
-Anda logo, Goku! Desiste!
+Quem iria imaginar que 
+ele derrotaria uma múmia
 
 155
 00:14:39,860 --> 00:14:41,630
-Anda logo, Goku! Desiste!
+supostamente imortal com um soco...
 
 156
 00:14:46,570 --> 00:14:48,040
-Finalmente irá desistir?
+O Son está tão forte assim?
 
 157
 00:15:03,750 --> 00:15:05,420
-Já que é assim, destruirei 
-todos os seus ossos!
-
-158
-00:15:09,130 --> 00:15:11,540
-Já que é assim, destruirei 
-todos os seus ossos!
-
-159
-00:15:16,090 --> 00:15:19,540
-Já que é assim, destruirei 
-todos os seus ossos!
-
-160
-00:15:49,650 --> 00:15:51,050
-O-O que ele está fazendo?!
-
-161
-00:16:03,230 --> 00:16:04,820
-Não me diga que ele pretende—
-
-162
-00:16:07,230 --> 00:16:09,630
-Para com isso!
-
-163
-00:16:26,180 --> 00:16:30,020
-Garoto idiota.
-
-164
-00:16:30,020 --> 00:16:34,490
-Garoto idiota.
-
-165
-00:16:34,490 --> 00:16:39,550
-I-Incrível...
-
-166
-00:16:39,550 --> 00:16:42,550
-I-Incrível...
-
-167
-00:16:42,550 --> 00:16:48,960
-I-Incrível...
-
-168
-00:16:51,300 --> 00:16:54,970
-I-Incrível...
-
-169
-00:16:54,970 --> 00:16:57,970
-I-Incrível...
-
-170
-00:16:57,970 --> 00:17:01,970
-Essa foi por pouco, mas 
-não acontecerá de novo!
-
-171
-00:17:01,970 --> 00:17:03,980
-Essa foi por pouco, mas 
-não acontecerá de novo!
-
-172
-00:17:03,980 --> 00:17:07,610
-Agora, é a minha vez!
-
-173
-00:17:10,450 --> 00:17:12,210
-Você está pronto?!
-
-174
-00:17:15,690 --> 00:17:19,120
-Seu moleque!
-
-175
-00:17:23,400 --> 00:17:27,630
-Seu moleque!
-
-176
-00:18:19,670 --> 00:18:22,230
-supostamente imortal com um soco...
-
-177
-00:18:22,230 --> 00:18:24,340
-Nem eu acredito o quanto ele cresceu!
-
-178
-00:18:24,340 --> 00:18:27,170
-Ele se tornou um lutador muito poderoso.
-
-179
-00:18:31,780 --> 00:18:34,580
-Ele derrotou a Força Red 
-Ribbon inteira sozinho.
-
-180
-00:18:35,620 --> 00:18:38,960
-O Goku é mesmo incrível!
-
-181
-00:18:38,960 --> 00:18:45,830
-Sim! E a gente nem esperava por isso, 
-ele tá sempre está com essa cara de bobo.
-
-182
-00:18:45,830 --> 00:18:48,840
 Realmente, ele passou por 
 várias situações difíceis.
 
-183
-00:18:48,840 --> 00:18:50,840
+158
+00:15:09,130 --> 00:15:11,540
 Só preciso acabar com mais dois, né, Vovó?
 
-184
-00:18:50,840 --> 00:18:53,370
-Só preciso acabar com mais dois, né, Vovó?
-
-185
-00:18:53,380 --> 00:18:55,910
-Só preciso acabar com mais dois, né, Vovó?
-
-186
-00:18:55,910 --> 00:18:58,880
+159
+00:15:16,090 --> 00:15:19,540
 Não se empolgue muito! Ria enquanto pode!
 
-187
-00:19:04,020 --> 00:19:07,020
-Achava que ele fosse um garotinho 
-idiota, mas ele é bem forte.
-
-188
-00:19:07,020 --> 00:19:10,220
-Hã? Qual é a graça?!
-
-189
-00:19:11,390 --> 00:19:13,390
-Não é nada.
-
-190
-00:19:13,400 --> 00:19:17,060
-Ele é o primeiro a chegar tão longe, 
-mas não tem como ele me derrotar!
-
-191
-00:19:17,070 --> 00:19:21,840
-Não o subestime.
-
-192
-00:19:21,840 --> 00:19:24,710
-Senão, quebrará a cara igual ao Múmia.
-
-193
-00:19:24,710 --> 00:19:29,300
-Senão, quebrará a cara igual ao Múmia.
-
-194
-00:19:29,300 --> 00:19:33,830
+160
+00:15:49,650 --> 00:15:51,050
 Muito bem, que venha o quarto lutador!
 
-195
-00:19:38,680 --> 00:19:41,310
-Esse Akkuman é forte?
+161
+00:16:03,230 --> 00:16:04,820
+Então ele deve ser bem poderoso.
 
-196
-00:20:22,460 --> 00:20:25,190
+162
+00:16:07,230 --> 00:16:09,630
+Sim. Mas se ele é o quarto lutador,
+
+163
+00:16:26,180 --> 00:16:30,020
+Só tem gente esquisita por aqui...
+
+164
+00:16:30,020 --> 00:16:34,490
+Vamos começar, garoto.
+
+165
+00:16:34,490 --> 00:16:39,550
+Muito bem, comecem!
+
+166
+00:16:39,550 --> 00:16:42,550
+O quê?! Isso não é justo! Ele pode voar!
+
+167
+00:16:42,550 --> 00:16:48,960
 Sim!
 
-197
-00:20:30,550 --> 00:20:32,290
+168
+00:16:51,300 --> 00:16:54,970
 Que lugar é esse?!
 
-198
-00:20:32,290 --> 00:20:35,620
-Que lugar é esse?!
-
-199
-00:20:35,620 --> 00:20:38,190
+169
+00:16:54,970 --> 00:16:57,970
 O Inferno! Morra!
 
-200
-00:21:11,670 --> 00:21:18,000
+170
+00:16:57,970 --> 00:17:01,970
+O Inferno! Morra!
+
+171
+00:17:01,970 --> 00:17:03,980
+O quê?!
+
+172
+00:17:03,980 --> 00:17:07,610
+Ele é rápido!
+
+173
+00:17:10,450 --> 00:17:12,210
+Droga!
+
+174
+00:17:15,690 --> 00:17:19,120
+O quê?! Como ousa falar 
+desse jeito com um demônio?!
+
+175
+00:17:23,400 --> 00:17:27,630
 Sim, senhora!
 
-201
-00:21:18,010 --> 00:21:21,970
-Sim, senhora!
+176
+00:18:19,670 --> 00:18:22,230
+Ele venceu o Torneio de Artes 
+Marciais?! Duas vezes?!
 
-202
-00:21:21,980 --> 00:21:24,980
-Você não me derrotará com isso!
-
-203
-00:21:24,980 --> 00:21:27,970
-Você não me derrotará com isso!
-
-204
-00:21:30,820 --> 00:21:34,250
-Você não me derrotará com isso!
-
-205
-00:21:35,690 --> 00:21:40,420
-Você não me derrotará com isso!
-
-206
-00:21:42,330 --> 00:21:44,560
-É claro que não, eu só 
-estava brincando com você.
-
-207
-00:21:44,560 --> 00:21:48,660
-É claro que não, eu só 
-estava brincando com você.
-
-208
-00:21:49,940 --> 00:21:53,470
-Não, pelo contrário.
-
-209
-00:21:53,470 --> 00:21:58,880
-Saiba que ele venceu o Torneio 
-de Artes Marciais duas vezes.
-
-210
-00:22:01,010 --> 00:22:02,680
+177
+00:18:22,230 --> 00:18:24,340
 Não fazia ideia...
 
-211
-00:22:02,680 --> 00:22:08,020
-Não fazia ideia...
+178
+00:18:24,340 --> 00:18:27,170
+Mas se ele consegue brincar 
+com um adversário tão forte,
 
-212
-00:22:08,020 --> 00:22:09,420
-não significa que o Son 
-é muito mais forte?
+179
+00:18:31,780 --> 00:18:34,580
+Sim! A vitória já é dele!
 
-213
-00:22:09,420 --> 00:22:12,120
-não significa que o Son 
-é muito mais forte?
-
-214
-00:22:14,760 --> 00:22:17,420
+180
+00:18:35,620 --> 00:18:38,960
 Isso mesmo! Podemos assistir 
 sem nos preocuparmos!
 
-215
-00:22:22,140 --> 00:22:25,040
-O Akkuman possui uma técnica 
-terrível e mortal.
+181
+00:18:38,960 --> 00:18:45,830
+Não, vocês não devem subestimá-lo.
 
-216
-00:22:25,040 --> 00:22:29,440
+182
+00:18:45,830 --> 00:18:48,840
 Técnica mortal?
 
-217
-00:22:29,440 --> 00:22:33,310
+183
+00:18:48,840 --> 00:18:50,840
 Sim. Todos que a recebem, morrem.
 
-218
-00:22:33,310 --> 00:22:34,510
+184
+00:18:50,840 --> 00:18:53,370
 Sim. Todos que a recebem, morrem.
 
-219
-00:22:34,510 --> 00:22:35,980
-Sim. Todos que a recebem, morrem.
-
-220
-00:22:35,980 --> 00:22:41,780
-Sim. Todos que a recebem, morrem.
-
-221
-00:22:42,790 --> 00:22:44,620
-Sim. Todos que a recebem, morrem.
-
-222
-00:22:45,790 --> 00:22:49,260
-Sim. Todos que a recebem, morrem.
-
-223
-00:22:49,260 --> 00:22:54,100
-Sim. Todos que a recebem, morrem.
-
-224
-00:22:56,400 --> 00:23:00,460
-Sim. Todos que a recebem, morrem.
-
-225
-00:23:01,010 --> 00:23:03,640
+185
+00:18:53,380 --> 00:18:55,910
 Akkuman! Para alguém com a sua força, 
 você está passando vergonha!
 
-226
-00:23:22,300 --> 00:23:24,320
-O que você está falando? 
-A luta acabou de começar!
+186
+00:18:55,910 --> 00:18:58,880
+Akkuman! Para alguém com a sua força, 
+você está passando vergonha!
 
-227
-00:23:36,810 --> 00:23:43,270
+187
+00:19:04,020 --> 00:19:07,020
 Irei te mostrar o meu verdadeiro poder!
 
-228
-00:23:44,820 --> 00:23:46,840
+188
+00:19:07,020 --> 00:19:10,220
+Irei te mostrar o meu verdadeiro poder!
+
+189
+00:19:11,390 --> 00:19:13,390
+Irei te mostrar o meu verdadeiro poder!
+
+190
+00:19:13,400 --> 00:19:17,060
 Até as pessoas mais bondosas possuem 
 um pouco de maldade em seus corações!
 
-229
-00:23:48,020 --> 00:23:51,120
+191
+00:19:17,070 --> 00:19:21,840
+Até as pessoas mais bondosas possuem 
+um pouco de maldade em seus corações!
+
+192
+00:19:21,840 --> 00:19:24,710
+Até as pessoas mais bondosas possuem 
+um pouco de maldade em seus corações!
+
+193
+00:19:24,710 --> 00:19:29,300
 Por exemplo, inveja de algo que o outro tem,
 
-230
-00:23:59,300 --> 00:24:02,030
+194
+00:19:29,300 --> 00:19:33,830
 fazer pegadinhas, ou falar 
 mal de outra pessoa,
 
-231
-00:24:02,040 --> 00:24:05,770
-ou olhar para as saias das garotas...
-
-232
-00:24:05,770 --> 00:24:09,210
-Não importa o quão pequeno 
-esses pensamentos malignos sejam,
-
-233
-00:24:09,210 --> 00:24:11,070
+195
+00:19:38,680 --> 00:19:41,310
 se continuar expandindo eles, em algum 
 momento resultará em uma explosão!
 
-234
-00:24:12,710 --> 00:24:16,650
-Está com medo? Você está 
-prestes a ficar em pedaços!
-
-235
-00:24:18,020 --> 00:24:20,250
-N-Não acredito que...
-
-236
-00:24:20,250 --> 00:24:21,650
-Ah, não!
-
-237
-00:24:21,660 --> 00:24:28,060
-O que foi?
-
-238
-00:24:28,060 --> 00:24:31,260
-É o Esplendor Mortal do Diabo! 
-Ele realmente pretende matar o Goku!
-
-239
-00:24:32,730 --> 00:24:41,270
+196
+00:20:22,460 --> 00:20:25,190
 Espera, Akkuman!
 Não precisa ir tão longe!
 
-240
-00:25:00,130 --> 00:25:04,160
-<i>O que será esse Esplendor Mortal
-do Diabo,a técnica que dizem</i>
+197
+00:20:30,550 --> 00:20:32,290
+O que será esse Esplendor Mortal
+do Diabo,a técnica que dizem
 
-241
-00:25:04,160 --> 00:25:07,370
-<i>matar qualquer um que
-for atingido?!</i>
+198
+00:20:32,290 --> 00:20:35,620
+matar qualquer um que
+for atingido?!
 
-242
-00:25:07,370 --> 00:25:12,810
-<i>Será que Goku será capaz de sobreviver?!</i>
+199
+00:20:35,620 --> 00:20:38,190
+matar qualquer um que
+for atingido?!
 
-243
-00:25:42,970 --> 00:25:45,870
-Venha aqui, fantasia
-
-244
-00:25:42,970 --> 00:25:45,870
-<i>Oide FANTAJI</i>
-
-245
-00:25:45,870 --> 00:25:48,470
-Eu adoro um mistério
-
-246
-00:25:45,870 --> 00:25:48,470
-<i>suki sa MISUTERI</i>
-
-247
-00:25:48,480 --> 00:25:55,010
-Não vá esconder
-a sua juventude!
-
-248
-00:25:48,480 --> 00:25:55,010
-<i>Kimi no wakasa kakusa nai de</i>
-
-249
-00:25:55,020 --> 00:25:58,020
-Quero fazer o que é misterioso
-
-250
-00:25:55,020 --> 00:25:58,020
-<i>Fushigi shitakute</i>
-
-251
-00:25:58,020 --> 00:26:00,550
+200
+00:21:11,670 --> 00:21:18,000
 Quero correr atrás de aventura
 
-252
-00:25:58,020 --> 00:26:00,550
-<i>Bouken shitakute</i>
-
-253
-00:26:00,550 --> 00:26:06,530
+201
+00:21:18,010 --> 00:21:21,970
 Todo mundo não vê a hora de ir!
 
-254
-00:26:00,550 --> 00:26:06,530
-<i>Dare mo minna uzu-uzu shiteru</i>
-
-255
-00:26:06,530 --> 00:26:12,530
+202
+00:21:21,980 --> 00:21:24,980
 Se você agir feito
 adulto e desistir
 
-256
-00:26:06,530 --> 00:26:12,530
-<i>Otona no furi shite akiramecha</i>
+203
+00:21:24,980 --> 00:21:27,970
+Se você agir feito
+adulto e desistir
 
-257
-00:26:12,530 --> 00:26:18,700
+204
+00:21:30,820 --> 00:21:34,250
 Você nunca desvendará
 o mistério do milagre
 
-258
-00:26:12,530 --> 00:26:18,700
-<i>Kiseki no nazo nado tokenai yo</i>
-
-259
-00:26:18,710 --> 00:26:29,850
+205
+00:21:35,690 --> 00:21:40,420
 Vá e viva de forma
 mais intensa e forte!
 
-260
-00:26:18,710 --> 00:26:29,850
-<i>Motto WAIRUDO ni 
-motto takumashiku ikite goran</i>
+206
+00:21:42,330 --> 00:21:44,560
+Vá e viva de forma
+mais intensa e forte!
 
-261
-00:26:29,850 --> 00:26:37,420
+207
+00:21:44,560 --> 00:21:48,660
 Vou te dar um romance
 
-262
-00:26:29,850 --> 00:26:37,420
-<i>ROMANTIKKU Ageru yo!</i>
+208
+00:21:49,940 --> 00:21:53,470
+Vou te dar um romance
 
-263
-00:26:37,420 --> 00:26:41,890
+209
+00:21:53,470 --> 00:21:58,880
 Se você me mostrar sua
 verdadeira coragem
 
+210
+00:22:01,010 --> 00:22:02,680
+Vou te dar um romance
+
+211
+00:22:02,680 --> 00:22:08,020
+Vou te dar um romance
+
+212
+00:22:08,020 --> 00:22:09,420
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+213
+00:22:09,420 --> 00:22:12,120
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+214
+00:22:14,760 --> 00:22:17,420
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+215
+00:22:22,140 --> 00:22:25,040
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+216
+00:22:25,040 --> 00:22:29,440
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+217
+00:22:29,440 --> 00:22:33,310
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+218
+00:22:33,310 --> 00:22:34,510
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+219
+00:22:34,510 --> 00:22:35,980
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+220
+00:22:35,980 --> 00:22:41,780
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+221
+00:22:42,790 --> 00:22:44,620
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+222
+00:22:45,790 --> 00:22:49,260
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+223
+00:22:49,260 --> 00:22:54,100
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+224
+00:22:56,400 --> 00:23:00,460
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+225
+00:23:01,010 --> 00:23:03,640
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+226
+00:23:22,300 --> 00:23:24,320
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+227
+00:23:36,810 --> 00:23:43,270
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+228
+00:23:44,820 --> 00:23:46,840
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+229
+00:23:48,020 --> 00:23:51,120
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+230
+00:23:59,300 --> 00:24:02,030
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+231
+00:24:02,040 --> 00:24:05,770
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+232
+00:24:05,770 --> 00:24:09,210
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+233
+00:24:09,210 --> 00:24:11,070
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+234
+00:24:12,710 --> 00:24:16,650
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+235
+00:24:18,020 --> 00:24:20,250
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+236
+00:24:20,250 --> 00:24:21,650
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+237
+00:24:21,660 --> 00:24:28,060
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+238
+00:24:28,060 --> 00:24:31,260
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+239
+00:24:32,730 --> 00:24:41,270
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+240
+00:25:00,130 --> 00:25:04,160
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+241
+00:25:04,160 --> 00:25:07,370
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+242
+00:25:07,370 --> 00:25:12,810
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+243
+00:25:42,970 --> 00:25:45,870
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+244
+00:25:42,970 --> 00:25:45,870
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+245
+00:25:45,870 --> 00:25:48,470
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+246
+00:25:45,870 --> 00:25:48,470
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+247
+00:25:48,480 --> 00:25:55,010
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+248
+00:25:48,480 --> 00:25:55,010
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+249
+00:25:55,020 --> 00:25:58,020
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+250
+00:25:55,020 --> 00:25:58,020
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+251
+00:25:58,020 --> 00:26:00,550
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+252
+00:25:58,020 --> 00:26:00,550
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+253
+00:26:00,550 --> 00:26:06,530
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+254
+00:26:00,550 --> 00:26:06,530
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+255
+00:26:06,530 --> 00:26:12,530
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+256
+00:26:06,530 --> 00:26:12,530
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+257
+00:26:12,530 --> 00:26:18,700
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+258
+00:26:12,530 --> 00:26:18,700
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+259
+00:26:18,710 --> 00:26:29,850
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+260
+00:26:18,710 --> 00:26:29,850
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+261
+00:26:29,850 --> 00:26:37,420
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+262
+00:26:29,850 --> 00:26:37,420
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+263
+00:26:37,420 --> 00:26:41,890
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
 264
 00:26:37,420 --> 00:26:41,890
-<i>Hontou no yuuki wo misete kuretara</i>
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
 
 265
 00:26:41,900 --> 00:26:49,300
-Vou te dar um romance
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
 
 266
 00:26:41,900 --> 00:26:49,300
-<i>ROMANTIKKU Ageru yo!</i>
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
 
 267
 00:26:49,300 --> 00:26:57,900
@@ -1173,5 +1203,5 @@ reluzente ao seu coração acelerado!
 
 268
 00:26:49,300 --> 00:26:57,900
-<i>Tokimeku mune ni 
-kirakira hikatta yume wo ageru yo</i>
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
