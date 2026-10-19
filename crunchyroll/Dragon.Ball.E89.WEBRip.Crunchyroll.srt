@@ -1,0 +1,1363 @@
+1
+00:00:11,840 --> 00:00:15,490
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:11,840 --> 00:00:15,490
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:15,490 --> 00:00:19,010
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:15,490 --> 00:00:19,010
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:19,010 --> 00:00:22,590
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:19,010 --> 00:00:22,590
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:22,590 --> 00:00:25,760
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:22,590 --> 00:00:25,760
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:25,760 --> 00:00:28,980
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:25,760 --> 00:00:28,980
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:28,980 --> 00:00:36,770
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:28,980 --> 00:00:36,770
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:36,770 --> 00:00:39,990
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:36,770 --> 00:00:39,990
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:39,990 --> 00:00:43,940
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+16
+00:00:39,990 --> 00:00:43,940
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+17
+00:00:43,940 --> 00:00:50,840
+Em algum lugar do
+mundo elas vão brilhar
+
+18
+00:00:43,940 --> 00:00:50,840
+<i>Kono no yo doko ka de hikatteiru</i>
+
+19
+00:00:50,840 --> 00:00:54,420
+Vamos lá encontrá-las, rapaz
+
+20
+00:00:50,840 --> 00:00:54,420
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+21
+00:00:54,420 --> 00:00:57,430
+Enquanto passamos por cima
+de monstros e demônios
+
+22
+00:00:54,420 --> 00:00:57,430
+<i>Youkai henka mo buttobashi</i>
+
+23
+00:00:57,430 --> 00:01:04,980
+E na nuvem voadora
+nós vamos voar!
+
+24
+00:00:57,430 --> 00:01:04,980
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+25
+00:01:04,980 --> 00:01:08,810
+Vamos experimentar
+esse profundo mistério
+
+26
+00:01:04,980 --> 00:01:08,810
+<i>Let's try try try Makafushigi</i>
+
+27
+00:01:08,810 --> 00:01:11,980
+Avançando pelos céus,
+superando as montanhas
+
+28
+00:01:08,810 --> 00:01:11,980
+<i>Sora wo kakenuke yama wo koe</i>
+
+29
+00:01:11,980 --> 00:01:15,820
+Vamos voar rumo a
+uma grande aventura
+
+30
+00:01:11,980 --> 00:01:15,820
+<i>Let's fly fly fly Daibouken</i>
+
+31
+00:01:15,820 --> 00:01:22,850
+A nossa jornada
+estranha vai começar!
+
+32
+00:01:15,820 --> 00:01:22,850
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+33
+00:01:22,850 --> 00:01:26,410
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+34
+00:01:22,850 --> 00:01:26,410
+<i>Te ni irero! DRAGON BALL</i>
+
+35
+00:01:26,410 --> 00:01:30,030
+Uma das apostas mais
+formidáveis do mundo
+
+36
+00:01:26,410 --> 00:01:30,030
+<i>Sekai de ittou degowai chansu</i>
+
+37
+00:01:30,030 --> 00:01:33,610
+Vamos persegui-las!
+As Esferas do Dragão!
+
+38
+00:01:30,030 --> 00:01:33,610
+<i>Oikakero! DRAGON BALL</i>
+
+39
+00:01:33,610 --> 00:01:36,840
+Um dos mistérios mais
+dramáticos do mundo
+
+40
+00:01:33,610 --> 00:01:36,840
+<i>Sekai de ittou ikashita dorama</i>
+
+41
+00:01:36,840 --> 00:01:40,200
+A vida é uma grande
+ilha do tesouro
+
+42
+00:01:36,840 --> 00:01:40,200
+<i>Kono yo wa dekkai takarajima</i>
+
+43
+00:01:40,200 --> 00:01:47,520
+Isso mesmo!
+A aventura começou!
+
+44
+00:01:40,200 --> 00:01:47,520
+<i>Sou sa Ima koso adobenchaa!</i>
+
+45
+00:01:56,620 --> 00:02:01,870
+<i>O Torneio de Artes Marciais 
+começou com tudo!</i>
+
+46
+00:02:01,870 --> 00:02:04,080
+<i>A tão aguardada primeira luta</i>
+
+47
+00:02:04,080 --> 00:02:11,150
+<i>colocou Tenshinhan, aprendiz do Mestre 
+Tsuru, em uma batalha contra Yamcha.</i>
+
+48
+00:02:40,030 --> 00:02:42,820
+<i>Tenshinhan derrotou o habilidoso Yamcha</i>
+
+49
+00:02:42,820 --> 00:02:46,980
+<i>com sua força assombrosa.</i>
+
+50
+00:02:48,330 --> 00:02:56,660
+<i>Agora, a batalha entre Jackie Chun e 
+o Homem-Lobo está prestes a começar.</i>
+
+51
+00:03:13,350 --> 00:03:21,220
+Assustador!! 
+O rancor da lua cheia!
+
+52
+00:03:15,190 --> 00:03:20,470
+<i>"Assustador!! 
+O rancor da lua cheia!"</i>
+
+53
+00:03:30,460 --> 00:03:36,540
+Vejamos... A primeira luta de hoje será 
+entre o Jackie Chun contra o Homem-Lobo.
+
+54
+00:03:36,540 --> 00:03:38,340
+Eu aposto no Jackie.
+
+55
+00:03:38,340 --> 00:03:40,340
+Eu vou de Homem-Lobo.
+
+56
+00:03:40,340 --> 00:03:42,260
+Ei, parem de empurrar!
+
+57
+00:03:42,260 --> 00:03:45,220
+Estou na fila desde ontem à noite!
+
+58
+00:03:45,220 --> 00:03:46,290
+O quê?
+
+59
+00:03:46,290 --> 00:03:48,290
+Aquele é o Panputto, ele 
+vai lutar na próxima luta!
+
+60
+00:03:50,150 --> 00:03:51,790
+Ele é tão maneiro!
+
+61
+00:03:52,390 --> 00:03:54,800
+Eu adoro ele!
+
+62
+00:03:55,480 --> 00:03:56,880
+É o Tenshinhan!
+
+63
+00:03:57,150 --> 00:03:58,470
+Que energia opressora!
+
+64
+00:03:58,470 --> 00:04:00,970
+Encosta um dedo nele, 
+que ele acaba contigo!
+
+65
+00:04:04,280 --> 00:04:07,890
+Tenho certeza de que ele estará nas finais.
+
+66
+00:04:07,890 --> 00:04:13,400
+Não aguento, não aguento, 
+não aguento mais!
+
+67
+00:04:15,920 --> 00:04:18,380
+Onde fica o banheiro, moço?!
+
+68
+00:04:18,380 --> 00:04:20,030
+Obrigado!
+
+69
+00:04:23,090 --> 00:04:24,220
+É sério isso?
+
+70
+00:04:24,220 --> 00:04:26,040
+Aquele moleque é forte?
+
+71
+00:04:26,770 --> 00:04:31,770
+Quem será o homem mais forte do mundo?!
+
+72
+00:04:31,770 --> 00:04:35,380
+A resposta será dada hoje!
+
+73
+00:04:40,570 --> 00:04:43,930
+Panputto!
+
+74
+00:04:58,860 --> 00:05:00,860
+<i>Eu vou te matar!</i>
+
+75
+00:05:04,140 --> 00:05:06,870
+Ai, ai!
+
+76
+00:05:14,900 --> 00:05:17,880
+Qual é a dele? Quanta vontade de matar...
+
+77
+00:05:19,190 --> 00:05:22,190
+Jackie. Homem-Lobo.
+
+78
+00:05:22,190 --> 00:05:24,860
+A partida de vocês começará em 
+instantes. Pedimos para que se preparem.
+
+79
+00:05:25,950 --> 00:05:28,160
+É o Jackie!
+
+80
+00:05:28,160 --> 00:05:30,640
+Podemos pegar o seu autógrafo?
+
+81
+00:05:30,950 --> 00:05:32,990
+Mas é claro!
+
+82
+00:05:32,990 --> 00:05:35,660
+Podem pegar quantos quiserem!
+
+83
+00:05:35,660 --> 00:05:39,250
+E também dou beijinhos para moças bonitas!
+
+84
+00:05:39,250 --> 00:05:40,150
+Ai, que safadinho!
+
+85
+00:05:43,720 --> 00:05:45,800
+Ai, que medo dele!
+
+86
+00:05:45,800 --> 00:05:48,130
+Quem é esse cara?!
+
+87
+00:05:48,130 --> 00:05:51,510
+Ah, eu sei quem ele é! Ele vira 
+humano toda vez que olha para a lua!
+
+88
+00:05:51,510 --> 00:05:53,170
+Homem-Lobo, não é?
+
+89
+00:05:53,170 --> 00:05:54,710
+É sério?
+
+90
+00:05:54,710 --> 00:05:56,290
+Que horrível!
+
+91
+00:05:57,140 --> 00:05:59,800
+Que medonho!
+
+92
+00:06:02,440 --> 00:06:04,930
+Que medo...
+
+93
+00:06:08,470 --> 00:06:10,410
+Muito obrigada, Jackie!
+
+94
+00:06:10,410 --> 00:06:11,830
+Boa sorte em sua luta!
+
+95
+00:06:11,830 --> 00:06:13,480
+Tchau!
+
+96
+00:06:13,830 --> 00:06:15,160
+Tenshinhan!
+
+97
+00:06:15,160 --> 00:06:16,790
+Podemos pegar o seu autógrafo?
+
+98
+00:06:16,790 --> 00:06:19,480
+Você é muito fofo, Chaos!
+
+99
+00:06:24,930 --> 00:06:27,380
+Isso é culpa sua!
+
+100
+00:06:27,380 --> 00:06:28,660
+Farei você pagar por isso!
+
+101
+00:06:30,550 --> 00:06:33,620
+Eu vou te matar!
+
+102
+00:06:35,520 --> 00:06:38,170
+E-Espere, Homem-Lobo!
+
+103
+00:06:38,640 --> 00:06:41,510
+O-Obrigada...
+
+104
+00:06:44,990 --> 00:06:50,180
+Por que ele odeia tanto o Jackie?
+
+105
+00:06:51,830 --> 00:06:53,730
+Chaos.
+
+106
+00:07:01,710 --> 00:07:02,940
+Olha só isso!
+
+107
+00:07:10,470 --> 00:07:13,950
+A batalha já deve estar começando.
+
+108
+00:07:15,010 --> 00:07:16,960
+Yamcha, ainda está doendo?
+
+109
+00:07:17,520 --> 00:07:19,270
+Um pouco...
+
+110
+00:07:19,270 --> 00:07:21,960
+Mas não é nada.
+
+111
+00:07:26,570 --> 00:07:28,740
+Olha só o casalzinho!
+
+112
+00:07:28,740 --> 00:07:30,900
+Qual é a desses chatos, hein?!
+
+113
+00:07:30,900 --> 00:07:32,760
+Seus idiotas!
+
+114
+00:07:43,550 --> 00:07:49,240
+Chegou a hora do embate entre 
+Jackie Chun e o Homem-Lobo!
+
+115
+00:07:49,630 --> 00:07:53,300
+Chun foi o vencedor do último torneio!
+
+116
+00:07:53,300 --> 00:07:57,640
+Homem-Lobo possui a capacidade surreal de
+
+117
+00:07:57,640 --> 00:08:03,300
+se transformar de lobo para humano 
+sempre que vê a lua cheia!
+
+118
+00:08:06,110 --> 00:08:10,320
+Você não sabe o quanto esperei 
+para lutar contra você!
+
+119
+00:08:10,320 --> 00:08:13,390
+Eu vou te fazer em pedacinhos!
+
+120
+00:08:14,070 --> 00:08:18,950
+Por que me odeia tanto?
+
+121
+00:08:18,950 --> 00:08:21,100
+Eu nem te conheço.
+
+122
+00:08:21,660 --> 00:08:23,210
+Não se faça de idiota!
+
+123
+00:08:23,210 --> 00:08:27,110
+Bota esse cérebro pra trabalhar e se lembre
+
+124
+00:08:26,670 --> 00:08:29,800
+do que você fez neste exato 
+lugar, há três anos!
+
+125
+00:08:29,800 --> 00:08:31,110
+Vejamos...
+
+126
+00:08:33,430 --> 00:08:35,120
+Três anos atrás?
+
+127
+00:08:40,440 --> 00:08:42,130
+Entendi.
+
+128
+00:08:42,130 --> 00:08:48,510
+Três anos atrás... não foi 
+quando eu lutei contra o Jackie?
+
+129
+00:08:49,360 --> 00:08:52,140
+Olha só aquilo, Goku!
+
+130
+00:08:52,400 --> 00:08:55,570
+Eles estão flutuando!
+
+131
+00:08:55,570 --> 00:09:00,140
+Que técnicas absurdas eles usam!
+
+132
+00:09:00,140 --> 00:09:06,150
+Droga! Significa que não tem 
+como eles caírem da arena!
+
+133
+00:09:08,380 --> 00:09:12,950
+Talvez um soco te faça lembrar!
+
+134
+00:09:16,830 --> 00:09:17,580
+Maldito!
+
+135
+00:09:17,930 --> 00:09:21,670
+Não lembro de nada 
+específico daquela época.
+
+136
+00:09:21,670 --> 00:09:23,670
+Não me faça de idiota!
+
+137
+00:09:24,430 --> 00:09:29,020
+Ah, será que eu peidei baixinho nesse dia?
+
+138
+00:09:29,020 --> 00:09:31,650
+Eu também peido, tá?!
+
+139
+00:09:31,650 --> 00:09:35,470
+Talvez eu tenha dado uma espiadinha 
+na calcinha de umas mulheres?
+
+140
+00:09:41,580 --> 00:09:43,870
+Se você não se lembra mesmo,
+
+141
+00:09:43,870 --> 00:09:46,570
+então te farei lembrar!
+
+142
+00:09:46,570 --> 00:09:48,190
+Estou falando de...
+
+143
+00:09:54,200 --> 00:09:57,870
+Pedra, papel e tesoura!
+
+144
+00:10:00,220 --> 00:10:03,370
+Pedra, papel e tesoura!
+
+145
+00:10:14,450 --> 00:10:17,260
+Bankoku Bikkuri-sho!
+
+146
+00:10:25,270 --> 00:10:29,270
+Foi um acontecimento 
+inesperado para mim.
+
+147
+00:10:39,280 --> 00:10:41,830
+Droga, hoje tem lua cheia!
+
+148
+00:10:47,150 --> 00:10:49,020
+O-O que está acontecendo?!
+
+149
+00:10:49,020 --> 00:10:52,510
+O lutador Son se 
+tornou um gorila gigante!
+
+150
+00:11:02,080 --> 00:11:03,450
+Corra, Kuririn!
+
+151
+00:11:03,450 --> 00:11:07,320
+Ele se transforma em um monstro 
+sempre que vê a lua cheia!
+
+152
+00:11:10,090 --> 00:11:14,900
+Significa que só tem um jeito 
+de resolver esse problema!
+
+153
+00:11:17,140 --> 00:11:19,160
+Eu não tenho outra escolha!
+
+154
+00:11:25,770 --> 00:11:27,830
+Kamehameha, força total!
+
+155
+00:11:40,720 --> 00:11:43,850
+BOOOM
+
+156
+00:11:43,850 --> 00:11:45,830
+"Graças ao Jackie,
+
+157
+00:11:45,830 --> 00:11:48,850
+nunca mais poderemos contemplar a lua.
+
+158
+00:11:49,160 --> 00:11:54,830
+E agora, o Homem-Lobo nunca mais 
+poderá se transformar em humano.
+
+159
+00:11:54,830 --> 00:11:58,360
+Adeus, Lua. Até algum dia".
+
+160
+00:12:06,390 --> 00:12:13,000
+Por culpa sua, serei lobo 
+pro resto da minha vida!
+
+161
+00:12:13,000 --> 00:12:14,380
+É tudo culpa sua, maldito!
+
+162
+00:12:19,240 --> 00:12:23,970
+Eu... Eu...
+
+163
+00:12:23,970 --> 00:12:28,480
+Não consigo nem chamar uma 
+garota pra sair hoje em dia!
+
+164
+00:12:29,970 --> 00:12:32,190
+Faz ideia do que eu passei?!
+
+165
+00:12:32,870 --> 00:12:34,190
+Nem um pouco.
+
+166
+00:12:49,600 --> 00:12:51,000
+Cretino...
+
+167
+00:12:51,640 --> 00:12:53,920
+Farei você pagar por ter destruído a lua!
+
+168
+00:12:53,920 --> 00:12:56,190
+Ah, então é sobre a lua.
+
+169
+00:12:56,190 --> 00:12:57,920
+Esqueci disso.
+
+170
+00:12:57,920 --> 00:12:59,170
+Desde aquele dia, a minha vida tem sido:
+
+171
+00:12:59,170 --> 00:13:03,360
+"Saia de perto de mim. 
+Eu odeio homens peludos".
+
+172
+00:13:03,360 --> 00:13:06,930
+Eu estou sendo rejeitado há três anos!
+
+173
+00:13:08,030 --> 00:13:11,690
+Se o problema é esse, por 
+que não namora uma loba?
+
+174
+00:13:11,690 --> 00:13:14,580
+Eu odeio mulheres peludas!
+
+175
+00:13:14,580 --> 00:13:17,440
+Eu gosto de mulheres humanas!
+
+176
+00:13:17,710 --> 00:13:21,840
+Nossa, você é bem seletivo.
+
+177
+00:13:21,840 --> 00:13:25,080
+Essa conversa sem sentido me deu até sono.
+
+178
+00:13:26,830 --> 00:13:27,950
+Ei, você...
+
+179
+00:13:28,260 --> 00:13:33,220
+Isso não é nada bom! Homem-Lobo 
+está bravo de verdade agora!
+
+180
+00:13:33,220 --> 00:13:34,960
+Acabou para aquele velho.
+
+181
+00:13:36,000 --> 00:13:38,690
+Ele um artista marcial nível 30!
+
+182
+00:13:38,690 --> 00:13:41,010
+Eu mal passei das preliminares com vida!
+
+183
+00:13:41,010 --> 00:13:45,760
+Seu maldito... Vou te mandar pra vala!
+
+184
+00:13:48,640 --> 00:13:51,730
+Ele desapareceu!
+
+185
+00:13:54,000 --> 00:13:56,010
+Para onde ele foi?
+
+186
+00:13:56,010 --> 00:13:58,330
+Atrás de você.
+
+187
+00:13:58,330 --> 00:13:59,530
+Bem aqui.
+
+188
+00:14:25,640 --> 00:14:29,350
+Opa, acabei exagerando.
+
+189
+00:14:30,490 --> 00:14:32,950
+Ele é bem forte mesmo!
+
+190
+00:14:32,950 --> 00:14:37,210
+Quero lutar contra ele de novo!
+
+191
+00:14:37,210 --> 00:14:41,650
+Parece que enfrentarei aquele 
+velho nas semifinais.
+
+192
+00:14:42,590 --> 00:14:44,840
+Ele é um lutador formidável.
+
+193
+00:14:44,840 --> 00:14:48,950
+Nunca lutei contra alguém 
+tão forte quanto ele.
+
+194
+00:14:49,510 --> 00:14:51,450
+Você sabe disso só de olhar?
+
+195
+00:14:52,220 --> 00:14:53,970
+É claro.
+
+196
+00:14:53,970 --> 00:14:56,290
+Posso ver pelo jeito que ele se move.
+
+197
+00:14:56,290 --> 00:14:59,310
+Seus movimentos, respiração, energia...
+
+198
+00:14:59,310 --> 00:15:02,310
+Não há descuido em nada do que ele faz.
+
+199
+00:15:02,310 --> 00:15:04,630
+Estou ficando ainda mais empolgado!
+
+200
+00:15:10,990 --> 00:15:13,200
+Droga!
+
+201
+00:15:13,200 --> 00:15:15,910
+Desista agora, senão vai 
+acabar se machucando.
+
+202
+00:15:15,910 --> 00:15:18,100
+Sinto muito por nossas habilidades 
+estarem tão distantes.
+
+203
+00:15:18,370 --> 00:15:21,610
+O quê?! Não zomba da minha cara!
+
+204
+00:15:22,040 --> 00:15:25,670
+Sou um artista marcial de nível 30!
+
+205
+00:15:25,670 --> 00:15:27,410
+Ah, é?
+
+206
+00:15:30,640 --> 00:15:33,050
+Aquela garota ali é bem sexy!
+
+207
+00:15:33,050 --> 00:15:35,330
+Que belo par de peitos ela tem!
+
+208
+00:15:35,780 --> 00:15:37,370
+Mas olha só...
+
+209
+00:15:43,280 --> 00:15:47,090
+Aquela garota ali também 
+não está para brincadeira.
+
+210
+00:16:06,760 --> 00:16:09,830
+Ei, que tal começar a contagem?
+
+211
+00:16:09,830 --> 00:16:15,010
+Um! Dois! Três!
+
+212
+00:16:12,700 --> 00:16:15,010
+Que força é essa...
+
+213
+00:16:15,010 --> 00:16:16,760
+É inacreditável!
+
+214
+00:16:15,010 --> 00:16:18,660
+Quatro! Cinco!
+
+215
+00:16:19,730 --> 00:16:22,690
+Aquele homem não se 
+parece com o Mestre Kame?
+
+216
+00:16:19,730 --> 00:16:23,670
+Seis! Sete!
+
+217
+00:16:22,690 --> 00:16:23,710
+Parece, é?
+
+218
+00:16:25,230 --> 00:16:28,640
+Porcaria...
+
+219
+00:16:30,050 --> 00:16:32,930
+Eu me recuso a perder!
+
+220
+00:17:02,980 --> 00:17:05,000
+Eu consegui!
+
+221
+00:17:05,310 --> 00:17:09,590
+Eu treinei tanto para te derrotar!
+
+222
+00:17:09,860 --> 00:17:13,490
+Ora, ora. Ainda quer lutar?
+
+223
+00:17:13,490 --> 00:17:15,430
+Não tem como me vencer nesse estado.
+
+224
+00:17:15,430 --> 00:17:17,660
+Cala a boca!
+
+225
+00:17:17,660 --> 00:17:19,810
+Usarei o meu último recurso!
+
+226
+00:17:20,940 --> 00:17:23,960
+Mas o que é isso? Aí não pode!
+
+227
+00:17:23,960 --> 00:17:27,610
+De acordo com as regras, é proibido 
+o porte de armas, Homem-Lobo!
+
+228
+00:17:27,610 --> 00:17:31,360
+Cala a boca! Quem liga para esta luta?
+
+229
+00:17:31,930 --> 00:17:34,050
+Eu não ligo.
+
+230
+00:17:34,050 --> 00:17:36,370
+Não precisa desclassificar ele por isso.
+
+231
+00:17:42,270 --> 00:17:44,640
+O quê?
+
+232
+00:17:44,640 --> 00:17:46,170
+Você é muito estressadinho.
+
+233
+00:17:59,450 --> 00:18:02,560
+Mas tudo bem, te transformarei em humano.
+
+234
+00:18:03,500 --> 00:18:05,500
+Chega de falar besteira!
+
+235
+00:18:05,500 --> 00:18:07,330
+Não é besteira.
+
+236
+00:18:07,330 --> 00:18:10,070
+Mas primeiro, precisamos acabar esta luta.
+
+237
+00:18:10,070 --> 00:18:12,780
+"Acabar esta luta"?
+
+238
+00:18:13,140 --> 00:18:17,240
+Sim. Desista e admita derrota.
+
+239
+00:18:17,720 --> 00:18:20,720
+Até parece! Eu nunca vou admitir derrota!
+
+240
+00:18:20,720 --> 00:18:24,680
+Estou tentando ser legal porque 
+me sinto mal por ter explodido a lua.
+
+241
+00:18:24,680 --> 00:18:26,600
+Mas você é muito cabeça-dura.
+
+242
+00:18:26,600 --> 00:18:28,520
+Me dá a pata.
+
+243
+00:18:28,520 --> 00:18:31,190
+Que merda é essa?! Eu não sou cachorro!
+
+244
+00:18:31,190 --> 00:18:33,270
+Ah, desculpa.
+
+245
+00:18:33,270 --> 00:18:35,260
+Senta.
+
+246
+00:18:37,570 --> 00:18:40,430
+Desgraçado! Tá tirando com a minha cara!
+
+247
+00:18:46,170 --> 00:18:50,080
+Como ousa me tratar que nem cachorro?!
+
+248
+00:18:50,080 --> 00:18:51,820
+Mil perdões.
+
+249
+00:18:52,820 --> 00:18:55,130
+Olha o ossinho!
+
+250
+00:18:55,130 --> 00:18:56,570
+Pega!
+
+251
+00:18:59,680 --> 00:19:00,790
+Hein?!
+
+252
+00:19:08,270 --> 00:19:11,210
+Ele saiu da arena!
+A vitória é de Jackie!
+
+253
+00:19:15,320 --> 00:19:17,220
+Isso não foi justo!
+
+254
+00:19:19,360 --> 00:19:22,560
+Você é um péssimo perdedor.
+
+255
+00:19:28,920 --> 00:19:31,170
+Não consigo me mexer...
+
+256
+00:19:31,170 --> 00:19:32,710
+É uma técnica para te manter parado.
+
+257
+00:19:32,710 --> 00:19:36,240
+Eu me ofereci para transformá-lo em 
+humano, mas você não quis conversar.
+
+258
+00:19:36,240 --> 00:19:37,760
+Que técnica incrível!
+
+259
+00:19:37,760 --> 00:19:41,050
+Mas como ele pretende torná-lo humano
+
+260
+00:19:41,050 --> 00:19:42,660
+se a lua se foi?
+
+261
+00:19:42,660 --> 00:19:44,430
+Kuririn. Venha até aqui.
+
+262
+00:19:44,430 --> 00:19:45,810
+Hã? Eu?
+
+263
+00:19:45,810 --> 00:19:47,630
+Sim.
+
+264
+00:19:49,770 --> 00:19:51,850
+Precisa de mim para alguma coisa?
+
+265
+00:19:51,850 --> 00:19:55,820
+Fique aqui e olhe para o outro lado.
+
+266
+00:19:55,820 --> 00:19:57,090
+Isso, assim mesmo.
+
+267
+00:19:57,480 --> 00:20:00,770
+Agora, olhe para cá.
+
+268
+00:20:03,470 --> 00:20:05,490
+Você não está tentando 
+usar a minha cabeça
+
+269
+00:20:05,490 --> 00:20:09,660
+no lugar da lua cheia, né?
+
+270
+00:20:09,660 --> 00:20:11,060
+Ah, você percebeu?
+
+271
+00:20:11,410 --> 00:20:13,120
+Suas brincadeiras estão 
+passando dos limites!
+
+272
+00:20:13,120 --> 00:20:15,420
+Se a minha cabeça fosse como a lua cheia,
+
+273
+00:20:15,420 --> 00:20:19,610
+o Goku já teria se transformado 
+faz um bom tempo!
+
+274
+00:20:20,010 --> 00:20:25,120
+Não, eu usarei hipnose para 
+fazer ele acreditar que é a lua.
+
+275
+00:20:38,740 --> 00:20:41,340
+Preste atenção... É a lua cheia!
+
+276
+00:20:41,990 --> 00:20:46,220
+Ela é redonda... Redonda...
+
+277
+00:21:15,440 --> 00:21:18,440
+Eu sou humano!
+
+278
+00:21:18,440 --> 00:21:21,880
+Funcionou! Uhul!
+
+279
+00:21:22,320 --> 00:21:25,890
+Você nunca mais se tornará 
+lobo depois dessa.
+
+280
+00:21:26,240 --> 00:21:29,740
+Minha nossa, você é um cara legal mesmo!
+
+281
+00:21:29,740 --> 00:21:30,990
+Muito obrigado!
+
+282
+00:21:30,990 --> 00:21:32,560
+Que bom que percebeu.
+
+283
+00:21:33,660 --> 00:21:36,000
+Estou quase morrendo de alegria!
+
+284
+00:21:36,000 --> 00:21:37,070
+Tchau!
+
+285
+00:21:37,070 --> 00:21:41,590
+Oba! Agora posso dar em cima das garotas!
+
+286
+00:21:41,590 --> 00:21:45,180
+Tenho a impressão de que ele 
+continuará sem fazer sucesso...
+
+287
+00:21:45,180 --> 00:21:47,990
+Talvez fosse melhor continuar como lobo...
+
+288
+00:21:50,890 --> 00:21:54,270
+Agora, vamos para a terceira luta
+
+289
+00:21:54,270 --> 00:21:56,590
+antes que percamos o pique!
+
+290
+00:21:56,590 --> 00:22:00,590
+Chaos. Chegou a sua vez.
+
+291
+00:22:08,430 --> 00:22:10,850
+Chaos!
+
+292
+00:22:11,750 --> 00:22:18,490
+A terceira batalha será entre Chaos 
+e Kuririn, o Cabeça de Lua Cheia!
+
+293
+00:22:21,070 --> 00:22:23,420
+<i>Chaos, o misterioso competidor.</i>
+
+294
+00:22:23,420 --> 00:22:26,300
+<i>A batalha entre escolas que 
+começou entre Yamcha e Tenshinhan</i>
+
+295
+00:22:26,300 --> 00:22:28,180
+<i>continuará nesta batalha!</i>
+
+296
+00:22:28,180 --> 00:22:32,370
+<i>Kuririn será capaz de vencer esta luta?!</i>
+
+297
+00:22:47,760 --> 00:22:50,410
+Venha aqui, fantasia
+
+298
+00:22:47,760 --> 00:22:50,410
+<i>Oide FANTAJI</i>
+
+299
+00:22:50,410 --> 00:22:53,030
+Eu adoro um mistério
+
+300
+00:22:50,410 --> 00:22:53,030
+<i>suki sa MISUTERI</i>
+
+301
+00:22:53,030 --> 00:22:59,420
+Não vá esconder
+a sua juventude!
+
+302
+00:22:53,030 --> 00:22:59,420
+<i>Kimi no wakasa kakusa nai de</i>
+
+303
+00:22:59,420 --> 00:23:02,420
+Quero fazer o que é misterioso
+
+304
+00:22:59,420 --> 00:23:02,420
+<i>Fushigi shitakute</i>
+
+305
+00:23:02,420 --> 00:23:05,050
+Quero correr atrás de aventura
+
+306
+00:23:02,420 --> 00:23:05,050
+<i>Bouken shitakute</i>
+
+307
+00:23:05,050 --> 00:23:11,080
+Todo mundo não vê a hora de ir!
+
+308
+00:23:05,050 --> 00:23:11,080
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+309
+00:23:11,080 --> 00:23:17,230
+Se você agir feito
+adulto e desistir
+
+310
+00:23:11,080 --> 00:23:17,230
+<i>Otona no furi shite akiramecha</i>
+
+311
+00:23:17,230 --> 00:23:23,090
+Você nunca desvendará
+o mistério do milagre
+
+312
+00:23:17,230 --> 00:23:23,090
+<i>Kiseki no nazo nado tokenai yo</i>
+
+313
+00:23:23,090 --> 00:23:34,410
+Vá e viva de forma
+mais intensa e forte!
+
+314
+00:23:23,090 --> 00:23:34,410
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+315
+00:23:34,410 --> 00:23:42,040
+Vou te dar um romance
+
+316
+00:23:34,410 --> 00:23:42,040
+<i>ROMANTIKKU Ageru yo!</i>
+
+317
+00:23:42,040 --> 00:23:46,570
+Se você me mostrar sua
+verdadeira coragem
+
+318
+00:23:42,040 --> 00:23:46,570
+<i>Hontou no yuuki wo misete kuretara</i>
+
+319
+00:23:46,570 --> 00:23:53,950
+Vou te dar um romance
+
+320
+00:23:46,570 --> 00:23:53,950
+<i>ROMANTIKKU Ageru yo!</i>
+
+321
+00:23:53,950 --> 00:24:02,560
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+322
+00:23:53,950 --> 00:24:02,560
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>

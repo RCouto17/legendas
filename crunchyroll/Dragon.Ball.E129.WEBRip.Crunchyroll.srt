@@ -1,0 +1,1453 @@
+1
+00:00:11,840 --> 00:00:15,430
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:11,840 --> 00:00:15,430
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:15,430 --> 00:00:19,010
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:15,430 --> 00:00:19,010
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:19,010 --> 00:00:22,390
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:19,010 --> 00:00:22,390
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:22,390 --> 00:00:25,810
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:22,390 --> 00:00:25,810
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:25,810 --> 00:00:28,980
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:25,810 --> 00:00:28,980
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:28,980 --> 00:00:36,990
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:28,980 --> 00:00:36,990
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:36,990 --> 00:00:39,990
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:36,990 --> 00:00:39,990
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:39,990 --> 00:00:43,830
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+16
+00:00:39,990 --> 00:00:43,830
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+17
+00:00:43,830 --> 00:00:50,840
+<i>Kono no yo doko ka de hikatteiru</i>
+
+18
+00:00:43,830 --> 00:00:50,840
+Em algum lugar do
+mundo elas vão brilhar
+
+19
+00:00:50,840 --> 00:00:54,420
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+20
+00:00:50,840 --> 00:00:54,420
+Vamos lá encontrá-las, rapaz
+
+21
+00:00:54,420 --> 00:00:57,430
+<i>Youkai henka mo buttobashi</i>
+
+22
+00:00:54,420 --> 00:00:57,430
+Enquanto passamos por cima
+de monstros e demônios
+
+23
+00:00:57,430 --> 00:01:04,980
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+24
+00:00:57,430 --> 00:01:04,980
+E na nuvem voadora
+nós vamos voar!
+
+25
+00:01:04,980 --> 00:01:08,810
+<i>Let's try try try Makafushigi</i>
+
+26
+00:01:04,980 --> 00:01:08,810
+Vamos experimentar
+esse profundo mistério
+
+27
+00:01:08,810 --> 00:01:11,980
+<i>Sora wo kakenuke yama wo koe</i>
+
+28
+00:01:08,810 --> 00:01:11,980
+Avançando pelos céus,
+superando as montanhas
+
+29
+00:01:11,980 --> 00:01:15,820
+<i>Let's fly fly fly Daibouken</i>
+
+30
+00:01:11,980 --> 00:01:15,820
+Vamos voar rumo a
+uma grande aventura
+
+31
+00:01:15,820 --> 00:01:22,830
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+32
+00:01:15,820 --> 00:01:22,830
+A nossa jornada
+estranha vai começar!
+
+33
+00:01:22,830 --> 00:01:26,410
+<i>Te ni irero! DRAGON BALL</i>
+
+34
+00:01:22,830 --> 00:01:26,410
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+35
+00:01:26,410 --> 00:01:30,000
+<i>Sekai de ittou degowai chansu</i>
+
+36
+00:01:26,410 --> 00:01:30,000
+Uma das apostas mais
+formidáveis do mundo
+
+37
+00:01:30,000 --> 00:01:33,420
+<i>Oikakero! DRAGON BALL</i>
+
+38
+00:01:30,000 --> 00:01:33,420
+Vamos persegui-las!
+As Esferas do Dragão!
+
+39
+00:01:33,420 --> 00:01:36,840
+<i>Sekai de ittou ikashita dorama</i>
+
+40
+00:01:33,420 --> 00:01:36,840
+Um dos mistérios mais
+dramáticos do mundo
+
+41
+00:01:36,840 --> 00:01:40,010
+<i>Kono yo wa dekkai takarajima</i>
+
+42
+00:01:36,840 --> 00:01:40,010
+A vida é uma grande
+ilha do tesouro
+
+43
+00:01:40,010 --> 00:01:47,520
+<i>Sou sa Ima koso adobenchaa!</i>
+
+44
+00:01:40,010 --> 00:01:47,520
+Isso mesmo!
+A aventura começou!
+
+45
+00:01:52,320 --> 00:01:58,740
+<i>O treinamento de Goku continuou,
+sob a supervisão de Kami-sama e Popo.</i>
+
+46
+00:02:08,290 --> 00:02:11,210
+<i>O objetivo: derrotar a cópia
+de Piccolo Daimaoh</i>
+
+47
+00:02:11,210 --> 00:02:15,090
+<i>no Tenkaichi Budokai daqui a três anos.</i>
+
+48
+00:02:24,860 --> 00:02:32,920
+Goku, viajante no tempo
+
+49
+00:02:26,980 --> 00:02:29,940
+<i>Goku, viajante no tempo.</i>
+
+50
+00:02:59,220 --> 00:03:01,050
+Droga!
+
+51
+00:03:01,050 --> 00:03:03,600
+Você não fez nenhum progresso.
+
+52
+00:03:03,600 --> 00:03:06,470
+Nesse ritmo, é inútil continuar treinando.
+
+53
+00:03:08,430 --> 00:03:13,190
+É mesmo! Mais rápido que um
+relâmpago e mais silencioso que o céu...
+
+54
+00:03:26,160 --> 00:03:28,080
+Ai!
+
+55
+00:03:30,160 --> 00:03:34,500
+Você ficou um pouco mais forte. Mas...
+
+56
+00:03:34,500 --> 00:03:37,460
+Você é mesmo forte, Popo!
+
+57
+00:03:37,920 --> 00:03:41,050
+A partir de hoje, você iniciará
+um novo treinamento.
+
+58
+00:03:41,050 --> 00:03:43,130
+Novo treinamento?
+
+59
+00:04:08,240 --> 00:04:10,620
+Isto é para mim?
+
+60
+00:04:10,620 --> 00:04:14,830
+É importante abordar um novo
+treinamento com uma nova mentalidade.
+
+61
+00:04:17,170 --> 00:04:21,210
+Ficou perfeito! Você pode fazer
+qualquer coisa, não pode, Popo?!
+
+62
+00:04:21,210 --> 00:04:24,010
+Certo, venha comigo.
+
+63
+00:04:24,010 --> 00:04:25,640
+Vamos lá!
+
+64
+00:04:36,690 --> 00:04:39,020
+Que sala estranha...
+
+65
+00:04:39,020 --> 00:04:40,680
+Esta é a Sala do Tempo.
+
+66
+00:04:41,690 --> 00:04:46,950
+Passado, presente e futuro. Todo
+o tempo é criado dentro desta sala.
+
+67
+00:04:46,950 --> 00:04:49,450
+Eu não entendi nada, mas...
+
+68
+00:04:49,450 --> 00:04:53,780
+Agora você viajará no tempo para
+conhecer um grande especialista.
+
+69
+00:04:54,660 --> 00:04:56,580
+Depois disso, vai depender de você.
+
+70
+00:04:56,580 --> 00:04:59,280
+Quão forte é essa pessoa?
+
+71
+00:05:00,090 --> 00:05:02,170
+Você vai ver quando o conhecer.
+
+72
+00:05:36,500 --> 00:05:40,130
+Sem medo, Goku continuou indo,
+
+73
+00:05:40,130 --> 00:05:43,460
+e agora ele conseguiu chegar
+até a Plataforma Celeste!
+
+74
+00:05:43,460 --> 00:05:45,920
+Mas o que vocês podem
+dizer sobre si mesmos?
+
+75
+00:05:45,920 --> 00:05:49,220
+Desse jeito, nunca serão páreo para o Goku!
+
+76
+00:05:58,730 --> 00:06:00,560
+Tenshinhan...?!
+
+77
+00:06:00,560 --> 00:06:01,640
+Ten?
+
+78
+00:06:02,440 --> 00:06:03,730
+Não dará certo...
+
+79
+00:06:03,730 --> 00:06:07,900
+Mesmo fazendo coisas assim, nunca
+seremos capazes de derrotar Goku.
+
+80
+00:06:11,160 --> 00:06:13,990
+Como será que todos eles estão agora?
+
+81
+00:06:13,990 --> 00:06:18,670
+Espero que eles não exagerem
+no treinamento e se machuquem...
+
+82
+00:06:18,670 --> 00:06:23,040
+Não há como treinar se forem se preocupar
+em se machucar ainda tão jovens!
+
+83
+00:06:23,040 --> 00:06:27,010
+Que tipo de treinamento você fez na
+sua juventude, Mestre Muten Roshi?
+
+84
+00:06:27,010 --> 00:06:30,470
+Claro que fiz todo
+e qualquer tipo de treinamento.
+
+85
+00:06:30,470 --> 00:06:32,850
+Sob meu mestre, Mutaito,
+
+86
+00:06:32,850 --> 00:06:38,410
+cada minuto e cada segundo do meu
+treinamento foi um inferno.
+
+87
+00:06:38,820 --> 00:06:40,060
+Já que você tocou no assunto,
+
+88
+00:06:40,060 --> 00:06:43,770
+o Mestre Tsuru não aprendeu
+com o mesmo mestre que você?
+
+89
+00:06:43,770 --> 00:06:47,690
+Sim. Ele sempre foi um idiota imprestável
+e pomposo desde que me lembro.
+
+90
+00:06:47,690 --> 00:06:51,780
+Mas eu, não! Passei a ser chamado
+de Demônio do Treinamento,
+
+91
+00:06:51,780 --> 00:06:53,660
+o Mestre do Punho
+e a Tartaruguinha do Poder!
+
+92
+00:06:53,660 --> 00:06:56,580
+Ganhei o respeito de muitos!
+
+93
+00:06:57,200 --> 00:07:00,080
+Então você era incrível no passado!
+
+94
+00:07:00,080 --> 00:07:03,660
+Pois é! E ainda sou!
+
+95
+00:07:04,090 --> 00:07:09,840
+Estranho como alguém tão incrível
+acabou sendo um velho tão safado...
+
+96
+00:07:09,840 --> 00:07:11,040
+Me poupe disso!
+
+97
+00:07:11,930 --> 00:07:16,040
+Eu realmente me pergunto
+onde todos estão agora.
+
+98
+00:07:16,890 --> 00:07:19,620
+E o Son foi para a Plataforma
+Celeste e ainda não voltou...
+
+99
+00:07:20,190 --> 00:07:23,230
+É muito solitário sem eles...
+
+100
+00:07:38,120 --> 00:07:40,680
+D-Droga! Não consigo ver!
+
+101
+00:07:41,330 --> 00:07:43,710
+Eu quase posso ver, mas não claramente!
+
+102
+00:07:43,710 --> 00:07:45,210
+Vamos...
+
+103
+00:07:45,210 --> 00:07:47,300
+Tudo bem então!
+
+104
+00:07:58,060 --> 00:07:59,010
+Ai!
+
+105
+00:07:59,010 --> 00:08:00,520
+Ué? Onde estou?
+
+106
+00:08:00,520 --> 00:08:01,540
+Quem está aí?!
+
+107
+00:08:01,540 --> 00:08:03,350
+Ah, droga!
+
+108
+00:08:08,020 --> 00:08:10,990
+Ah, é só um macaquinho safado.
+
+109
+00:08:19,620 --> 00:08:21,410
+Essa foi por pouco...
+
+110
+00:08:21,410 --> 00:08:25,500
+Ei! Se quer dar uma espiada,
+tente ser mais cuidadoso!
+
+111
+00:08:25,500 --> 00:08:29,740
+Hã? Acho que já vi a sua
+cara em algum lugar...
+
+112
+00:08:30,920 --> 00:08:34,380
+Tudo bem, eu sou meio conhecido por aqui...
+
+113
+00:08:35,800 --> 00:08:40,040
+O Mestre do Kenpo!
+A Tartaruguinha do Poder! Este sou eu!
+
+114
+00:08:41,060 --> 00:08:42,980
+Você também faz artes marciais?
+
+115
+00:08:42,980 --> 00:08:46,400
+Pode apostar! Sou o melhor aluno do
+mundialmente famoso Mestre Mutaito!
+
+116
+00:08:46,400 --> 00:08:48,940
+Mutaito? Esse cara é forte?
+
+117
+00:08:48,940 --> 00:08:52,900
+Seu idiota! O Mestre Mutaito é simplesmente
+o melhor artista marcial do mundo!
+
+118
+00:08:52,900 --> 00:08:55,030
+O melhor do mundo?! Sério?!
+
+119
+00:08:55,030 --> 00:08:58,450
+Legal! Eu quero lutar contra essa pessoa!
+
+120
+00:08:58,450 --> 00:08:59,620
+Me leve até ele!
+
+121
+00:08:59,620 --> 00:09:03,250
+Quê? Você quer lutar
+contra o Mestre Mutaito?
+
+122
+00:09:05,620 --> 00:09:09,130
+Que moleque divertido! Gostei de você!
+
+123
+00:09:09,130 --> 00:09:11,210
+O que eu disse de engraçado?
+
+124
+00:09:11,210 --> 00:09:13,100
+Por acaso, você conseguiu ver?
+
+125
+00:09:14,010 --> 00:09:17,180
+Os peitos da Fanfan.
+Você deu uma olhada neles?
+
+126
+00:09:17,180 --> 00:09:18,220
+Fanfan?
+
+127
+00:09:18,220 --> 00:09:23,060
+Pare de se fazer de bobo! A garota
+que estava tomando banho agora!
+
+128
+00:09:23,060 --> 00:09:26,140
+E aí? Você viu, não?
+
+129
+00:09:26,140 --> 00:09:28,480
+Viu pelo menos um pouquinho, certo?!
+
+130
+00:09:28,480 --> 00:09:30,730
+Droga, que inveja!
+
+131
+00:09:30,730 --> 00:09:32,820
+Eu também queria ter dado uma olhada!
+
+132
+00:09:32,820 --> 00:09:34,960
+Que cara esquisito.
+
+133
+00:09:35,320 --> 00:09:38,450
+Se quer tanto ver alguns peitos,
+eu posso te mostrar alguns!
+
+134
+00:09:38,450 --> 00:09:40,330
+Veja! E então?
+
+135
+00:09:40,330 --> 00:09:43,080
+Ah, droga! Não quero ver os seus!
+
+136
+00:09:43,080 --> 00:09:44,790
+Ai!
+
+137
+00:09:48,000 --> 00:09:49,720
+O grou idiota...
+
+138
+00:09:50,340 --> 00:09:54,420
+Hm? Eu poderia jurar que já vi
+esse cara em algum lugar...
+
+139
+00:09:55,090 --> 00:09:59,010
+Abandonando o treinamento para bancar
+o pervertido de novo, tartaruga burra?
+
+140
+00:09:59,010 --> 00:10:03,180
+Olha quem fala! Aposto que vocês
+também estavam espiando!
+
+141
+00:10:03,180 --> 00:10:08,060
+Rá! Algum dia Fanfan vai ser
+a namorada do chefe Tsuru!
+
+142
+00:10:08,060 --> 00:10:10,900
+Seus esforços para ficar espiando
+são perda de tempo!
+
+143
+00:10:10,900 --> 00:10:13,070
+Bem, é isso.
+
+144
+00:10:13,070 --> 00:10:14,650
+N-Não seja ridículo!
+
+145
+00:10:14,650 --> 00:10:19,160
+Como se Fanfan fosse se apaixonar
+por um babuíno fedorento como você!
+
+146
+00:10:19,160 --> 00:10:23,520
+Oh, fala duro para alguém que nem
+tem força para quebrar uma telha.
+
+147
+00:10:24,080 --> 00:10:28,160
+Se eu lutar a sério,
+te derrubo com um só golpe!
+
+148
+00:10:28,160 --> 00:10:29,790
+Que interessante.
+
+149
+00:10:50,520 --> 00:10:53,190
+Ah, não! Minhas costas estão me matando!
+
+150
+00:10:54,980 --> 00:10:56,440
+Que besteira.
+
+151
+00:10:56,440 --> 00:10:59,480
+É perda de tempo dar atenção
+para esse cara. Vamos!
+
+152
+00:11:00,160 --> 00:11:01,780
+Covarde!
+
+153
+00:11:03,410 --> 00:11:05,910
+Eles fugiram? Seus trapaceiros!
+
+154
+00:11:05,910 --> 00:11:07,290
+Ah! Lembrei agora!
+
+155
+00:11:07,290 --> 00:11:10,210
+Você parece com o vovô Mestre Kame!
+
+156
+00:11:10,210 --> 00:11:12,830
+V-Vovô? Seu idiota!
+
+157
+00:11:12,830 --> 00:11:14,610
+Eu ainda tenho 18 anos!
+
+158
+00:11:14,610 --> 00:11:21,010
+Dojo Mutaito
+
+159
+00:11:27,720 --> 00:11:31,230
+Ah, então você também estuda Kenpo?
+
+160
+00:11:31,230 --> 00:11:32,230
+Sim!
+
+161
+00:11:32,230 --> 00:11:36,150
+Ele insistiu em te ver, Mestre Mutaito,
+então eu o trouxe aqui.
+
+162
+00:11:36,150 --> 00:11:40,420
+Certo. Então, em qual dojo você treina?
+
+163
+00:11:40,900 --> 00:11:43,140
+Com o Kami-sama, na Plataforma Celeste.
+
+164
+00:11:46,200 --> 00:11:47,990
+Que rapaz divertido.
+
+165
+00:11:47,990 --> 00:11:49,290
+Qual é o seu nome?
+
+166
+00:11:49,290 --> 00:11:51,160
+Eu sou o Son Goku!
+
+167
+00:11:51,160 --> 00:11:55,040
+Ei, tio! Por favor, lute comigo!
+
+168
+00:11:55,040 --> 00:11:57,090
+E-Ei! Não pode estar falando sério...!
+
+169
+00:11:57,090 --> 00:11:59,090
+Por favor, tio!
+
+170
+00:11:59,090 --> 00:12:00,720
+Está sendo desrespeitoso, moleque!
+
+171
+00:12:00,720 --> 00:12:01,840
+Ponha-se no seu lugar!
+
+172
+00:12:01,840 --> 00:12:03,340
+Não tem problema.
+
+173
+00:12:04,140 --> 00:12:06,220
+O uniforme desse menino é real.
+
+174
+00:12:06,220 --> 00:12:09,100
+Também quero ver seu Kenpo.
+
+175
+00:12:09,100 --> 00:12:10,600
+E-Então...
+
+176
+00:12:10,600 --> 00:12:14,060
+Eu que te peço para lutar contra mim.
+
+177
+00:12:14,060 --> 00:12:18,320
+Mestre! Permita-me acabar com ele!
+
+178
+00:12:18,320 --> 00:12:19,900
+Não interfira!
+
+179
+00:12:19,900 --> 00:12:22,900
+Além disso, ele não é um oponente
+que você pode derrotar!
+
+180
+00:12:24,530 --> 00:12:27,990
+Pode vir quando quiser.
+
+181
+00:12:39,670 --> 00:12:42,420
+Ué? Você não vai se posicionar, tio?
+
+182
+00:12:42,420 --> 00:12:45,760
+Já estou em posição há tempos.
+
+183
+00:12:45,760 --> 00:12:48,360
+Na verdade, desde que você entrou aqui.
+
+184
+00:12:49,140 --> 00:12:52,230
+É uma pose bem estranha para mim.
+
+185
+00:12:53,230 --> 00:12:54,980
+Pode vir.
+
+186
+00:12:54,980 --> 00:12:56,860
+Certo!
+
+187
+00:13:04,450 --> 00:13:07,320
+E-Ele é bem rápido!
+
+188
+00:13:39,960 --> 00:13:41,430
+Ah, conseguiu!
+
+189
+00:13:41,430 --> 00:13:43,190
+C-Como esperado do mestre!
+
+190
+00:13:43,190 --> 00:13:45,530
+Ei, você está bem?
+
+191
+00:13:45,530 --> 00:13:47,160
+Estou.
+
+192
+00:13:47,160 --> 00:13:49,450
+Você é mesmo forte, tio!
+
+193
+00:13:49,450 --> 00:13:53,830
+O que está dizendo? Você possui
+velocidade e poder raros.
+
+194
+00:13:53,830 --> 00:13:55,500
+Foi algo bem impressionante.
+
+195
+00:13:55,500 --> 00:13:56,620
+Sim, mas...
+
+196
+00:13:56,620 --> 00:14:02,150
+Aquilo foi estranho. Você me fez
+voar, mas mal me tocou...
+
+197
+00:14:02,150 --> 00:14:03,820
+É o poder do ki.
+
+198
+00:14:03,820 --> 00:14:05,260
+Ki?
+
+199
+00:14:05,260 --> 00:14:09,010
+Ki é a energia fundamental
+da qual os humanos são compostos.
+
+200
+00:14:09,010 --> 00:14:13,060
+Com treinamento, você pode
+aprender a controlar seu poder!
+
+201
+00:14:13,060 --> 00:14:17,040
+Quê?! Então posso fazer aquilo também?
+
+202
+00:14:17,600 --> 00:14:20,440
+Isso vai depender de você. Venha comigo.
+
+203
+00:14:26,990 --> 00:14:29,660
+Você pode cortar essa cachoeira?!
+
+204
+00:14:29,660 --> 00:14:31,480
+Cortar a cachoeira?
+
+205
+00:14:51,010 --> 00:14:53,180
+A-A cachoeira...!
+
+206
+00:14:58,390 --> 00:15:00,310
+Que incrível!
+
+207
+00:15:00,310 --> 00:15:02,480
+Concentrar sua energia é a chave!
+
+208
+00:15:02,480 --> 00:15:07,400
+Concentre toda a sua energia em seu
+punho, daí libere tudo de uma vez!
+
+209
+00:15:07,400 --> 00:15:08,740
+Concentrar minha energia...
+
+210
+00:15:08,740 --> 00:15:12,070
+Exatamente. Não deve permitir
+um segundo de distração.
+
+211
+00:15:12,070 --> 00:15:14,200
+Agora você mesmo deve tentar.
+
+212
+00:15:14,200 --> 00:15:16,160
+Por que Mestre Mutaito está
+ajudando aquele moleque?!
+
+213
+00:15:16,160 --> 00:15:21,210
+Isso mesmo! Ele nunca te ensinou
+de forma tão amigável, chefe Tsuru!
+
+214
+00:15:23,340 --> 00:15:25,340
+Droga...
+
+215
+00:15:28,720 --> 00:15:33,260
+Desista disso. Cortar uma cachoeira
+não é tão simples assim...
+
+216
+00:15:37,140 --> 00:15:39,230
+Que teimoso.
+
+217
+00:15:46,320 --> 00:15:49,900
+Como você tem se sentido
+ultimamente, vovó?
+
+218
+00:15:57,910 --> 00:15:59,910
+O que é isto?
+
+219
+00:15:59,910 --> 00:16:04,300
+Com licença! Eu deixei isso cair!
+
+220
+00:16:05,000 --> 00:16:06,460
+É a Fanfan!
+
+221
+00:16:06,460 --> 00:16:11,550
+Obrigada. Se eu perder isto, meu pai
+me dá uma grande bronca.
+
+222
+00:16:11,550 --> 00:16:13,080
+Você salvou meu dia!
+
+223
+00:16:13,550 --> 00:16:15,600
+Que bom que ajudei.
+
+224
+00:16:18,140 --> 00:16:19,470
+É a Fanfan!
+
+225
+00:16:19,470 --> 00:16:22,980
+E vejo que está bastante suado!
+Praticando Kenpo?
+
+226
+00:16:22,980 --> 00:16:23,990
+Sim!
+
+227
+00:16:23,990 --> 00:16:25,860
+Isso mesmo!
+
+228
+00:16:25,860 --> 00:16:31,700
+Ele é realmente péssimo nisso,
+então eu preciso ensinar tudo!
+
+229
+00:16:37,080 --> 00:16:39,080
+E eu também estou suado, sabe?
+
+230
+00:16:39,080 --> 00:16:41,720
+Oh, o que vejo é você babando.
+
+231
+00:16:42,710 --> 00:16:44,320
+<i>Ops, vacilei.</i>
+
+232
+00:16:45,460 --> 00:16:47,210
+Até mais. Bom treino!
+
+233
+00:16:47,210 --> 00:16:49,380
+Certo. Valeu!
+
+234
+00:16:57,010 --> 00:17:01,060
+Aquele moleque
+cheio de graça com a Fanfan!
+
+235
+00:17:01,060 --> 00:17:03,850
+Vai deixar por isso, chefe?
+
+236
+00:17:08,020 --> 00:17:11,110
+Nossa, a Fanfan é mesmo linda!
+
+237
+00:17:11,110 --> 00:17:15,100
+Como eu adoraria fazer algo assim com ela!
+
+238
+00:17:16,070 --> 00:17:17,490
+Vocês...?
+
+239
+00:17:17,490 --> 00:17:19,390
+<i>É-É o grou idiota!</i>
+
+240
+00:17:20,660 --> 00:17:22,200
+F-Fanfan...
+
+241
+00:17:22,200 --> 00:17:25,040
+A carta que te enviei outro dia...
+qual é a sua resposta?
+
+242
+00:17:25,040 --> 00:17:27,630
+Carta? Ah, tinha esquecido.
+
+243
+00:17:27,630 --> 00:17:31,050
+Você não faz meu tipo.
+
+244
+00:17:31,050 --> 00:17:33,920
+M-Maldita! Como se atreve
+a dizer isso ao chefe?!
+
+245
+00:17:33,920 --> 00:17:35,070
+Não vê que é um desperdício?
+
+246
+00:17:35,070 --> 00:17:38,050
+Não posso fazer nada se não gosto.
+
+247
+00:17:38,050 --> 00:17:40,970
+E-Então qual é o seu tipo?
+
+248
+00:17:40,970 --> 00:17:44,370
+N-Não vai dizer que está
+com aquele moleque, certo?!
+
+249
+00:17:44,370 --> 00:17:47,100
+Aquele? Ah, o garoto?
+
+250
+00:17:47,100 --> 00:17:48,960
+Não vejo problema, ele é uma graça.
+
+251
+00:17:49,730 --> 00:17:55,380
+I-Inaceitável! Você vai ser
+minha namorada! Eu decidi isso!
+
+252
+00:17:55,380 --> 00:17:57,110
+N-Não me subestime!
+
+253
+00:18:01,030 --> 00:18:04,450
+Ei, vocês! O que estão fazendo com a Fanfan?!
+
+254
+00:18:06,370 --> 00:18:08,080
+Ai, minhas costas...
+
+255
+00:18:08,080 --> 00:18:10,840
+Avise para aquele moleque, o Goku.
+
+256
+00:18:10,840 --> 00:18:13,440
+Diga que espero por ele no campo de colheita!
+
+257
+00:18:14,090 --> 00:18:16,130
+Quê?! Vai para a Torre Karin?
+
+258
+00:18:16,130 --> 00:18:17,470
+Sim.
+
+259
+00:18:17,470 --> 00:18:20,550
+Eu quero ver essa pessoa chamada
+Karin que Goku conheceu.
+
+260
+00:18:20,550 --> 00:18:22,140
+Por falar nisso,
+
+261
+00:18:22,140 --> 00:18:26,560
+lembro ter ouvido que ele recebeu
+treinamento na Torre Karin, mas...
+
+262
+00:18:26,560 --> 00:18:28,140
+A Torre Karin...
+
+263
+00:18:31,110 --> 00:18:34,320
+Espere um minuto!
+O que diabos está acontecendo?!
+
+264
+00:18:34,320 --> 00:18:39,030
+Não há tempo para explicar! Você tem
+que salvar Fanfan o mais rápido possível!
+
+265
+00:18:45,120 --> 00:18:46,790
+Ele chegou.
+
+266
+00:18:50,380 --> 00:18:53,290
+Ei, grou idiota! Onde está a Fanfan?!
+
+267
+00:18:53,290 --> 00:18:55,510
+Ué? Você é o...
+
+268
+00:18:58,050 --> 00:18:59,090
+O que você está fazendo?!
+
+269
+00:18:59,090 --> 00:19:02,470
+Não suporto ter você por perto! Morra!
+
+270
+00:19:07,560 --> 00:19:12,190
+Como você ousa?!
+Nem meu próprio pai me bateu!
+
+271
+00:19:12,190 --> 00:19:16,030
+Mas foi você quem tentou
+me bater primeiro...
+
+272
+00:19:16,030 --> 00:19:18,700
+C-Cale-se! Olhe ali!
+
+273
+00:19:20,610 --> 00:19:22,240
+É a Fanfan!
+
+274
+00:19:22,240 --> 00:19:25,640
+Faça qualquer movimento e Fanfan morre!
+
+275
+00:19:28,000 --> 00:19:29,540
+I-Isso é jogo sujo!
+
+276
+00:19:29,540 --> 00:19:31,620
+Diga o que quiser!
+
+277
+00:19:41,930 --> 00:19:44,390
+Maldito! Você é imortal ou algo assim?!
+
+278
+00:19:46,140 --> 00:19:48,020
+Acabem com isso!
+
+279
+00:19:57,030 --> 00:20:01,490
+Bem feito! Eu vou cuidar muito bem da Fanfan!
+
+280
+00:20:03,910 --> 00:20:05,330
+Eu vou morrer neste lugar?!
+
+281
+00:20:05,330 --> 00:20:08,290
+Droga! Pelo menos uma vez na vida
+queria sair com a Fanfan...
+
+282
+00:20:08,290 --> 00:20:11,000
+para colher castanhas com ela.
+
+283
+00:20:17,210 --> 00:20:19,510
+<i>Concentrar sua energia é a chave!</i>
+
+284
+00:20:19,510 --> 00:20:24,510
+<i>Concentre toda a sua energia em seu
+punho, então libere tudo de uma vez!</i>
+
+285
+00:20:35,750 --> 00:20:38,160
+V-Você conseguiu! Que incrível!
+
+286
+00:20:43,610 --> 00:20:45,500
+I-Impossível!
+
+287
+00:20:45,820 --> 00:20:48,030
+C-Como esse moleque conseguiu?!
+
+288
+00:20:49,200 --> 00:20:51,040
+Ai!
+
+289
+00:20:51,040 --> 00:20:53,210
+S-Sua vadia!
+
+290
+00:20:55,460 --> 00:20:57,170
+M-Mestre?!
+
+291
+00:21:02,050 --> 00:21:03,610
+Eu fiquei furioso!
+
+292
+00:21:05,660 --> 00:21:09,140
+Prefere partir ou começar tudo do zero?
+
+293
+00:21:09,140 --> 00:21:11,100
+A decisão é sua.
+
+294
+00:21:15,310 --> 00:21:17,900
+Assumo a responsabilidade
+pelos erros dos meus alunos.
+
+295
+00:21:17,900 --> 00:21:19,730
+Me perdoe.
+
+296
+00:21:19,730 --> 00:21:21,990
+Não tem problema para mim.
+
+297
+00:21:21,990 --> 00:21:24,200
+Você é mesmo incrível. Impressionante!
+
+298
+00:21:24,200 --> 00:21:26,070
+Eu fiquei até emocionado de ver aquilo!
+
+299
+00:21:26,070 --> 00:21:27,970
+Acha mesmo?
+
+300
+00:21:27,970 --> 00:21:32,120
+De agora em diante eu vou treinar
+muito! Ainda vou te superar!
+
+301
+00:21:32,120 --> 00:21:35,980
+E quando você fizer isso,
+eu enxugo o seu suor!
+
+302
+00:21:37,170 --> 00:21:39,090
+V-Verdade mesmo?
+
+303
+00:21:42,460 --> 00:21:46,050
+Certo! Dessa vez vou cortar
+a cachoeira, com certeza!
+
+304
+00:21:46,050 --> 00:21:50,020
+Sim, você é capaz disso.
+Apenas faça o que fez antes.
+
+305
+00:21:56,770 --> 00:21:58,270
+Ué?
+
+306
+00:22:04,150 --> 00:22:08,740
+Ei, por acaso você
+só teve sorte naquela hora?!
+
+307
+00:22:11,030 --> 00:22:15,210
+Agora eu não sei se ele é promissor ou não.
+
+308
+00:22:15,210 --> 00:22:18,210
+Fique só olhando, Fanfan!
+
+309
+00:22:18,210 --> 00:22:24,710
+<i>Goku, que voltou no tempo,
+ficou ainda mais forte... ou não?</i>
+
+310
+00:22:24,710 --> 00:22:28,220
+<i>Nem preciso dizer que Goku
+havia encontrado o Mestre Kame</i>
+
+311
+00:22:28,220 --> 00:22:31,550
+<i>assim como o Mestre Tsuru ainda jovens!</i>
+
+312
+00:22:47,610 --> 00:22:50,410
+Venha aqui, fantasia
+
+313
+00:22:47,610 --> 00:22:50,410
+<i>Oide FANTAJI</i>
+
+314
+00:22:50,410 --> 00:22:53,030
+Eu adoro um mistério
+
+315
+00:22:50,410 --> 00:22:53,030
+<i>suki sa MISUTERI</i>
+
+316
+00:22:53,030 --> 00:22:59,420
+Não vá esconder
+a sua juventude!
+
+317
+00:22:53,030 --> 00:22:59,420
+<i>Kimi no wakasa kakusa nai de</i>
+
+318
+00:22:59,420 --> 00:23:02,420
+Quero fazer o que é misterioso
+
+319
+00:22:59,420 --> 00:23:02,420
+<i>Fushigi shitakute</i>
+
+320
+00:23:02,420 --> 00:23:05,050
+Quero correr atrás de aventura
+
+321
+00:23:02,420 --> 00:23:05,050
+<i>Bouken shitakute</i>
+
+322
+00:23:05,050 --> 00:23:11,220
+Todo mundo não vê a hora de ir!
+
+323
+00:23:05,050 --> 00:23:11,220
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+324
+00:23:11,220 --> 00:23:17,230
+Se você agir feito
+adulto e desistir
+
+325
+00:23:11,220 --> 00:23:17,230
+<i>Otona no furi shite akiramecha</i>
+
+326
+00:23:17,230 --> 00:23:23,230
+Você nunca desvendará
+o mistério do milagre
+
+327
+00:23:17,230 --> 00:23:23,230
+<i>Kiseki no nazo nado tokenai yo</i>
+
+328
+00:23:23,230 --> 00:23:34,410
+Vá e viva de forma
+mais intensa e forte!
+
+329
+00:23:23,230 --> 00:23:34,410
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+330
+00:23:34,410 --> 00:23:42,040
+Vou te dar um romance
+
+331
+00:23:34,410 --> 00:23:42,040
+<i>ROMANTIKKU Ageru yo!</i>
+
+332
+00:23:42,040 --> 00:23:46,420
+Se você me mostrar sua
+verdadeira coragem
+
+333
+00:23:42,040 --> 00:23:46,420
+<i>Hontou no yuuki wo misete kuretara</i>
+
+334
+00:23:46,420 --> 00:23:53,800
+Vou te dar um romance
+
+335
+00:23:46,420 --> 00:23:53,800
+<i>ROMANTIKKU Ageru yo!</i>
+
+336
+00:23:53,800 --> 00:24:02,560
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+337
+00:23:53,800 --> 00:24:02,560
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>

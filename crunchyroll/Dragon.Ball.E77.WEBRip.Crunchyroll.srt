@@ -1,0 +1,1376 @@
+1
+00:00:11,840 --> 00:00:15,490
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:11,840 --> 00:00:15,490
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:15,490 --> 00:00:19,010
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:15,490 --> 00:00:19,010
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:19,010 --> 00:00:22,590
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:19,010 --> 00:00:22,590
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:22,590 --> 00:00:25,760
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:22,590 --> 00:00:25,760
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:25,760 --> 00:00:28,980
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:25,760 --> 00:00:28,980
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:28,980 --> 00:00:36,770
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:28,980 --> 00:00:36,770
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:36,770 --> 00:00:39,990
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:36,770 --> 00:00:39,990
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:39,990 --> 00:00:43,940
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+16
+00:00:39,990 --> 00:00:43,940
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+17
+00:00:43,940 --> 00:00:50,840
+<i>Kono no yo doko ka de hikatteiru</i>
+
+18
+00:00:43,940 --> 00:00:50,840
+Em algum lugar do
+mundo elas vão brilhar
+
+19
+00:00:50,840 --> 00:00:54,420
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+20
+00:00:50,840 --> 00:00:54,420
+Vamos lá encontrá-las, rapaz
+
+21
+00:00:54,420 --> 00:00:57,430
+<i>Youkai henka mo buttobashi</i>
+
+22
+00:00:54,420 --> 00:00:57,430
+Enquanto passamos por cima
+de monstros e demônios
+
+23
+00:00:57,430 --> 00:01:04,980
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+24
+00:00:57,430 --> 00:01:04,980
+E na nuvem voadora
+nós vamos voar!
+
+25
+00:01:04,980 --> 00:01:08,810
+<i>Let's try try try Makafushigi</i>
+
+26
+00:01:04,980 --> 00:01:08,810
+Vamos experimentar
+esse profundo mistério
+
+27
+00:01:08,810 --> 00:01:11,980
+<i>Sora wo kakenuke yama wo koe</i>
+
+28
+00:01:08,810 --> 00:01:11,980
+Avançando pelos céus,
+superando as montanhas
+
+29
+00:01:11,980 --> 00:01:15,820
+<i>Let's fly fly fly Daibouken</i>
+
+30
+00:01:11,980 --> 00:01:15,820
+Vamos voar rumo a
+uma grande aventura
+
+31
+00:01:15,820 --> 00:01:22,850
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+32
+00:01:15,820 --> 00:01:22,850
+A nossa jornada
+estranha vai começar!
+
+33
+00:01:22,850 --> 00:01:26,410
+<i>Te ni irero! DRAGON BALL</i>
+
+34
+00:01:22,850 --> 00:01:26,410
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+35
+00:01:26,410 --> 00:01:30,030
+<i>Sekai de ittou degowai chansu</i>
+
+36
+00:01:26,410 --> 00:01:30,030
+Uma das apostas mais
+formidáveis do mundo
+
+37
+00:01:30,030 --> 00:01:33,610
+<i>Oikakero! DRAGON BALL</i>
+
+38
+00:01:30,030 --> 00:01:33,610
+Vamos persegui-las!
+As Esferas do Dragão!
+
+39
+00:01:33,610 --> 00:01:36,840
+<i>Sekai de ittou ikashita dorama</i>
+
+40
+00:01:33,610 --> 00:01:36,840
+Um dos mistérios mais
+dramáticos do mundo
+
+41
+00:01:36,840 --> 00:01:40,200
+<i>Kono yo wa dekkai takarajima</i>
+
+42
+00:01:36,840 --> 00:01:40,200
+A vida é uma grande
+ilha do tesouro
+
+43
+00:01:40,200 --> 00:01:47,520
+<i>Sou sa Ima koso adobenchaa!</i>
+
+44
+00:01:40,200 --> 00:01:47,520
+Isso mesmo!
+A aventura começou!
+
+45
+00:01:52,900 --> 00:01:59,350
+<i>A batalha final entre o time da 
+Vovó Uranai e o time de Goku</i>
+
+46
+00:01:59,470 --> 00:02:02,560
+<i>foi incrivelmente longa e intensa.</i>
+
+47
+00:02:02,600 --> 00:02:07,820
+<i>Goku, o grande vencedor, descobriu 
+a identidade de seu adversário.</i>
+
+48
+00:02:07,940 --> 00:02:11,780
+<i>O misterioso adversário era 
+ninguém menos que o avô de Goku,</i>
+
+49
+00:02:12,210 --> 00:02:16,040
+<i>Son Gohan!</i>
+
+50
+00:02:16,040 --> 00:02:18,490
+Vovô!
+
+51
+00:02:19,890 --> 00:02:22,850
+<i>Mas o reencontro entre os dois foi breve.</i>
+
+52
+00:02:22,850 --> 00:02:28,730
+<i>Como prometido, a Vovó Uranai localizou 
+a Esfera do Dragão para Goku,</i>
+
+53
+00:02:28,730 --> 00:02:32,720
+<i>que agora precisará 
+partir em outra aventura!</i>
+
+54
+00:02:39,110 --> 00:02:46,940
+A grande estratégia de Pilaf
+
+55
+00:02:40,620 --> 00:02:44,480
+<i>"A grande estratégia de Pilaf".</i>
+
+56
+00:02:52,590 --> 00:02:57,160
+Então, a sétima Esfera do Dragão
+está naquele carro...
+
+57
+00:02:58,430 --> 00:03:04,330
+Irei atrás daquele carro para pegá-la!
+
+58
+00:03:04,330 --> 00:03:07,930
+Espera, não será tão fácil de encontrar.
+
+59
+00:03:07,930 --> 00:03:10,920
+Há inúmeros carros por ali.
+
+60
+00:03:10,920 --> 00:03:13,400
+Não se preocupe.
+
+61
+00:03:13,400 --> 00:03:17,840
+Pouquíssimos carros são como aquele.
+
+62
+00:03:18,280 --> 00:03:21,490
+Mas não parece meio suspeito?
+
+63
+00:03:21,490 --> 00:03:27,900
+Se a esfera está dentro daquele carro, 
+então por que não apareceu no radar?
+
+64
+00:03:28,480 --> 00:03:31,290
+Enfim, irei atrás daquele carro.
+
+65
+00:03:31,290 --> 00:03:32,920
+É só seguir aquela direção, né?
+
+66
+00:03:32,920 --> 00:03:33,980
+Sim...
+
+67
+00:03:34,250 --> 00:03:37,990
+Ei, Nuvem Voadora!
+
+68
+00:03:44,060 --> 00:03:46,810
+Tomem conta das esferas por mim.
+
+69
+00:03:46,810 --> 00:03:48,600
+Eu já volto, Upa!
+
+70
+00:03:48,600 --> 00:03:49,500
+Tá bom!
+
+71
+00:03:49,500 --> 00:03:54,130
+Que notícia boa, não acha? A sétima 
+esfera está quase em nossas mãos.
+
+72
+00:04:00,390 --> 00:04:03,140
+Vamos lá, Nuvem Voadora!
+
+73
+00:04:08,080 --> 00:04:12,020
+Se cuida, Goku!
+
+74
+00:04:20,010 --> 00:04:24,380
+Mas quem será que está 
+dentro daquele carro?
+
+75
+00:04:44,430 --> 00:04:47,030
+Esse é o plano. Vocês entenderam?
+
+76
+00:04:47,030 --> 00:04:48,000
+Sim, senhor!
+
+77
+00:04:48,000 --> 00:04:49,730
+Que plano genial, Imperador Pilaf!
+
+78
+00:04:51,580 --> 00:04:57,320
+Agora que sei a fraqueza dele, 
+não há com o que temer!
+
+79
+00:05:06,220 --> 00:05:11,120
+Aquela cauda... Só preciso agarrar aquela 
+cauda e ele estará na palma da minha mão!
+
+80
+00:05:11,640 --> 00:05:17,210
+Shen Long realizará o meu desejo desta vez!
+
+81
+00:05:17,210 --> 00:05:22,760
+Finalmente sairemos 
+vitoriosos, Imperador Pilaf!
+
+82
+00:05:24,660 --> 00:05:29,140
+Pensando bem, foi um caminho 
+bem longo e doloroso...
+
+83
+00:06:13,000 --> 00:06:16,440
+Vocês também sofreram 
+bastante por minha causa.
+
+84
+00:06:16,750 --> 00:06:19,190
+Ah, Imperador Pilaf...!
+
+85
+00:06:19,580 --> 00:06:23,040
+Mas a vitória está bem perto!
+
+86
+00:06:23,040 --> 00:06:25,820
+Em breve, este mundo 
+estará sob meu controle!
+
+87
+00:06:26,300 --> 00:06:32,830
+Falta pouco para este planeta ser todo meu!
+
+88
+00:06:32,830 --> 00:06:36,540
+O que o senhor pretende 
+fazer quando dominar tudo?
+
+89
+00:06:37,810 --> 00:06:39,730
+Ah, verdade...
+
+90
+00:06:39,730 --> 00:06:42,270
+Acho que... vejamos...
+
+91
+00:06:42,270 --> 00:06:44,050
+O que me der na telha, eu acho...
+
+92
+00:06:44,050 --> 00:06:47,140
+Hein? Mas o que o senhor quer fazer?
+
+93
+00:06:47,140 --> 00:06:50,100
+Err, bem...
+
+94
+00:06:50,100 --> 00:06:53,390
+Conta pra gente, Imperador Pilaf.
+
+95
+00:06:53,390 --> 00:06:56,810
+Calma... Deixe-me pensar...
+
+96
+00:06:56,810 --> 00:06:58,400
+Fala!
+
+97
+00:06:58,790 --> 00:07:03,190
+Para de me encher! É segredo!
+
+98
+00:07:20,630 --> 00:07:24,130
+Achei! É aquele carro!
+
+99
+00:07:29,910 --> 00:07:32,640
+Que barulho foi esse?
+
+100
+00:07:32,950 --> 00:07:35,890
+Talvez uma pedra tenha caído no teto?
+
+101
+00:07:36,490 --> 00:07:40,400
+Ei! Posso ficar com a Esfera 
+do Dragão de vocês?!
+
+102
+00:07:41,000 --> 00:07:45,940
+Mas hein? Eu não conheço 
+vocês de algum lugar?
+
+103
+00:07:58,790 --> 00:08:01,020
+É-É o garoto!
+
+104
+00:08:01,020 --> 00:08:03,560
+I-Impossível!
+
+105
+00:08:03,560 --> 00:08:05,340
+O que ele está fazendo aqui?!
+
+106
+00:08:05,940 --> 00:08:09,220
+É, eu tenho quase certeza 
+que já vi eles antes.
+
+107
+00:08:09,610 --> 00:08:12,490
+A Esfera do Dragão não deveria 
+aparecer no radar deles
+
+108
+00:08:12,490 --> 00:08:16,230
+enquanto ela estivesse dentro desta caixa...
+
+109
+00:08:16,230 --> 00:08:19,230
+Ah, lembrei agora!
+
+110
+00:08:19,910 --> 00:08:25,230
+Vocês são aqueles três 
+que tentaram me matar antes!
+
+111
+00:08:25,230 --> 00:08:27,590
+O que a gente faz agora?
+
+112
+00:08:27,590 --> 00:08:29,710
+Nosso plano era pegá-lo de surpresa.
+
+113
+00:08:29,710 --> 00:08:32,800
+Quem iria imaginar que ele 
+viria atrás da <i>gente</i>...?!
+
+114
+00:08:32,800 --> 00:08:34,370
+Acalme-se.
+
+115
+00:08:35,180 --> 00:08:40,640
+Pensando bem, é perfeito ele 
+ter vindo até nós sozinho.
+
+116
+00:08:40,640 --> 00:08:44,380
+Assim que dermos um jeito nele, os 
+demais não serão páreo para a gente.
+
+117
+00:08:50,570 --> 00:08:56,770
+Não se preocupe. Ele não tem 
+chance contra a gente agora!
+
+118
+00:08:57,030 --> 00:09:00,270
+Ei, saiam do carro!
+
+119
+00:09:22,270 --> 00:09:26,750
+Preciso te parabenizar por ter descoberto 
+onde a Esfera do Dragão estava, garoto.
+
+120
+00:09:26,750 --> 00:09:30,150
+Vocês estão planejando fazer 
+alguma maldade de novo, né?!
+
+121
+00:09:30,150 --> 00:09:33,960
+Então fiquem na sua e me 
+deem a Esfera do Dragão!
+
+122
+00:09:35,990 --> 00:09:42,230
+Não seja idiota. Assim como você, 
+estamos atrás das Esferas do Dragão.
+
+123
+00:09:43,960 --> 00:09:47,420
+Que tal fazermos um acordo?
+
+124
+00:09:47,420 --> 00:09:52,670
+Vamos lutar. Se você vencer, 
+poderá ficar com esta esfera.
+
+125
+00:09:52,670 --> 00:09:59,870
+Mas se nós vencermos, você nos 
+dará as seis Esferas do Dragão.
+
+126
+00:10:00,800 --> 00:10:04,080
+Como vocês sabem que eu tenho seis esferas?
+
+127
+00:10:05,560 --> 00:10:09,550
+Porque eu sou um gênio!
+
+128
+00:10:09,550 --> 00:10:14,550
+Enfim, você concorda com essas condições?
+
+129
+00:10:14,550 --> 00:10:18,600
+Tá bom! Será moleza contra vocês.
+
+130
+00:10:18,600 --> 00:10:20,970
+Muito bem. Sendo assim...
+
+131
+00:10:21,240 --> 00:10:22,730
+Façamos uma promessa de mindinho!
+
+132
+00:10:24,040 --> 00:10:26,730
+Não quero prometer nada!
+
+133
+00:10:28,730 --> 00:10:32,880
+Seu idiota! Nunca ouviu falar 
+na promessa de mindinho?
+
+134
+00:10:32,880 --> 00:10:34,740
+Enfim, me dá o seu mindinho!
+
+135
+00:10:35,010 --> 00:10:40,500
+Promessa de mindinho. Quem mentir, 
+vai engolir 1.000 agulhas!
+
+136
+00:10:47,480 --> 00:10:50,300
+Agora sim, estou confiante!
+
+137
+00:10:51,690 --> 00:10:53,300
+Muito bem, vamos lutar!
+
+138
+00:10:55,200 --> 00:10:57,800
+Você parece estar cheio de confiança...
+
+139
+00:10:57,800 --> 00:11:00,560
+Mas a sua alegria já vai acabar!
+
+140
+00:11:00,820 --> 00:11:02,310
+Vamos lá!
+
+141
+00:11:07,150 --> 00:11:10,360
+Vamos!
+
+142
+00:11:10,360 --> 00:11:12,940
+E-Ei! Esperem aí!
+
+143
+00:11:14,760 --> 00:11:16,570
+Droga...
+
+144
+00:11:28,690 --> 00:11:31,800
+O que são essas coisas?
+
+145
+00:11:48,620 --> 00:11:50,250
+Já está se cagando?!
+
+146
+00:11:50,250 --> 00:11:53,250
+Estas coisas são nada menos que 
+os trajes de batalha mais poderosos
+
+147
+00:11:53,250 --> 00:11:55,240
+do mundo, que eu passei anos criando!
+
+148
+00:11:58,380 --> 00:12:00,740
+Eu os chamo de Pilaf Machines!
+
+149
+00:12:03,010 --> 00:12:05,600
+Se pretende desistir, a hora é agora!
+
+150
+00:12:05,600 --> 00:12:09,060
+Fique sabendo que os Pilaf Machines 
+são assustadoramente poderosos!
+
+151
+00:12:09,060 --> 00:12:11,330
+Tá de boa! Vamos lutar, então!
+
+152
+00:12:12,600 --> 00:12:16,840
+Ainda está cheio de si, é?
+
+153
+00:12:16,840 --> 00:12:18,880
+Só me ataca logo!
+
+154
+00:12:19,730 --> 00:12:21,680
+Que vontade toda de morrer é essa?!
+
+155
+00:12:22,030 --> 00:12:26,370
+Seu pirralho! Se ousar menosprezar os Pilaf 
+Machines, que nasceram da minha genialidade,
+
+156
+00:12:26,370 --> 00:12:28,390
+você vai sofrer e não será pouco!
+
+157
+00:12:28,390 --> 00:12:32,580
+Em poucas palavras, elas são tão fortes 
+que podem fazer picadinho de você!
+
+158
+00:12:32,580 --> 00:12:34,900
+Eu amo lutar contra caras fortes!
+
+159
+00:12:37,210 --> 00:12:37,900
+Então, tá bom!
+
+160
+00:12:38,340 --> 00:12:42,910
+Mai! Mostre a ele o quão assustadores 
+os Pilaf Machines podem ser!
+
+161
+00:12:42,910 --> 00:12:47,620
+E-Eu? Mas acho que o <i>senhor </i>quem deveria 
+atacá-lo primeiro, Imperador Pilaf...
+
+162
+00:12:47,970 --> 00:12:53,230
+Como é?! Você não acredita na 
+capacidade dos Pilaf Machines?!
+
+163
+00:12:53,230 --> 00:12:56,130
+Não era o que queria dizer...
+
+164
+00:12:58,070 --> 00:13:00,230
+Tá estampado na sua cara!
+
+165
+00:13:00,230 --> 00:13:01,130
+Não, não está...
+
+166
+00:13:01,130 --> 00:13:05,140
+Ei! Se vocês não vão me atacar, 
+então eu vou atacar primeiro!
+
+167
+00:13:20,760 --> 00:13:22,990
+Consegui...
+
+168
+00:13:24,010 --> 00:13:27,080
+Viu só o que acontece, pirralho?!
+
+169
+00:13:28,390 --> 00:13:29,580
+Legal!
+
+170
+00:13:32,890 --> 00:13:34,630
+Ótimo trabalho, Imperador Pilaf!
+
+171
+00:13:34,630 --> 00:13:36,710
+Muito bem!
+
+172
+00:13:47,620 --> 00:13:52,160
+Seu idiota! Meus Pilaf Machines foram 
+construídos usando um material super poderoso!
+
+173
+00:13:52,160 --> 00:13:55,400
+Ele devolverá qualquer 
+ataque que você fizer!
+
+174
+00:13:56,750 --> 00:13:59,150
+Eles são fortes mesmo!
+
+175
+00:13:59,150 --> 00:14:01,570
+É claro que são!
+
+176
+00:14:10,970 --> 00:14:13,080
+Morra!
+
+177
+00:14:27,240 --> 00:14:30,470
+O Goku está demorando mais 
+do que eu imaginava...
+
+178
+00:14:31,950 --> 00:14:35,300
+Mas isso ainda está me incomodando...
+
+179
+00:14:35,300 --> 00:14:35,810
+O quê?
+
+180
+00:14:36,260 --> 00:14:37,830
+Aquele carro, sabe!
+
+181
+00:14:37,830 --> 00:14:39,830
+Eu já pensei em tudo,
+
+182
+00:14:39,830 --> 00:14:41,820
+mas nada justifica ele não ter 
+aparecido no Radar do Dragão!
+
+183
+00:14:42,590 --> 00:14:43,960
+Ele ficará bem.
+
+184
+00:14:43,960 --> 00:14:46,550
+Não se preocupa, é o Goku.
+
+185
+00:14:46,550 --> 00:14:49,090
+Não há acontecerá nada de ruim!
+
+186
+00:14:49,090 --> 00:14:50,830
+Ah, já sei! Ei, Vovó Uranai!
+
+187
+00:14:51,220 --> 00:14:56,220
+Você consegue descobrir quem 
+está dentro daquele carro?
+
+188
+00:14:56,220 --> 00:14:58,690
+Dez milhões de zeni.
+
+189
+00:14:58,690 --> 00:15:02,130
+Mas a gente venceu as lutas! 
+Era pra ser de graça...
+
+190
+00:15:02,560 --> 00:15:04,670
+Só um foi de graça.
+
+191
+00:15:05,280 --> 00:15:06,320
+Pão dura!
+
+192
+00:15:06,320 --> 00:15:10,520
+Vai te machucar fazer mais uma 
+leitura pra gente de graça?!
+
+193
+00:15:13,080 --> 00:15:16,310
+Ela não mudou nada... Continua 
+a velha cabeça dura de sempre.
+
+194
+00:15:16,750 --> 00:15:22,820
+Nossa, como você parece jovem! Está 
+pronta para arrasar os corações!
+
+195
+00:15:25,510 --> 00:15:26,820
+Um corvo!
+
+196
+00:15:28,510 --> 00:15:30,700
+I-Isso não é um bom sinal!
+
+197
+00:15:31,340 --> 00:15:33,330
+Algo de ruim deve ter acontecido com o Son!
+
+198
+00:15:33,800 --> 00:15:35,830
+Saia daqui! Xô!
+
+199
+00:15:40,130 --> 00:15:42,130
+Que sinistro.
+
+200
+00:15:43,570 --> 00:15:46,630
+Isso foi ainda mais sinistro!
+
+201
+00:15:46,990 --> 00:15:51,060
+<i>Ah, não... Goku!</i>
+
+202
+00:16:01,500 --> 00:16:03,070
+Ai...
+
+203
+00:16:04,250 --> 00:16:08,090
+Ainda de pé?! Desista logo!
+
+204
+00:16:08,090 --> 00:16:10,510
+Pega ele, Shuu! Dê um fim nesse moleque!
+
+205
+00:16:10,510 --> 00:16:12,040
+Sim, senhor!
+
+206
+00:16:23,570 --> 00:16:26,050
+Você conseguiu!
+
+207
+00:16:29,680 --> 00:16:32,470
+Cresça, Bastão Mágico!
+
+208
+00:16:38,330 --> 00:16:40,150
+Imperador Pilaf!
+
+209
+00:16:47,530 --> 00:16:49,100
+O senhor está bem?
+
+210
+00:16:49,100 --> 00:16:51,570
+Imperador Pilaf! Diga alguma coisa!
+
+211
+00:16:51,880 --> 00:16:53,930
+E aí, vão desistir?!
+
+212
+00:16:53,930 --> 00:16:56,090
+Não seja idiota!
+
+213
+00:16:56,090 --> 00:16:57,600
+Ai!
+
+214
+00:16:57,600 --> 00:16:59,580
+Aquilo foi só o aquecimento. 
+As coisas começam agora!
+
+215
+00:16:59,890 --> 00:17:00,890
+<i>Muito bem!</i>
+
+216
+00:17:00,890 --> 00:17:03,270
+<i>Parece que teremos que ir 
+atrás do seu ponto fraco</i>
+
+217
+00:17:03,270 --> 00:17:05,280
+<i>e iniciar o plano de ir atrás da cauda dele!</i>
+
+218
+00:17:07,480 --> 00:17:08,980
+Vamos lá, Shuu! Mai!
+
+219
+00:17:08,980 --> 00:17:10,840
+Operação: Pegar a Cauda!
+
+220
+00:17:10,840 --> 00:17:13,260
+Entendido!
+
+221
+00:17:16,330 --> 00:17:18,270
+Hã?
+
+222
+00:17:18,530 --> 00:17:21,080
+Comecem o plano!
+
+223
+00:17:21,080 --> 00:17:21,770
+Um...
+
+224
+00:17:21,770 --> 00:17:23,580
+Dois...
+
+225
+00:17:23,580 --> 00:17:25,270
+Espera, Imperador Pilaf!
+
+226
+00:17:25,270 --> 00:17:27,160
+O que foi, Shuu?!
+
+227
+00:17:27,160 --> 00:17:32,450
+Não consigo ver a cauda dele! 
+Acho que está dentro das calças!
+
+228
+00:17:33,430 --> 00:17:34,670
+O quê?!
+
+229
+00:17:34,670 --> 00:17:37,200
+Reunião estratégica!
+
+230
+00:17:37,680 --> 00:17:40,310
+Nos dê um instantinho.
+
+231
+00:17:40,310 --> 00:17:41,710
+O que está acontecendo?
+
+232
+00:17:44,060 --> 00:17:45,850
+O que faremos?
+
+233
+00:17:45,850 --> 00:17:47,230
+Não acredito nisso...
+
+234
+00:17:47,230 --> 00:17:48,520
+Que ideia espetacular!
+
+235
+00:17:48,520 --> 00:17:51,720
+Ei, andem logo!
+
+236
+00:17:52,200 --> 00:17:55,360
+Peço desculpas pela demora.
+Chegou a hora!
+
+237
+00:17:55,360 --> 00:17:56,720
+A vitória será nossa!
+
+238
+00:17:57,160 --> 00:18:00,290
+Não tem como saber sem lutarmos antes!
+
+239
+00:18:00,290 --> 00:18:02,390
+Me ataquem!
+
+240
+00:18:04,080 --> 00:18:05,770
+Aí vamos nós, garoto!
+
+241
+00:18:18,470 --> 00:18:20,120
+Agora!
+
+242
+00:18:23,230 --> 00:18:26,170
+O que você está fazendo?! Me solta!
+
+243
+00:18:35,030 --> 00:18:38,220
+Agora que queimamos as roupas 
+dele, deve dar para ver a bunda!
+
+244
+00:18:38,570 --> 00:18:41,220
+Muito bem, vamos atrás da cauda!
+
+245
+00:18:43,790 --> 00:18:46,900
+Consigo me sair dessa sem problemas!
+
+246
+00:18:48,000 --> 00:18:51,740
+I-Imperador Pilaf! Rápido, 
+pegue a cauda dele...
+
+247
+00:18:52,190 --> 00:18:55,990
+Meus braços... Como esse garoto é forte!
+
+248
+00:18:57,470 --> 00:18:58,530
+Depressa!
+
+249
+00:18:58,840 --> 00:19:02,390
+Qual é o problema, Imperador Pilaf?!
+
+250
+00:19:02,390 --> 00:19:04,580
+A cauda dele...
+
+251
+00:19:05,730 --> 00:19:08,290
+A cauda dele... não existe mais!
+
+252
+00:19:14,820 --> 00:19:19,600
+Vocês são terríveis! Pra que 
+queimar as minhas roupas assim?!
+
+253
+00:19:19,860 --> 00:19:23,410
+C-Cadê a sua cauda, garoto?!
+
+254
+00:19:23,410 --> 00:19:24,870
+A minha cauda? Caiu!
+
+255
+00:19:24,870 --> 00:19:26,580
+Caiu?!
+
+256
+00:19:26,580 --> 00:19:27,950
+O quê?!
+
+257
+00:19:27,950 --> 00:19:30,870
+O que faremos agora, Imperador Pilaf?!
+
+258
+00:19:30,870 --> 00:19:33,650
+A nossa única alternativa no momento 
+é acabar com ele usando a nossa força!
+
+259
+00:19:34,420 --> 00:19:38,970
+Muito bem! Agora vocês 
+receberão o meu ataque!
+
+260
+00:19:38,970 --> 00:19:40,910
+Combinar!
+
+261
+00:19:58,280 --> 00:20:00,490
+Então, está surpreso?
+
+262
+00:20:00,490 --> 00:20:03,640
+Incrível, não?
+
+263
+00:20:05,040 --> 00:20:08,900
+Kameha...
+
+264
+00:20:09,250 --> 00:20:11,040
+...me...
+
+265
+00:20:11,040 --> 00:20:13,520
+O-O que ele está dizendo?!
+
+266
+00:20:13,520 --> 00:20:16,070
+...ha!
+
+267
+00:20:25,080 --> 00:20:28,540
+O que acharam? Esse aqui ainda foi fraquinho!
+
+268
+00:20:28,930 --> 00:20:32,340
+Q-Que garoto é esse?!
+
+269
+00:20:32,340 --> 00:20:33,230
+Imperador Pilaf!
+
+270
+00:20:33,230 --> 00:20:35,880
+A unidade nº2 está completamente 
+destruída e não está respondendo!
+
+271
+00:20:36,230 --> 00:20:40,240
+Vamos nos separar e 
+combinar no Modo Avestruz!
+
+272
+00:20:40,240 --> 00:20:41,640
+Sim, senhor!
+
+273
+00:20:52,880 --> 00:20:54,270
+O que é agora?
+
+274
+00:20:54,540 --> 00:20:56,610
+Muito bem!
+
+275
+00:20:57,670 --> 00:20:59,700
+Fujam!
+
+276
+00:21:01,110 --> 00:21:04,450
+Ah, mas não vão mesmo!
+
+277
+00:21:06,930 --> 00:21:08,890
+Voltem já aqui!
+
+278
+00:21:08,890 --> 00:21:12,210
+Imperador Pilaf! Ele está vindo atrás 
+de nós em uma velocidade absurda!
+
+279
+00:21:12,210 --> 00:21:14,750
+Atirem o míssil, agora!
+
+280
+00:21:14,750 --> 00:21:17,010
+Atirar míssil!
+
+281
+00:21:25,180 --> 00:21:27,680
+BOOOM
+
+282
+00:21:33,960 --> 00:21:36,920
+Eu venci! Me dê a Esfera do Dragão!
+
+283
+00:21:36,920 --> 00:21:41,200
+A-Aqui está...
+
+284
+00:21:44,180 --> 00:21:46,700
+Ah, e mais uma coisa...
+
+285
+00:21:48,390 --> 00:21:49,700
+Hã?
+
+286
+00:21:51,480 --> 00:21:53,980
+Obrigado! Ficou ótimo em mim!
+
+287
+00:21:53,980 --> 00:21:56,710
+D-De nada...
+
+288
+00:21:57,020 --> 00:21:58,760
+Tchau!
+
+289
+00:21:59,820 --> 00:22:01,760
+Tchau!
+
+290
+00:22:04,320 --> 00:22:07,200
+O que faremos agora, Imperador Pilaf?
+
+291
+00:22:07,200 --> 00:22:10,410
+Talvez devêssemos desistir 
+das Esferas do Dragão...
+
+292
+00:22:10,410 --> 00:22:11,730
+Calados!
+
+293
+00:22:12,370 --> 00:22:17,360
+<i>Goku finalmente possui as 
+sete Esferas do Dragão!</i>
+
+294
+00:22:17,360 --> 00:22:21,110
+<i>Shen Long logo aparecerá!</i>
+
+295
+00:22:22,260 --> 00:22:25,870
+Aguenta firme, Upa! Eu já estou chegando!
+
+296
+00:22:47,760 --> 00:22:50,410
+Venha aqui, fantasia
+
+297
+00:22:47,760 --> 00:22:50,410
+<i>Oide FANTAJI</i>
+
+298
+00:22:50,410 --> 00:22:53,030
+Eu adoro um mistério
+
+299
+00:22:50,410 --> 00:22:53,030
+<i>suki sa MISUTERI</i>
+
+300
+00:22:53,030 --> 00:22:59,420
+Não vá esconder
+a sua juventude!
+
+301
+00:22:53,030 --> 00:22:59,420
+<i>Kimi no wakasa kakusa nai de</i>
+
+302
+00:22:59,420 --> 00:23:02,420
+Quero fazer o que é misterioso
+
+303
+00:22:59,420 --> 00:23:02,420
+<i>Fushigi shitakute</i>
+
+304
+00:23:02,420 --> 00:23:05,050
+Quero correr atrás de aventura
+
+305
+00:23:02,420 --> 00:23:05,050
+<i>Bouken shitakute</i>
+
+306
+00:23:05,050 --> 00:23:11,080
+Todo mundo não vê a hora de ir!
+
+307
+00:23:05,050 --> 00:23:11,080
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+308
+00:23:11,080 --> 00:23:17,230
+Se você agir feito
+adulto e desistir
+
+309
+00:23:11,080 --> 00:23:17,230
+<i>Otona no furi shite akiramecha</i>
+
+310
+00:23:17,230 --> 00:23:23,090
+Você nunca desvendará
+o mistério do milagre
+
+311
+00:23:17,230 --> 00:23:23,090
+<i>Kiseki no nazo nado tokenai yo</i>
+
+312
+00:23:23,090 --> 00:23:34,410
+Vá e viva de forma
+mais intensa e forte!
+
+313
+00:23:23,090 --> 00:23:34,410
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+314
+00:23:34,410 --> 00:23:42,040
+Vou te dar um romance
+
+315
+00:23:34,410 --> 00:23:42,040
+<i>ROMANTIKKU Ageru yo!</i>
+
+316
+00:23:42,040 --> 00:23:46,570
+Se você me mostrar sua
+verdadeira coragem
+
+317
+00:23:42,040 --> 00:23:46,570
+<i>Hontou no yuuki wo misete kuretara</i>
+
+318
+00:23:46,570 --> 00:23:53,950
+Vou te dar um romance
+
+319
+00:23:46,570 --> 00:23:53,950
+<i>ROMANTIKKU Ageru yo!</i>
+
+320
+00:23:53,950 --> 00:24:02,560
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+321
+00:23:53,950 --> 00:24:02,560
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>

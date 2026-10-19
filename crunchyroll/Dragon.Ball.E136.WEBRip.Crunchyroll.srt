@@ -1,0 +1,990 @@
+1
+00:00:11,840 --> 00:00:15,430
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:11,840 --> 00:00:15,430
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:15,430 --> 00:00:19,010
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:15,430 --> 00:00:19,010
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:19,010 --> 00:00:22,390
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:19,010 --> 00:00:22,390
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:22,390 --> 00:00:25,810
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:22,390 --> 00:00:25,810
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:25,810 --> 00:00:28,980
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:25,810 --> 00:00:28,980
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:28,980 --> 00:00:36,990
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:28,980 --> 00:00:36,990
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:36,990 --> 00:00:39,990
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:36,990 --> 00:00:39,990
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:39,990 --> 00:00:43,830
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+16
+00:00:39,990 --> 00:00:43,830
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+17
+00:00:43,830 --> 00:00:50,840
+<i>Kono no yo doko ka de hikatteiru</i>
+
+18
+00:00:43,830 --> 00:00:50,840
+Em algum lugar do
+mundo elas vão brilhar
+
+19
+00:00:50,840 --> 00:00:54,420
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+20
+00:00:50,840 --> 00:00:54,420
+Vamos lá encontrá-las, rapaz
+
+21
+00:00:54,420 --> 00:00:57,430
+<i>Youkai henka mo buttobashi</i>
+
+22
+00:00:54,420 --> 00:00:57,430
+Enquanto passamos por cima
+de monstros e demônios
+
+23
+00:00:57,430 --> 00:01:04,980
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+24
+00:00:57,430 --> 00:01:04,980
+E na nuvem voadora
+nós vamos voar!
+
+25
+00:01:04,980 --> 00:01:08,810
+<i>Let's try try try Makafushigi</i>
+
+26
+00:01:04,980 --> 00:01:08,810
+Vamos experimentar
+esse profundo mistério
+
+27
+00:01:08,810 --> 00:01:11,980
+<i>Sora wo kakenuke yama wo koe</i>
+
+28
+00:01:08,810 --> 00:01:11,980
+Avançando pelos céus,
+superando as montanhas
+
+29
+00:01:11,980 --> 00:01:15,820
+<i>Let's fly fly fly Daibouken</i>
+
+30
+00:01:11,980 --> 00:01:15,820
+Vamos voar rumo a
+uma grande aventura
+
+31
+00:01:15,820 --> 00:01:22,830
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+32
+00:01:15,820 --> 00:01:22,830
+A nossa jornada
+estranha vai começar!
+
+33
+00:01:22,830 --> 00:01:26,410
+<i>Te ni irero! DRAGON BALL</i>
+
+34
+00:01:22,830 --> 00:01:26,410
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+35
+00:01:26,410 --> 00:01:30,000
+<i>Sekai de ittou degowai chansu</i>
+
+36
+00:01:26,410 --> 00:01:30,000
+Uma das apostas mais
+formidáveis do mundo
+
+37
+00:01:30,000 --> 00:01:33,420
+<i>Oikakero! DRAGON BALL</i>
+
+38
+00:01:30,000 --> 00:01:33,420
+Vamos persegui-las!
+As Esferas do Dragão!
+
+39
+00:01:33,420 --> 00:01:36,840
+<i>Sekai de ittou ikashita dorama</i>
+
+40
+00:01:33,420 --> 00:01:36,840
+Um dos mistérios mais
+dramáticos do mundo
+
+41
+00:01:36,840 --> 00:01:40,010
+<i>Kono yo wa dekkai takarajima</i>
+
+42
+00:01:36,840 --> 00:01:40,010
+A vida é uma grande
+ilha do tesouro
+
+43
+00:01:40,010 --> 00:01:47,520
+<i>Sou sa Ima koso adobenchaa!</i>
+
+44
+00:01:40,010 --> 00:01:47,520
+Isso mesmo!
+A aventura começou!
+
+45
+00:02:01,530 --> 00:02:07,210
+<i>Os oito lutadores que participarão do
+Torneio de Artes Marciais foram escolhidos.</i>
+
+46
+00:02:12,040 --> 00:02:14,340
+Ei, quem é esse Ma-Júnior?
+
+47
+00:02:14,340 --> 00:02:17,010
+Ah, é ele, bem ali.
+
+48
+00:02:21,890 --> 00:02:23,810
+Ma-Júnior?
+
+49
+00:02:36,030 --> 00:02:38,570
+Acabe com ele, Tenshinhan!
+
+50
+00:02:38,570 --> 00:02:40,820
+Não ouse perder!
+
+51
+00:02:47,620 --> 00:02:51,420
+Que comece a primeira luta!
+
+52
+00:02:53,750 --> 00:02:55,880
+Está pronto?
+
+53
+00:02:56,800 --> 00:02:58,380
+Sim.
+
+54
+00:03:11,020 --> 00:03:16,110
+Fico feliz em ouvir isso. Nesse caso,
+cuidarei disto rapidamente.
+
+55
+00:03:29,820 --> 00:03:38,240
+A Vingança de Tao Pai Pai, o assassino
+
+56
+00:03:31,120 --> 00:03:36,090
+<i>A Vingança de Tao Pai Pai, o assassino.</i>
+
+57
+00:04:09,040 --> 00:04:12,000
+Está estranhamente quieto, não é...?
+
+58
+00:04:56,080 --> 00:04:59,250
+O que eles estão fazendo?
+
+59
+00:05:01,800 --> 00:05:03,960
+Eles nem mexem...
+
+60
+00:05:05,090 --> 00:05:08,660
+Não é que eles não se movem.
+Eles não podem se mover!
+
+61
+00:05:09,350 --> 00:05:11,200
+Especialmente para Tao Pai Pai.
+
+62
+00:05:13,020 --> 00:05:15,980
+Afinal, o que aconteceu?
+
+63
+00:05:15,980 --> 00:05:21,110
+Nenhum concorrente tentou
+fazer um movimento sequer!
+
+64
+00:05:26,400 --> 00:05:31,080
+<i>Sua postura é perfeita... não há uma
+única abertura ou ponto fraco nela...</i>
+
+65
+00:05:32,290 --> 00:05:37,830
+<i>Onde esse desgraçado aprendeu isso...?!</i>
+
+66
+00:05:41,000 --> 00:05:44,170
+<i>Vou derrubá-lo com um só golpe.</i>
+
+67
+00:05:47,010 --> 00:05:53,260
+<i>Estará tudo acabado para você no instante
+em que mostrar uma brecha, Tenshinhan!</i>
+
+68
+00:05:56,270 --> 00:06:00,650
+Vamos! Isso é uma luta! Comecem a lutar!
+
+69
+00:06:09,570 --> 00:06:12,980
+<i>Ten, pode me ouvir?! Tenshinhan!</i>
+
+70
+00:06:14,120 --> 00:06:16,040
+<i>Você nunca será capaz
+de vencer meu irmão!</i>
+
+71
+00:06:16,040 --> 00:06:20,170
+<i>Afinal, foi Tao Pai Pai, o mesmo
+homem de pé diante de você,</i>
+
+72
+00:06:20,170 --> 00:06:24,420
+<i>quem passou para você os
+fundamentos das artes marciais!</i>
+
+73
+00:07:35,200 --> 00:07:38,330
+Pensa que um molequinho
+como você é capaz de me vencer?
+
+74
+00:07:38,330 --> 00:07:41,830
+Sou um oponente que nunca irá superar!
+
+75
+00:08:11,780 --> 00:08:16,370
+Opa! No instante em que Tao Pai Pai
+começou a fazer seu movimento,
+
+76
+00:08:16,370 --> 00:08:21,750
+Tenshinhan respondeu
+com um contra-ataque espetacular!
+
+77
+00:08:26,500 --> 00:08:32,010
+Entendi. Então parece que você
+melhorou um pouco desde a última vez.
+
+78
+00:08:35,140 --> 00:08:37,140
+Isso me agrada muito.
+
+79
+00:08:37,140 --> 00:08:39,680
+Agora eu sei que posso lutar com vontade!
+
+80
+00:08:48,270 --> 00:08:51,860
+Muito bom, Tenshinhan!
+
+81
+00:08:51,860 --> 00:08:54,840
+Droga!
+
+82
+00:09:02,950 --> 00:09:05,340
+Por favor, espere, mestre Tao Pai Pai!
+
+83
+00:09:08,710 --> 00:09:12,170
+Que foi? Se acovardou a essa altura?
+
+84
+00:09:12,170 --> 00:09:14,620
+Vou esquecer o que fez com Chaos.
+
+85
+00:09:15,720 --> 00:09:17,500
+Então, por favor, vamos parar com isto.
+
+86
+00:09:19,100 --> 00:09:24,140
+O quê? Depois do que fez,
+agora já se acha superior?
+
+87
+00:09:24,140 --> 00:09:25,440
+Não me faça rir!
+
+88
+00:09:26,560 --> 00:09:30,840
+Eu me tornei muito
+mais forte do que você pensa!
+
+89
+00:09:31,900 --> 00:09:34,440
+Como você ficou atrás de mim?!
+
+90
+00:09:34,440 --> 00:09:39,680
+Que insolência! Você diz que
+se tornou mais forte do que eu?!
+
+91
+00:09:40,450 --> 00:09:45,440
+Lamento dizer isso, mas percebi
+quando você tentou me atacar agora.
+
+92
+00:09:50,420 --> 00:09:52,210
+Não brinque comigo!
+
+93
+00:09:52,210 --> 00:09:58,970
+Você não tem chance
+agora que me ridicularizou!
+
+94
+00:10:05,600 --> 00:10:08,020
+Se movem tão rápido que nem sei
+dizer o que está acontecendo!
+
+95
+00:10:14,980 --> 00:10:16,060
+Conseguem ver?
+
+96
+00:10:16,060 --> 00:10:17,140
+Claro.
+
+97
+00:10:18,030 --> 00:10:21,600
+O Tenshinhan é incrível.
+Ele está se esquivando de tudo.
+
+98
+00:10:24,240 --> 00:10:26,580
+E ele não está nem suando para fazer isso.
+
+99
+00:10:27,620 --> 00:10:29,250
+Impossível!
+
+100
+00:10:38,510 --> 00:10:40,240
+Por favor, compreenda!
+
+101
+00:10:40,970 --> 00:10:46,760
+Você e o Mestre Tsuru foram
+os que me ensinaram a lutar!
+
+102
+00:10:47,930 --> 00:10:51,060
+Não desejo derrotá-lo
+de maneira humilhante.
+
+103
+00:10:51,060 --> 00:10:53,140
+Por favor, desista!
+
+104
+00:10:54,070 --> 00:10:55,840
+Pare de besteiras!
+
+105
+00:10:56,860 --> 00:10:58,360
+Ai!
+
+106
+00:11:00,070 --> 00:11:02,280
+Então não terei escolha!
+
+107
+00:11:04,410 --> 00:11:07,750
+Ah? O que é isso?!
+
+108
+00:11:14,090 --> 00:11:19,170
+Nossa! Tenshinhan planeja forçar
+Tao Pai Pai a sair do ringue?!
+
+109
+00:11:19,170 --> 00:11:20,600
+Acabou a luta.
+
+110
+00:11:42,200 --> 00:11:43,910
+Quê?!
+
+111
+00:11:47,200 --> 00:11:53,080
+Isso é contra as regras! O uso de armas
+de qualquer tipo é estritamente proibido!
+
+112
+00:11:53,080 --> 00:11:57,360
+Tenshinhan vence a luta!
+
+113
+00:11:57,710 --> 00:11:59,380
+Fique quieto!
+
+114
+00:11:59,380 --> 00:12:02,260
+Não me importa mais esse torneio!
+
+115
+00:12:05,010 --> 00:12:07,890
+É hora de eu te matar, Tenshinhan!
+
+116
+00:12:07,890 --> 00:12:16,320
+É isso aí, Tao Pai Pai! Mate-o!
+Mate todos os idiotas do Mestre Kame!
+
+117
+00:12:53,810 --> 00:12:55,770
+Eu vou te matar.
+
+118
+00:12:55,770 --> 00:12:57,440
+Vou te matar!
+
+119
+00:13:09,030 --> 00:13:13,860
+Então você também perdeu sua dignidade
+como artista marcial, mestre Tao Pai Pai?!
+
+120
+00:13:15,080 --> 00:13:17,750
+Chega de sua impertinência!
+
+121
+00:13:17,750 --> 00:13:19,840
+Então, agora você se acha importante?
+
+122
+00:13:19,840 --> 00:13:22,210
+Mas pode continuar rosnando.
+
+123
+00:13:22,210 --> 00:13:25,600
+Logo nada mais sairá dessa boca.
+
+124
+00:13:30,470 --> 00:13:36,560
+P-P-Parem com isso! Se querem se
+matar, façam isso em outro lugar!
+
+125
+00:13:36,980 --> 00:13:38,460
+Fique quieto!
+
+126
+00:13:39,900 --> 00:13:41,860
+Vamos te ajudar, Tenshinhan!
+
+127
+00:13:41,860 --> 00:13:43,900
+Que cara sujo!
+
+128
+00:13:43,900 --> 00:13:48,160
+Não, não se preocupem comigo.
+Eu cuido dele sozinho.
+
+129
+00:13:48,160 --> 00:13:49,990
+Morra!
+
+130
+00:13:51,990 --> 00:13:53,660
+Tenshinhan!
+
+131
+00:14:05,840 --> 00:14:08,430
+Você não pode me matar com algo assim!
+
+132
+00:14:33,120 --> 00:14:36,370
+Não pense que venceu, Tenshinhan!
+
+133
+00:14:36,370 --> 00:14:38,940
+O que mais você acha que pode fazer?
+
+134
+00:14:44,880 --> 00:14:48,300
+Vou te apresentar a minha arma secreta!
+
+135
+00:14:50,220 --> 00:14:52,970
+O Super Dodonpa!
+
+136
+00:14:52,970 --> 00:14:53,970
+Quê?!
+
+137
+00:14:53,970 --> 00:14:57,230
+S-Super Dodonpa?!
+
+138
+00:15:00,190 --> 00:15:05,070
+Esta coisa é tão destrutiva que faz o Dodonpa
+normal parecer brincadeira de criança!
+
+139
+00:15:05,070 --> 00:15:08,990
+Ela vai mandar você direto para o
+inferno em um piscar de olhos!
+
+140
+00:15:08,990 --> 00:15:13,260
+Isso é terrível! Tenshinhan!
+Saia daí agora mesmo!
+
+141
+00:15:14,080 --> 00:15:15,620
+Tenshinhan!
+
+142
+00:15:40,390 --> 00:15:41,900
+Eu tenho você como alvo!
+
+143
+00:15:41,900 --> 00:15:45,610
+Agora é inútil para você se esquivar,
+não importa o quão rápido você se mova!
+
+144
+00:15:45,610 --> 00:15:50,110
+O Super Dodonpa irá acompanhá-lo
+aonde quer que você vá!
+
+145
+00:15:50,110 --> 00:15:52,070
+Tudo bem, então! Vá em frente!
+
+146
+00:15:52,070 --> 00:15:54,030
+Tente me matar!
+
+147
+00:15:56,990 --> 00:15:58,500
+Não!
+
+148
+00:16:02,460 --> 00:16:04,210
+Ah, não, você não!
+
+149
+00:16:06,000 --> 00:16:09,010
+Tolo ignorante! Você nem percebe
+que está prestes a morrer!
+
+150
+00:16:09,010 --> 00:16:12,090
+Pode se arrepender por seus erros
+depois de ter ido para o inferno!
+
+151
+00:16:12,090 --> 00:16:17,100
+Isso é o que você ganha por zombar de
+mim, o grande ciborgue Tao Pai Pai!
+
+152
+00:16:23,400 --> 00:16:30,900
+Super Dodonpa!
+
+153
+00:16:36,620 --> 00:16:39,450
+Por que você não está tentando
+se esquivar?! Você desistiu?!
+
+154
+00:17:16,110 --> 00:17:17,620
+Não acredito...
+
+155
+00:17:20,160 --> 00:17:22,290
+I-Impossível!
+
+156
+00:17:28,000 --> 00:17:30,420
+Isso é impossível!
+
+157
+00:17:30,420 --> 00:17:36,360
+Você cancelou o Super Dodonpa com apenas
+um grito para aumentar o espírito de luta...?!
+
+158
+00:18:00,600 --> 00:18:01,660
+Ele conseguiu!
+
+159
+00:18:01,660 --> 00:18:03,500
+Belo trabalho, Tenshinhan!
+
+160
+00:18:03,500 --> 00:18:06,210
+Eu vou avisar o Chaos!
+
+161
+00:18:08,210 --> 00:18:13,280
+Viram só? Eu disse que ele não
+era nada para se preocupar!
+
+162
+00:18:13,920 --> 00:18:15,340
+Você tentou fugir!
+
+163
+00:18:15,340 --> 00:18:17,760
+D-Desculpa! Me solte!
+
+164
+00:18:17,760 --> 00:18:23,970
+É apenas a primeira disputa, e já
+tivemos uns incidentes inesperados!
+
+165
+00:18:23,970 --> 00:18:27,770
+Devido ao seu descumprimento
+das regras do torneio,
+
+166
+00:18:27,770 --> 00:18:31,610
+Tao Pai Pai foi desclassificado.
+
+167
+00:18:38,200 --> 00:18:43,160
+Tenshinhan avança para as semifinais!
+
+168
+00:18:48,710 --> 00:18:50,540
+Excelente espetáculo!
+
+169
+00:18:50,540 --> 00:18:53,130
+Muito bom, Tenshinhan!
+
+170
+00:18:57,590 --> 00:19:00,220
+Tenshinhan é mesmo incrível!
+
+171
+00:19:00,220 --> 00:19:03,640
+Ele derrotou Tao Pai Pai
+com apenas um golpe!
+
+172
+00:19:05,430 --> 00:19:08,020
+O-O que você quer?!
+
+173
+00:19:08,020 --> 00:19:10,560
+Ele provavelmente ficará
+inconsciente por vários dias.
+
+174
+00:19:11,060 --> 00:19:13,720
+Por favor, leve-o embora com você.
+Além disso...
+
+175
+00:19:15,150 --> 00:19:21,200
+Nunca mais apareçam
+na nossa frente. Por favor.
+
+176
+00:19:24,080 --> 00:19:29,580
+Seu ingrato nojento!
+Nunca mais quero ver você!
+
+177
+00:19:30,040 --> 00:19:32,500
+Olha quem fala! Seu velhote estúpido!
+
+178
+00:19:32,500 --> 00:19:33,740
+Bom trabalho!
+
+179
+00:19:33,740 --> 00:19:34,880
+Obrigado.
+
+180
+00:19:34,880 --> 00:19:37,420
+Aquele grito para aumentar
+o espírito de luta foi incrível!
+
+181
+00:19:37,420 --> 00:19:39,090
+Eu nem consegui me mexer, e...
+
+182
+00:19:39,090 --> 00:19:40,420
+Pare.
+
+183
+00:19:45,100 --> 00:19:47,100
+Vamos deixá-lo sozinho por enquanto.
+
+184
+00:19:50,560 --> 00:19:57,530
+Nossa... eu não tinha ideia de que ele havia
+se tornado um artista marcial desse calibre...
+
+185
+00:19:58,990 --> 00:20:03,620
+Não há mais sequer espaço
+para mim neste torneio.
+
+186
+00:20:04,620 --> 00:20:06,080
+Que problema...
+
+187
+00:20:06,080 --> 00:20:08,500
+Ele parece um pouco
+forte demais, não acha?
+
+188
+00:20:08,500 --> 00:20:11,300
+Certo, agora é a minha vez!
+
+189
+00:20:12,170 --> 00:20:14,330
+Estou me sentindo muito
+empolgado por algum motivo!
+
+190
+00:20:14,330 --> 00:20:18,420
+Ah, é mesmo!
+A garota bonita é sua oponente!
+
+191
+00:20:23,430 --> 00:20:24,970
+Vamos ter uma boa luta!
+
+192
+00:20:31,020 --> 00:20:35,960
+Vamos tentar fazer as coisas voltarem
+ao normal com a segunda disputa!
+
+193
+00:20:36,610 --> 00:20:42,030
+A segunda luta é com Son Goku, o
+vice-campeão dos dois torneios anteriores,
+
+194
+00:20:42,030 --> 00:20:47,830
+contra "Anônima", uma jovem que lutou de
+forma impressionante nas classificatórias!
+
+195
+00:21:04,050 --> 00:21:08,220
+Agora poderei ver sua verdadeira força.
+
+196
+00:21:19,730 --> 00:21:24,030
+Como ela preferiu não
+divulgar seu nome verdadeiro,
+
+197
+00:21:24,030 --> 00:21:26,840
+decidimos continuar
+chamando-a de "Anônima".
+
+198
+00:21:28,700 --> 00:21:32,750
+Me parece que você está sempre brava.
+
+199
+00:21:32,750 --> 00:21:35,310
+Bem, a culpa é sua!
+
+200
+00:22:17,920 --> 00:22:25,660
+<i>Quem é essa linda garota
+que parece estar sempre furiosa?</i>
+
+201
+00:22:47,610 --> 00:22:50,410
+Venha aqui, fantasia
+
+202
+00:22:47,610 --> 00:22:50,410
+<i>Oide FANTAJI</i>
+
+203
+00:22:50,410 --> 00:22:53,030
+Eu adoro um mistério
+
+204
+00:22:50,410 --> 00:22:53,030
+<i>suki sa MISUTERI</i>
+
+205
+00:22:53,030 --> 00:22:59,420
+Não vá esconder
+a sua juventude!
+
+206
+00:22:53,030 --> 00:22:59,420
+<i>Kimi no wakasa kakusa nai de</i>
+
+207
+00:22:59,420 --> 00:23:02,420
+Quero fazer o que é misterioso
+
+208
+00:22:59,420 --> 00:23:02,420
+<i>Fushigi shitakute</i>
+
+209
+00:23:02,420 --> 00:23:05,050
+Quero correr atrás de aventura
+
+210
+00:23:02,420 --> 00:23:05,050
+<i>Bouken shitakute</i>
+
+211
+00:23:05,050 --> 00:23:11,220
+Todo mundo não vê a hora de ir!
+
+212
+00:23:05,050 --> 00:23:11,220
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+213
+00:23:11,220 --> 00:23:17,230
+Se você agir feito
+adulto e desistir
+
+214
+00:23:11,220 --> 00:23:17,230
+<i>Otona no furi shite akiramecha</i>
+
+215
+00:23:17,230 --> 00:23:23,230
+Você nunca desvendará
+o mistério do milagre
+
+216
+00:23:17,230 --> 00:23:23,230
+<i>Kiseki no nazo nado tokenai yo</i>
+
+217
+00:23:23,230 --> 00:23:34,410
+Vá e viva de forma
+mais intensa e forte!
+
+218
+00:23:23,230 --> 00:23:34,410
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+219
+00:23:34,410 --> 00:23:42,040
+Vou te dar um romance
+
+220
+00:23:34,410 --> 00:23:42,040
+<i>ROMANTIKKU Ageru yo!</i>
+
+221
+00:23:42,040 --> 00:23:46,420
+Se você me mostrar sua
+verdadeira coragem
+
+222
+00:23:42,040 --> 00:23:46,420
+<i>Hontou no yuuki wo misete kuretara</i>
+
+223
+00:23:46,420 --> 00:23:53,800
+Vou te dar um romance
+
+224
+00:23:46,420 --> 00:23:53,800
+<i>ROMANTIKKU Ageru yo!</i>
+
+225
+00:23:53,800 --> 00:24:02,560
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+226
+00:23:53,800 --> 00:24:02,560
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>

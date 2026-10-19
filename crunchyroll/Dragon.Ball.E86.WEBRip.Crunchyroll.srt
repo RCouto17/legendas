@@ -1,0 +1,1324 @@
+1
+00:00:11,840 --> 00:00:15,490
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:11,840 --> 00:00:15,490
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:15,490 --> 00:00:19,010
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:15,490 --> 00:00:19,010
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:19,010 --> 00:00:22,590
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:19,010 --> 00:00:22,590
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:22,590 --> 00:00:25,760
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:22,590 --> 00:00:25,760
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:25,760 --> 00:00:28,980
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:25,760 --> 00:00:28,980
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:28,980 --> 00:00:36,770
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:28,980 --> 00:00:36,770
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:36,770 --> 00:00:39,990
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:36,770 --> 00:00:39,990
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:39,990 --> 00:00:43,940
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+16
+00:00:39,990 --> 00:00:43,940
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+17
+00:00:43,940 --> 00:00:50,840
+<i>Kono no yo doko ka de hikatteiru</i>
+
+18
+00:00:43,940 --> 00:00:50,840
+Em algum lugar do
+mundo elas vão brilhar
+
+19
+00:00:50,840 --> 00:00:54,420
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+20
+00:00:50,840 --> 00:00:54,420
+Vamos lá encontrá-las, rapaz
+
+21
+00:00:54,420 --> 00:00:57,430
+<i>Youkai henka mo buttobashi</i>
+
+22
+00:00:54,420 --> 00:00:57,430
+Enquanto passamos por cima
+de monstros e demônios
+
+23
+00:00:57,430 --> 00:01:04,980
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+24
+00:00:57,430 --> 00:01:04,980
+E na nuvem voadora
+nós vamos voar!
+
+25
+00:01:04,980 --> 00:01:08,670
+<i>Let's try try try Makafushigi</i>
+
+26
+00:01:04,980 --> 00:01:08,670
+Vamos experimentar
+esse profundo mistério
+
+27
+00:01:08,670 --> 00:01:11,980
+<i>Sora wo kakenuke yama wo koe</i>
+
+28
+00:01:08,670 --> 00:01:11,980
+Avançando pelos céus,
+superando as montanhas
+
+29
+00:01:11,980 --> 00:01:15,820
+<i>Let's fly fly fly Daibouken</i>
+
+30
+00:01:11,980 --> 00:01:15,820
+Vamos voar rumo a
+uma grande aventura
+
+31
+00:01:15,820 --> 00:01:22,850
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+32
+00:01:15,820 --> 00:01:22,850
+A nossa jornada
+estranha vai começar!
+
+33
+00:01:22,850 --> 00:01:26,410
+<i>Te ni irero! DRAGON BALL</i>
+
+34
+00:01:22,850 --> 00:01:26,410
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+35
+00:01:26,410 --> 00:01:30,030
+<i>Sekai de ittou degowai chansu</i>
+
+36
+00:01:26,410 --> 00:01:30,030
+Uma das apostas mais
+formidáveis do mundo
+
+37
+00:01:30,030 --> 00:01:33,610
+<i>Oikakero! DRAGON BALL</i>
+
+38
+00:01:30,030 --> 00:01:33,610
+Vamos persegui-las!
+As Esferas do Dragão!
+
+39
+00:01:33,610 --> 00:01:36,840
+<i>Sekai de ittou ikashita dorama</i>
+
+40
+00:01:33,610 --> 00:01:36,840
+Um dos mistérios mais
+dramáticos do mundo
+
+41
+00:01:36,840 --> 00:01:40,200
+<i>Kono yo wa dekkai takarajima</i>
+
+42
+00:01:36,840 --> 00:01:40,200
+A vida é uma grande
+ilha do tesouro
+
+43
+00:01:40,200 --> 00:01:47,520
+<i>Sou sa Ima koso adobenchaa!</i>
+
+44
+00:01:40,200 --> 00:01:47,520
+Isso mesmo!
+A aventura começou!
+
+45
+00:02:11,420 --> 00:02:14,840
+<i>As preliminares do Torneio 
+de Artes Marciais começaram.</i>
+
+46
+00:02:14,840 --> 00:02:20,450
+<i>Yamcha e Kuririn mostraram o quanto 
+ficaram mais fortes em três anos,</i>
+
+47
+00:02:20,450 --> 00:02:24,830
+<i>e avançaram no torneio!</i>
+
+48
+00:02:40,330 --> 00:02:46,230
+<i>Agora, é a vez de Goku.</i>
+
+49
+00:02:51,340 --> 00:02:53,670
+Aquele é o Rei Chapa?!
+
+50
+00:02:53,670 --> 00:02:55,000
+Quem é o Rei Chapa?
+
+51
+00:02:55,000 --> 00:02:57,530
+O que posso dizer é que ele é muito bom.
+
+52
+00:02:58,340 --> 00:03:01,510
+Soube que ele venceu um 
+Torneio de Artes Marciais...
+
+53
+00:03:01,510 --> 00:03:06,080
+sem ninguém encostar um dedo nele!
+
+54
+00:03:10,440 --> 00:03:12,760
+Comecem a batalha!
+
+55
+00:03:15,650 --> 00:03:19,220
+Não se preocupe, eu não irei te matar.
+
+56
+00:03:19,650 --> 00:03:21,220
+Obrigado!
+
+57
+00:03:43,430 --> 00:03:51,250
+Está decidido!!
+Os oito guerreiros
+
+58
+00:03:45,350 --> 00:03:51,250
+<i>"Está decidido! Os oito guerreiros".</i>
+
+59
+00:03:52,610 --> 00:03:54,310
+Rei Chapa...
+
+60
+00:03:54,310 --> 00:03:58,610
+Parece que a primeira luta 
+do Goku será bem intensa.
+
+61
+00:03:58,610 --> 00:03:59,760
+Pois é...
+
+62
+00:04:01,160 --> 00:04:04,430
+Venha, mostre-me do que é capaz.
+
+63
+00:04:05,410 --> 00:04:08,440
+Tá bom, eu começo!
+
+64
+00:04:13,270 --> 00:04:19,280
+<i>Poderemos ver com clareza o quanto o 
+Goku ficou mais forte nesses três anos.</i>
+
+65
+00:04:25,600 --> 00:04:26,500
+Ele é rápido!
+
+66
+00:04:38,610 --> 00:04:40,300
+Entendo.
+
+67
+00:04:40,940 --> 00:04:44,850
+Parece que você não é um garoto qualquer.
+
+68
+00:05:11,370 --> 00:05:12,960
+Boa!
+
+69
+00:05:42,380 --> 00:05:44,570
+Ah, não! Ele começou a pegar pesado!
+
+70
+00:05:44,570 --> 00:05:47,580
+Ele vai usar o golpe Hashuken!
+
+71
+00:05:48,010 --> 00:05:49,640
+O Hashuken, é?
+
+72
+00:05:49,640 --> 00:05:51,600
+É uma técnica que ele golpeia tão rápido
+
+73
+00:05:51,600 --> 00:05:53,500
+que parece até que ele tem oito braços...
+
+74
+00:05:55,560 --> 00:05:58,230
+Não me odeie por isso.
+
+75
+00:05:58,230 --> 00:06:02,090
+Sentir o sabor da derrota 
+faz parte do treinamento.
+
+76
+00:06:24,260 --> 00:06:25,420
+Impressionante!
+
+77
+00:06:25,420 --> 00:06:28,370
+Que absurdo, ele está bloqueando tudo!
+
+78
+00:06:32,680 --> 00:06:34,960
+Você deixou uma abertura nas suas pernas.
+
+79
+00:06:35,640 --> 00:06:38,750
+Como um moleque como você fez isso?!
+
+80
+00:06:41,760 --> 00:06:43,020
+O quê? Onde ele está?
+
+81
+00:06:43,020 --> 00:06:45,130
+Olha pra cima!
+
+82
+00:06:47,140 --> 00:06:49,900
+Ah, não! Péssima escolha de golpe!
+
+83
+00:06:49,900 --> 00:06:51,140
+Por que fazer isso?!
+
+84
+00:06:52,910 --> 00:06:55,490
+Que tolice decidir ir por cima.
+
+85
+00:06:55,490 --> 00:06:57,830
+Você não poderá se mover com liberdade.
+
+86
+00:06:57,830 --> 00:07:00,150
+Virou um alvo fácil para mim!
+
+87
+00:07:07,180 --> 00:07:09,410
+A vitória é minha!
+
+88
+00:07:12,160 --> 00:07:13,920
+Você caiu!
+
+89
+00:07:22,570 --> 00:07:26,220
+Número 27 está fora!
+O vencedor é o número 28!
+
+90
+00:07:28,180 --> 00:07:31,820
+I-Inacreditável...
+
+91
+00:07:31,820 --> 00:07:36,580
+Ele parou o corpo no ar usando o sopro...
+
+92
+00:07:36,580 --> 00:07:38,190
+Que loucura.
+
+93
+00:07:38,190 --> 00:07:41,190
+Ele derrotou o Rei Chapa muito fácil.
+
+94
+00:07:42,960 --> 00:07:45,590
+Eba, consegui!
+
+95
+00:07:45,590 --> 00:07:47,500
+Você foi bem inteligente ali, Goku.
+
+96
+00:07:47,500 --> 00:07:50,570
+Mas você ficará cansado se 
+der tudo de si desde o começo.
+
+97
+00:07:51,470 --> 00:07:54,180
+Mas eu não dei tudo de mim.
+
+98
+00:07:54,180 --> 00:07:58,080
+Ele poderia ter morrido se 
+eu tivesse pegado pesado.
+
+99
+00:07:58,080 --> 00:08:01,640
+Mal posso esperar para lutar 
+contra o pessoal forte
+
+100
+00:08:01,640 --> 00:08:03,480
+que nem vocês, com toda a minha força!
+
+101
+00:08:03,480 --> 00:08:06,150
+C-Claro...
+
+102
+00:08:06,150 --> 00:08:08,090
+Mal posso esperar...
+
+103
+00:08:09,740 --> 00:08:14,310
+<i>A-As coisas talvez fiquem ruins para mim...</i>
+
+104
+00:08:15,100 --> 00:08:16,490
+Número 178!
+
+105
+00:08:16,490 --> 00:08:21,100
+Lutador número 178, dirija-se 
+à arena do grupo 4.
+
+106
+00:08:22,420 --> 00:08:25,000
+<i>Se eu perder para ele, a minha reputação—</i>
+
+107
+00:08:25,000 --> 00:08:27,040
+Eles estão te chamando, Sr. Jackie.
+
+108
+00:08:27,040 --> 00:08:29,610
+O seu número é o 178, não é?
+
+109
+00:08:35,510 --> 00:08:38,120
+Boa sorte!
+
+110
+00:08:38,430 --> 00:08:40,080
+Comecem!
+
+111
+00:08:42,940 --> 00:08:45,980
+<i>Aqueles socos, chutes e os saltos do Goku...</i>
+
+112
+00:08:45,980 --> 00:08:50,130
+<i>Tudo melhorou exponencialmente 
+desde a última vez.</i>
+
+113
+00:08:51,360 --> 00:08:53,530
+O que ele está fazendo?
+
+114
+00:08:53,530 --> 00:08:55,640
+Será uma técnica nova?
+
+115
+00:08:56,490 --> 00:08:59,270
+Seu maldito, pare de gracinha!
+
+116
+00:08:59,660 --> 00:09:03,500
+<i>Suas habilidades por si só já 
+estão bem melhores que as minhas.</i>
+
+117
+00:09:03,500 --> 00:09:07,880
+<i>Não, eu tenho algo que ele não 
+tem, eu tenho experiência!</i>
+
+118
+00:09:07,880 --> 00:09:09,280
+<i>Não será fácil me derrotar!</i>
+
+119
+00:09:46,860 --> 00:09:49,500
+Já chega!
+
+120
+00:09:49,500 --> 00:09:52,320
+O número 178 vence!
+
+121
+00:09:53,930 --> 00:09:56,910
+Desculpa por isso! Não 
+era a minha intenção.
+
+122
+00:09:57,470 --> 00:10:00,510
+Ele é mesmo incrível!
+
+123
+00:10:00,510 --> 00:10:01,850
+Impressionante.
+
+124
+00:10:01,850 --> 00:10:04,390
+Suas técnicas estão ainda 
+melhores que da última vez.
+
+125
+00:10:04,390 --> 00:10:07,920
+Tenho certeza de que ele irá para as finais.
+
+126
+00:10:08,400 --> 00:10:13,640
+Será mais um torneio incrível.
+
+127
+00:10:38,430 --> 00:10:39,580
+Comecem!
+
+128
+00:10:39,580 --> 00:10:45,180
+<i>Agarre a aventura,
+Torneio de Artes Marciais!</i>
+
+129
+00:10:47,680 --> 00:10:58,190
+<i>Especialistas de todas as artes marciais
+se reuniram nesta cidade</i>
+
+130
+00:10:58,190 --> 00:11:11,000
+<i>Para batalhar no tão sonhado torneio!</i>
+
+131
+00:11:11,000 --> 00:11:16,500
+<i>Goku voa com sua cauda giratória!</i>
+
+132
+00:11:16,500 --> 00:11:22,050
+<i>E lá vai o Kuririn,
+com um movimento espetacular!</i>
+
+133
+00:11:20,260 --> 00:11:22,840
+Ele é melhor do que eu imaginava.
+
+134
+00:11:22,050 --> 00:11:27,780
+<i>Corra! Sinta o vento em seu coração!</i>
+
+135
+00:11:22,840 --> 00:11:25,010
+Mas ele deixou aberturas.
+
+136
+00:11:25,010 --> 00:11:27,310
+Ele não está lutando a sério.
+
+137
+00:11:27,310 --> 00:11:28,290
+Eu acho.
+
+138
+00:11:27,780 --> 00:11:30,390
+<i>O número 1! O número 1!</i>
+
+139
+00:11:30,390 --> 00:11:36,730
+<i>Quem será o número 1?</i>
+
+140
+00:11:33,530 --> 00:11:36,730
+Isso doeu!
+
+141
+00:11:36,730 --> 00:11:39,180
+Ele está fora do ringue.
+A vitória é do número 2!
+
+142
+00:11:42,490 --> 00:11:45,090
+Bem, de qualquer forma...
+
+143
+00:11:45,980 --> 00:11:49,350
+ele não está no meu nível.
+
+144
+00:11:49,350 --> 00:11:50,540
+Você está indo bem!
+
+145
+00:11:50,540 --> 00:11:52,530
+Você também!
+
+146
+00:11:53,550 --> 00:11:56,380
+Faremos um breve intervalo nas batalhas.
+
+147
+00:11:56,380 --> 00:11:58,300
+As lutas começarão 
+novamente daqui uma hora.
+
+148
+00:11:58,300 --> 00:12:01,680
+Oba, hora de comer!
+
+149
+00:12:01,680 --> 00:12:02,700
+Ei, espera!
+
+150
+00:12:02,700 --> 00:12:04,180
+Espera, Goku!
+
+151
+00:12:21,740 --> 00:12:24,260
+Comprei as suas camisas do torneio aqui!
+
+152
+00:12:26,850 --> 00:12:28,910
+De novo não!
+
+153
+00:12:28,910 --> 00:12:30,660
+Você é horrível nisso.
+
+154
+00:12:30,660 --> 00:12:31,730
+Cala a boca!
+
+155
+00:12:32,160 --> 00:12:34,080
+Tio, quero mais uma ficha!
+
+156
+00:12:34,080 --> 00:12:35,780
+Obrigado!
+
+157
+00:12:37,510 --> 00:12:41,210
+É muito chato não poder 
+assistir as preliminares...
+
+158
+00:12:41,210 --> 00:12:45,460
+Espero que o Goku e os 
+outros se classifiquem.
+
+159
+00:12:57,480 --> 00:13:01,820
+Não use armas de verdade, senhorita!
+
+160
+00:13:01,820 --> 00:13:03,820
+Fecha a matraca e me dá isso logo!
+
+161
+00:13:03,820 --> 00:13:05,160
+H-Hein?!
+
+162
+00:13:05,160 --> 00:13:07,870
+Me dá o meu prêmio!
+
+163
+00:13:07,870 --> 00:13:09,240
+S-Sim, senhorita!
+
+164
+00:13:09,240 --> 00:13:10,490
+Aqui está!
+
+165
+00:13:10,490 --> 00:13:12,940
+Não ferra comigo, desgraçado!
+
+166
+00:13:14,750 --> 00:13:16,620
+Me dá o dinheiro!
+
+167
+00:13:16,620 --> 00:13:19,450
+Quem foi que deixou ela vir com a gente?
+
+168
+00:13:28,520 --> 00:13:30,710
+Isso tá muito bom!
+
+169
+00:13:38,400 --> 00:13:40,220
+Toma.
+
+170
+00:13:42,820 --> 00:13:45,720
+Eu até perco a fome ao olhar para ele.
+
+171
+00:13:46,150 --> 00:13:47,930
+Eu também.
+
+172
+00:13:50,910 --> 00:13:54,230
+Só mais um pouco até o 
+torneio começar de verdade.
+
+173
+00:13:54,620 --> 00:13:57,980
+Essas preliminares estão no papo.
+
+174
+00:13:57,980 --> 00:14:02,200
+Não, pensar assim é um perigo para você.
+
+175
+00:14:03,680 --> 00:14:07,010
+Com o descuido vem o fracasso.
+
+176
+00:14:07,010 --> 00:14:11,000
+É importante sempre lutar a sério!
+
+177
+00:14:11,640 --> 00:14:15,500
+Você até pareceu o Mestre Muten
+Roshi falando, Sr. Jackie...
+
+178
+00:14:15,810 --> 00:14:17,060
+<i>Ops.</i>
+
+179
+00:14:17,060 --> 00:14:18,140
+É verdade.
+
+180
+00:14:18,140 --> 00:14:21,820
+É bem algo que um mestre 
+diria aos seus alunos.
+
+181
+00:14:21,820 --> 00:14:26,740
+É que na minha idade, fico 
+com vontade de dar sermão
+
+182
+00:14:26,740 --> 00:14:30,770
+aos jovens sempre que os vejo!
+
+183
+00:14:30,770 --> 00:14:33,440
+Mas não se preocupem com isso.
+
+184
+00:14:41,170 --> 00:14:42,650
+É ele!
+
+185
+00:14:43,130 --> 00:14:45,090
+Me solta!
+
+186
+00:14:45,090 --> 00:14:47,490
+Você acha que sou idiota?
+
+187
+00:14:47,490 --> 00:14:52,670
+Como ousa me alimentar com esse lixo?!
+
+188
+00:14:57,190 --> 00:14:58,250
+Solte ele.
+
+189
+00:14:58,770 --> 00:14:59,500
+O quê?!
+
+190
+00:15:06,150 --> 00:15:07,640
+O que foi? Aconteceu alguma coisa?
+
+191
+00:15:08,740 --> 00:15:10,280
+É você de novo.
+
+192
+00:15:10,280 --> 00:15:12,070
+Já deu de criar confusão.
+
+193
+00:15:12,070 --> 00:15:13,680
+Você está incomodando a todos!
+
+194
+00:15:13,990 --> 00:15:16,110
+"Incomodando"?
+
+195
+00:15:16,920 --> 00:15:19,830
+Você realmente gosta de falar.
+
+196
+00:15:19,830 --> 00:15:21,480
+Para alguém que não sabe lutar.
+
+197
+00:15:21,830 --> 00:15:22,690
+O quê?!
+
+198
+00:15:22,690 --> 00:15:26,450
+Quer que eu mostre o que é lutar de verdade?
+
+199
+00:15:26,450 --> 00:15:27,780
+Interessante.
+
+200
+00:15:47,380 --> 00:15:51,680
+Aqui não é o lugar para 
+vocês dois lutarem!
+
+201
+00:16:21,900 --> 00:16:23,730
+Você escapou da morte.
+
+202
+00:16:23,730 --> 00:16:26,300
+Deveria agradecer ao velho.
+
+203
+00:16:27,650 --> 00:16:29,480
+Por que ele é assim?
+
+204
+00:16:29,480 --> 00:16:31,260
+Ele se acha o bonzão!
+
+205
+00:16:33,740 --> 00:16:35,770
+Sr. Jackie.
+
+206
+00:16:36,320 --> 00:16:37,560
+Ah, é você...
+
+207
+00:16:41,170 --> 00:16:43,520
+Se não é o Namu!
+
+208
+00:16:44,080 --> 00:16:45,420
+Goku!
+
+209
+00:16:45,420 --> 00:16:47,210
+É bom te ver novamente. Como você está?
+
+210
+00:16:47,210 --> 00:16:50,210
+Estou muito bem. Obrigado 
+pela ajuda naquela vez.
+
+211
+00:16:50,210 --> 00:16:52,300
+Também está participando do torneio?
+
+212
+00:16:52,300 --> 00:16:53,070
+Sim!
+
+213
+00:16:53,340 --> 00:16:55,620
+O seu vilarejo está sem água de novo?
+
+214
+00:16:56,220 --> 00:17:00,750
+Não, graças ao Goku e ao Mestre Muten—
+
+215
+00:17:03,060 --> 00:17:05,190
+Digo, ao Sr. Jackie,
+
+216
+00:17:05,190 --> 00:17:08,480
+o meu vilarejo está muito bem agora!
+
+217
+00:17:08,480 --> 00:17:10,630
+É mesmo? Bom saber.
+
+218
+00:17:10,630 --> 00:17:14,430
+Hein? Você também o ajudou 
+alguma vez, Sr. Jackie?
+
+219
+00:17:15,660 --> 00:17:17,140
+Podemos dizer que sim...
+
+220
+00:17:17,490 --> 00:17:23,000
+Eu entrei neste torneio para testar 
+as minhas habilidades marciais!
+
+221
+00:17:23,000 --> 00:17:26,650
+Queria lutar contra o Goku de novo...
+
+222
+00:18:22,730 --> 00:18:24,120
+Acho ótimo!
+
+223
+00:18:24,470 --> 00:18:25,810
+Você está em qual grupo?
+
+224
+00:18:25,810 --> 00:18:27,630
+No grupo 3.
+
+225
+00:18:27,890 --> 00:18:29,150
+É mesmo?
+
+226
+00:18:29,150 --> 00:18:32,980
+Então você não vai nos 
+enfrentar nas preliminares.
+
+227
+00:18:32,980 --> 00:18:35,840
+Podemos nos esbarrar nas finais.
+
+228
+00:18:36,150 --> 00:18:37,350
+Sim!
+
+229
+00:18:41,850 --> 00:18:45,410
+<i>Então, as lutas preliminares começaram,</i>
+
+230
+00:18:45,410 --> 00:18:49,170
+<i>e o número de participantes, 
+originalmente 182,</i>
+
+231
+00:18:49,170 --> 00:18:51,990
+<i>foi caindo gradativamente.</i>
+
+232
+00:18:54,420 --> 00:18:57,320
+O vencedor é o número 2!
+
+233
+00:18:57,320 --> 00:19:04,310
+<i>Todos os três aprendizes do 
+Muten Roshi chegaram às finais,</i>
+
+234
+00:19:04,310 --> 00:19:08,730
+<i>mesmo sendo apenas oito vagas!</i>
+
+235
+00:19:08,730 --> 00:19:10,710
+<i>Então...</i>
+
+236
+00:19:15,450 --> 00:19:18,280
+Ele está inconsciente! 
+O vencedor é o número 178!
+
+237
+00:19:18,280 --> 00:19:21,060
+Ele está classificado para as finais!
+
+238
+00:19:22,240 --> 00:19:25,480
+Ele é muito bom mesmo!
+
+239
+00:19:25,480 --> 00:19:29,410
+Bem, resolvido por aqui.
+
+240
+00:19:29,410 --> 00:19:32,280
+Você foi ótimo. Parabéns.
+
+241
+00:19:32,670 --> 00:19:34,750
+Parabéns!
+
+242
+00:19:34,750 --> 00:19:36,690
+A verdadeira batalha está para começar.
+
+243
+00:19:36,690 --> 00:19:38,620
+Chamem um médico! Depressa!
+
+244
+00:19:44,390 --> 00:19:45,120
+Namu!
+
+245
+00:19:51,560 --> 00:19:53,610
+Namu!
+
+246
+00:19:53,610 --> 00:19:55,650
+O-O vencedor é o número 99!
+
+247
+00:19:55,650 --> 00:19:59,340
+Ele está classificado para as finais!
+
+248
+00:20:00,450 --> 00:20:02,350
+Ele de novo!
+
+249
+00:20:02,910 --> 00:20:04,140
+Diga alguma coisa!
+
+250
+00:20:04,140 --> 00:20:07,790
+Não se preocupem. Ele 
+não corre risco de vida.
+
+251
+00:20:07,790 --> 00:20:09,330
+Que bom...
+
+252
+00:20:09,330 --> 00:20:13,070
+Sejam gratos por eu não ter matado ele.
+
+253
+00:20:14,670 --> 00:20:17,070
+O erro dele foi ter pensado que poderia
+
+254
+00:20:17,670 --> 00:20:20,880
+entrar no torneio com 
+habilidades como aquelas.
+
+255
+00:20:20,880 --> 00:20:24,330
+Duvido que ele vá se envolver 
+em alguma luta de novo.
+
+256
+00:20:26,020 --> 00:20:27,870
+Desgraçado!
+
+257
+00:20:28,260 --> 00:20:30,230
+Espera, Goku!
+
+258
+00:20:30,230 --> 00:20:33,210
+Me solta!
+
+259
+00:20:52,770 --> 00:20:55,780
+Boa! Vocês conseguiram!
+
+260
+00:20:55,780 --> 00:20:59,300
+Agora vocês três participarão do torneio!
+
+261
+00:20:59,300 --> 00:21:02,260
+O Mestre Muten Roshi não está por aqui...
+
+262
+00:21:02,260 --> 00:21:03,780
+Ele deu um sumiço e não voltou até agora.
+
+263
+00:21:04,090 --> 00:21:08,180
+O que diabos ele está fazendo?
+
+264
+00:21:08,180 --> 00:21:11,220
+Será que ele está por aí
+assediando garotas?
+
+265
+00:21:11,220 --> 00:21:13,480
+O que você disse?!
+
+266
+00:21:13,480 --> 00:21:16,480
+Francamente, viu? Eu saio rapidinho,
+
+267
+00:21:16,480 --> 00:21:19,820
+e vocês já estão fazendo a minha caveira!
+
+268
+00:21:19,820 --> 00:21:22,820
+Fique você sabendo que estava 
+assistindo as preliminares escondido!
+
+269
+00:21:22,820 --> 00:21:24,520
+Você viu a gente?!
+
+270
+00:21:24,520 --> 00:21:29,780
+Sim, eu vi.
+Vocês três lutaram muito bem.
+
+271
+00:21:29,780 --> 00:21:33,000
+Algum de vocês pode sair vencedor.
+
+272
+00:21:33,000 --> 00:21:33,900
+Obrigado!
+
+273
+00:21:33,900 --> 00:21:35,320
+A gente vai se esforçar!
+
+274
+00:21:36,000 --> 00:21:39,400
+O Torneio de Artes Marciais 
+começará em instantes.
+
+275
+00:21:39,400 --> 00:21:44,080
+Pedimos para que os oito participantes 
+se dirijam para a arena.
+
+276
+00:21:46,260 --> 00:21:47,870
+Chegou a hora!
+
+277
+00:21:48,180 --> 00:21:52,310
+Mas vocês não conseguirão 
+ver as lutas muito bem, né?
+
+278
+00:21:52,310 --> 00:21:54,270
+Relaxa, a gente está de boa.
+
+279
+00:21:54,270 --> 00:21:57,380
+Temos a Lunch com a gente!
+
+280
+00:21:57,380 --> 00:21:59,900
+Podem deixar comigo.
+
+281
+00:21:59,900 --> 00:22:02,880
+Vou arrumar uns lugares 
+bem na frente pra gente.
+
+282
+00:22:02,880 --> 00:22:04,760
+A-Ah, não...
+
+283
+00:22:04,760 --> 00:22:06,600
+Prestem atenção aqui!
+
+284
+00:22:06,600 --> 00:22:10,100
+Se não quiserem morrer, 
+acho bom abrirem caminho!
+
+285
+00:22:22,490 --> 00:22:24,820
+<i>Ela me dá medo...</i>
+
+286
+00:22:25,340 --> 00:22:30,790
+<i>As lutas de verdade estão 
+prestes a começar!</i>
+
+287
+00:22:47,760 --> 00:22:50,410
+Venha aqui, fantasia
+
+288
+00:22:47,760 --> 00:22:50,410
+<i>Oide FANTAJI</i>
+
+289
+00:22:50,410 --> 00:22:53,030
+Eu adoro um mistério
+
+290
+00:22:50,410 --> 00:22:53,030
+<i>suki sa MISUTERI</i>
+
+291
+00:22:53,030 --> 00:22:59,420
+Não vá esconder
+a sua juventude!
+
+292
+00:22:53,030 --> 00:22:59,420
+<i>Kimi no wakasa kakusa nai de</i>
+
+293
+00:22:59,420 --> 00:23:02,420
+Quero fazer o que é misterioso
+
+294
+00:22:59,420 --> 00:23:02,420
+<i>Fushigi shitakute</i>
+
+295
+00:23:02,420 --> 00:23:05,050
+Quero correr atrás de aventura
+
+296
+00:23:02,420 --> 00:23:05,050
+<i>Bouken shitakute</i>
+
+297
+00:23:05,050 --> 00:23:11,080
+Todo mundo não vê a hora de ir!
+
+298
+00:23:05,050 --> 00:23:11,080
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+299
+00:23:11,080 --> 00:23:17,230
+<i>Otona no furi shite akiramecha</i>
+
+300
+00:23:11,080 --> 00:23:17,230
+Se você agir feito
+adulto e desistir
+
+301
+00:23:17,230 --> 00:23:23,090
+<i>Kiseki no nazo nado tokenai yo</i>
+
+302
+00:23:17,230 --> 00:23:23,090
+Você nunca desvendará
+o mistério do milagre
+
+303
+00:23:23,090 --> 00:23:34,410
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+304
+00:23:23,090 --> 00:23:34,410
+Vá e viva de forma
+mais intensa e forte!
+
+305
+00:23:34,410 --> 00:23:42,040
+<i>ROMANTIKKU Ageru yo!</i>
+
+306
+00:23:34,410 --> 00:23:42,040
+Vou te dar um romance
+
+307
+00:23:42,040 --> 00:23:46,570
+<i>Hontou no yuuki wo misete kuretara</i>
+
+308
+00:23:42,040 --> 00:23:46,570
+Se você me mostrar sua
+verdadeira coragem
+
+309
+00:23:46,570 --> 00:23:53,950
+<i>ROMANTIKKU Ageru yo!</i>
+
+310
+00:23:46,570 --> 00:23:53,950
+Vou te dar um romance
+
+311
+00:23:53,950 --> 00:24:02,560
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>
+
+312
+00:23:53,950 --> 00:24:02,560
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!

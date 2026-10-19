@@ -1,0 +1,1282 @@
+1
+00:00:11,840 --> 00:00:15,490
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:11,840 --> 00:00:15,490
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:15,490 --> 00:00:19,010
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:15,490 --> 00:00:19,010
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:19,010 --> 00:00:22,590
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:19,010 --> 00:00:22,590
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:22,590 --> 00:00:25,670
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:22,590 --> 00:00:25,670
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:25,670 --> 00:00:28,980
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:25,670 --> 00:00:28,980
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:28,980 --> 00:00:36,770
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:28,980 --> 00:00:36,770
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:36,770 --> 00:00:39,990
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:36,770 --> 00:00:39,990
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:39,990 --> 00:00:43,940
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+16
+00:00:39,990 --> 00:00:43,940
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+17
+00:00:43,940 --> 00:00:50,840
+<i>Kono no yo doko ka de hikatteiru</i>
+
+18
+00:00:43,940 --> 00:00:50,840
+Em algum lugar do
+mundo elas vão brilhar
+
+19
+00:00:50,840 --> 00:00:54,420
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+20
+00:00:50,840 --> 00:00:54,420
+Vamos lá encontrá-las, rapaz
+
+21
+00:00:54,420 --> 00:00:57,430
+<i>Youkai henka mo buttobashi</i>
+
+22
+00:00:54,420 --> 00:00:57,430
+Enquanto passamos por cima
+de monstros e demônios
+
+23
+00:00:57,430 --> 00:01:04,980
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+24
+00:00:57,430 --> 00:01:04,980
+E na nuvem voadora
+nós vamos voar!
+
+25
+00:01:04,980 --> 00:01:08,760
+<i>Let's try try try Makafushigi</i>
+
+26
+00:01:04,980 --> 00:01:08,760
+Vamos experimentar
+esse profundo mistério
+
+27
+00:01:08,760 --> 00:01:11,980
+<i>Sora wo kakenuke yama wo koe</i>
+
+28
+00:01:08,760 --> 00:01:11,980
+Avançando pelos céus,
+superando as montanhas
+
+29
+00:01:11,980 --> 00:01:15,820
+<i>Let's fly fly fly Daibouken</i>
+
+30
+00:01:11,980 --> 00:01:15,820
+Vamos voar rumo a
+uma grande aventura
+
+31
+00:01:15,820 --> 00:01:22,850
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+32
+00:01:15,820 --> 00:01:22,850
+A nossa jornada
+estranha vai começar!
+
+33
+00:01:22,850 --> 00:01:26,400
+<i>Te ni irero! DRAGON BALL</i>
+
+34
+00:01:22,850 --> 00:01:26,400
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+35
+00:01:26,400 --> 00:01:30,030
+<i>Sekai de ittou degowai chansu</i>
+
+36
+00:01:26,400 --> 00:01:30,030
+Uma das apostas mais
+formidáveis do mundo
+
+37
+00:01:30,030 --> 00:01:33,610
+<i>Oikakero! DRAGON BALL</i>
+
+38
+00:01:30,030 --> 00:01:33,610
+Vamos persegui-las!
+As Esferas do Dragão!
+
+39
+00:01:33,610 --> 00:01:36,840
+<i>Sekai de ittou ikashita dorama</i>
+
+40
+00:01:33,610 --> 00:01:36,840
+Um dos mistérios mais
+dramáticos do mundo
+
+41
+00:01:36,840 --> 00:01:40,200
+<i>Kono yo wa dekkai takarajima</i>
+
+42
+00:01:36,840 --> 00:01:40,200
+A vida é uma grande
+ilha do tesouro
+
+43
+00:01:40,200 --> 00:01:47,520
+<i>Sou sa Ima koso adobenchaa!</i>
+
+44
+00:01:40,200 --> 00:01:47,520
+Isso mesmo!
+A aventura começou!
+
+45
+00:01:55,640 --> 00:01:58,990
+<i>Com a sua força assustadora, Tamborim, 
+um dos servos de Piccolo Daimaoh,</i>
+
+46
+00:01:58,990 --> 00:02:04,040
+<i>exterminou lutadores e artistas marciais.</i>
+
+47
+00:02:14,340 --> 00:02:17,550
+<i>Sentindo o perigo iminente, 
+o Mestre Kame e os demais</i>
+
+48
+00:02:17,550 --> 00:02:20,660
+<i>decidiram migrar a Casa do Kame 
+para outro lugar imediatamente.</i>
+
+49
+00:02:22,750 --> 00:02:27,000
+<i>Piccolo Daimaoh deu à luz a um 
+novo guerreiro chamado Címbalo,</i>
+
+50
+00:02:27,000 --> 00:02:31,980
+<i>e o ordenou buscar as seis 
+Esferas do Dragão restantes.</i>
+
+51
+00:02:34,050 --> 00:02:38,990
+<i>Enquanto isso, Goku, que foi 
+derrotado por Tamborim, </i>
+
+52
+00:02:38,990 --> 00:02:43,580
+<i>finalmente acordou e ficou vagando 
+pela floresta de barriga vazia.</i>
+
+53
+00:02:47,540 --> 00:02:50,250
+Carambola! Só pode ser um sonho!
+
+54
+00:02:59,490 --> 00:03:01,300
+Seu maldito!
+
+55
+00:03:01,300 --> 00:03:04,100
+Cadê você?! Apareça!
+
+56
+00:03:04,100 --> 00:03:06,140
+Quem você chamou de maldito?
+
+57
+00:03:06,140 --> 00:03:08,480
+Eu quem falo isso!
+
+58
+00:03:08,480 --> 00:03:14,980
+<i>Goku encontrou um estranho... mas 
+será que ele é amigo ou inimigo?</i>
+
+59
+00:03:18,510 --> 00:03:27,020
+Yajirobe, o garoto misterioso!!
+
+60
+00:03:19,740 --> 00:03:24,240
+<i>"Yajirobe, o garoto misterioso!!"</i>
+
+61
+00:04:07,490 --> 00:04:08,520
+Ladrão!
+
+62
+00:04:09,490 --> 00:04:10,350
+O quê?!
+
+63
+00:04:10,660 --> 00:04:11,810
+Você é um ladrão!
+
+64
+00:04:12,370 --> 00:04:15,880
+O que disse?! Eu não roubei nada!
+
+65
+00:04:15,880 --> 00:04:17,090
+Não se faça de sonso!
+
+66
+00:04:17,090 --> 00:04:19,820
+Você sabe que comeu o meu peixe!
+
+67
+00:04:20,420 --> 00:04:22,550
+O seu peixe?
+
+68
+00:04:23,720 --> 00:04:25,340
+Aquele ali!
+
+69
+00:04:27,850 --> 00:04:29,140
+Do que você está falando?
+
+70
+00:04:29,140 --> 00:04:30,750
+Você quem o largou ali!
+
+71
+00:04:32,640 --> 00:04:34,380
+Eu larguei ali?!
+
+72
+00:04:34,380 --> 00:04:38,260
+Seu idiota! Até parece que um peixe no 
+espeto ficaria dando sopa em um lugar como este!
+
+73
+00:04:38,610 --> 00:04:40,230
+Como é?!
+
+74
+00:04:44,150 --> 00:04:46,610
+Aquele era o meu almoço!
+
+75
+00:04:46,610 --> 00:04:49,730
+Como tem coragem de comê-lo 
+justo quando eu <i>ia </i>comer?!
+
+76
+00:04:50,490 --> 00:04:51,490
+Quê?
+
+77
+00:04:51,490 --> 00:04:54,730
+E qual é a sua, hein? Você apareceu 
+do nada e me jogou uma pedra!
+
+78
+00:04:57,460 --> 00:04:59,500
+Minha Esfera do Dragão...
+
+79
+00:04:59,500 --> 00:05:03,070
+Então você é mesmo amigo daquele monstro!<i></i>
+
+80
+00:05:04,010 --> 00:05:05,580
+Monstro?
+
+81
+00:05:06,130 --> 00:05:11,580
+O desgraçado com asas que matou o Kuririn 
+e roubou a minha Esfera do Dragão!
+
+82
+00:05:11,930 --> 00:05:13,270
+Malditos!
+
+83
+00:05:13,270 --> 00:05:16,020
+Onde ele está? Ele matou o Kuririn, 
+e agora vai pagar por isso!
+
+84
+00:05:16,020 --> 00:05:19,440
+Cala essa boca! Não vai fugir 
+do que fez falando besteiras!
+
+85
+00:05:19,440 --> 00:05:21,980
+Seu ladrão!
+
+86
+00:05:32,040 --> 00:05:33,600
+Eu vou acabar com você!
+
+87
+00:05:34,160 --> 00:05:35,610
+O quê?!
+
+88
+00:05:36,080 --> 00:05:39,070
+Não vai chorar quando eu te 
+encher de porrada, Tampinha!
+
+89
+00:05:39,070 --> 00:05:42,050
+Olha só quem fala, seu gordão!
+
+90
+00:05:42,050 --> 00:05:43,800
+Gordo?
+
+91
+00:05:45,420 --> 00:05:47,100
+Você me chamou de gordo?!
+
+92
+00:05:47,630 --> 00:05:49,370
+Vai lutar ou não?!
+
+93
+00:05:59,270 --> 00:06:01,310
+<i>Esse cara é bom.</i>
+
+94
+00:06:12,810 --> 00:06:14,020
+O que achou disso, Tampinha?
+
+95
+00:06:14,020 --> 00:06:18,070
+Achei o que, seu gordo?!
+
+96
+00:06:26,130 --> 00:06:29,870
+Ai... O que foi isso?! Você 
+tem uma cabeça bem dura.
+
+97
+00:06:31,590 --> 00:06:33,210
+Só percebeu agora?
+
+98
+00:06:34,470 --> 00:06:36,630
+Então experimenta também!
+
+99
+00:06:38,810 --> 00:06:42,900
+A sua cabeça que é feita de pedra!
+
+100
+00:06:56,040 --> 00:06:57,980
+Oops...
+
+101
+00:07:06,550 --> 00:07:09,050
+E aí, desiste agora?
+
+102
+00:07:10,760 --> 00:07:13,830
+Eu deixo você escapar.
+
+103
+00:07:26,150 --> 00:07:30,030
+<i>Eu bati nele o mais forte que eu podia, 
+mas parece que ele não sentiu nada.</i>
+
+104
+00:07:32,240 --> 00:07:33,490
+<i>Q-Quem é esse cara?!</i>
+
+105
+00:07:33,490 --> 00:07:36,370
+<i>Eu nunca encontrei alguém 
+tão forte assim...</i>
+
+106
+00:07:39,410 --> 00:07:41,370
+<i>Ele não é um garoto normal.</i>
+
+107
+00:07:43,500 --> 00:07:45,090
+<i>Quem é ele?</i>
+
+108
+00:08:03,230 --> 00:08:05,300
+Esse já foi.
+
+109
+00:08:07,980 --> 00:08:10,320
+Mais fraco do que lixo.
+
+110
+00:08:15,450 --> 00:08:17,500
+Quem eu escolho para ser o próximo?
+
+111
+00:08:32,760 --> 00:08:37,180
+Eles não devem nos encontrar aqui.
+
+112
+00:08:37,180 --> 00:08:39,540
+Mas eu tenho umas coisas urgentes a resolver.
+
+113
+00:08:40,520 --> 00:08:41,770
+Eu sei.
+
+114
+00:08:41,770 --> 00:08:46,270
+Por favor, reúna as Esferas do 
+Dragão o mais rápido possível.
+
+115
+00:08:46,270 --> 00:08:47,880
+Seja mais rápido que o Piccolo Daimaoh.
+
+116
+00:08:47,880 --> 00:08:50,380
+Tá bom?
+
+117
+00:08:50,900 --> 00:08:54,360
+Se cuida, viu?
+
+118
+00:08:54,360 --> 00:08:56,390
+Droga...
+
+119
+00:08:56,990 --> 00:09:00,890
+Se a minha perna estivesse boa, 
+eu poderia ir com vocês...
+
+120
+00:09:01,790 --> 00:09:05,370
+Guarde o máximo de energia que puder.
+
+121
+00:09:05,370 --> 00:09:09,240
+Você é o único com quem 
+podemos contar se falharmos.
+
+122
+00:09:11,500 --> 00:09:12,740
+Roshi...
+
+123
+00:09:17,010 --> 00:09:18,140
+Ei!
+
+124
+00:09:18,140 --> 00:09:23,310
+Eu não vou te perdoar 
+se você morrer, hein?!
+
+125
+00:09:23,310 --> 00:09:26,630
+Se você não voltar, vou 
+estourar a sua cabeça na marra
+
+126
+00:09:26,630 --> 00:09:29,760
+ou te matar de qualquer outra forma!
+
+127
+00:09:31,980 --> 00:09:32,750
+T-Tá bom...
+
+128
+00:10:05,310 --> 00:10:09,100
+Sei lá, eu não acho que 
+eles voltarão vivos.
+
+129
+00:10:09,100 --> 00:10:11,310
+Fala sério, cara!
+
+130
+00:10:11,310 --> 00:10:14,930
+Pode apostar que eles vão dar 
+um jeito naquele Piccolo Daimaoh!
+
+131
+00:10:15,650 --> 00:10:17,010
+Não vão?
+
+132
+00:10:18,110 --> 00:10:19,970
+Espero que sim.
+
+133
+00:10:38,050 --> 00:10:41,930
+Bem, irei construir a cápsula criogênica 
+para colocar o Kuririn lá dentro.
+
+134
+00:11:06,410 --> 00:11:09,330
+Como está se sentindo, Senhor Daimaoh?
+
+135
+00:11:09,330 --> 00:11:13,670
+Achei que o senhor pudesse estar entediado, 
+então trouxe uma coisinha divertida.
+
+136
+00:11:13,670 --> 00:11:14,700
+Que tal?
+
+137
+00:11:16,660 --> 00:11:18,340
+Seu pervertido!
+
+138
+00:11:18,340 --> 00:11:19,720
+Sem vergonha!
+
+139
+00:11:19,720 --> 00:11:20,660
+Que constrangedor...
+
+140
+00:11:20,920 --> 00:11:22,110
+Então, que tal isso aqui?
+
+141
+00:11:22,110 --> 00:11:25,160
+Só coisa boa, hein!
+
+142
+00:11:32,310 --> 00:11:34,020
+Imperador Pilaf...
+
+143
+00:11:34,020 --> 00:11:37,780
+Ele não parece se importar com isso.
+
+144
+00:11:47,310 --> 00:11:51,310
+Seus idiotas. O Senhor 
+Piccolo está descansando.
+
+145
+00:11:54,170 --> 00:11:59,050
+O Senhor Piccolo dorme com os olhos abertos.
+
+146
+00:12:34,620 --> 00:12:35,690
+Tudo pronto.
+
+147
+00:12:39,840 --> 00:12:42,670
+Então isso é a cápsula criogênica?
+
+148
+00:12:44,910 --> 00:12:48,560
+Agora vamos colocar o Kuririn aqui dentro.
+
+149
+00:12:48,560 --> 00:12:49,660
+Tá bom.
+
+150
+00:13:02,650 --> 00:13:05,350
+Ele parece tão de boa, mesmo morto.
+
+151
+00:13:08,530 --> 00:13:11,470
+Vamos zoar com a cara dele 
+quando ele voltar à vida!
+
+152
+00:13:12,410 --> 00:13:13,710
+Tudo bem, pessoal?
+
+153
+00:13:13,710 --> 00:13:15,400
+Vou fechar a cápsula.
+
+154
+00:13:25,720 --> 00:13:26,410
+Isso é...
+
+155
+00:13:27,180 --> 00:13:29,410
+Ah, então o Kuririn encolheu.
+
+156
+00:13:33,350 --> 00:13:36,310
+Agora onde eu deixo isto?
+
+157
+00:13:43,820 --> 00:13:47,010
+Aqui é um bom lugar.
+
+158
+00:13:47,010 --> 00:13:49,320
+O Kuririn é tão sortudo por 
+estar em meio a essas calcinhas...
+
+159
+00:13:49,320 --> 00:13:50,990
+Que inveja.
+
+160
+00:13:50,990 --> 00:13:52,770
+Quer morrer também para ver como é?
+
+161
+00:13:53,450 --> 00:13:54,770
+V-Você está brincando, né?!
+
+162
+00:14:00,670 --> 00:14:02,820
+É por aqui, eu acho.
+
+163
+00:14:17,140 --> 00:14:19,850
+Quem é você?
+
+164
+00:14:19,850 --> 00:14:21,800
+O seu nome não é "Ladrão", não é mesmo?
+
+165
+00:14:22,440 --> 00:14:24,230
+É claro que não!
+
+166
+00:14:24,230 --> 00:14:25,800
+É Son Goku!
+
+167
+00:14:26,650 --> 00:14:28,350
+Que nome esquisito.
+
+168
+00:14:28,610 --> 00:14:30,850
+E quem é <i>você</i>?
+
+169
+00:14:34,370 --> 00:14:36,480
+Eu não vou te contar.
+
+170
+00:14:36,830 --> 00:14:39,250
+Isso não é justo!
+
+171
+00:14:50,550 --> 00:14:51,580
+Qual é a sua, hein?
+
+172
+00:14:53,360 --> 00:14:56,020
+É a Esfera de Uma Estrela!
+
+173
+00:14:56,020 --> 00:14:58,460
+Não é a minha Esfera de 
+Quatro Estrelas que roubaram!
+
+174
+00:14:59,140 --> 00:15:03,150
+Onde você arrumou essa 
+coisa no seu pescoço?
+
+175
+00:15:03,150 --> 00:15:05,570
+Eu encontrei três anos atrás.
+
+176
+00:15:05,570 --> 00:15:06,470
+Algum problema com isso?
+
+177
+00:15:06,940 --> 00:15:10,320
+Entendi...
+
+178
+00:15:10,320 --> 00:15:15,330
+Desculpa, acho que causei 
+um grande mal-entendido.
+
+179
+00:15:15,330 --> 00:15:18,270
+Você não é amigo mesmo 
+do cara que matou o Kuririn!
+
+180
+00:15:19,250 --> 00:15:21,170
+Não faço ideia do que você está falando,
+
+181
+00:15:21,170 --> 00:15:23,000
+mas não pense que vai escapar 
+dessa dando uma risadinha!
+
+182
+00:15:23,000 --> 00:15:24,280
+Devolve o meu peixe!
+
+183
+00:15:25,170 --> 00:15:26,110
+Hã?
+
+184
+00:15:26,500 --> 00:15:28,170
+Não vem com essa!
+
+185
+00:15:28,170 --> 00:15:30,430
+Vomita o peixe de volta!
+
+186
+00:15:30,430 --> 00:15:32,640
+É o meu almoço!
+
+187
+00:15:32,640 --> 00:15:34,120
+Não, eu estou falando daquilo...
+
+188
+00:15:34,800 --> 00:15:36,220
+É só uma folha.
+
+189
+00:15:42,090 --> 00:15:44,440
+Eu sabia, é ele!
+
+190
+00:15:56,160 --> 00:15:59,980
+Ei, pirralhos, me respondam.
+
+191
+00:16:01,500 --> 00:16:04,480
+Me enganei de novo. É bem 
+parecido com ele, mas é outro.
+
+192
+00:16:05,040 --> 00:16:08,990
+O que<i> você </i>quer? Tá se achando o bonzão?
+
+193
+00:16:09,460 --> 00:16:13,340
+Ou vocês me contam a verdade, 
+ou senão vão acabar mortos.
+
+194
+00:16:13,340 --> 00:16:18,770
+Vocês viram uma bolinha 
+com estrelas por aqui?
+
+195
+00:16:20,140 --> 00:16:23,750
+Como é?! É<i> assim </i>que você fala 
+quando pede algo para os outros?!
+
+196
+00:16:28,690 --> 00:16:32,550
+Ah, achei! Está bem na minha frente!
+
+197
+00:16:32,550 --> 00:16:34,100
+Que sorte a minha!
+
+198
+00:16:35,620 --> 00:16:38,940
+Me dá essa esfera. Preciso levá-la agora.
+
+199
+00:16:39,290 --> 00:16:42,060
+Se ele quer a Esfera do Dragão...
+
+200
+00:16:42,580 --> 00:16:44,920
+significa que ele é amigo 
+do cara que matou o Kuririn
+
+201
+00:16:44,920 --> 00:16:47,500
+e roubou a <i>minha </i>Esfera do Dragão!
+
+202
+00:16:47,500 --> 00:16:48,740
+Você aí!
+
+203
+00:16:49,590 --> 00:16:52,240
+Hã? Então o Baixinho é amigo do Gordinho?
+
+204
+00:16:52,800 --> 00:16:57,430
+Nada disso! Eu não sou amigo dele...
+
+205
+00:16:57,430 --> 00:16:58,470
+Ei, você!
+
+206
+00:16:58,470 --> 00:17:02,060
+Você tem algum amigo que tem 
+asas, uma boca desse jeito,
+
+207
+00:17:02,060 --> 00:17:07,760
+olhos desse jeito e é bem mal-educado?!
+
+208
+00:17:09,820 --> 00:17:11,820
+Está falando do...
+
+209
+00:17:11,820 --> 00:17:13,800
+Tamborim?
+
+210
+00:17:14,150 --> 00:17:16,310
+Então vocês são mesmo amigos!
+
+211
+00:17:17,120 --> 00:17:18,660
+E qual é o problema?
+
+212
+00:17:18,660 --> 00:17:21,310
+Isso não importa. Só me dá 
+logo essa esfera, Gordinho!
+
+213
+00:17:21,830 --> 00:17:24,310
+"Gordinho"?! Seu idiota!
+
+214
+00:17:24,830 --> 00:17:29,170
+Por que eu daria isto a alguém como você?!
+
+215
+00:17:29,170 --> 00:17:30,200
+O que você disse?!
+
+216
+00:17:30,920 --> 00:17:33,840
+Como ousa me desafiar?!
+
+217
+00:17:35,010 --> 00:17:37,180
+Parece que alguém quer morrer bem jovem.
+
+218
+00:17:37,180 --> 00:17:41,400
+Muito bem, é só eu pegar essa esfera 
+depois que você virar um cadáver.
+
+219
+00:17:42,310 --> 00:17:44,310
+Então vem pegar, cara!
+
+220
+00:17:44,310 --> 00:17:45,770
+Espera aí.
+
+221
+00:17:45,770 --> 00:17:47,420
+<i>Eu </i>cuidarei desse aí!
+
+222
+00:17:48,020 --> 00:17:50,270
+Não seja idiota...
+
+223
+00:17:50,270 --> 00:17:53,430
+Ele tá com o cara que matou o meu amigo!
+
+224
+00:17:53,860 --> 00:17:55,280
+Eu ouvi essa parte.
+
+225
+00:17:55,280 --> 00:17:56,990
+Mas ele é meu.
+
+226
+00:17:56,990 --> 00:17:59,430
+Vou comer ele no almoço no lugar do peixe!
+
+227
+00:17:59,820 --> 00:18:01,390
+Não, eu vou acabar com ele!
+
+228
+00:18:01,990 --> 00:18:03,940
+Você é tão cabeça-dura!
+
+229
+00:18:06,210 --> 00:18:08,360
+Então tá, vamos resolver isso no jokenpô!
+
+230
+00:18:08,920 --> 00:18:10,240
+Beleza!
+
+231
+00:18:10,840 --> 00:18:14,240
+Jo-ken-pô! Jo-ken-pô!
+
+232
+00:18:14,550 --> 00:18:16,010
+Jo-ken-pô!
+
+233
+00:18:16,010 --> 00:18:19,620
+Ei, não me subestimem!
+
+234
+00:18:19,620 --> 00:18:23,120
+Jo-ken-pô!
+
+235
+00:18:23,520 --> 00:18:25,060
+Quem vocês acham que eu sou?!
+
+236
+00:18:25,060 --> 00:18:27,810
+Ei! Quem vocês acham que eu sou?!
+
+237
+00:18:27,810 --> 00:18:31,630
+Eu sou um dos ajudantes 
+do grande Piccolo Daimaoh!
+
+238
+00:18:31,980 --> 00:18:33,780
+Nunca ouvi falar.
+
+239
+00:18:33,780 --> 00:18:35,760
+Jo-ken-pô!
+
+240
+00:18:38,950 --> 00:18:41,140
+Jo-ken-pô!
+
+241
+00:18:41,740 --> 00:18:43,450
+Maravilha! Consegui!
+
+242
+00:18:43,450 --> 00:18:45,150
+Venci!
+
+243
+00:18:45,660 --> 00:18:47,650
+Droga!
+
+244
+00:18:48,000 --> 00:18:50,960
+Desgraçados...
+
+245
+00:18:52,670 --> 00:18:54,170
+Beleza, vamos lá!
+
+246
+00:18:54,170 --> 00:18:56,070
+Você não parece ser tão gostoso assim.
+
+247
+00:18:57,380 --> 00:19:00,580
+Você vai se arrepender por não ter 
+sido bonzinho e não ter entregado!
+
+248
+00:19:01,090 --> 00:19:03,500
+É você quem vai se arrepender!
+
+249
+00:19:15,650 --> 00:19:18,650
+Qual é o problema? Já morreu?
+
+250
+00:19:18,650 --> 00:19:21,420
+Já passou a sua hora de se arrepender.
+
+251
+00:19:30,460 --> 00:19:33,000
+Que dia esquisito.
+
+252
+00:19:33,000 --> 00:19:36,070
+Só estou esbarrando com uns caras fortes.
+
+253
+00:19:37,210 --> 00:19:40,580
+Você ainda está vivo... vejo 
+que não é um garoto qualquer!
+
+254
+00:19:44,140 --> 00:19:47,220
+Eu vou te comer como sashimi!
+
+255
+00:19:48,790 --> 00:19:52,150
+Como é? Ainda quer lutar?
+
+256
+00:20:03,200 --> 00:20:07,310
+É, acho que sashimi não vai ficar legal, 
+então o jeito é te fazer na brasa!
+
+257
+00:20:07,950 --> 00:20:10,810
+O que disse?
+
+258
+00:20:12,370 --> 00:20:15,840
+Vou te mostrar o terror do Clã Demônio!
+
+259
+00:20:36,210 --> 00:20:38,010
+Dance! Dance!
+
+260
+00:20:38,010 --> 00:20:41,740
+É pra dançar mais!
+
+261
+00:20:41,740 --> 00:20:46,160
+Que droga. Que palhaçada é essa 
+de atirar raios esquisitos?!
+
+262
+00:20:46,160 --> 00:20:47,780
+Vai uma ajudinha?
+
+263
+00:20:47,780 --> 00:20:51,660
+Não se mete! Isso era só o 
+meu aquecimento pré-almoço!
+
+264
+00:20:53,540 --> 00:20:55,940
+Beleza, acabou o aquecimento!
+
+265
+00:20:57,750 --> 00:21:00,260
+Qual é o problema, Gordinho?
+
+266
+00:21:00,260 --> 00:21:01,070
+Gordinho!
+
+267
+00:21:01,460 --> 00:21:04,460
+Eu não sou Gordinho! Eu sou...
+
+268
+00:21:04,460 --> 00:21:07,080
+Yajirobe!
+
+269
+00:21:08,180 --> 00:21:10,080
+Se prepara!
+
+270
+00:21:11,470 --> 00:21:14,710
+Não ligo se você é o 
+Yajirobe ou Yajimorre.
+
+271
+00:21:14,710 --> 00:21:16,520
+Mas você vai pro Inferno!
+
+272
+00:22:04,110 --> 00:22:05,760
+Incrível.
+
+273
+00:22:17,120 --> 00:22:20,110
+Qual é o problema, Senhor Piccolo?
+
+274
+00:22:20,840 --> 00:22:23,510
+Címbalo morreu.
+
+275
+00:22:25,550 --> 00:22:30,970
+<i>Afinal, quem é Yajirobe?</i>
+
+276
+00:22:47,680 --> 00:22:50,410
+Venha aqui, fantasia
+
+277
+00:22:47,680 --> 00:22:50,410
+<i>Oide FANTAJI</i>
+
+278
+00:22:50,410 --> 00:22:53,030
+Eu adoro um mistério
+
+279
+00:22:50,410 --> 00:22:53,030
+<i>suki sa MISUTERI</i>
+
+280
+00:22:53,030 --> 00:22:59,610
+Não vá esconder
+a sua juventude!
+
+281
+00:22:53,030 --> 00:22:59,610
+<i>Kimi no wakasa kakusa nai de</i>
+
+282
+00:22:59,610 --> 00:23:02,420
+Quero fazer o que é misterioso
+
+283
+00:22:59,610 --> 00:23:02,420
+<i>Fushigi shitakute</i>
+
+284
+00:23:02,420 --> 00:23:05,050
+Quero correr atrás de aventura
+
+285
+00:23:02,420 --> 00:23:05,050
+<i>Bouken shitakute</i>
+
+286
+00:23:05,050 --> 00:23:10,990
+Todo mundo não vê a hora de ir!
+
+287
+00:23:05,050 --> 00:23:10,990
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+288
+00:23:10,990 --> 00:23:17,230
+Se você agir feito
+adulto e desistir
+
+289
+00:23:10,990 --> 00:23:17,230
+<i>Otona no furi shite akiramecha</i>
+
+290
+00:23:17,230 --> 00:23:23,010
+Você nunca desvendará
+o mistério do milagre
+
+291
+00:23:17,230 --> 00:23:23,010
+<i>Kiseki no nazo nado tokenai yo</i>
+
+292
+00:23:23,010 --> 00:23:34,310
+Vá e viva de forma
+mais intensa e forte!
+
+293
+00:23:23,010 --> 00:23:34,310
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+294
+00:23:34,310 --> 00:23:42,040
+Vou te dar um romance
+
+295
+00:23:34,310 --> 00:23:42,040
+<i>ROMANTIKKU Ageru yo!</i>
+
+296
+00:23:42,040 --> 00:23:46,490
+Se você me mostrar sua
+verdadeira coragem
+
+297
+00:23:42,040 --> 00:23:46,490
+<i>Hontou no yuuki wo misete kuretara</i>
+
+298
+00:23:46,490 --> 00:23:53,870
+Vou te dar um romance
+
+299
+00:23:46,490 --> 00:23:53,870
+<i>ROMANTIKKU Ageru yo!</i>
+
+300
+00:23:53,870 --> 00:24:02,560
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+301
+00:23:53,870 --> 00:24:02,560
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>

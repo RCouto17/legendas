@@ -1,0 +1,982 @@
+1
+00:00:11,840 --> 00:00:15,430
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:11,840 --> 00:00:15,430
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:15,430 --> 00:00:19,010
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:15,430 --> 00:00:19,010
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:19,010 --> 00:00:22,390
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:19,010 --> 00:00:22,390
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:22,390 --> 00:00:25,810
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:22,390 --> 00:00:25,810
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:25,810 --> 00:00:28,980
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:25,810 --> 00:00:28,980
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:28,980 --> 00:00:36,990
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:28,980 --> 00:00:36,990
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:36,990 --> 00:00:39,990
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:36,990 --> 00:00:39,990
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:39,990 --> 00:00:43,830
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+16
+00:00:39,990 --> 00:00:43,830
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+17
+00:00:43,830 --> 00:00:50,840
+<i>Kono no yo doko ka de hikatteiru</i>
+
+18
+00:00:43,830 --> 00:00:50,840
+Em algum lugar do
+mundo elas vão brilhar
+
+19
+00:00:50,840 --> 00:00:54,420
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+20
+00:00:50,840 --> 00:00:54,420
+Vamos lá encontrá-las, rapaz
+
+21
+00:00:54,420 --> 00:00:57,430
+<i>Youkai henka mo buttobashi</i>
+
+22
+00:00:54,420 --> 00:00:57,430
+Enquanto passamos por cima
+de monstros e demônios
+
+23
+00:00:57,430 --> 00:01:04,980
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+24
+00:00:57,430 --> 00:01:04,980
+E na nuvem voadora
+nós vamos voar!
+
+25
+00:01:04,980 --> 00:01:08,810
+<i>Let's try try try Makafushigi</i>
+
+26
+00:01:04,980 --> 00:01:08,810
+Vamos experimentar
+esse profundo mistério
+
+27
+00:01:08,810 --> 00:01:11,980
+<i>Sora wo kakenuke yama wo koe</i>
+
+28
+00:01:08,810 --> 00:01:11,980
+Avançando pelos céus,
+superando as montanhas
+
+29
+00:01:11,980 --> 00:01:15,820
+<i>Let's fly fly fly Daibouken</i>
+
+30
+00:01:11,980 --> 00:01:15,820
+Vamos voar rumo a
+uma grande aventura
+
+31
+00:01:15,820 --> 00:01:22,830
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+32
+00:01:15,820 --> 00:01:22,830
+A nossa jornada
+estranha vai começar!
+
+33
+00:01:22,830 --> 00:01:26,410
+<i>Te ni irero! DRAGON BALL</i>
+
+34
+00:01:22,830 --> 00:01:26,410
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+35
+00:01:26,410 --> 00:01:30,000
+<i>Sekai de ittou degowai chansu</i>
+
+36
+00:01:26,410 --> 00:01:30,000
+Uma das apostas mais
+formidáveis do mundo
+
+37
+00:01:30,000 --> 00:01:33,420
+<i>Oikakero! DRAGON BALL</i>
+
+38
+00:01:30,000 --> 00:01:33,420
+Vamos persegui-las!
+As Esferas do Dragão!
+
+39
+00:01:33,420 --> 00:01:36,840
+<i>Sekai de ittou ikashita dorama</i>
+
+40
+00:01:33,420 --> 00:01:36,840
+Um dos mistérios mais
+dramáticos do mundo
+
+41
+00:01:36,840 --> 00:01:40,010
+<i>Kono yo wa dekkai takarajima</i>
+
+42
+00:01:36,840 --> 00:01:40,010
+A vida é uma grande
+ilha do tesouro
+
+43
+00:01:40,010 --> 00:01:47,520
+<i>Sou sa Ima koso adobenchaa!</i>
+
+44
+00:01:40,010 --> 00:01:47,520
+Isso mesmo!
+A aventura começou!
+
+45
+00:01:52,150 --> 00:01:55,940
+<i>Goku treina ainda mais duro
+do que antes na Plataforma Celeste</i>
+
+46
+00:01:55,940 --> 00:02:00,990
+<i>para o Torneio de Artes Marciais
+daqui a três anos.</i>
+
+47
+00:02:38,990 --> 00:02:43,910
+<i>Enquanto isso, Yamcha e os outros,
+que estavam a caminho da Torre Karin,</i>
+
+48
+00:02:43,910 --> 00:02:47,290
+<i>se deparam com uma erupção vulcânica!</i>
+
+49
+00:03:07,600 --> 00:03:10,020
+Eu vou parar o magma sozinho!
+
+50
+00:03:10,020 --> 00:03:12,020
+Isso é insano! Você quer morrer?!
+
+51
+00:03:12,020 --> 00:03:15,150
+Se eu não posso nem fazer isso,
+como posso esperar vencer Goku?!
+
+52
+00:03:15,150 --> 00:03:17,230
+Ele deve ser capaz disso.
+
+53
+00:03:17,230 --> 00:03:18,990
+Então eu vou fazer isso também!
+
+54
+00:03:25,960 --> 00:03:34,060
+Mais quente que magma
+
+55
+00:03:27,990 --> 00:03:30,830
+<i>Mais quente que magma.</i>
+
+56
+00:05:06,090 --> 00:05:10,390
+Por favor, deus da montanha,
+poupe-nos de sua fúria!
+
+57
+00:05:10,390 --> 00:05:12,180
+Vovô!
+
+58
+00:05:13,100 --> 00:05:16,730
+Mint! Não há tempo para perder!
+Temos que fugir agora!
+
+59
+00:05:16,730 --> 00:05:18,800
+Mas o vovô...
+
+60
+00:05:19,610 --> 00:05:23,190
+De qualquer forma, você acha que Kuririn
+e os outros vão ficar bem, irmão?!
+
+61
+00:05:23,190 --> 00:05:25,200
+Eles são uns idiotas!
+
+62
+00:05:25,200 --> 00:05:26,740
+Subiram a montanha,
+
+63
+00:05:26,740 --> 00:05:29,370
+dizendo algo sobre parar o fluxo de magma,
+
+64
+00:05:29,370 --> 00:05:32,580
+mas é impossível eles
+poderem fazer algo assim!
+
+65
+00:05:37,870 --> 00:05:39,040
+No final,
+
+66
+00:05:39,040 --> 00:05:41,670
+humanos nem devem pensar em
+enfrentar o poder do deus da montanha!
+
+67
+00:05:41,670 --> 00:05:43,320
+Vamos, Mint!
+
+68
+00:05:51,140 --> 00:05:54,430
+Sr. Ten! O que exatamente
+você pretende fazer?!
+
+69
+00:05:55,980 --> 00:06:00,480
+Esta é a melhor chance para eu
+colocar minha força à prova!
+
+70
+00:06:02,110 --> 00:06:03,940
+Digo o mesmo!
+
+71
+00:06:03,940 --> 00:06:05,540
+E eu também!
+
+72
+00:06:25,710 --> 00:06:28,090
+Estou aqui! Vá para onde o ki está!
+
+73
+00:06:28,090 --> 00:06:30,050
+Olha, estou aqui!
+
+74
+00:06:37,060 --> 00:06:39,100
+Por aqui!
+
+75
+00:06:43,110 --> 00:06:46,150
+Tentar encontrar Popo
+pela voz dele não adianta!
+
+76
+00:06:46,150 --> 00:06:48,500
+Procure o ki de Popo!
+
+77
+00:06:50,740 --> 00:06:55,040
+Como devo fazer isso?
+Não consigo ver nada com isto!
+
+78
+00:07:03,590 --> 00:07:05,250
+Se você expandir seu próprio ki,
+
+79
+00:07:05,250 --> 00:07:09,640
+poderá sentir as coisas ao seu redor
+mesmo com os olhos fechados!
+
+80
+00:07:10,220 --> 00:07:12,390
+Expandir meu ki?
+
+81
+00:07:29,400 --> 00:07:32,110
+Venha, magma!
+
+82
+00:07:40,750 --> 00:07:44,500
+Esta é a primeira vez que sinto
+um tremor tão grande!
+
+83
+00:07:46,170 --> 00:07:48,550
+Todos estão bem?!
+
+84
+00:07:50,880 --> 00:07:52,880
+O tremor é tão grande assim?
+
+85
+00:07:53,840 --> 00:07:55,470
+Ah, não...
+
+86
+00:07:57,970 --> 00:07:59,930
+Está se dividindo!
+
+87
+00:08:02,980 --> 00:08:04,600
+Kuririn!
+
+88
+00:08:20,290 --> 00:08:22,370
+Chaos!
+
+89
+00:08:27,170 --> 00:08:29,420
+Obrigado, te devo uma...
+
+90
+00:08:29,420 --> 00:08:34,300
+Acho que seria uma boa ideia
+vocês dois aprenderem a técnica de voar.
+
+91
+00:08:34,300 --> 00:08:36,050
+É...
+
+92
+00:08:58,490 --> 00:09:01,040
+Vovô! É perigoso ficar aqui!
+
+93
+00:09:01,040 --> 00:09:04,290
+Vamos logo para um local seguro!
+
+94
+00:09:06,170 --> 00:09:08,670
+Vou ficar aqui até o fim!
+
+95
+00:09:08,670 --> 00:09:13,600
+Devo ficar aqui e fazer todo o possível
+para apaziguar o deus da montanha!
+
+96
+00:09:14,220 --> 00:09:19,970
+Deus da montanha, por favor,
+acalme sua raiva e poupe nossa vila!
+
+97
+00:09:19,970 --> 00:09:22,020
+Mas, vovô...
+
+98
+00:09:32,820 --> 00:09:34,320
+Certo!
+
+99
+00:09:34,320 --> 00:09:35,950
+Kuririn!
+
+100
+00:09:35,950 --> 00:09:40,030
+Vocês foram na frente até agora!
+É a minha vez de ir primeiro!
+
+101
+00:09:45,040 --> 00:09:47,080
+Vai usar o Kamehameha?
+
+102
+00:09:48,830 --> 00:09:52,090
+<i>Eu gostaria que a Mint me visse agora.</i>
+
+103
+00:09:52,090 --> 00:09:56,590
+<i>Kameha...</i>
+
+104
+00:09:56,590 --> 00:09:58,890
+<i>...me...</i>
+
+105
+00:09:58,890 --> 00:10:01,720
+<i>...ha!</i>
+
+106
+00:10:07,140 --> 00:10:08,060
+Ele conseguiu!
+
+107
+00:10:12,400 --> 00:10:14,400
+Ai! Ai! Que quente!
+
+108
+00:10:23,580 --> 00:10:26,330
+Certo, é a minha vez agora.
+
+109
+00:10:26,330 --> 00:10:28,830
+Vocês devem subir naquela colina e observar!
+
+110
+00:10:28,830 --> 00:10:31,170
+Sr. Ten, tenha cuidado!
+
+111
+00:10:35,090 --> 00:10:37,720
+Dodonpa!
+
+112
+00:10:49,310 --> 00:10:50,980
+Você conseguiu!
+
+113
+00:11:10,620 --> 00:11:12,580
+Droga, não funcionou!
+
+114
+00:11:19,760 --> 00:11:21,930
+Se isso continuar,
+a vila estará em apuros!
+
+115
+00:11:21,930 --> 00:11:23,640
+Mint!
+
+116
+00:11:27,640 --> 00:11:29,270
+Kuririn!
+
+117
+00:11:31,190 --> 00:11:34,440
+Kuririn foi salvar a vila!
+
+118
+00:11:34,440 --> 00:11:36,400
+Deixe-o fazer o que quiser.
+
+119
+00:11:37,980 --> 00:11:40,360
+Mas com as coisas como estão agora...
+
+120
+00:11:44,700 --> 00:11:48,080
+Droga! Se ao menos chovesse...
+
+121
+00:11:51,000 --> 00:11:53,120
+Sim! É isso!
+
+122
+00:11:53,120 --> 00:11:54,800
+O que foi, Yamcha?!
+
+123
+00:11:55,880 --> 00:11:57,920
+Eu tive uma ideia!
+
+124
+00:11:57,920 --> 00:12:00,720
+Tenshinhan, você cuida das coisas aqui!
+
+125
+00:12:04,760 --> 00:12:06,180
+Sr. Ten?
+
+126
+00:12:06,180 --> 00:12:08,140
+Ah, então é isso que ele vai fazer.
+
+127
+00:12:08,140 --> 00:12:11,200
+Certo. Eu vou parar o magma sozinho!
+
+128
+00:12:12,480 --> 00:12:14,730
+Dodonpa!
+
+129
+00:12:16,980 --> 00:12:19,530
+Dodonpa!
+
+130
+00:12:28,490 --> 00:12:31,790
+<i>Eu protegerei a Mint e os outros!</i>
+
+131
+00:13:30,060 --> 00:13:31,680
+<i>Mint!</i>
+
+132
+00:13:41,610 --> 00:13:43,230
+Mint!
+
+133
+00:13:45,900 --> 00:13:48,570
+Mint! É perigoso
+para você ficar aqui!
+
+134
+00:13:48,570 --> 00:13:51,120
+Você tem que ir logo se abrigar
+em um local seguro!
+
+135
+00:13:51,120 --> 00:13:56,620
+Mas... meu avô não quer sair daqui!
+
+136
+00:13:56,620 --> 00:14:00,290
+O deus da montanha não nos abandonará!
+
+137
+00:14:00,290 --> 00:14:02,540
+O magma não chegará à vila!
+
+138
+00:14:03,760 --> 00:14:07,010
+Mas com o magma se movendo tão rápido...
+
+139
+00:14:07,010 --> 00:14:11,300
+Kuririn! Um forasteiro não tem o direito
+de se intrometer em nossos assuntos!
+
+140
+00:14:11,300 --> 00:14:13,430
+Nos deixe em paz!
+
+141
+00:14:26,150 --> 00:14:28,860
+Dodonpa!
+
+142
+00:14:34,160 --> 00:14:35,370
+E então?
+
+143
+00:14:35,370 --> 00:14:38,040
+Você conseguiu, Sr. Ten!
+
+144
+00:14:52,050 --> 00:14:53,680
+Sr. Ten!
+
+145
+00:14:53,680 --> 00:14:55,180
+Droga!
+
+146
+00:15:07,690 --> 00:15:09,200
+Vamos lá!
+
+147
+00:15:29,130 --> 00:15:31,010
+Que incrível, Kuririn!
+
+148
+00:15:31,010 --> 00:15:33,090
+Ah, não foi nada!
+
+149
+00:15:49,740 --> 00:15:55,950
+<i>Kamehameha!</i>
+
+150
+00:16:01,460 --> 00:16:03,830
+Droga! Não foi suficiente!
+
+151
+00:16:03,830 --> 00:16:07,210
+Goku teria sido capaz de acertá-lo
+com uma explosão ainda maior!
+
+152
+00:16:37,030 --> 00:16:38,620
+Ainda não está bom.
+
+153
+00:16:51,720 --> 00:16:57,510
+<i>Kamehameha!</i>
+
+154
+00:17:23,500 --> 00:17:25,580
+Bom trabalho, Yamcha!
+
+155
+00:17:26,290 --> 00:17:27,830
+Sr. Ten!
+
+156
+00:17:54,150 --> 00:17:56,200
+O magma parou!
+
+157
+00:18:17,180 --> 00:18:21,400
+É um milagre! A vila está segura!
+
+158
+00:18:21,850 --> 00:18:28,080
+Mint! O deus da montanha ouviu minhas
+preces e acalmou a raiva da montanha!
+
+159
+00:18:30,270 --> 00:18:34,070
+Vocês conseguiram! Bom trabalho!
+
+160
+00:18:34,070 --> 00:18:36,700
+Conseguiram o quê?!
+
+161
+00:18:36,700 --> 00:18:41,990
+O magma parou porque o deus
+da montanha ouviu nossos apelos!
+
+162
+00:18:41,990 --> 00:18:45,290
+Tudo que vocês fizeram foi fazer barulho!
+
+163
+00:18:45,290 --> 00:18:50,020
+Vocês não pararam o magma sozinhos!
+Não se enganem!
+
+164
+00:18:50,500 --> 00:18:51,670
+Quê?!
+
+165
+00:18:51,670 --> 00:18:53,370
+Temos problemas!
+
+166
+00:18:54,340 --> 00:18:55,920
+Chaos, que foi?!
+
+167
+00:18:55,920 --> 00:18:58,340
+A erupção ainda não acabou!
+
+168
+00:18:58,340 --> 00:18:59,440
+Quê?!
+
+169
+00:19:16,990 --> 00:19:21,870
+Deus da montanha,
+por favor, acalme sua raiva!
+
+170
+00:19:21,870 --> 00:19:24,160
+Mint! É perigoso aqui!
+
+171
+00:19:24,160 --> 00:19:26,160
+Mas o vovô...!
+
+172
+00:19:31,920 --> 00:19:33,420
+Mint!
+
+173
+00:19:35,920 --> 00:19:37,420
+Cuidado!
+
+174
+00:19:42,220 --> 00:19:44,010
+Ai, ai!
+
+175
+00:19:44,010 --> 00:19:46,850
+Kuririn, você está bem?
+
+176
+00:19:46,850 --> 00:19:48,100
+Estou bem! Estou bem!
+
+177
+00:19:48,100 --> 00:19:50,780
+Mas é melhor vocês saírem logo daqui!
+
+178
+00:19:51,600 --> 00:19:54,520
+O-Obrigado, Kuririn!
+
+179
+00:19:55,150 --> 00:19:56,690
+Certo, vamos indo!
+
+180
+00:20:23,220 --> 00:20:24,430
+Impressionante!
+
+181
+00:20:24,430 --> 00:20:26,430
+Nesse ritmo, a vila está condenada!
+
+182
+00:20:26,430 --> 00:20:29,310
+Sr. Ten! Vamos para um lugar seguro!
+
+183
+00:20:29,310 --> 00:20:32,310
+Não, agora eu só vejo uma escolha.
+
+184
+00:20:32,310 --> 00:20:36,420
+Vou acertar esse magma com tudo
+que consegui no meu treinamento!
+
+185
+00:20:36,980 --> 00:20:39,480
+Tenshinhan! Também vou fazer isso!
+
+186
+00:20:53,210 --> 00:20:54,120
+Dodon...!
+
+187
+00:20:54,120 --> 00:20:57,540
+Kamehame...!
+
+188
+00:20:57,540 --> 00:20:59,500
+...pa!
+
+189
+00:20:59,500 --> 00:21:01,340
+...ha!
+
+190
+00:21:36,000 --> 00:21:37,630
+Não acredito!
+
+191
+00:21:46,970 --> 00:21:48,470
+Conseguimos!
+
+192
+00:21:52,560 --> 00:21:55,020
+Agora, se o vulcão entrar
+em erupção novamente,
+
+193
+00:21:55,020 --> 00:21:58,310
+o magma não ameaçará a vila da Mint!
+
+194
+00:21:58,310 --> 00:22:00,460
+Kuririn!
+
+195
+00:22:02,150 --> 00:22:03,440
+Mint!
+
+196
+00:22:07,530 --> 00:22:08,510
+Muito obrigado!
+
+197
+00:22:08,510 --> 00:22:09,700
+Obrigado!
+
+198
+00:22:09,700 --> 00:22:11,940
+<i>Começaram as batalhas
+que cada um enfrentará</i>
+
+199
+00:22:11,940 --> 00:22:16,750
+<i>em preparação durante os três anos
+até o Torneio de Artes Marciais.</i>
+
+200
+00:22:16,750 --> 00:22:20,210
+<i>A cópia de Piccolo Daimaoh
+apareceu para a luta com Goku,</i>
+
+201
+00:22:20,210 --> 00:22:23,000
+<i>e ele também cresceu!</i>
+
+202
+00:22:23,000 --> 00:22:25,720
+<i>Quem vai passar das eliminatórias?</i>
+
+203
+00:22:25,720 --> 00:22:27,800
+<i>Você vai ter que esperar três anos...</i>
+
+204
+00:22:27,800 --> 00:22:31,050
+<i>quer dizer, até o próximo
+episódio, para descobrir!</i>
+
+205
+00:22:47,610 --> 00:22:50,410
+Venha aqui, fantasia
+
+206
+00:22:47,610 --> 00:22:50,410
+<i>Oide FANTAJI</i>
+
+207
+00:22:50,410 --> 00:22:53,030
+Eu adoro um mistério
+
+208
+00:22:50,410 --> 00:22:53,030
+<i>suki sa MISUTERI</i>
+
+209
+00:22:53,030 --> 00:22:59,420
+Não vá esconder
+a sua juventude!
+
+210
+00:22:53,030 --> 00:22:59,420
+<i>Kimi no wakasa kakusa nai de</i>
+
+211
+00:22:59,420 --> 00:23:02,420
+Quero fazer o que é misterioso
+
+212
+00:22:59,420 --> 00:23:02,420
+<i>Fushigi shitakute</i>
+
+213
+00:23:02,420 --> 00:23:05,050
+Quero correr atrás de aventura
+
+214
+00:23:02,420 --> 00:23:05,050
+<i>Bouken shitakute</i>
+
+215
+00:23:05,050 --> 00:23:11,220
+Todo mundo não vê a hora de ir!
+
+216
+00:23:05,050 --> 00:23:11,220
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+217
+00:23:11,220 --> 00:23:17,230
+Se você agir feito
+adulto e desistir
+
+218
+00:23:11,220 --> 00:23:17,230
+<i>Otona no furi shite akiramecha</i>
+
+219
+00:23:17,230 --> 00:23:23,230
+Você nunca desvendará
+o mistério do milagre
+
+220
+00:23:17,230 --> 00:23:23,230
+<i>Kiseki no nazo nado tokenai yo</i>
+
+221
+00:23:23,230 --> 00:23:34,410
+Vá e viva de forma
+mais intensa e forte!
+
+222
+00:23:23,230 --> 00:23:34,410
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+223
+00:23:34,410 --> 00:23:42,040
+Vou te dar um romance
+
+224
+00:23:34,410 --> 00:23:42,040
+<i>ROMANTIKKU Ageru yo!</i>
+
+225
+00:23:42,040 --> 00:23:46,420
+Se você me mostrar sua
+verdadeira coragem
+
+226
+00:23:42,040 --> 00:23:46,420
+<i>Hontou no yuuki wo misete kuretara</i>
+
+227
+00:23:46,420 --> 00:23:53,800
+Vou te dar um romance
+
+228
+00:23:46,420 --> 00:23:53,800
+<i>ROMANTIKKU Ageru yo!</i>
+
+229
+00:23:53,800 --> 00:24:02,560
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+230
+00:23:53,800 --> 00:24:02,560
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>

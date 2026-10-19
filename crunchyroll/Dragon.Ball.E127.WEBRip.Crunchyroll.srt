@@ -1,0 +1,1173 @@
+1
+00:00:11,840 --> 00:00:15,430
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:11,840 --> 00:00:15,430
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:15,430 --> 00:00:19,010
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:15,430 --> 00:00:19,010
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:19,010 --> 00:00:22,390
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:19,010 --> 00:00:22,390
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:22,390 --> 00:00:25,810
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:22,390 --> 00:00:25,810
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:25,810 --> 00:00:28,980
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:25,810 --> 00:00:28,980
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:28,980 --> 00:00:36,990
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:28,980 --> 00:00:36,990
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:36,990 --> 00:00:39,990
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:36,990 --> 00:00:39,990
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:39,990 --> 00:00:43,830
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+16
+00:00:39,990 --> 00:00:43,830
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+17
+00:00:43,830 --> 00:00:50,840
+<i>Kono no yo doko ka de hikatteiru</i>
+
+18
+00:00:43,830 --> 00:00:50,840
+Em algum lugar do
+mundo elas vão brilhar
+
+19
+00:00:50,840 --> 00:00:54,420
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+20
+00:00:50,840 --> 00:00:54,420
+Vamos lá encontrá-las, rapaz
+
+21
+00:00:54,420 --> 00:00:57,430
+<i>Youkai henka mo buttobashi</i>
+
+22
+00:00:54,420 --> 00:00:57,430
+Enquanto passamos por cima
+de monstros e demônios
+
+23
+00:00:57,430 --> 00:01:04,980
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+24
+00:00:57,430 --> 00:01:04,980
+E na nuvem voadora
+nós vamos voar!
+
+25
+00:01:04,980 --> 00:01:08,810
+<i>Let's try try try Makafushigi</i>
+
+26
+00:01:04,980 --> 00:01:08,810
+Vamos experimentar
+esse profundo mistério
+
+27
+00:01:08,810 --> 00:01:11,980
+<i>Sora wo kakenuke yama wo koe</i>
+
+28
+00:01:08,810 --> 00:01:11,980
+Avançando pelos céus,
+superando as montanhas
+
+29
+00:01:11,980 --> 00:01:15,820
+<i>Let's fly fly fly Daibouken</i>
+
+30
+00:01:11,980 --> 00:01:15,820
+Vamos voar rumo a
+uma grande aventura
+
+31
+00:01:15,820 --> 00:01:22,830
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+32
+00:01:15,820 --> 00:01:22,830
+A nossa jornada
+estranha vai começar!
+
+33
+00:01:22,830 --> 00:01:26,410
+<i>Te ni irero! DRAGON BALL</i>
+
+34
+00:01:22,830 --> 00:01:26,410
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+35
+00:01:26,410 --> 00:01:30,000
+<i>Sekai de ittou degowai chansu</i>
+
+36
+00:01:26,410 --> 00:01:30,000
+Uma das apostas mais
+formidáveis do mundo
+
+37
+00:01:30,000 --> 00:01:33,420
+<i>Oikakero! DRAGON BALL</i>
+
+38
+00:01:30,000 --> 00:01:33,420
+Vamos persegui-las!
+As Esferas do Dragão!
+
+39
+00:01:33,420 --> 00:01:36,840
+<i>Sekai de ittou ikashita dorama</i>
+
+40
+00:01:33,420 --> 00:01:36,840
+Um dos mistérios mais
+dramáticos do mundo
+
+41
+00:01:36,840 --> 00:01:40,010
+<i>Kono yo wa dekkai takarajima</i>
+
+42
+00:01:36,840 --> 00:01:40,010
+A vida é uma grande
+ilha do tesouro
+
+43
+00:01:40,010 --> 00:01:47,520
+<i>Sou sa Ima koso adobenchaa!</i>
+
+44
+00:01:40,010 --> 00:01:47,520
+Isso mesmo!
+A aventura começou!
+
+45
+00:01:52,480 --> 00:01:56,990
+<i>Goku jurou a Kami-sama que passaria
+por um treinamento rigoroso</i>
+
+46
+00:01:56,990 --> 00:02:00,820
+<i>para derrotar a cópia que Piccolo
+deixou para trás neste mundo.</i>
+
+47
+00:02:00,820 --> 00:02:04,790
+Imediatamente antes de sua explosão, ele
+deixou para trás uma cópia de si mesmo.
+
+48
+00:02:04,790 --> 00:02:10,250
+O único que pode derrotá-lo
+e trazer a verdadeira paz é você.
+
+49
+00:02:17,050 --> 00:02:20,640
+<i>E então, Kami-sama reviveu Shenlong,</i>
+
+50
+00:02:20,640 --> 00:02:25,100
+<i>para então trazer o Mestre Kame,
+Kuririn e Chaos de volta à vida.</i>
+
+51
+00:02:33,980 --> 00:02:37,280
+<i>E o treinamento de Goku
+para sua batalha com Piccolo</i>
+
+52
+00:02:37,280 --> 00:02:42,030
+<i>no Tenkaichi Budokai
+em três anos já começou!</i>
+
+53
+00:02:42,680 --> 00:02:50,680
+Mais rápido que um relâmpago!!
+
+54
+00:02:45,120 --> 00:02:48,410
+<i>Mais rápido que um relâmpago!!</i>
+
+55
+00:03:03,600 --> 00:03:06,970
+Isso é mesmo uma maneira de treinar?
+
+56
+00:03:06,970 --> 00:03:09,020
+Você faz muitos
+movimentos desnecessários.
+
+57
+00:03:09,020 --> 00:03:11,350
+Fique em posição,
+tão silencioso como o céu.
+
+58
+00:03:11,350 --> 00:03:14,310
+E se mova mais rápido que um relâmpago.
+
+59
+00:03:14,310 --> 00:03:18,110
+Você deve esvaziar
+sua mente para fazer isso.
+
+60
+00:03:21,450 --> 00:03:23,540
+Torne-se uma pedra.
+
+61
+00:03:24,660 --> 00:03:25,660
+Uma pedra?
+
+62
+00:03:25,660 --> 00:03:29,500
+Muito quieto. Não cedendo
+nem à chuva nem ao vento.
+
+63
+00:03:29,500 --> 00:03:30,620
+Uma pedra.
+
+64
+00:03:31,750 --> 00:03:34,630
+Isso é fácil.
+
+65
+00:03:36,460 --> 00:03:37,920
+Assim?
+
+66
+00:03:39,130 --> 00:03:41,760
+Pedras não falam.
+
+67
+00:03:41,760 --> 00:03:43,430
+Isso doeu!
+
+68
+00:03:43,430 --> 00:03:45,890
+Pedras não sentem dor.
+
+69
+00:04:07,120 --> 00:04:11,120
+<i>Ser uma pedra com certeza é difícil!</i>
+
+70
+00:04:48,070 --> 00:04:51,520
+Belos movimentos! Muito bom, Kuririn!
+
+71
+00:04:52,200 --> 00:04:54,000
+O show está apenas começando!
+
+72
+00:04:54,000 --> 00:04:55,180
+Espere, Kuririn!
+
+73
+00:04:57,040 --> 00:04:59,210
+Desta vez eu o enfrento.
+
+74
+00:04:59,210 --> 00:05:01,300
+Certo, venha!
+
+75
+00:05:06,090 --> 00:05:08,090
+Pual, por favor, tá?
+
+76
+00:05:08,090 --> 00:05:10,850
+Certo, tudo bem, Bulma!
+
+77
+00:05:18,560 --> 00:05:21,190
+O que está fazendo, Pual?
+
+78
+00:05:25,530 --> 00:05:27,450
+<i>Não tão rápido.</i>
+
+79
+00:05:28,820 --> 00:05:31,160
+Pual, ande com isso...
+
+80
+00:05:31,160 --> 00:05:33,540
+Claro, para já, senhorita!
+
+81
+00:05:37,170 --> 00:05:38,060
+Permita-me...
+
+82
+00:05:38,060 --> 00:05:39,500
+Ei!
+
+83
+00:05:41,750 --> 00:05:43,630
+Maldito!
+
+84
+00:05:44,800 --> 00:05:46,760
+Morra de novo!
+
+85
+00:05:48,800 --> 00:05:51,430
+E-Espera! Espera!
+
+86
+00:06:01,150 --> 00:06:04,900
+<i>Fazendo isso, parece que eu
+me tornei mesmo uma pedra...</i>
+
+87
+00:06:04,900 --> 00:06:07,450
+<i>Me sinto bem tranquilo agora...</i>
+
+88
+00:06:25,050 --> 00:06:27,090
+Vai, Goku!
+
+89
+00:06:27,090 --> 00:06:30,050
+Estamos torcendo por você!
+
+90
+00:06:31,090 --> 00:06:34,220
+<i>Será que todos estão bem?</i>
+
+91
+00:06:34,970 --> 00:06:41,230
+<i>Será que o Mestre Kame, Kuririn e
+Chaos realmente voltaram à vida?</i>
+
+92
+00:06:44,570 --> 00:06:46,690
+<i>Mal posso esperar para vê-los!</i>
+
+93
+00:06:56,620 --> 00:06:59,750
+<i>Ah, certo... eu sou uma pedra...</i>
+
+94
+00:06:59,750 --> 00:07:02,720
+<i>Pedras não deveriam pensar nada...</i>
+
+95
+00:07:28,320 --> 00:07:32,610
+Os resultados do seu treinamento
+começaram a aparecer.
+
+96
+00:07:39,000 --> 00:07:41,790
+Popo tirou conclusões precipitadas.
+
+97
+00:07:45,000 --> 00:07:47,550
+Popo vai usar este bastão agora.
+
+98
+00:07:47,550 --> 00:07:51,090
+Você fica aí e assiste. Não se mexa.
+
+99
+00:07:51,090 --> 00:07:53,180
+Entendi. O que você vai fazer?
+
+100
+00:08:04,980 --> 00:08:06,820
+Que tal? Ficou com medo?
+
+101
+00:08:06,820 --> 00:08:10,990
+Por que eu teria medo?
+Está longe demais para me alcançar.
+
+102
+00:08:39,310 --> 00:08:41,180
+E-Eu desisto!
+
+103
+00:08:43,890 --> 00:08:46,230
+Por que você fugiu?
+
+104
+00:08:46,230 --> 00:08:50,400
+Seu bastão quase me acertou!
+Estendeu-se, como meu Bastão Mágico...
+
+105
+00:08:51,110 --> 00:08:52,990
+Isto não é como o Bastão Mágico.
+
+106
+00:08:52,990 --> 00:08:55,100
+É um bastão comum.
+
+107
+00:08:56,490 --> 00:08:59,200
+É verdade. Que estranho...
+
+108
+00:08:59,200 --> 00:09:03,250
+Parecia que esticava muito, mas...
+
+109
+00:09:03,250 --> 00:09:05,760
+Você tentou ver apenas com seus olhos.
+
+110
+00:09:08,080 --> 00:09:11,210
+Os olhos sozinhos não podem ver a verdade.
+
+111
+00:09:11,210 --> 00:09:12,500
+Hein?
+
+112
+00:09:14,090 --> 00:09:15,840
+Coloque isto.
+
+113
+00:09:16,930 --> 00:09:18,510
+O que vai fazer?
+
+114
+00:09:18,510 --> 00:09:22,430
+Você vai pegar este gato com os olhos vendados.
+
+115
+00:09:24,020 --> 00:09:26,480
+Isso é fácil.
+
+116
+00:09:29,900 --> 00:09:32,030
+Está para este lado, não é?
+
+117
+00:09:41,330 --> 00:09:42,840
+Ué?
+
+118
+00:09:44,160 --> 00:09:46,120
+É para cá!
+
+119
+00:09:47,460 --> 00:09:48,250
+Hein?
+
+120
+00:09:48,250 --> 00:09:49,460
+Para cá!
+
+121
+00:09:55,720 --> 00:09:57,220
+É para cá!
+
+122
+00:09:58,470 --> 00:10:00,220
+Para lá!
+
+123
+00:10:09,100 --> 00:10:11,150
+É aqui!
+
+124
+00:10:11,150 --> 00:10:13,400
+Ai!
+
+125
+00:10:22,620 --> 00:10:26,710
+O que é isso? Você tem outro sininho?!
+
+126
+00:10:26,710 --> 00:10:28,750
+Assim não vale, Popo!
+
+127
+00:10:28,750 --> 00:10:32,040
+Você tentou fazer isso
+apenas com seus ouvidos.
+
+128
+00:10:32,040 --> 00:10:33,640
+De novo?
+
+129
+00:10:34,300 --> 00:10:37,170
+A verdade não é clara
+apenas com a visão ou a audição.
+
+130
+00:10:37,170 --> 00:10:39,470
+Esse é um ponto importante.
+
+131
+00:10:41,140 --> 00:10:44,640
+Se você esvaziar sua mente,
+muitas coisas ficarão claras.
+
+132
+00:10:45,020 --> 00:10:47,930
+Esvazar minha mente, é? Isso é difícil!
+
+133
+00:10:47,930 --> 00:10:50,810
+Eu ainda não sou bom nisso!
+
+134
+00:10:53,900 --> 00:10:57,070
+Popo, você não disse
+que treinou antes também?
+
+135
+00:10:57,070 --> 00:11:00,910
+Eu quero tentar
+o mesmo treino que você fez!
+
+136
+00:11:03,160 --> 00:11:04,950
+Por favor!
+
+137
+00:11:06,490 --> 00:11:09,790
+É bem duro. Você vai aguentar?
+
+138
+00:11:09,790 --> 00:11:10,940
+Vou!
+
+139
+00:11:12,040 --> 00:11:14,090
+Muito bem. Venha comigo.
+
+140
+00:11:24,470 --> 00:11:26,960
+Você decidiu tentar, Goku?
+
+141
+00:11:28,180 --> 00:11:30,390
+Eu farei de tudo!
+
+142
+00:11:30,390 --> 00:11:33,270
+Pode ser ainda mais cruel do que a morte.
+
+143
+00:11:33,270 --> 00:11:34,480
+Como quiser!
+
+144
+00:11:34,480 --> 00:11:38,240
+Você trará de volta a Coroa Sagrada
+no topo do Monte Trovão.
+
+145
+00:11:39,240 --> 00:11:42,450
+Uma coroa? Uma daquelas coisas
+que você coloca na cabeça?
+
+146
+00:11:42,450 --> 00:11:44,120
+Isso mesmo.
+
+147
+00:11:44,120 --> 00:11:45,240
+Certo, entendi!
+
+148
+00:11:45,240 --> 00:11:48,200
+Tudo que eu preciso fazer é
+trazer isso de volta, certo?
+
+149
+00:11:48,200 --> 00:11:52,580
+Mas onde é esse Monte Trovão?
+
+150
+00:11:52,580 --> 00:11:55,000
+Vou te levar lá agora.
+
+151
+00:11:56,290 --> 00:11:58,280
+O-O que é isso?
+
+152
+00:11:58,920 --> 00:12:04,890
+Usando isso, Kami-sama
+vai onde quiser, quando quiser.
+
+153
+00:12:45,180 --> 00:12:46,930
+Hã? Hm?
+
+154
+00:12:46,930 --> 00:12:48,260
+O que está acontecendo?
+
+155
+00:12:51,600 --> 00:12:53,520
+Espere!
+
+156
+00:13:00,150 --> 00:13:03,570
+Você sabe onde fica o Monte Trovão?
+
+157
+00:13:10,740 --> 00:13:16,000
+Ah! Então é ali que está a coisa
+da Coroa Sagrada! Tudo bem!
+
+158
+00:13:17,500 --> 00:13:19,250
+Ah, é mesmo!
+
+159
+00:13:20,880 --> 00:13:22,920
+Valeu!
+
+160
+00:13:44,490 --> 00:13:48,160
+<i>Tenho a sensação de que vai
+aparecer algum tipo de monstro...</i>
+
+161
+00:14:07,050 --> 00:14:09,930
+Deve ser essa a Coroa Sagrada.
+
+162
+00:14:15,430 --> 00:14:18,310
+Ah, era só isso?
+
+163
+00:14:19,520 --> 00:14:21,730
+Foi bem fácil!
+
+164
+00:14:21,730 --> 00:14:23,060
+Ué?
+
+165
+00:14:24,070 --> 00:14:26,030
+Não consigo tirar!
+
+166
+00:14:41,920 --> 00:14:44,130
+Que estranho...
+
+167
+00:14:53,470 --> 00:14:58,180
+<i>Se eu não sair logo deste lugar perigoso...</i>
+
+168
+00:15:06,690 --> 00:15:08,990
+<i>Minha única opção é desviar!</i>
+
+169
+00:15:10,570 --> 00:15:12,070
+Agora!
+
+170
+00:15:24,840 --> 00:15:27,420
+Pippi!
+
+171
+00:15:29,090 --> 00:15:32,090
+Pippi! Pippi!
+
+172
+00:15:32,090 --> 00:15:35,100
+Para onde será que ela foi?
+
+173
+00:15:36,930 --> 00:15:39,640
+Mamãe! Tem alguém aqui!
+
+174
+00:15:59,870 --> 00:16:02,620
+Você me salvou?
+
+175
+00:16:03,630 --> 00:16:06,760
+Ainda bem que chegamos a tempo.
+Não é mesmo, Chu-li?
+
+176
+00:16:07,670 --> 00:16:09,170
+Seu nome é Chu-li?
+
+177
+00:16:09,170 --> 00:16:11,090
+Eu sou o Son Goku!
+
+178
+00:16:11,090 --> 00:16:12,610
+Son Goku?
+
+179
+00:16:12,610 --> 00:16:13,680
+Isso!
+
+180
+00:16:13,680 --> 00:16:16,180
+É só você e sua mãe que moram aqui?
+
+181
+00:16:16,180 --> 00:16:18,100
+Sim! E Pippi também!
+
+182
+00:16:18,100 --> 00:16:19,520
+Pippi?
+
+183
+00:16:19,520 --> 00:16:23,730
+Pippi é um passarinho
+de que minha filha gosta muito.
+
+184
+00:16:23,730 --> 00:16:27,960
+Chu-li cuida dela desde que nasceu.
+
+185
+00:16:31,780 --> 00:16:35,070
+Mas ela desapareceu há pouco tempo...
+
+186
+00:16:35,070 --> 00:16:37,580
+Espero que esteja bem.
+
+187
+00:16:37,580 --> 00:16:39,620
+Anime-se, Chu-li.
+
+188
+00:16:39,620 --> 00:16:43,160
+Quando eu terminar minha tarefa,
+te ajudo a procurá-la!
+
+189
+00:16:43,160 --> 00:16:44,700
+Mesmo?
+
+190
+00:16:44,700 --> 00:16:46,080
+Sim!
+
+191
+00:16:46,080 --> 00:16:49,220
+Mas Goku, o que é essa "tarefa"?
+
+192
+00:16:50,510 --> 00:16:55,720
+Eu devo levar comigo a coisa chamada
+Coroa Sagrada que está no Monte Trovão.
+
+193
+00:16:55,720 --> 00:16:58,100
+A Coroa Sagrada?
+
+194
+00:16:58,100 --> 00:17:00,200
+Você sabe o que é?
+
+195
+00:17:01,730 --> 00:17:03,350
+Mamãe.
+
+196
+00:17:03,350 --> 00:17:05,850
+Segundo a lenda local,
+
+197
+00:17:05,850 --> 00:17:10,730
+quem obtiver a Coroa Sagrada se
+tornará o homem mais forte do mundo!
+
+198
+00:17:12,150 --> 00:17:16,160
+Sério? Agora me sinto
+ainda mais motivado!
+
+199
+00:17:35,800 --> 00:17:41,390
+<i>Se quero levar a coroa, preciso me mover
+mais rápido que o relâmpago!</i>
+
+200
+00:17:41,390 --> 00:17:43,180
+<i>Aí poderei desviar deles!</i>
+
+201
+00:17:48,690 --> 00:17:51,150
+<i>Mas como faço isso?</i>
+
+202
+00:17:59,660 --> 00:18:02,870
+Ah! Chu-li!
+
+203
+00:18:04,910 --> 00:18:07,290
+É perigoso! Desça daí!
+
+204
+00:18:07,290 --> 00:18:10,090
+Estou com medo!
+
+205
+00:18:10,090 --> 00:18:11,340
+Que foi?
+
+206
+00:18:11,340 --> 00:18:15,010
+Chu-li subiu até lá
+e agora não consegue descer!
+
+207
+00:18:15,010 --> 00:18:18,100
+Certo! Apenas fique onde está!
+
+208
+00:18:18,930 --> 00:18:20,930
+Agora espere por mim!
+
+209
+00:18:23,060 --> 00:18:25,060
+Venha, segure minha mão!
+
+210
+00:18:27,100 --> 00:18:29,020
+Mais um pouco!
+
+211
+00:18:38,110 --> 00:18:40,200
+Agora está tudo bem!
+
+212
+00:18:42,330 --> 00:18:45,240
+Muito obrigada, Goku!
+
+213
+00:18:46,960 --> 00:18:49,640
+Mas o que você estava fazendo no telhado?
+
+214
+00:18:50,420 --> 00:18:55,420
+Achei que Pippi voltaria se eu estivesse
+em um lugar onde ela pudesse me ver.
+
+215
+00:18:55,420 --> 00:18:58,550
+Está tão preocupada com o passarinho...
+
+216
+00:18:58,550 --> 00:19:03,220
+Que ideia! O que teria acontecido
+se Goku não estivesse aqui?
+
+217
+00:19:04,180 --> 00:19:05,890
+Mas eu pude ouví-la!
+
+218
+00:19:05,890 --> 00:19:09,600
+Ela se perdeu, mas finalmente
+chegou aqui perto!
+
+219
+00:19:09,600 --> 00:19:13,920
+Então você subiu no telhado para tentar
+mostrar a ela onde fica a casa?
+
+220
+00:19:14,980 --> 00:19:16,980
+Assim me mata de medo!
+
+221
+00:19:21,910 --> 00:19:24,040
+Que foi, Chu-li?
+
+222
+00:19:24,910 --> 00:19:26,620
+Pippi!
+
+223
+00:19:26,620 --> 00:19:28,330
+Chu-li!
+
+224
+00:19:28,330 --> 00:19:30,170
+É a Pippi!
+
+225
+00:19:32,540 --> 00:19:34,300
+Onde?
+
+226
+00:19:40,090 --> 00:19:43,800
+Chu-li? Tem certeza de que não é
+apenas sua imaginação?
+
+227
+00:19:47,970 --> 00:19:51,140
+Pippi! Pippi!
+
+228
+00:19:53,480 --> 00:19:56,120
+Eu tinha razão! Era você, Pippi!
+
+229
+00:19:56,820 --> 00:19:59,400
+Estou tão feliz que você voltou, Pippi!
+
+230
+00:19:59,400 --> 00:20:01,530
+Que bom, né, Chu-li?
+
+231
+00:20:01,530 --> 00:20:04,580
+Eu nem percebi...
+
+232
+00:20:04,870 --> 00:20:06,620
+Como sabia que estava aqui?
+
+233
+00:20:06,620 --> 00:20:09,000
+Eu pude sentir.
+
+234
+00:20:09,000 --> 00:20:11,020
+Senti a presença dela.
+
+235
+00:20:11,830 --> 00:20:13,790
+A presença?
+
+236
+00:20:16,800 --> 00:20:19,840
+<i>Presença, é?</i>
+
+237
+00:20:23,090 --> 00:20:24,660
+<i>É isso!</i>
+
+238
+00:20:25,390 --> 00:20:27,340
+Obrigado, Chu-li!
+
+239
+00:20:28,100 --> 00:20:29,600
+Goku?
+
+240
+00:20:41,740 --> 00:20:45,200
+<i>É isso! Eu tenho que focar meu ki!</i>
+
+241
+00:21:14,810 --> 00:21:17,650
+<i>Me posiciono, silencioso como o céu.</i>
+
+242
+00:21:24,360 --> 00:21:27,200
+<i>A verdade não é clara apenas
+com a visão ou a audição.</i>
+
+243
+00:21:27,200 --> 00:21:30,700
+<i>Se você esvaziar sua mente,
+muitas coisas ficarão claras.</i>
+
+244
+00:21:34,160 --> 00:21:37,250
+<i>Distúrbios de energia
+e leves movimentos no ar.</i>
+
+245
+00:21:37,250 --> 00:21:40,380
+<i>Com isso você pode sentir as coisas
+sem depender da visão.</i>
+
+246
+00:21:43,010 --> 00:21:44,720
+Agora!
+
+247
+00:21:51,560 --> 00:21:54,350
+Viva, eu consegui!
+
+248
+00:22:14,870 --> 00:22:18,460
+<i>O treino apenas começou!</i>
+
+249
+00:22:18,460 --> 00:22:24,920
+<i>Goku será capaz de se
+levantar novamente?!</i>
+
+250
+00:22:47,610 --> 00:22:50,410
+Venha aqui, fantasia
+
+251
+00:22:47,610 --> 00:22:50,410
+<i>Oide FANTAJI</i>
+
+252
+00:22:50,410 --> 00:22:53,030
+Eu adoro um mistério
+
+253
+00:22:50,410 --> 00:22:53,030
+<i>suki sa MISUTERI</i>
+
+254
+00:22:53,030 --> 00:22:59,420
+Não vá esconder
+a sua juventude!
+
+255
+00:22:53,030 --> 00:22:59,420
+<i>Kimi no wakasa kakusa nai de</i>
+
+256
+00:22:59,420 --> 00:23:02,420
+Quero fazer o que é misterioso
+
+257
+00:22:59,420 --> 00:23:02,420
+<i>Fushigi shitakute</i>
+
+258
+00:23:02,420 --> 00:23:05,050
+Quero correr atrás de aventura
+
+259
+00:23:02,420 --> 00:23:05,050
+<i>Bouken shitakute</i>
+
+260
+00:23:05,050 --> 00:23:11,220
+Todo mundo não vê a hora de ir!
+
+261
+00:23:05,050 --> 00:23:11,220
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+262
+00:23:11,220 --> 00:23:17,230
+Se você agir feito
+adulto e desistir
+
+263
+00:23:11,220 --> 00:23:17,230
+<i>Otona no furi shite akiramecha</i>
+
+264
+00:23:17,230 --> 00:23:23,230
+Você nunca desvendará
+o mistério do milagre
+
+265
+00:23:17,230 --> 00:23:23,230
+<i>Kiseki no nazo nado tokenai yo</i>
+
+266
+00:23:23,230 --> 00:23:34,410
+Vá e viva de forma
+mais intensa e forte!
+
+267
+00:23:23,230 --> 00:23:34,410
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+268
+00:23:34,410 --> 00:23:42,040
+Vou te dar um romance
+
+269
+00:23:34,410 --> 00:23:42,040
+<i>ROMANTIKKU Ageru yo!</i>
+
+270
+00:23:42,040 --> 00:23:46,420
+Se você me mostrar sua
+verdadeira coragem
+
+271
+00:23:42,040 --> 00:23:46,420
+<i>Hontou no yuuki wo misete kuretara</i>
+
+272
+00:23:46,420 --> 00:23:53,800
+Vou te dar um romance
+
+273
+00:23:46,420 --> 00:23:53,800
+<i>ROMANTIKKU Ageru yo!</i>
+
+274
+00:23:53,800 --> 00:24:02,560
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+275
+00:23:53,800 --> 00:24:02,560
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>

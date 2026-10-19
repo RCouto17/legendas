@@ -1,0 +1,1272 @@
+1
+00:00:11,840 --> 00:00:15,430
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:11,840 --> 00:00:15,430
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:15,430 --> 00:00:19,010
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:15,430 --> 00:00:19,010
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:19,010 --> 00:00:22,390
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:19,010 --> 00:00:22,390
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:22,390 --> 00:00:25,810
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:22,390 --> 00:00:25,810
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:25,810 --> 00:00:28,980
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:25,810 --> 00:00:28,980
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:28,980 --> 00:00:36,990
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:28,980 --> 00:00:36,990
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:36,990 --> 00:00:39,990
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:36,990 --> 00:00:39,990
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:39,990 --> 00:00:43,830
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+16
+00:00:39,990 --> 00:00:43,830
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+17
+00:00:43,830 --> 00:00:50,840
+<i>Kono no yo doko ka de hikatteiru</i>
+
+18
+00:00:43,830 --> 00:00:50,840
+Em algum lugar do
+mundo elas vão brilhar
+
+19
+00:00:50,840 --> 00:00:54,420
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+20
+00:00:50,840 --> 00:00:54,420
+Vamos lá encontrá-las, rapaz
+
+21
+00:00:54,420 --> 00:00:57,430
+<i>Youkai henka mo buttobashi</i>
+
+22
+00:00:54,420 --> 00:00:57,430
+Enquanto passamos por cima
+de monstros e demônios
+
+23
+00:00:57,430 --> 00:01:04,980
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+24
+00:00:57,430 --> 00:01:04,980
+E na nuvem voadora
+nós vamos voar!
+
+25
+00:01:04,980 --> 00:01:08,810
+<i>Let's try try try Makafushigi</i>
+
+26
+00:01:04,980 --> 00:01:08,810
+Vamos experimentar
+esse profundo mistério
+
+27
+00:01:08,810 --> 00:01:11,980
+<i>Sora wo kakenuke yama wo koe</i>
+
+28
+00:01:08,810 --> 00:01:11,980
+Avançando pelos céus,
+superando as montanhas
+
+29
+00:01:11,980 --> 00:01:15,820
+<i>Let's fly fly fly Daibouken</i>
+
+30
+00:01:11,980 --> 00:01:15,820
+Vamos voar rumo a
+uma grande aventura
+
+31
+00:01:15,820 --> 00:01:22,830
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+32
+00:01:15,820 --> 00:01:22,830
+A nossa jornada
+estranha vai começar!
+
+33
+00:01:22,830 --> 00:01:26,410
+<i>Te ni irero! DRAGON BALL</i>
+
+34
+00:01:22,830 --> 00:01:26,410
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+35
+00:01:26,410 --> 00:01:30,000
+<i>Sekai de ittou degowai chansu</i>
+
+36
+00:01:26,410 --> 00:01:30,000
+Uma das apostas mais
+formidáveis do mundo
+
+37
+00:01:30,000 --> 00:01:33,420
+<i>Oikakero! DRAGON BALL</i>
+
+38
+00:01:30,000 --> 00:01:33,420
+Vamos persegui-las!
+As Esferas do Dragão!
+
+39
+00:01:33,420 --> 00:01:36,840
+<i>Sekai de ittou ikashita dorama</i>
+
+40
+00:01:33,420 --> 00:01:36,840
+Um dos mistérios mais
+dramáticos do mundo
+
+41
+00:01:36,840 --> 00:01:40,010
+<i>Kono yo wa dekkai takarajima</i>
+
+42
+00:01:36,840 --> 00:01:40,010
+A vida é uma grande
+ilha do tesouro
+
+43
+00:01:40,010 --> 00:01:47,520
+<i>Sou sa Ima koso adobenchaa!</i>
+
+44
+00:01:40,010 --> 00:01:47,520
+Isso mesmo!
+A aventura começou!
+
+45
+00:02:01,120 --> 00:02:03,410
+<i>Goku e Chichi foram para
+o Monte dos Cinco Elementos</i>
+
+46
+00:02:03,410 --> 00:02:06,580
+<i>ao saber pela Vovó Uranai
+que as chamas misteriosas</i>
+
+47
+00:02:06,580 --> 00:02:11,170
+<i>que tomaram o castelo do Rei Cutelo
+estavam vindo da Fornalha Óctupla.</i>
+
+48
+00:02:16,720 --> 00:02:23,050
+<i>E quando os dois chegaram à fornalha,
+encontraram Son Gohan!</i>
+
+49
+00:02:28,940 --> 00:02:31,940
+<i>Gohan não era outro
+senão um vigia para Annin,</i>
+
+50
+00:02:31,940 --> 00:02:36,360
+<i>a Guardiã da Pira e zeladora
+da Fornalha Óctupla.</i>
+
+51
+00:02:36,360 --> 00:02:40,200
+<i>Goku pediu para eles apagarem
+o fogo da fornalha, mas...</i>
+
+52
+00:02:40,200 --> 00:02:44,530
+Se apagar as chamas, este mundo
+e o outro mundo vão virar um caos.
+
+53
+00:02:44,530 --> 00:02:45,990
+Tudo bem para você?
+
+54
+00:02:45,990 --> 00:02:48,840
+Parece divertido. Vamos experimentar?
+
+55
+00:02:49,460 --> 00:02:51,080
+Este mundo...
+
+56
+00:02:51,080 --> 00:02:52,630
+...vai ficar um caos?
+
+57
+00:02:52,630 --> 00:02:54,120
+Vovô!
+
+58
+00:02:55,130 --> 00:02:59,820
+Eu não posso apagar o fogo da Fornalha
+Óctupla, nem mesmo para você, Goku...
+
+59
+00:03:02,050 --> 00:03:05,430
+Você quer tanto
+que este mundo vire um caos,
+
+60
+00:03:05,430 --> 00:03:09,180
+tornando-se um Inferno,
+vivendo com espíritos malignos?
+
+61
+00:03:13,160 --> 00:03:21,180
+Monte Frigideira em chamas! Uma decisão
+mortal em uma fração de segundo
+
+62
+00:03:13,980 --> 00:03:19,860
+<i>Monte Frigideira em chamas! Uma decisão
+mortal em uma fração de segundo.</i>
+
+63
+00:04:04,990 --> 00:04:06,240
+Droga!
+
+64
+00:04:06,240 --> 00:04:09,160
+Não importa o que aconteça,
+devo proteger este vestido de noiva
+
+65
+00:04:09,160 --> 00:04:14,040
+até que Chichi tenha a chance de vesti-lo!
+
+66
+00:04:14,040 --> 00:04:15,790
+Chichi!
+
+67
+00:04:27,890 --> 00:04:31,060
+O velho Rei Cutelo vai queimar até
+a morte se não apagarmos o fogo!
+
+68
+00:04:31,060 --> 00:04:34,690
+Por favor! Salvem meu pai!
+
+69
+00:04:38,060 --> 00:04:39,820
+Srta. Annin...
+
+70
+00:04:39,820 --> 00:04:47,450
+Acham que salvar uma vida é mais
+importante que o destino deste mundo?
+
+71
+00:04:47,450 --> 00:04:50,830
+Isso não me importa.
+
+72
+00:04:50,830 --> 00:04:53,340
+Goku! O que está dizendo?!
+
+73
+00:04:56,420 --> 00:05:00,440
+Por favor! Diga-me como posso
+apagar o fogo da Fornalha Óctupla!
+
+74
+00:05:02,840 --> 00:05:05,960
+Isto está bom. Quer um pouco?
+
+75
+00:05:06,970 --> 00:05:08,600
+Tire isso da minha frente!
+
+76
+00:05:15,190 --> 00:05:17,960
+G-Goku! Que falta de respeito!
+
+77
+00:05:17,960 --> 00:05:20,280
+Por favor, perdoe ele, Srta. Annin...
+
+78
+00:05:20,280 --> 00:05:21,580
+O perdoe, por favor!
+
+79
+00:05:21,580 --> 00:05:24,210
+Chichi! Não há razão para se desculpar!
+
+80
+00:05:31,930 --> 00:05:33,220
+O que está fazendo?!
+
+81
+00:05:33,220 --> 00:05:34,750
+Goku!
+
+82
+00:05:34,750 --> 00:05:38,170
+Nossa... Parece que você é
+um garoto bem cheio de energia.
+
+83
+00:05:38,170 --> 00:05:40,460
+Se quer tanto apagar
+o fogo da Fornalha Óctupla,
+
+84
+00:05:40,460 --> 00:05:45,660
+então tente girar aquele alça
+para a direita o máximo que puder!
+
+85
+00:05:46,470 --> 00:05:47,720
+Isso vai apagar as chamas!
+
+86
+00:05:47,720 --> 00:05:49,780
+S-Srta. Annin!
+
+87
+00:05:49,780 --> 00:05:50,420
+Certo!
+
+88
+00:05:50,420 --> 00:05:51,660
+Goku!
+
+89
+00:05:53,010 --> 00:05:55,980
+Goku! Pare!
+
+90
+00:05:55,980 --> 00:05:56,810
+Goku!
+
+91
+00:05:56,810 --> 00:05:58,440
+Vovô, me solte!
+
+92
+00:05:58,440 --> 00:06:02,400
+Não! Coisas terríveis acontecerão
+se você apagar o fogo!
+
+93
+00:06:02,400 --> 00:06:03,440
+Precisa parar!
+
+94
+00:06:03,440 --> 00:06:05,650
+Vovô! Me solte!
+
+95
+00:06:05,650 --> 00:06:07,320
+Não pode!
+
+96
+00:06:07,320 --> 00:06:08,580
+Vovô!
+
+97
+00:06:11,160 --> 00:06:12,830
+Gohan!
+
+98
+00:06:17,870 --> 00:06:21,080
+Vá dar uma olhada
+na pira da Fornalha Óctupla!
+
+99
+00:06:22,040 --> 00:06:23,670
+Goku!
+
+100
+00:06:32,850 --> 00:06:34,040
+Goku! Você está bem?!
+
+101
+00:06:34,040 --> 00:06:34,810
+Estou.
+
+102
+00:06:34,810 --> 00:06:39,690
+Viu? Tinha muito vapor saindo da pira, né?
+
+103
+00:06:39,690 --> 00:06:40,730
+Tinha.
+
+104
+00:06:40,730 --> 00:06:46,150
+Esse vapor se transforma em névoa e sobe
+do cume do Monte dos Cinco Elementos.
+
+105
+00:06:46,150 --> 00:06:48,200
+Essa névoa é o problema.
+
+106
+00:06:48,750 --> 00:06:49,820
+A névoa?
+
+107
+00:06:49,820 --> 00:06:55,990
+Apagar o fogo da Fornalha Óctupla
+significa ficar sem essa névoa.
+
+108
+00:06:55,990 --> 00:06:58,460
+O que isso tem a ver?
+
+109
+00:06:58,460 --> 00:07:01,170
+Goku. Na verdade, a névoa
+serve como a porta de entrada
+
+110
+00:07:01,170 --> 00:07:05,080
+conectando este mundo ao outro mundo.
+
+111
+00:07:05,590 --> 00:07:11,470
+Todo mundo que morre neste mundo vai
+para o mundo dos mortos através dela.
+
+112
+00:07:11,470 --> 00:07:15,470
+Durante certos feriados espirituais,
+quando os habitantes do outro mundo
+
+113
+00:07:15,470 --> 00:07:18,060
+regressam às casas
+dos seus descendentes,
+
+114
+00:07:18,060 --> 00:07:22,350
+eles sempre usam a névoa
+para ir e vir entre os dois mundos!
+
+115
+00:07:28,570 --> 00:07:32,320
+Se o fogo se apagar e a névoa desaparecer,
+
+116
+00:07:32,320 --> 00:07:35,160
+as almas dos falecidos serão
+incapazes de viajar para o outro mundo,
+
+117
+00:07:35,160 --> 00:07:38,420
+e as almas que retornaram
+a este mundo não poderão voltar.
+
+118
+00:07:39,000 --> 00:07:43,740
+Incapaz de morrerem em paz, todos os
+espíritos serão deixados vagando sem rumo.
+
+119
+00:07:50,510 --> 00:07:56,430
+Os mortos ressuscitarão do Inferno
+e este mundo será lançado no caos!
+
+120
+00:07:57,600 --> 00:07:59,180
+Nesse caso, Srta. Annin...
+
+121
+00:07:59,180 --> 00:08:01,640
+acha que poderia apagar
+o fogo só um pouquinho?
+
+122
+00:08:01,640 --> 00:08:06,200
+Um tempo curto o suficiente
+para que o vapor não desapareça?
+
+123
+00:08:06,650 --> 00:08:08,020
+Não tem como.
+
+124
+00:08:08,690 --> 00:08:10,320
+Por que não?!
+
+125
+00:08:10,320 --> 00:08:17,740
+Se o fogo se apagar, levará pelo menos
+2.000 anos para voltar a acender!
+
+126
+00:08:19,160 --> 00:08:24,120
+Durante esse período, uma terrível era
+de escuridão desceria sobre o mundo.
+
+127
+00:08:24,120 --> 00:08:26,130
+Querem que isso aconteça?
+
+128
+00:08:29,340 --> 00:08:33,980
+Então não há como apagar o fogo
+causado pela Fornalha Óctupla?
+
+129
+00:08:37,300 --> 00:08:39,510
+Eu imploro!
+
+130
+00:08:39,510 --> 00:08:41,890
+Não há nada que você possa fazer...?
+
+131
+00:08:44,020 --> 00:08:46,020
+Há algo que posso fazer...
+
+132
+00:09:05,830 --> 00:09:07,330
+Como eu pensei!
+
+133
+00:09:19,470 --> 00:09:21,600
+Srta. Annin!
+
+134
+00:09:21,600 --> 00:09:24,810
+Goku! O que você está pensando?!
+
+135
+00:09:24,810 --> 00:09:29,520
+A Srta. Annin é a Guardiã da Pira
+e zeladora da Fornalha Óctupla
+
+136
+00:09:29,520 --> 00:09:32,160
+já há dezenas de milhares de anos!
+
+137
+00:09:33,150 --> 00:09:35,120
+Dezenas de milhares de anos?!
+
+138
+00:09:35,740 --> 00:09:38,620
+Ah, então você é uma vovó?
+
+139
+00:09:39,120 --> 00:09:40,740
+Moleque!
+
+140
+00:09:40,740 --> 00:09:44,450
+Você acabou de dizer
+algo que não deveria!
+
+141
+00:10:08,980 --> 00:10:11,480
+O que Goku e Chichi estão fazendo?!
+
+142
+00:10:11,480 --> 00:10:16,150
+Agora é apenas uma questão
+de tempo até a torre desmoronar!
+
+143
+00:10:32,040 --> 00:10:34,540
+Os aldeões...
+
+144
+00:10:38,170 --> 00:10:43,430
+A-Aldeões! Aqui em cima!
+
+145
+00:10:44,720 --> 00:10:46,310
+É o Rei Cutelo!
+
+146
+00:10:50,100 --> 00:10:52,360
+<i>Ele certamente não desiste fácil.</i>
+
+147
+00:10:52,360 --> 00:10:54,770
+<i>Mas agora é só uma questão de tempo...</i>
+
+148
+00:10:54,770 --> 00:10:57,240
+<i>Goku! O que você está fazendo?!</i>
+
+149
+00:11:18,880 --> 00:11:20,510
+Não para de fugir!
+
+150
+00:11:25,720 --> 00:11:27,390
+Goku...
+
+151
+00:11:27,390 --> 00:11:30,620
+Droga... Dois podem jogar esse jogo!
+
+152
+00:11:31,390 --> 00:11:33,020
+N-Não pode ser!
+
+153
+00:11:52,370 --> 00:11:54,060
+Esse é o Leque Mágico?!
+
+154
+00:11:54,630 --> 00:11:56,540
+Isso mesmo! Quer que eu use de novo?
+
+155
+00:11:56,540 --> 00:11:58,460
+G-Goku!
+
+156
+00:11:58,460 --> 00:12:04,090
+Menina! Existe uma maneira
+de salvar seu pai sem apagar o fogo!
+
+157
+00:12:05,850 --> 00:12:07,850
+Goku!
+
+158
+00:12:32,040 --> 00:12:36,060
+O Leque Mágico sozinho não pode
+apagar o fogo da Fornalha Óctupla.
+
+159
+00:12:37,170 --> 00:12:39,250
+Precisamos de algo
+que possa cobrir o buraco
+
+160
+00:12:39,250 --> 00:12:41,590
+que se formou no fundo
+da Fornalha Óctupla.
+
+161
+00:12:41,590 --> 00:12:43,050
+E o que seria isso?
+
+162
+00:12:43,050 --> 00:12:45,510
+Eu posso ir buscar agora mesmo!
+
+163
+00:12:45,510 --> 00:12:49,810
+Não são itens de fácil
+obtenção, infelizmente.
+
+164
+00:12:49,810 --> 00:12:51,770
+Algo que não é fácil de obter?
+
+165
+00:12:51,770 --> 00:12:53,020
+O-O que é isso?
+
+166
+00:12:53,020 --> 00:12:56,020
+O fundo da Fornalha Óctupla é feito
+de fragmentos de casca de ovo
+
+167
+00:12:56,020 --> 00:12:59,440
+de um pássaro conhecido como
+o Pássaro Devorador de Fogo.
+
+168
+00:12:59,440 --> 00:13:01,110
+O Pássaro Devorador de Fogo?!
+
+169
+00:13:01,110 --> 00:13:05,820
+E para manter firmemente o fragmento
+da casca do ovo no lugar sobre o buraco,
+
+170
+00:13:05,820 --> 00:13:10,660
+precisaríamos de um pouco de mel feito por
+abelhas que vivem em colmeias octogonais.
+
+171
+00:13:10,660 --> 00:13:12,290
+Chichi!
+
+172
+00:13:14,120 --> 00:13:15,460
+Eu tenho ambos aqui!
+
+173
+00:13:15,460 --> 00:13:18,080
+Chichi! Belo trabalho!
+
+174
+00:13:19,000 --> 00:13:21,380
+Vocês têm ambas as coisas?
+
+175
+00:13:23,210 --> 00:13:25,130
+Isto, certo?
+
+176
+00:13:25,130 --> 00:13:27,050
+Isso é tudo de que precisamos!
+
+177
+00:13:27,050 --> 00:13:28,260
+Goku!
+
+178
+00:13:28,260 --> 00:13:30,970
+Ainda é cedo para se empolgarem!
+
+179
+00:13:30,970 --> 00:13:35,100
+Podemos nem ter uma chance
+em um milhão de sucesso.
+
+180
+00:13:35,100 --> 00:13:37,400
+Uma chance em um milhão?!
+
+181
+00:13:37,400 --> 00:13:40,560
+Se você falhar, certamente morrerá!
+
+182
+00:13:41,320 --> 00:13:43,740
+Eu vou tentar! O que devo fazer?
+
+183
+00:13:45,450 --> 00:13:48,410
+Goku. Você pode ser capaz disso.
+
+184
+00:13:48,410 --> 00:13:52,160
+Enquanto eu levanto um pouco
+a pira do Fornalha Óctupla,
+
+185
+00:13:52,160 --> 00:13:55,410
+você entra na Fornalha Óctupla
+e tampa o buraco!
+
+186
+00:13:55,410 --> 00:13:57,170
+Vou entrar na Fornalha Óctupla?
+
+187
+00:13:57,170 --> 00:13:59,580
+M-Mas Srta. Annin...
+
+188
+00:13:59,580 --> 00:14:02,090
+O interior da fornalha é um mar
+de chamas abrasadoras!
+
+189
+00:14:02,090 --> 00:14:05,670
+Nem mesmo Goku poderia resistir a elas...
+
+190
+00:14:05,670 --> 00:14:07,280
+Será impossível!
+
+191
+00:14:08,010 --> 00:14:10,550
+É por isso que o Leque Mágico
+se faz necessário.
+
+192
+00:14:10,550 --> 00:14:12,340
+F-Faz sentido!
+
+193
+00:14:13,140 --> 00:14:14,100
+Ouça com atenção.
+
+194
+00:14:14,100 --> 00:14:17,640
+Balance o Leque Mágico uma vez
+acima da Fornalha Óctupla,
+
+195
+00:14:17,640 --> 00:14:22,070
+dividindo assim as chamas em duas
+seções e criando um caminho.
+
+196
+00:14:22,070 --> 00:14:26,990
+Vá pelo caminho e tampe
+o buraco no fundo da fornalha.
+
+197
+00:14:26,990 --> 00:14:31,140
+Mas você terá apenas
+alguns segundos para fazê-lo.
+
+198
+00:14:31,950 --> 00:14:33,410
+Goku.
+
+199
+00:14:33,410 --> 00:14:37,460
+Você pode apostar toda a sua vida
+nesse pequeno momento?
+
+200
+00:14:37,460 --> 00:14:39,330
+Eu vou tentar!
+
+201
+00:14:39,330 --> 00:14:43,130
+Goku. O interior
+da Fornalha Óctupla é grande!
+
+202
+00:14:43,130 --> 00:14:48,340
+Não parece, mas uma montanha alta
+caberia facilmente dentro dela!
+
+203
+00:14:48,340 --> 00:14:50,390
+Tem certeza de que está pronto para isso?
+
+204
+00:15:09,990 --> 00:15:17,160
+Como eu gostaria de ter dado
+este vestido de noiva para Chichi...
+
+205
+00:15:31,180 --> 00:15:33,240
+Boa sorte, Goku!
+
+206
+00:15:34,640 --> 00:15:36,680
+Vá com cuidado!
+
+207
+00:15:36,680 --> 00:15:41,850
+Goku. O fundo da Fornalha Óctupla
+tem a forma de uma tigela.
+
+208
+00:15:41,850 --> 00:15:45,820
+Então, se há um buraco dentro
+dela, seria bem no centro.
+
+209
+00:15:46,520 --> 00:15:50,860
+Não há dúvida de que o líquido que
+derramou ao longo de todos esses milênios
+
+210
+00:15:50,860 --> 00:15:54,240
+criou o buraco no fundo da fornalha!
+
+211
+00:16:01,790 --> 00:16:04,130
+Rei Cutelo!
+
+212
+00:16:06,340 --> 00:16:11,630
+Rei Cutelo!
+Se está vivo, diga alguma coisa!
+
+213
+00:16:22,560 --> 00:16:24,520
+Chichi...
+
+214
+00:16:32,400 --> 00:16:33,570
+Vá, Goku!
+
+215
+00:16:33,570 --> 00:16:37,030
+Um único segundo determinará
+o sucesso ou o fracasso!
+
+216
+00:17:14,150 --> 00:17:15,940
+É o fundo da Fornalha Óctupla!
+
+217
+00:17:22,160 --> 00:17:24,500
+Droga! Onde está?!
+
+218
+00:17:29,590 --> 00:17:31,500
+Goku...
+
+219
+00:17:48,980 --> 00:17:51,980
+Rei Cutelo!
+
+220
+00:17:55,400 --> 00:17:57,070
+Aqui está!
+
+221
+00:18:14,760 --> 00:18:18,050
+O fogo apagou!
+
+222
+00:18:18,050 --> 00:18:21,140
+Nossa! Goku realmente fez isso?!
+
+223
+00:18:34,980 --> 00:18:36,820
+Vou voltar!
+
+224
+00:18:46,540 --> 00:18:48,120
+<i>Droga...</i>
+
+225
+00:18:48,750 --> 00:18:50,380
+<i>Vai dar tempo?</i>
+
+226
+00:19:04,720 --> 00:19:07,270
+Goku! É-É melhor você se apressar!
+
+227
+00:19:26,040 --> 00:19:28,710
+Droga, eu não vou conseguir?
+
+228
+00:19:31,330 --> 00:19:34,090
+Cresça, Bastão Mágico!
+
+229
+00:19:42,300 --> 00:19:45,140
+Droga! Será que eu vou conseguir?!
+
+230
+00:19:51,600 --> 00:19:53,220
+<i>Ele não sairá a tempo?!</i>
+
+231
+00:19:54,190 --> 00:19:55,940
+<i>G-Goku...</i>
+
+232
+00:19:58,610 --> 00:20:00,320
+Pronto!
+
+233
+00:20:01,110 --> 00:20:02,910
+Goku!
+
+234
+00:20:05,990 --> 00:20:09,290
+Goku! Estou tão feliz que você está vivo!
+
+235
+00:20:09,290 --> 00:20:12,250
+Achei que estava tudo acabado!
+
+236
+00:20:12,250 --> 00:20:14,860
+Isso significa que o incêndio
+do castelo apagou?!
+
+237
+00:20:18,590 --> 00:20:20,380
+Obrigada, Goku!
+
+238
+00:20:20,380 --> 00:20:22,590
+Desculpe pelo problema, Chichi.
+
+239
+00:20:22,590 --> 00:20:25,640
+Como zeladora da Fornalha Óctupla,
+peço sinceras desculpas!
+
+240
+00:20:27,100 --> 00:20:31,310
+Goku! Esta foi sua primeira
+provação como marido e mulher!
+
+241
+00:20:31,310 --> 00:20:33,400
+Vivam felizes!
+
+242
+00:20:34,230 --> 00:20:35,400
+Você também, vovô!
+
+243
+00:20:35,400 --> 00:20:38,530
+Espero que você
+e a Srta. Annin se deem bem!
+
+244
+00:20:38,530 --> 00:20:43,200
+Rei Cutelo! Você está bem?!
+
+245
+00:20:47,240 --> 00:20:50,700
+Rei Cutelo!
+
+246
+00:20:55,040 --> 00:20:57,500
+Rei Cutelo?!
+
+247
+00:20:59,340 --> 00:21:01,840
+Rei Cutelo...
+
+248
+00:21:04,550 --> 00:21:07,240
+Como pode ver, o vestido está inteiro!
+
+249
+00:21:10,430 --> 00:21:12,250
+Seu grande idiota!
+
+250
+00:21:14,100 --> 00:21:16,980
+Papai!
+
+251
+00:21:16,980 --> 00:21:19,860
+Chichi! Goku!
+
+252
+00:21:19,860 --> 00:21:23,150
+Eles realmente foram espetaculares!
+
+253
+00:21:36,420 --> 00:21:42,010
+Obrigada por virem aqui hoje
+para celebrar nosso casamento!
+
+254
+00:21:42,010 --> 00:21:45,180
+Com certeza vou ser feliz!
+
+255
+00:21:45,180 --> 00:21:47,140
+Chichi... você está linda!
+
+256
+00:21:47,140 --> 00:21:49,390
+Tão linda quanto sua mãe...
+
+257
+00:21:49,390 --> 00:21:52,020
+Papai. Obrigada pelo vestido de noiva.
+
+258
+00:21:52,020 --> 00:21:54,980
+Eu nunca vou esquecer!
+
+259
+00:21:54,980 --> 00:21:57,620
+Goku. Cuide bem de Chichi.
+
+260
+00:21:58,190 --> 00:21:59,730
+Eu vou!
+
+261
+00:21:59,730 --> 00:22:01,570
+Goku!
+
+262
+00:22:05,820 --> 00:22:09,160
+<i>O casamento de Goku e Chichi
+terminou sem incidentes.</i>
+
+263
+00:22:09,160 --> 00:22:15,280
+<i>Dias de felicidade aguardam os dois?</i>
+
+264
+00:22:16,040 --> 00:22:20,170
+Para comemorar o casamento,
+vou olhar para o futuro para vocês!
+
+265
+00:22:24,170 --> 00:22:25,930
+<i>Deixe-me ver...</i>
+
+266
+00:22:27,470 --> 00:22:31,810
+<i>A próxima história
+acontece daqui a cinco anos!</i>
+
+267
+00:22:47,610 --> 00:22:50,410
+Venha aqui, fantasia
+
+268
+00:22:47,610 --> 00:22:50,410
+<i>Oide FANTAJI</i>
+
+269
+00:22:50,410 --> 00:22:53,030
+Eu adoro um mistério
+
+270
+00:22:50,410 --> 00:22:53,030
+<i>suki sa MISUTERI</i>
+
+271
+00:22:53,030 --> 00:22:59,420
+Não vá esconder
+a sua juventude!
+
+272
+00:22:53,030 --> 00:22:59,420
+<i>Kimi no wakasa kakusa nai de</i>
+
+273
+00:22:59,420 --> 00:23:02,420
+Quero fazer o que é misterioso
+
+274
+00:22:59,420 --> 00:23:02,420
+<i>Fushigi shitakute</i>
+
+275
+00:23:02,420 --> 00:23:05,050
+Quero correr atrás de aventura
+
+276
+00:23:02,420 --> 00:23:05,050
+<i>Bouken shitakute</i>
+
+277
+00:23:05,050 --> 00:23:11,220
+Todo mundo não vê a hora de ir!
+
+278
+00:23:05,050 --> 00:23:11,220
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+279
+00:23:11,220 --> 00:23:17,230
+Se você agir feito
+adulto e desistir
+
+280
+00:23:11,220 --> 00:23:17,230
+<i>Otona no furi shite akiramecha</i>
+
+281
+00:23:17,230 --> 00:23:23,230
+Você nunca desvendará
+o mistério do milagre
+
+282
+00:23:17,230 --> 00:23:23,230
+<i>Kiseki no nazo nado tokenai yo</i>
+
+283
+00:23:23,230 --> 00:23:34,410
+Vá e viva de forma
+mais intensa e forte!
+
+284
+00:23:23,230 --> 00:23:34,410
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+285
+00:23:34,410 --> 00:23:42,040
+Vou te dar um romance
+
+286
+00:23:34,410 --> 00:23:42,040
+<i>ROMANTIKKU Ageru yo!</i>
+
+287
+00:23:42,040 --> 00:23:46,420
+Se você me mostrar sua
+verdadeira coragem
+
+288
+00:23:42,040 --> 00:23:46,420
+<i>Hontou no yuuki wo misete kuretara</i>
+
+289
+00:23:46,420 --> 00:23:53,800
+Vou te dar um romance
+
+290
+00:23:46,420 --> 00:23:53,800
+<i>ROMANTIKKU Ageru yo!</i>
+
+291
+00:23:53,800 --> 00:24:02,560
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+292
+00:23:53,800 --> 00:24:02,560
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>

@@ -1,0 +1,1388 @@
+1
+00:00:11,840 --> 00:00:15,430
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:11,840 --> 00:00:15,430
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:15,430 --> 00:00:19,010
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:15,430 --> 00:00:19,010
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:19,010 --> 00:00:22,390
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:19,010 --> 00:00:22,390
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:22,390 --> 00:00:25,810
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:22,390 --> 00:00:25,810
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:25,810 --> 00:00:28,980
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:25,810 --> 00:00:28,980
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:28,980 --> 00:00:36,990
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:28,980 --> 00:00:36,990
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:36,990 --> 00:00:39,990
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:36,990 --> 00:00:39,990
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:39,990 --> 00:00:43,830
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+16
+00:00:39,990 --> 00:00:43,830
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+17
+00:00:43,830 --> 00:00:50,840
+<i>Kono no yo doko ka de hikatteiru</i>
+
+18
+00:00:43,830 --> 00:00:50,840
+Em algum lugar do
+mundo elas vão brilhar
+
+19
+00:00:50,840 --> 00:00:54,420
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+20
+00:00:50,840 --> 00:00:54,420
+Vamos lá encontrá-las, rapaz
+
+21
+00:00:54,420 --> 00:00:57,430
+<i>Youkai henka mo buttobashi</i>
+
+22
+00:00:54,420 --> 00:00:57,430
+Enquanto passamos por cima
+de monstros e demônios
+
+23
+00:00:57,430 --> 00:01:04,980
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+24
+00:00:57,430 --> 00:01:04,980
+E na nuvem voadora
+nós vamos voar!
+
+25
+00:01:04,980 --> 00:01:08,810
+<i>Let's try try try Makafushigi</i>
+
+26
+00:01:04,980 --> 00:01:08,810
+Vamos experimentar
+esse profundo mistério
+
+27
+00:01:08,810 --> 00:01:11,980
+<i>Sora wo kakenuke yama wo koe</i>
+
+28
+00:01:08,810 --> 00:01:11,980
+Avançando pelos céus,
+superando as montanhas
+
+29
+00:01:11,980 --> 00:01:15,820
+<i>Let's fly fly fly Daibouken</i>
+
+30
+00:01:11,980 --> 00:01:15,820
+Vamos voar rumo a
+uma grande aventura
+
+31
+00:01:15,820 --> 00:01:22,830
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+32
+00:01:15,820 --> 00:01:22,830
+A nossa jornada
+estranha vai começar!
+
+33
+00:01:22,830 --> 00:01:26,410
+<i>Te ni irero! DRAGON BALL</i>
+
+34
+00:01:22,830 --> 00:01:26,410
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+35
+00:01:26,410 --> 00:01:30,000
+<i>Sekai de ittou degowai chansu</i>
+
+36
+00:01:26,410 --> 00:01:30,000
+Uma das apostas mais
+formidáveis do mundo
+
+37
+00:01:30,000 --> 00:01:33,420
+<i>Oikakero! DRAGON BALL</i>
+
+38
+00:01:30,000 --> 00:01:33,420
+Vamos persegui-las!
+As Esferas do Dragão!
+
+39
+00:01:33,420 --> 00:01:36,840
+<i>Sekai de ittou ikashita dorama</i>
+
+40
+00:01:33,420 --> 00:01:36,840
+Um dos mistérios mais
+dramáticos do mundo
+
+41
+00:01:36,840 --> 00:01:40,010
+<i>Kono yo wa dekkai takarajima</i>
+
+42
+00:01:36,840 --> 00:01:40,010
+A vida é uma grande
+ilha do tesouro
+
+43
+00:01:40,010 --> 00:01:47,520
+<i>Sou sa Ima koso adobenchaa!</i>
+
+44
+00:01:40,010 --> 00:01:47,520
+Isso mesmo!
+A aventura começou!
+
+45
+00:01:55,820 --> 00:02:01,660
+Goku! Somente o Leque Mágico
+pode apagar esse fogo!
+
+46
+00:02:06,040 --> 00:02:10,040
+<i>Para apagar as misteriosas chamas
+que cercaram o castelo do Rei Cutelo,</i>
+
+47
+00:02:10,040 --> 00:02:13,800
+<i>Goku e Chichi partiram
+para encontrar o Leque Mágico,</i>
+
+48
+00:02:13,800 --> 00:02:18,470
+<i>guiados por apenas com uma dica que
+a Vovó Uranai lhes deu: um "octágono".</i>
+
+49
+00:02:33,980 --> 00:02:37,610
+<i>Ouvindo de um cientista idoso que o
+Leque Mágico estava na Montanha de Gelo,</i>
+
+50
+00:02:37,610 --> 00:02:41,160
+<i>que o Pássaro Devorador de Fogo
+tem medo de se aproximar,</i>
+
+51
+00:02:41,160 --> 00:02:44,990
+<i>os dois seguem para o norte. Mas...</i>
+
+52
+00:02:54,540 --> 00:03:02,560
+Tudo graças ao treinamento
+de esposa de Chichi
+
+53
+00:02:55,800 --> 00:03:00,510
+<i>Tudo graças ao treinamento
+de esposa de Chichi.</i>
+
+54
+00:03:27,910 --> 00:03:30,040
+Que montanha linda...
+
+55
+00:03:30,040 --> 00:03:34,080
+Por que você acha que o Pássaro
+Devorador de Fogo não chega perto dela?
+
+56
+00:03:52,350 --> 00:03:53,980
+Socorro!
+
+57
+00:04:19,130 --> 00:04:21,940
+Que frio...
+
+58
+00:04:22,470 --> 00:04:24,880
+Q-Quem são vocês?!
+
+59
+00:04:24,880 --> 00:04:27,760
+E-Eu sou o... Goku...
+
+60
+00:04:27,760 --> 00:04:30,680
+E-Eu sou a... esposa dele...
+
+61
+00:04:30,680 --> 00:04:34,350
+Eu sou a "velha das oito coisas".
+
+62
+00:04:34,350 --> 00:04:37,360
+N-Não seria "Velha do Octágono"?
+
+63
+00:04:37,360 --> 00:04:40,610
+Então, deve ser... aquela montanha!
+
+64
+00:04:40,610 --> 00:04:43,840
+Sim! Onde está o Leque Mágico!
+
+65
+00:04:45,030 --> 00:04:46,350
+Conseguimos!
+
+66
+00:04:46,350 --> 00:04:47,370
+Sim!
+
+67
+00:04:49,830 --> 00:04:51,620
+Que frio!
+
+68
+00:04:56,250 --> 00:05:01,300
+Você foi até aquele Monte Frappe
+e ainda levou essa garota?
+
+69
+00:05:02,590 --> 00:05:05,590
+Não deveria levar a Chichi lá?
+
+70
+00:05:05,590 --> 00:05:07,430
+Claro que não!
+
+71
+00:05:07,430 --> 00:05:14,100
+Essa montanha foi chamada de Monte
+Não-Permitido-Mulheres por muito tempo!
+
+72
+00:05:14,100 --> 00:05:15,620
+Como assim?
+
+73
+00:05:16,520 --> 00:05:20,740
+Significa que a maldição é desencadeada
+sempre que uma mulher sobe nela!
+
+74
+00:05:21,320 --> 00:05:25,320
+Então aquela enorme nevasca
+aconteceu por minha causa?
+
+75
+00:05:29,410 --> 00:05:34,000
+O que, exatamente, vocês dois
+querem naquela montanha?
+
+76
+00:05:34,000 --> 00:05:37,040
+Procuramos pelo Leque Mágico.
+
+77
+00:05:37,040 --> 00:05:38,830
+O Leque Mágico?
+
+78
+00:05:38,830 --> 00:05:41,420
+Um leque que, supostamente,
+pode apagar qualquer fogo.
+
+79
+00:05:41,420 --> 00:05:45,300
+Um leque que pode apagar qualquer fogo...?
+
+80
+00:05:45,300 --> 00:05:47,470
+Sabe alguma coisa sobre isso, senhora?
+
+81
+00:05:47,470 --> 00:05:50,260
+Não, nunca tinha ouvido falar...
+
+82
+00:05:50,260 --> 00:05:53,390
+Mas você tem relação
+com um octágono, né, vovó?
+
+83
+00:05:53,390 --> 00:05:54,770
+Hã?
+
+84
+00:05:54,770 --> 00:06:01,460
+A Vovó Uranai disse que estava em
+algum lugar relacionado a um octágono.
+
+85
+00:06:02,440 --> 00:06:05,610
+Vocês entenderam errado.
+Eu não sou a "Mulher do Octágono"...
+
+86
+00:06:05,610 --> 00:06:07,940
+Sou a velha dos oito dentes perdidos.
+
+87
+00:06:10,450 --> 00:06:13,450
+Então o Leque Mágico não está ali?
+
+88
+00:06:13,450 --> 00:06:15,660
+Onde ele está?
+
+89
+00:06:16,370 --> 00:06:19,540
+Ei, meu jovem, anime-se!
+
+90
+00:06:19,540 --> 00:06:23,710
+Seu objetivo é apagar
+um incêndio, correto?
+
+91
+00:06:23,710 --> 00:06:26,260
+Há algo na montanha
+que pode fazer exatamente isso!
+
+92
+00:06:26,260 --> 00:06:27,470
+Sério?
+
+93
+00:06:27,470 --> 00:06:29,430
+Pode nos dizer o que é?
+
+94
+00:06:29,430 --> 00:06:32,220
+A neve que cai na montanha!
+
+95
+00:06:32,220 --> 00:06:36,960
+Essa neve é tão fria
+que pode congelar até o fogo!
+
+96
+00:06:38,980 --> 00:06:41,150
+Neve que pode congelar o fogo?
+
+97
+00:06:41,150 --> 00:06:44,360
+Goku! Se pudéssemos levar
+um pouco dessa neve conosco...
+
+98
+00:06:44,360 --> 00:06:45,860
+Certo!
+
+99
+00:06:45,860 --> 00:06:48,950
+Dessa vez eu vou sozinho!
+
+100
+00:06:48,950 --> 00:06:51,180
+Conto com você, Goku!
+
+101
+00:06:51,990 --> 00:06:54,020
+Pode emprestar isto, senhora?
+
+102
+00:06:54,020 --> 00:06:55,120
+Claro.
+
+103
+00:06:55,120 --> 00:06:56,660
+Goku!
+
+104
+00:06:58,620 --> 00:07:01,040
+Nuvem Voadora!
+
+105
+00:07:03,420 --> 00:07:06,170
+Vovó, a sopa estava muito boa!
+
+106
+00:07:06,170 --> 00:07:08,170
+Vamos lá!
+
+107
+00:07:08,170 --> 00:07:09,760
+Vá com cuidado!
+
+108
+00:07:09,760 --> 00:07:13,470
+Ele é um bom marido?
+
+109
+00:07:13,470 --> 00:07:16,160
+Pode apostar! Ele é o melhor do mundo!]
+
+110
+00:07:17,060 --> 00:07:20,560
+E você é uma boa esposa para ele?
+
+111
+00:07:21,020 --> 00:07:24,770
+Ainda somos recém-casados...
+
+112
+00:07:24,770 --> 00:07:27,480
+Você quer ser uma boa esposa?
+
+113
+00:07:27,480 --> 00:07:30,150
+Eu quero ser a melhor esposa do mundo!
+
+114
+00:07:30,150 --> 00:07:32,950
+Oh, entendi, entendi.
+
+115
+00:07:32,950 --> 00:07:34,910
+Vamos começar, então?
+
+116
+00:07:45,130 --> 00:07:46,250
+Mestre Pilaf!
+
+117
+00:07:46,250 --> 00:07:49,400
+Será que essa é a montanha
+do norte que estamos procurando?
+
+118
+00:07:50,840 --> 00:07:54,340
+Eu não os vejo em lugar nenhum.
+
+119
+00:07:57,470 --> 00:08:01,980
+Afinal, o que será esse Leque
+Mágico que eles procuram?
+
+120
+00:08:01,980 --> 00:08:04,840
+Só sei que é algo que estão
+procurando desesperadamente!
+
+121
+00:08:05,810 --> 00:08:11,110
+Pode ser algo ainda melhor
+do que as Esferas do Dragão!
+
+122
+00:08:11,110 --> 00:08:16,660
+Se conseguir isso, certamente
+conquistará o mundo desta vez!
+
+123
+00:08:20,950 --> 00:08:24,940
+Mai! Pilote olhando para a frente!
+
+124
+00:08:26,080 --> 00:08:31,580
+De repente, fomos apanhados
+por uma nuvem estranha...
+
+125
+00:08:34,380 --> 00:08:37,970
+Não tem jeito! Vamos cair!
+
+126
+00:08:50,400 --> 00:08:52,940
+<i>Espere por mim, Chichi!</i>
+
+127
+00:08:52,940 --> 00:08:55,240
+<i>Eu vou trazer a neve comigo!</i>
+
+128
+00:09:05,040 --> 00:09:06,620
+Vamos!
+
+129
+00:09:06,620 --> 00:09:10,750
+Puxem com mais força,
+ou ficaremos presos aqui!
+
+130
+00:09:14,170 --> 00:09:15,180
+Q-Que frio...
+
+131
+00:09:15,180 --> 00:09:19,180
+Está tão frio aqui que até
+estes robôs podem quebrar!
+
+132
+00:09:19,970 --> 00:09:21,680
+Ei, vocês!
+
+133
+00:09:21,680 --> 00:09:23,980
+O que estão fazendo?
+
+134
+00:09:23,980 --> 00:09:24,910
+O quê...?!
+
+135
+00:09:24,910 --> 00:09:25,850
+Opa!
+
+136
+00:09:25,850 --> 00:09:27,600
+Você!
+
+137
+00:09:28,480 --> 00:09:30,070
+Mestre Pilaf!
+
+138
+00:09:38,530 --> 00:09:39,700
+Ei!
+
+139
+00:09:39,700 --> 00:09:42,090
+Seu... Veja o que você fez!
+
+140
+00:09:42,090 --> 00:09:43,060
+Hein?
+
+141
+00:09:43,060 --> 00:09:44,640
+Mestre Pilaf, cuidado!
+
+142
+00:09:50,880 --> 00:09:52,630
+Mestre Pìlaf!
+
+143
+00:10:02,010 --> 00:10:05,660
+O-O fogo congelou...
+
+144
+00:10:06,810 --> 00:10:09,020
+Que gelada!
+
+145
+00:10:09,020 --> 00:10:13,610
+Uau! Com isto com certeza
+posso apagar aquele fogo!
+
+146
+00:10:20,160 --> 00:10:22,030
+Limpe este quarto,
+
+147
+00:10:22,030 --> 00:10:24,160
+e este...
+
+148
+00:10:24,160 --> 00:10:27,080
+e este lugar também.
+
+149
+00:10:28,460 --> 00:10:33,420
+Se precisar de água, encontrará
+um lago se passar pela floresta,
+
+150
+00:10:33,420 --> 00:10:36,880
+e continue após os próximos
+dois vales. Entendeu?
+
+151
+00:10:36,880 --> 00:10:38,880
+Você não tem nenhum encanamento?
+
+152
+00:10:38,880 --> 00:10:39,940
+Não!
+
+153
+00:10:43,180 --> 00:10:46,100
+Ah! Depois de todo esse tempo,
+eu finalmente te encurralei!
+
+154
+00:10:46,100 --> 00:10:49,020
+"Depois de todo esse tempo"?
+Acabamos de nos ver no vulcão!
+
+155
+00:10:49,020 --> 00:10:52,020
+Quê? Ah... é mesmo...
+
+156
+00:10:52,020 --> 00:10:56,150
+Tanto faz! Apenas me entregue
+esse tal de Leque Mágico!
+
+157
+00:10:56,150 --> 00:10:58,740
+Shuu! Mai! Peguem ele!
+
+158
+00:10:58,740 --> 00:11:00,240
+Hein? S-Seria suicídio...
+
+159
+00:11:00,240 --> 00:11:04,030
+Mestre Pilaf! Nós ainda temos
+alguma maneira de enfrentá-lo?!
+
+160
+00:11:04,030 --> 00:11:06,120
+Não!
+
+161
+00:11:06,120 --> 00:11:08,100
+Então o que podemos fazer?!
+
+162
+00:11:08,960 --> 00:11:12,330
+Como vocês sabem sobre o Leque Mágico?
+
+163
+00:11:12,330 --> 00:11:15,380
+Isso não importa! Tome!
+
+164
+00:11:24,680 --> 00:11:26,100
+Sabe...
+
+165
+00:11:26,100 --> 00:11:28,640
+Já que é assim, lancem
+qualquer coisa! Andem!
+
+166
+00:11:35,980 --> 00:11:38,560
+Certo, vou devolver!
+
+167
+00:11:40,860 --> 00:11:42,990
+Brincadeira!
+
+168
+00:11:45,410 --> 00:11:46,360
+Ei.
+
+169
+00:11:47,120 --> 00:11:49,410
+Você não é uma mulher?
+
+170
+00:11:49,410 --> 00:11:52,220
+I-Isso mesmo! Algum problema com isso?!
+
+171
+00:11:56,300 --> 00:11:57,290
+Ei...
+
+172
+00:11:57,290 --> 00:11:59,130
+Q-Que foi?
+
+173
+00:12:00,590 --> 00:12:02,930
+Sabe, dizem que sempre que
+uma mulher sobe esta montanha...
+
+174
+00:12:02,930 --> 00:12:05,510
+O que pensa que está fazendo, seu idiota?!
+
+175
+00:12:05,510 --> 00:12:07,800
+...acaba atraindo uma maldição.
+
+176
+00:12:10,060 --> 00:12:12,100
+Uma maldição?
+
+177
+00:12:12,690 --> 00:12:17,400
+Sempre que uma garota vem aqui, uma
+nevasca aparece para congelar tudo...
+
+178
+00:12:17,400 --> 00:12:18,690
+Q-Quê?!
+
+179
+00:12:18,690 --> 00:12:20,980
+N-Não pode ser.
+
+180
+00:12:26,830 --> 00:12:28,450
+Mai! Venha aqui!
+
+181
+00:12:28,450 --> 00:12:30,040
+Sim, senhor. O que deseja?
+
+182
+00:12:30,040 --> 00:12:32,600
+Role montanha abaixo!
+
+183
+00:12:34,040 --> 00:12:35,580
+O que disse?
+
+184
+00:12:35,580 --> 00:12:39,050
+Vou fazer um experimento!
+Ande, saia rolando!
+
+185
+00:13:00,030 --> 00:13:02,690
+É-É verdade!
+
+186
+00:13:08,990 --> 00:13:10,420
+<i>Já sei!</i>
+
+187
+00:13:40,570 --> 00:13:42,280
+Chichi! Goku!
+
+188
+00:13:42,280 --> 00:13:45,940
+Tragam logo o Leque Mágico!
+
+189
+00:13:59,210 --> 00:14:03,670
+<i>Como posso esperar ser uma boa esposa
+para Goku se nem conseguir fazer isto?</i>
+
+190
+00:14:10,140 --> 00:14:14,060
+Carregar a neve será fácil se estiver
+em forma de bola de neve!
+
+191
+00:14:15,060 --> 00:14:18,180
+Lá vem ele!
+
+192
+00:14:18,600 --> 00:14:20,020
+Por que não atirou?!
+
+193
+00:14:20,020 --> 00:14:22,610
+Não vai congelar de novo?
+
+194
+00:14:22,610 --> 00:14:24,820
+Não se preocupe! A nevasca passou!
+
+195
+00:14:24,820 --> 00:14:25,820
+Dispare!
+
+196
+00:14:25,820 --> 00:14:27,070
+Ué?
+
+197
+00:14:29,700 --> 00:14:31,490
+Ainda estavam aqui?
+
+198
+00:14:31,490 --> 00:14:33,410
+Ande, dispare!
+
+199
+00:14:33,410 --> 00:14:35,000
+Hã?
+
+200
+00:14:40,330 --> 00:14:43,130
+Mestre Pilaf, aquilo foi maldoso!
+
+201
+00:14:43,130 --> 00:14:46,800
+Ah, que bom que você voltou!
+
+202
+00:14:46,800 --> 00:14:49,470
+Nem pense que já saiu vencedor!
+
+203
+00:14:49,470 --> 00:14:52,140
+Shuu! Mai! Hora do nosso último recurso!
+
+204
+00:14:52,140 --> 00:14:54,640
+Fujam!
+
+205
+00:15:01,150 --> 00:15:04,610
+Vovó. Eu trouxe um chá!
+
+206
+00:15:04,610 --> 00:15:06,620
+Ah, obrigada!
+
+207
+00:15:07,070 --> 00:15:10,320
+Vovó! Você cria abelhas?!
+
+208
+00:15:10,320 --> 00:15:12,820
+Já limpou a casa inteira?
+
+209
+00:15:13,990 --> 00:15:16,080
+Sim, eu terminei.
+
+210
+00:15:16,080 --> 00:15:17,450
+Sai para lá.
+
+211
+00:15:17,450 --> 00:15:19,540
+Ainda tem mais alguma coisa?
+
+212
+00:15:21,370 --> 00:15:25,860
+Seria muito bom se você
+limpasse o jardim!
+
+213
+00:15:26,550 --> 00:15:29,630
+Claro! Onde está o jardim?
+
+214
+00:15:29,630 --> 00:15:32,590
+Esta floresta inteira é o meu jardim!
+
+215
+00:15:32,590 --> 00:15:35,060
+A floresta inteira?!
+
+216
+00:15:35,060 --> 00:15:39,480
+Isso mesmo! Aqui. A pá está lá atrás!
+
+217
+00:15:42,770 --> 00:15:47,110
+<i>Velho Rei Cutelo!
+Espere só um pouco mais!</i>
+
+218
+00:15:50,070 --> 00:15:52,160
+Esta deve ser a pá de lixo...
+
+219
+00:15:54,870 --> 00:15:57,780
+Ué? Parece que ficou mais leve...
+
+220
+00:15:59,370 --> 00:16:02,210
+Preciso ir logo ou vou ficar sem!
+
+221
+00:16:10,010 --> 00:16:13,800
+Nada mal... ah, olha isso!
+
+222
+00:16:17,970 --> 00:16:19,500
+Hein? Que foi?
+
+223
+00:16:20,020 --> 00:16:21,980
+Não venha para cá!
+
+224
+00:16:30,320 --> 00:16:32,020
+Que foi?!
+
+225
+00:16:36,120 --> 00:16:39,040
+Essa coisa fez aquilo?
+
+226
+00:16:39,040 --> 00:16:42,440
+Esta pá de lixo poderia ser o...
+
+227
+00:16:46,460 --> 00:16:49,760
+Vovó! É isto! O Leque Mágico!
+
+228
+00:16:51,050 --> 00:16:52,340
+O quê?
+
+229
+00:16:52,340 --> 00:16:57,600
+Encontrei essa coisa
+na praia há muito tempo.
+
+230
+00:16:58,260 --> 00:17:01,520
+Então o Leque Mágico realmente
+estava em um octágono!
+
+231
+00:17:01,520 --> 00:17:03,390
+Assim como a Vovó Uranai disse!
+
+232
+00:17:03,390 --> 00:17:05,850
+Agora tudo ficará bem!
+
+233
+00:17:05,850 --> 00:17:07,300
+E-Ei!
+
+234
+00:17:10,820 --> 00:17:15,160
+Caramba. No fim fiquei só com isto...
+
+235
+00:17:15,160 --> 00:17:17,200
+Chichi vai ficar desapontada...
+
+236
+00:17:17,200 --> 00:17:19,700
+Goku!
+
+237
+00:17:20,700 --> 00:17:23,580
+Eu achei o Leque Mágico!
+
+238
+00:17:25,000 --> 00:17:28,170
+Vamos rápido voltar para o papai!
+
+239
+00:17:28,170 --> 00:17:30,130
+Sério?!
+
+240
+00:17:32,550 --> 00:17:35,300
+Sem dúvidas, é o Leque Mágico!
+
+241
+00:17:39,050 --> 00:17:41,140
+Nós ficamos com isto!
+
+242
+00:17:41,140 --> 00:17:43,100
+Vocês...
+
+243
+00:17:44,980 --> 00:17:49,190
+Parece que eu que vou rir por último!
+
+244
+00:17:53,070 --> 00:17:54,820
+Ei, devolva!
+
+245
+00:17:54,820 --> 00:17:56,380
+Não se mexam!
+
+246
+00:17:57,070 --> 00:18:00,260
+Ou eu corto este leque no meio!
+
+247
+00:18:01,080 --> 00:18:03,080
+D-Droga!
+
+248
+00:18:04,410 --> 00:18:05,870
+Mestre Pilaf.
+
+249
+00:18:05,870 --> 00:18:10,170
+Esse leque velho realmente
+vale alguma coisa?
+
+250
+00:18:10,170 --> 00:18:12,000
+E-Ei, garota!
+
+251
+00:18:12,000 --> 00:18:13,040
+Que foi?
+
+252
+00:18:14,010 --> 00:18:17,720
+Q-Que tipo de "breque" é este?
+
+253
+00:18:17,720 --> 00:18:18,970
+É um leque!
+
+254
+00:18:18,970 --> 00:18:20,970
+Eu sei disso! Ande, fale logo!
+
+255
+00:18:20,970 --> 00:18:22,560
+Vai saber ao balançar ele!
+
+256
+00:18:22,560 --> 00:18:24,680
+Entendi!
+
+257
+00:18:25,640 --> 00:18:27,980
+Ei, Shuu! Experimente balançar!
+
+258
+00:18:27,980 --> 00:18:29,560
+Sim, senhor!
+
+259
+00:18:48,710 --> 00:18:51,750
+Goku! O Leque Mágico é mesmo incrível!
+
+260
+00:18:51,750 --> 00:18:54,420
+É! E vamos indo, Chichi!
+
+261
+00:18:54,420 --> 00:18:57,050
+Vovó, se cuide!
+
+262
+00:18:57,050 --> 00:18:58,880
+Esperem!
+
+263
+00:18:58,880 --> 00:19:01,180
+Leve isto com você!
+
+264
+00:19:02,350 --> 00:19:04,810
+O que é isto?
+
+265
+00:19:04,810 --> 00:19:07,270
+É o mel que colho aqui.
+
+266
+00:19:07,270 --> 00:19:12,980
+É um mel extremamente raro feito por
+abelhas que vivem em colmeias octogonais!
+
+267
+00:19:12,980 --> 00:19:15,530
+Colmeias octogonais?
+
+268
+00:19:17,150 --> 00:19:21,140
+Tenho certeza de que você
+será uma ótima esposa!
+
+269
+00:19:21,780 --> 00:19:24,830
+Esse mel pode ser útil algum dia!
+
+270
+00:19:24,830 --> 00:19:27,870
+Afinal, ele tem vários tipos de usos!
+
+271
+00:19:27,870 --> 00:19:30,100
+Obrigada, vovó!
+
+272
+00:19:30,830 --> 00:19:32,700
+Sejam felizes!
+
+273
+00:19:39,090 --> 00:19:43,640
+Saia! Vá para lá! Eu disse para ir para lá!
+
+274
+00:19:44,970 --> 00:19:46,060
+Ainda vão demorar?!
+
+275
+00:19:46,060 --> 00:19:49,340
+Chichi! Goku!
+
+276
+00:19:53,980 --> 00:19:59,440
+Chichi! Eu não posso morrer até que
+você vista este vestido de noiva!
+
+277
+00:19:59,440 --> 00:20:01,020
+Que droga!
+
+278
+00:20:07,120 --> 00:20:11,750
+Papai! Trouxemos o Leque Mágico!
+
+279
+00:20:11,750 --> 00:20:14,790
+Agora tudo vai ficar bem!
+
+280
+00:20:19,840 --> 00:20:23,240
+Ótimo! Vocês trouxeram!
+
+281
+00:20:24,050 --> 00:20:25,850
+Velho Rei Cutelo!
+
+282
+00:20:25,850 --> 00:20:30,060
+Segure firme em alguma coisa,
+ou vai sair voando!
+
+283
+00:20:30,060 --> 00:20:32,980
+Entendi!
+
+284
+00:20:32,980 --> 00:20:34,120
+Goku!
+
+285
+00:20:55,290 --> 00:20:56,790
+Pronto!
+
+286
+00:20:56,790 --> 00:20:58,280
+Conseguiu!
+
+287
+00:20:58,920 --> 00:21:01,130
+Ele conseguiu?
+
+288
+00:21:12,060 --> 00:21:14,700
+Goku! As chamas voltaram!
+
+289
+00:21:17,230 --> 00:21:19,570
+Droga!
+
+290
+00:21:19,570 --> 00:21:21,140
+Vou tentar de novo!
+
+291
+00:21:22,400 --> 00:21:26,040
+Vou balançar quantas vezes for
+preciso para apagar esse fogo!
+
+292
+00:21:48,510 --> 00:21:50,120
+Está chovendo!
+
+293
+00:21:50,590 --> 00:21:51,770
+É chuva!
+
+294
+00:21:51,770 --> 00:21:54,350
+Talvez apague com isso!
+
+295
+00:22:01,610 --> 00:22:06,520
+<i>As chamas ainda cercam
+o castelo do Rei Cutelo.</i>
+
+296
+00:22:07,360 --> 00:22:08,950
+Chichi!
+
+297
+00:22:08,950 --> 00:22:12,200
+Goku!
+
+298
+00:22:15,660 --> 00:22:19,290
+Papai!
+
+299
+00:22:21,460 --> 00:22:24,670
+<i>Goku e Chichi serão capazes
+de apagar essas chamas misteriosas,</i>
+
+300
+00:22:24,670 --> 00:22:30,180
+<i>que nem o Leque Mágico
+consegue extinguir?!</i>
+
+301
+00:22:47,610 --> 00:22:50,410
+Venha aqui, fantasia
+
+302
+00:22:47,610 --> 00:22:50,410
+<i>Oide FANTAJI</i>
+
+303
+00:22:50,410 --> 00:22:53,030
+Eu adoro um mistério
+
+304
+00:22:50,410 --> 00:22:53,030
+<i>suki sa MISUTERI</i>
+
+305
+00:22:53,030 --> 00:22:59,420
+Não vá esconder
+a sua juventude!
+
+306
+00:22:53,030 --> 00:22:59,420
+<i>Kimi no wakasa kakusa nai de</i>
+
+307
+00:22:59,420 --> 00:23:02,420
+Quero fazer o que é misterioso
+
+308
+00:22:59,420 --> 00:23:02,420
+<i>Fushigi shitakute</i>
+
+309
+00:23:02,420 --> 00:23:05,050
+Quero correr atrás de aventura
+
+310
+00:23:02,420 --> 00:23:05,050
+<i>Bouken shitakute</i>
+
+311
+00:23:05,050 --> 00:23:11,220
+Todo mundo não vê a hora de ir!
+
+312
+00:23:05,050 --> 00:23:11,220
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+313
+00:23:11,220 --> 00:23:17,230
+Se você agir feito
+adulto e desistir
+
+314
+00:23:11,220 --> 00:23:17,230
+<i>Otona no furi shite akiramecha</i>
+
+315
+00:23:17,230 --> 00:23:23,230
+Você nunca desvendará
+o mistério do milagre
+
+316
+00:23:17,230 --> 00:23:23,230
+<i>Kiseki no nazo nado tokenai yo</i>
+
+317
+00:23:23,230 --> 00:23:34,410
+Vá e viva de forma
+mais intensa e forte!
+
+318
+00:23:23,230 --> 00:23:34,410
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+319
+00:23:34,410 --> 00:23:42,040
+Vou te dar um romance
+
+320
+00:23:34,410 --> 00:23:42,040
+<i>ROMANTIKKU Ageru yo!</i>
+
+321
+00:23:42,040 --> 00:23:46,420
+Se você me mostrar sua
+verdadeira coragem
+
+322
+00:23:42,040 --> 00:23:46,420
+<i>Hontou no yuuki wo misete kuretara</i>
+
+323
+00:23:46,420 --> 00:23:53,800
+Vou te dar um romance
+
+324
+00:23:46,420 --> 00:23:53,800
+<i>ROMANTIKKU Ageru yo!</i>
+
+325
+00:23:53,800 --> 00:24:02,560
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+326
+00:23:53,800 --> 00:24:02,560
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>
