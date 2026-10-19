@@ -749,6 +749,10 @@ cumprir suas obrigações...</font>
 17400:14:29,840 --> 00:14:31,700
 <font face="Avenir Black" size="35">...devem ser executados!</font>
 
+174
+00:14:29,840 --> 00:14:31,700
+<font face="Avenir Black" size="35">...serão executados!</font>
+
 175
 00:14:31,710 --> 00:14:34,200
 <font face="Avenir Black" size="35">Não pode estar falando sério!</font>
