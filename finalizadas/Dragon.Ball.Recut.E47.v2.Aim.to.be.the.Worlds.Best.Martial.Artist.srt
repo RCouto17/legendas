@@ -5,7 +5,7 @@ Esferas do Dragão!
 
 2
 00:00:10,570 --> 00:00:14,070
-<i>Tsukamou ze! DRAGON BALL</i>
+Tsukamou ze! DRAGON BALL
 
 3
 00:00:14,070 --> 00:00:17,540
@@ -14,7 +14,7 @@ impressionantes do mundo
 
 4
 00:00:14,070 --> 00:00:17,540
-<i>Sekai de ittou suriru na himitsu</i>
+Sekai de ittou suriru na himitsu
 
 5
 00:00:17,540 --> 00:00:21,080
@@ -23,7 +23,7 @@ Esferas do Dragão!
 
 6
 00:00:17,540 --> 00:00:21,080
-<i>Sagasou ze! DRAGON BALL</i>
+Sagasou ze! DRAGON BALL
 
 7
 00:00:21,080 --> 00:00:24,410
@@ -32,7 +32,7 @@ encantadores do mundo
 
 8
 00:00:21,080 --> 00:00:24,410
-<i>Sekai de ittou yukai na kiseki</i>
+Sekai de ittou yukai na kiseki
 
 9
 00:00:24,420 --> 00:00:27,880
@@ -41,7 +41,7 @@ ilha do tesouro
 
 10
 00:00:24,420 --> 00:00:27,880
-<i>Kono yo wa dekkai takarajima</i>
+Kono yo wa dekkai takarajima
 
 11
 00:00:27,890 --> 00:00:33,520
@@ -50,64 +50,59 @@ A aventura começou!
 
 12
 00:00:27,890 --> 00:00:33,520
-<i>Sou sa Ima koso adobenchaa!</i>
+Sou sa Ima koso adobenchaa!
 
 13
 00:00:35,490 --> 00:00:39,030
-O amor que bate no
-peito faz GISSIRI
+O que é aquilo?!
 
 14
 00:00:35,490 --> 00:00:39,030
-<i>Mune waku-waku no ai ga GISSIRI</i>
+O que é aquilo?!
 
 15
 00:00:39,030 --> 00:00:42,570
-Uma chuva de sonhos
-multicoloridos faz DOSSARI
+O que é aquilo?!
 
 16
 00:00:39,030 --> 00:00:42,570
-<i>Iro tori-dori no yume ga DOSSARI</i>
+O que é aquilo?!
 
 17
 00:00:42,570 --> 00:00:49,540
-Em algum lugar do
-mundo elas vão brilhar
+O que é aquilo?!
 
 18
 00:00:42,570 --> 00:00:49,540
-<i>Kono no yo doko ka de hikatteiru</i>
+O que é aquilo?!
 
 19
 00:00:49,540 --> 00:00:52,370
-Vamos lá encontrá-las, rapaz
+Virar a boreste!
 
 20
 00:00:49,540 --> 00:00:52,370
-<i>Soitsu mitsuke ni yukou ze BOY</i>
+Virar a boreste!
 
 21
 00:00:53,210 --> 00:00:56,310
-Enquanto passamos por cima
-de monstros e demônios
+Virar a boreste!
 
 22
 00:00:53,210 --> 00:00:56,310
-<i>Youkai henka mo buttobashi</i>
+Virar a boreste!
 
 23
 00:00:56,310 --> 00:01:02,740
-E na nuvem voadora
-nós vamos voar!
+Virar a boreste!
 
 24
 00:00:56,310 --> 00:01:02,740
-<i>Kumo no mashin de kyou mo tobu no sa</i>
+Virar a boreste!
 
 25
 00:01:03,720 --> 00:01:07,220
-<i>Let's try try try Makafushigi</i>
+Let's try try try Makafushigi
 
 26
 00:01:03,720 --> 00:01:07,220
@@ -116,7 +111,7 @@ esse profundo mistério
 
 27
 00:01:07,220 --> 00:01:09,990
-<i>Sora wo kakenuke yama wo koe</i>
+Sora wo kakenuke yama wo koe
 
 28
 00:01:07,220 --> 00:01:09,990
@@ -125,321 +120,300 @@ superando as montanhas
 
 29
 00:01:10,890 --> 00:01:13,950
-<i>Let's fly fly fly Daibouken</i>
+O que é aquilo?
 
 30
 00:01:10,890 --> 00:01:13,950
-Vamos voar rumo a
-uma grande aventura
+O que é aquilo?
 
 31
 00:01:14,470 --> 00:01:21,600
-<i>Fushigi na tabi ga hajimaru ze</i>
+O que é aquilo?
 
 32
 00:01:14,470 --> 00:01:21,600
-A nossa jornada
-estranha vai começar!
+O que é aquilo?
 
 33
 00:01:21,610 --> 00:01:25,110
-<i>Te ni irero! DRAGON BALL</i>
+Ei, em qual direção fica a Ilha Papaya?
 
 34
 00:01:21,610 --> 00:01:25,110
-Vamos pegá-las em mãos!
-As Esferas do Dragão!
+Ei, em qual direção fica a Ilha Papaya?
 
 35
 00:01:25,110 --> 00:01:28,310
-<i>Sekai de ittou degowai chansu</i>
+Alguém pode me ajudar? Estou perdido!
 
 36
 00:01:25,110 --> 00:01:28,310
-Uma das apostas mais
-formidáveis do mundo
+Alguém pode me ajudar? Estou perdido!
 
 37
 00:01:28,710 --> 00:01:31,770
-<i>Oikakero! DRAGON BALL</i>
+Obrigado!
 
 38
 00:01:28,710 --> 00:01:31,770
-Vamos persegui-las!
-As Esferas do Dragão!
+Obrigado!
 
 39
 00:01:32,120 --> 00:01:35,350
-<i>Sekai de ittou ikashita dorama</i>
+Obrigado!
 
 40
 00:01:32,120 --> 00:01:35,350
-Um dos mistérios mais
-dramáticos do mundo
+Obrigado!
 
 41
 00:01:35,350 --> 00:01:38,820
-<i>Kono yo wa dekkai takarajima</i>
+O que foi aquilo?
 
 42
 00:01:35,350 --> 00:01:38,820
-A vida é uma grande
-ilha do tesouro
+O que foi aquilo?
 
 43
 00:01:38,820 --> 00:01:48,600
-<i>Sou sa Ima koso adobenchaa!</i>
+Em busca de se tornar
+o maior artista marcial do planeta!!
 
 44
 00:01:38,820 --> 00:01:48,600
-Isso mesmo!
-A aventura começou!
+Em busca de se tornar
+o maior artista marcial do planeta!!
 
 45
 00:02:00,140 --> 00:02:04,140
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Goku, que quer descobrir a localização 
+da sétima Esfera do Dragão
 
 46
 00:02:04,140 --> 00:02:07,350
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Goku, que quer descobrir a localização 
+da sétima Esfera do Dragão
 
 47
 00:02:07,350 --> 00:02:10,840
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Goku, que quer descobrir a localização 
+da sétima Esfera do Dragão
 
 48
 00:02:17,550 --> 00:02:20,520
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Finalmente chegou o Torneio 
+de Artes Marciais...
 
 49
 00:02:20,520 --> 00:02:23,690
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Tenho certeza de que vai 
+vencer dessa vez, Sr. Yamcha!
 
 50
 00:02:23,690 --> 00:02:27,060
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Não comigo participando.
 
 51
 00:02:27,060 --> 00:02:28,100
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+É claro.
 
 52
 00:02:28,100 --> 00:02:30,570
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Durante o torneio, vou te mostrar 
+o quanto melhorei nesses últimos três anos.
 
 53
 00:02:30,570 --> 00:02:32,230
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Durante o torneio, vou te mostrar 
+o quanto melhorei nesses últimos três anos.
 
 54
 00:02:33,330 --> 00:02:38,840
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Vocês já se esqueceram do Son?
 
 55
 00:02:38,840 --> 00:02:42,640
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+E do velho Jackie Chun!
 
 56
 00:02:44,140 --> 00:02:47,680
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Sempre fico com vontade de sequestrar 
+o avião quando ando em um!
 
 57
 00:02:47,680 --> 00:02:51,140
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Por favor, se acalma, Lunch.
 
 58
 00:02:56,520 --> 00:02:57,520
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Com licença...
 
 59
 00:02:57,520 --> 00:02:59,990
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Seu cinto de segurança, senhor.
 
 60
 00:02:59,990 --> 00:03:03,030
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Comissária de bordo!
 
 61
 00:03:03,030 --> 00:03:04,490
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Sim?
 
 62
 00:03:04,500 --> 00:03:08,330
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+E-Eu preciso cagar!
 
 63
 00:03:12,700 --> 00:03:15,340
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+"C-Cagar"?
 
 64
 00:03:15,340 --> 00:03:19,210
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Sinto muito, mas já entramos 
+em processo de aterrissagem.
 
 65
 00:03:19,210 --> 00:03:22,510
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Poderia segurar mais um pouquinho?
 
 66
 00:03:22,510 --> 00:03:24,180
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+T-Tudo bem...
 
 67
 00:03:24,180 --> 00:03:27,080
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Por favor, aterrissem logo!
 
 68
 00:03:27,080 --> 00:03:28,550
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+É claro!
 
 69
 00:03:35,030 --> 00:03:39,530
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Mestre Muten Roshi, 
+não nos faça passar vergonha.
 
 70
 00:03:39,530 --> 00:03:42,690
-<i>Goku, que quer descobrir a localização 
-da sétima Esfera do Dragão</i>
+Mestre Muten Roshi, 
+não nos faça passar vergonha.
 
 71
 00:03:44,750 --> 00:03:48,710
-<i>para poder trazer o pai 
-de Upa de volta à vida,</i>
+para poder trazer o pai 
+de Upa de volta à vida,
 
 72
 00:04:00,510 --> 00:04:05,010
-<i>o lutador mascarado pela 
-primeira vez. Porém...</i>
+Que fome!
 
 73
 00:04:05,010 --> 00:04:08,380
-Ele perde toda a sua força 
-quando alguém a aperta!
+Que fome!
 
 74
 00:04:08,390 --> 00:04:11,390
-<i>Goku se encontra em apuros!</i>
+Isso vai servir!
 
 75
 00:04:11,390 --> 00:04:16,090
-<i>Então, a identidade do 
-homem mascarado é revelada!</i>
+Isso vai servir!
 
 76
 00:04:16,090 --> 00:04:19,550
-Ele é Son Gohan, o avô de Goku!
+Que gostosa!
 
 77
 00:04:26,740 --> 00:04:27,900
-<i>"A identidade do Homem Mascarado".</i>
+Comam o quanto quiserem!
+Ainda tem bastante!
 
 78
 00:04:27,900 --> 00:04:29,040
-<i>"A identidade do Homem Mascarado".</i>
+Comam o quanto quiserem!
+Ainda tem bastante!
 
 79
 00:04:29,040 --> 00:04:31,100
-Ele é...
+Comam o quanto quiserem!
+Ainda tem bastante!
 
 80
 00:04:38,450 --> 00:04:41,580
-N-Não fala uma besteira dessas! 
-Ele morreu faz muito tempo!
+Elas são muito gostosas...
 
 81
 00:04:41,580 --> 00:04:43,250
-Son Gohan realmente morreu!
+Elas são muito gostosas...
 
 82
 00:05:02,640 --> 00:05:03,910
-Goku...
+Ele vai ficar no banheiro até que horas?
 
 83
 00:05:03,910 --> 00:05:06,740
-Goku...
+Ele vai ficar no banheiro até que horas?
 
 84
 00:05:06,740 --> 00:05:08,090
-<i>Aguenta firme, Goku.</i>
+Ele vai ficar no banheiro até que horas?
 
 85
 00:05:08,100 --> 00:05:13,520
-<i>Aguenta firme, Goku.</i>
+A gente vai perder o horário do cadastro!
 
 86
 00:05:15,920 --> 00:05:17,750
-<i>ele terá vindo até aqui à toa.</i>
+O trambolho parecia até um tijolo.
+Não queria sair!
 
 87
 00:05:17,750 --> 00:05:19,920
-<i>ele terá vindo até aqui à toa.</i>
+O trambolho parecia até um tijolo.
+Não queria sair!
 
 88
 00:05:19,920 --> 00:05:23,160
-<i>ele terá vindo até aqui à toa.</i>
+Ninguém quer saber disso.
 
 89
 00:05:23,160 --> 00:05:28,260
-<i>ele terá vindo até aqui à toa.</i>
+Ninguém quer saber disso.
 
 90
 00:05:28,260 --> 00:05:31,930
-<i>ele terá vindo até aqui à toa.</i>
+Depressa!
 
 91
 00:05:31,940 --> 00:05:33,170
-<i>ele terá vindo até aqui à toa.</i>
+Pronto.
 
 92
 00:05:33,170 --> 00:05:35,770
-<i>ele terá vindo até aqui à toa.</i>
+Obrigado.
 
 93
 00:05:35,770 --> 00:05:37,810
-<i>ele terá vindo até aqui à toa.</i>
+Obrigado.
 
 94
 00:05:37,810 --> 00:05:40,810
-<i>ele terá vindo até aqui à toa.</i>
+Por favor, preciso que vá 
+rápido até o local do torneio.
 
 95
 00:05:40,810 --> 00:05:44,840
-Estas armas de última geração eram o que 
-precisávamos para acabar com aquele moleque!
+Por favor, preciso que vá 
+rápido até o local do torneio.
 
 96
 00:05:46,820 --> 00:05:49,650
-Estas armas de última geração eram o que 
-precisávamos para acabar com aquele moleque!
+Pode deixar!
 
 97
 00:05:49,650 --> 00:05:52,620
-Estas armas de última geração eram o que 
-precisávamos para acabar com aquele moleque!
+Pode deixar!
 
 98
 00:05:56,400 --> 00:05:59,120
@@ -448,88 +422,80 @@ precisávamos para acabar com aquele moleque!
 
 99
 00:06:00,590 --> 00:06:01,490
-Estas armas de última geração eram o que 
-precisávamos para acabar com aquele moleque!
+Quantas memórias deste lugar!
 
 100
 00:06:01,490 --> 00:06:04,160
-Estas armas de última geração eram o que 
-precisávamos para acabar com aquele moleque!
+Quantas memórias deste lugar!
 
 101
 00:06:04,160 --> 00:06:07,270
-Estas armas de última geração eram o que 
-precisávamos para acabar com aquele moleque!
+Quantas memórias deste lugar!
 
 102
 00:06:07,270 --> 00:06:09,670
-Estas armas de última geração eram o que 
-precisávamos para acabar com aquele moleque!
+Quantas memórias deste lugar!
 
 103
 00:06:09,670 --> 00:06:12,170
-Estas armas de última geração eram o que 
-precisávamos para acabar com aquele moleque!
+Sim!
 
 104
 00:06:12,170 --> 00:06:13,170
-Estas armas de última geração eram o que 
-precisávamos para acabar com aquele moleque!
+Sim!
 
 105
 00:06:13,170 --> 00:06:16,440
-Estas armas de última geração eram o que 
-precisávamos para acabar com aquele moleque!
+Torneio de Artes Marciais
 
 106
 00:06:16,440 --> 00:06:20,310
-Encontrei as Esferas do Dragão!
+Rápido. Vocês não vão se cadastrar?
 
 107
 00:06:26,650 --> 00:06:30,490
-Aquele monstrinho está levando uma surra!
+Ei, alguém chamado 
+Son Goku já se registrou?
 
 108
 00:06:30,490 --> 00:06:31,490
-Aquele monstrinho está levando uma surra!
+Ei, alguém chamado 
+Son Goku já se registrou?
 
 109
 00:06:31,490 --> 00:06:37,160
-<i>Você não pode fazer nada enquanto eu 
-segurar a sua cauda, a sua única fraqueza!</i>
+O garoto que ficou em segundo 
+lugar na última vez?
 
 110
 00:06:39,300 --> 00:06:41,320
-Sim! Precisamos contar 
-para o Imperador Pilaf!
+Então ele ainda não chegou.
 
 111
 00:06:46,440 --> 00:06:48,710
-Ah, é mesmo? Então aquela 
-cauda é o ponto fraco dele!
+Se ele ficar enrolando, 
+vai perder a inscrição.
 
 112
 00:06:48,710 --> 00:06:50,410
-Ah, é mesmo? Então aquela 
-cauda é o ponto fraco dele!
+Se ele ficar enrolando, 
+vai perder a inscrição.
 
 113
 00:06:50,410 --> 00:06:53,910
-Eu finalmente descobri a 
-fraqueza daquele pivete!
+Esse aí não tem jeito!
 
 114
 00:06:53,910 --> 00:06:55,440
-Eu finalmente descobri a 
-fraqueza daquele pivete!
+Não me diga que ele se esqueceu...
 
 115
 00:06:56,500 --> 00:06:59,780
-A cauda é o ponto fraco!
+Não me diga que ele se esqueceu...
 
 116
 00:06:59,790 --> 00:07:02,790
-Que notícia maravilhosa, Imperador Pilaf.
+Não me diga que ele se esqueceu...
 
 117
 00:07:02,790 --> 00:07:05,280
@@ -538,115 +504,101 @@ o que poderia acontecer
 
 118
 00:07:09,090 --> 00:07:13,100
-Parece que os Deuses não 
-me abandonaram ainda!
+Já está quase na hora!
 
 119
 00:07:13,100 --> 00:07:15,970
-Parece que os Deuses não 
-me abandonaram ainda!
+Já está quase na hora!
 
 120
 00:07:15,970 --> 00:07:19,900
-Eles estão me dizendo para 
-virar o comandante deste mundo!
+Ele vai chegar.
 
 121
 00:07:19,910 --> 00:07:22,610
-Eles estão me dizendo para 
-virar o comandante deste mundo!
+Ele estava tão animado por esse torneio!
 
 122
 00:07:22,610 --> 00:07:25,080
-Eles estão me dizendo para 
-virar o comandante deste mundo!
+Ele nunca muda esse jeito dele...
 
 123
 00:07:26,110 --> 00:07:27,690
-Muito obrigado!
+Um prêmio de 500 mil Zeni, é?
 
 124
 00:07:33,750 --> 00:07:36,710
-De toda forma, a Esfera do Dragão 
-está dentro desta caixa especial
+Ah, é mesmo! Havia esquecido.
 
 125
 00:07:36,710 --> 00:07:38,710
-De toda forma, a Esfera do Dragão 
-está dentro desta caixa especial
+Ah, é mesmo! Havia esquecido.
 
 126
 00:07:38,710 --> 00:07:42,080
-que eu fiz para não aparecer no radar deles!
+Ah, é mesmo! Havia esquecido.
 
 127
 00:07:42,080 --> 00:07:45,380
-Ou seja, aquele moleque não encontrará 
-a sétima Esfera do Dragão!
+Ei, poderia escrever o 
+nome de "Jackie Chun" aí?
 
 128
 00:07:47,070 --> 00:07:50,240
-Mas com o nosso satélite 
-do Radar do Dragão,
+Hã?
 
 129
 00:07:50,240 --> 00:07:56,080
-Mas com o nosso satélite 
-do Radar do Dragão,
+"Jackie Chun", o vencedor do último torneio?
 
 130
 00:07:56,080 --> 00:07:58,410
-Mas, Imperador Pilaf...
+Não me diga que você...
 
 131
 00:07:58,410 --> 00:08:01,050
-Ele não está lutando contra 
-a Vovó Uranai e os outros
+Não me diga que você...
 
 132
 00:08:01,050 --> 00:08:07,090
-para que ela localize a Esfera do 
-Dragão que está dentro dessa caixa?
+Olha.
 
 133
 00:08:07,090 --> 00:08:12,050
-Se o garoto vencer...
+É você mesmo!
 
 134
 00:08:24,300 --> 00:08:27,810
-Além disso, temos as nossas 
-armas de última geração!
+Ele será desclassificado.
 
 135
 00:08:27,810 --> 00:08:31,800
-Está claro quem sairá 
-vitorioso desta batalha!
+Ei, aonde você tinha ido?
 
 136
 00:08:35,120 --> 00:08:36,980
-Está claro quem sairá 
-vitorioso desta batalha!
+Só fui dar um pulinho no banheiro...
 
 137
 00:08:36,980 --> 00:08:39,950
-Está claro quem sairá 
-vitorioso desta batalha!
+O senhor realmente faz
+bastante o nº 2, né?
 
 138
 00:08:39,950 --> 00:08:41,650
-V-Verdade!
+Foi o nº 1 dessa vez!
 
 139
 00:08:41,660 --> 00:08:44,920
-V-Verdade!
+Ora, ora.
 
 140
 00:08:58,380 --> 00:09:01,420
-Sim, senhor!
+Se não é o Mestre Kame.
 
 141
 00:09:01,420 --> 00:09:04,220
-Sim, senhor!
+Se não é o Mestre Kame.
 
 142
 00:09:08,490 --> 00:09:11,420
@@ -664,126 +616,125 @@ Não tenho mais medo dele!
 
 145
 00:09:17,330 --> 00:09:19,850
-O sonho da minha vida se tornará 
-verdade desta vez! Vamos!
+É você, Mestre Tsuru?
 
 146
 00:09:19,850 --> 00:09:20,890
-O sonho da minha vida se tornará 
-verdade desta vez! Vamos!
+É você, Mestre Tsuru?
 
 147
 00:09:20,890 --> 00:09:24,720
-Sim, senhor!
+É você, Mestre Tsuru?
 
 148
 00:09:24,720 --> 00:09:26,190
-Sim, senhor!
+É você, Mestre Tsuru?
 
 149
 00:09:28,890 --> 00:09:31,330
-Sim, senhor!
+Sua cara e boca continuam 
+horríveis. Não mudou nada.
 
 150
 00:09:33,060 --> 00:09:35,570
-Sim, senhor!
+Que nojo desse cara.
 
 151
 00:09:35,570 --> 00:09:37,560
-Então? Vai desistir?
+Que nojo desse cara.
 
 152
 00:09:41,070 --> 00:09:42,440
-Então? Vai desistir?
+Aparentemente, seus aprendizes se 
+saíram muito bem no último torneio...
 
 153
 00:09:43,410 --> 00:09:46,510
-Então? Vai desistir?
+Aparentemente, seus aprendizes se 
+saíram muito bem no último torneio...
 
 154
 00:09:46,510 --> 00:09:49,250
-Então? Vai desistir?
+E qual o problema?!
 
 155
 00:09:49,250 --> 00:09:51,240
-Então? Vai desistir?
+Este torneio decaiu mesmo.
 
 156
 00:09:54,980 --> 00:09:56,650
-N-Nunca...
+Imaginei que deveria mostrar a todos 
+como artistas marciais são de verdade,
 
 157
 00:09:56,650 --> 00:09:59,220
-Que garoto cabeça-dura.
+então trouxe meus aprendizes para o torneio.
 
 158
 00:09:59,220 --> 00:10:00,710
-Que garoto cabeça-dura.
+então trouxe meus aprendizes para o torneio.
 
 159
 00:10:01,920 --> 00:10:05,390
-Vocês não acham que ele 
-está sendo violento demais?!
+então trouxe meus aprendizes para o torneio.
 
 160
 00:10:05,390 --> 00:10:07,860
-Não acredito que um velho 
-conseguiria fazer algo assim!
+então trouxe meus aprendizes para o torneio.
 
 161
 00:10:09,400 --> 00:10:10,400
-Goku...
+Sinto muito, mas os meus 
+alunos vencerão o título.
 
 162
 00:10:10,400 --> 00:10:13,740
-Goku...
+Sinto muito, mas os meus 
+alunos vencerão o título.
 
 163
 00:10:13,740 --> 00:10:16,170
-Goku...
+Sinto muito, mas os meus 
+alunos vencerão o título.
 
 164
 00:10:17,510 --> 00:10:18,840
-Ei, faça alguma coisa!
+Sinto muito, mas os meus 
+alunos vencerão o título.
 
 165
 00:10:18,840 --> 00:10:21,580
-Ei, faça alguma coisa!
+Talvez vocês devessem ir embora 
+antes de passarem vergonha.
 
 166
 00:10:21,580 --> 00:10:23,910
-Mesmo que seja coisa do destino, 
-o Son pode acabar morrendo!
+Talvez vocês devessem ir embora 
+antes de passarem vergonha.
 
 167
 00:10:24,780 --> 00:10:26,580
-Mesmo que seja coisa do destino, 
-o Son pode acabar morrendo!
+Você virou comediante, é?
 
 168
 00:10:26,580 --> 00:10:29,620
-Faça eles parar! 
-Alguém precisa impedir esta luta!
+Continua sem noção como sempre.
 
 169
 00:10:29,620 --> 00:10:33,290
-Faça eles parar! 
-Alguém precisa impedir esta luta!
+O que disse, calvo?!
 
 170
 00:10:33,290 --> 00:10:34,290
-O único jeito de fazer ele parar 
-é o Goku admitindo a derrota!
+Nem ficar calvo de verdade você consegue!
 
 171
 00:10:34,290 --> 00:10:36,930
-O único jeito de fazer ele parar 
-é o Goku admitindo a derrota!
+Nem ficar calvo de verdade você consegue!
 
 172
 00:10:36,930 --> 00:10:40,560
-Mas o Goku não está nem perto 
-de mostrar que quer desistir.
+Nem ficar calvo de verdade você consegue!
 
 173
 00:10:40,560 --> 00:10:43,800
@@ -791,172 +742,165 @@ Tudo bem pra vocês se o Goku morrer?!
 
 174
 00:10:43,800 --> 00:10:45,130
-Tudo bem pra vocês se o Goku morrer?!
+Vamos embora. Os perdedores 
+parecem estar bravos.
 
 175
 00:10:45,130 --> 00:10:49,640
-Tudo bem pra vocês se o Goku morrer?!
+Vamos embora. Os perdedores 
+parecem estar bravos.
 
 176
 00:10:49,640 --> 00:10:53,300
-É claro que não! Mas...
+Vamos embora. Os perdedores 
+parecem estar bravos.
 
 177
 00:11:05,370 --> 00:11:09,340
-Vejo que você fez ótimos amigos.
+Quem é aquele velho ignorante?
 
 178
 00:11:09,340 --> 00:11:13,380
-Desde o começo eles estão 
-preocupados com você.
+Quem é aquele velho ignorante?
 
 179
 00:11:13,380 --> 00:11:17,020
-Desde o começo eles estão 
-preocupados com você.
+É o meu antigo rival, o Mestre Tsuru.
 
 180
 00:11:17,020 --> 00:11:20,650
-Desde o começo eles estão 
-preocupados com você.
+Deixem isso pra lá, só resta um minuto!
 
 181
 00:11:20,660 --> 00:11:25,060
-O que foi? A batalha ainda não acabou!
+Não tem jeito.
 
 182
 00:11:25,060 --> 00:11:26,630
-O que foi? A batalha ainda não acabou!
+Pual, transforme-se no Goku 
+e registre-se por ele.
 
 183
 00:11:26,630 --> 00:11:30,030
-O que foi? A batalha ainda não acabou!
+Tá bom!
 
 184
 00:11:31,400 --> 00:11:35,370
-Não faz diferença o quanto 
-eles se preocupem com você,
+Peraí! Ele tá chegando!
 
 185
 00:11:35,370 --> 00:11:37,000
-esta luta é entre nós dois!
+Ei, pessoal!
 
 186
 00:11:38,210 --> 00:11:42,000
-Já sei!
+Son!
 
 187
 00:11:42,000 --> 00:11:43,170
-Por que não jogamos uma 
-toalha? Existem algumas lutas
+Son!
 
 188
 00:11:43,170 --> 00:11:45,500
-que possuem a regra de jogar 
-a toalha dentro do ringue
+Olá!
 
 189
 00:11:45,500 --> 00:11:49,600
-que possuem a regra de jogar 
-a toalha dentro do ringue
+Que bom te ver de novo!
 
 190
 00:11:55,620 --> 00:11:58,220
-Não!
+Eu também!
 
 191
 00:11:58,220 --> 00:12:01,050
-Esta não é uma luta de boxe! A minha irmã 
-nunca iria permitir uma regra como esta!
+Eu também!
 
 192
 00:12:01,050 --> 00:12:02,450
-Esta não é uma luta de boxe! A minha irmã 
-nunca iria permitir uma regra como esta!
+O Son Goku chegou. Cadastre ele também.
 
 193
 00:12:02,460 --> 00:12:04,980
-Sim, mas não podemos ficar 
-parados assistindo isso!
+Entendido.
 
 194
 00:12:11,900 --> 00:12:15,400
-Mas ainda é melhor que morrer!
+Olá, Goku.
 
 195
 00:12:15,400 --> 00:12:16,900
-Mas ainda é melhor que morrer!
+Você cresceu um pouco, né?
 
 196
 00:12:16,900 --> 00:12:19,770
-Isso mesmo! Ele já lutou bastante!
+Você acha?
 
 197
 00:12:19,770 --> 00:12:21,140
-Não, o Goku sentiria 
-mal se fizéssemos isso!
+Você acha?
 
 198
 00:12:25,180 --> 00:12:28,180
-Além disso, acho que ele iria gostar de
+Ei, Goku!
 
 199
 00:12:28,180 --> 00:12:30,080
-lutar até o fim se soubesse 
-que seu oponente é Son Gohan!
+Você nos deixou preocupados.
 
 200
 00:12:30,080 --> 00:12:32,180
-Mas...
+O que aconteceu com a sua Nuvem Voadora?
 
 201
 00:12:32,190 --> 00:12:33,590
-Mas...
+O que aconteceu com a sua Nuvem Voadora?
 
 202
 00:12:33,590 --> 00:12:36,620
-Por que ele precisa lutar até esse ponto?!
+Você disse para não usá-la 
+durante o treinamento,
 
 203
 00:12:36,620 --> 00:12:38,820
-Por que ele precisa lutar até esse ponto?!
+eu só...
 
 204
 00:12:38,830 --> 00:12:40,590
-Por que ele precisa lutar até esse ponto?!
+Ah, é mesmo.
 
 205
 00:12:40,590 --> 00:12:45,430
-Ai!
+Não me diga que você nadou até aqui?!
 
 206
 00:12:45,430 --> 00:12:49,600
-Ai!
+Yahhoy?!
 
 207
 00:12:49,600 --> 00:12:56,780
-Ah, não! O rabo dele caiu!
+O que você tinha na cabeça?!
 
 208
 00:12:56,780 --> 00:13:00,110
-Minha nossa, agora a
-fraqueza do Goku se foi!
+O que você tinha na cabeça?!
 
 209
 00:13:00,110 --> 00:13:04,280
-Isso significa que...
+Enfim, como terminamos de nos registrar,
 
 210
 00:13:04,280 --> 00:13:09,520
-Goku!
+Vai ter comida?!
 
 211
 00:13:09,520 --> 00:13:12,290
-Ai, que dor!
+Amanhã vocês se cansarão lutando bastante.
 
 212
 00:13:12,290 --> 00:13:15,290
-Ai, que dor!
+Então é melhor vocês comerem o quanto 
+quiserem hoje, é por minha conta!
 
 213
 00:13:42,020 --> 00:13:46,620
@@ -968,144 +912,146 @@ Agora ele pode vencer!
 
 215
 00:14:05,460 --> 00:14:10,770
-Eu desisto.
+Tava uma delícia!
 
 216
 00:14:10,770 --> 00:14:13,770
-Eu desisto.
+Não consigo comer mais nada!
 
 217
 00:14:13,770 --> 00:14:16,970
-Eu desisto.
+O quê? Você não tem dinheiro?!
 
 218
 00:14:16,970 --> 00:14:22,650
-Eu desisto.
+Por favor, coloque na minha conta!
 
 219
 00:14:22,650 --> 00:14:24,910
-O que foi que você disse? 
-Você disse que <i>existe</i>?
+Você vai ganhar 500.000 Zeni se fizer isso!
 
 220
 00:14:24,910 --> 00:14:26,320
-É aquele cheiro alegre de novo!
+Você vai ganhar 500.000 Zeni se fizer isso!
 
 221
 00:14:26,320 --> 00:14:31,220
-É aquele cheiro alegre de novo!
+Eu não estou mentindo!
 
 222
 00:14:31,220 --> 00:14:35,320
-Não é "existo", eu disse que eu desisto.
+T-Tudo bem...
 
 223
 00:14:35,330 --> 00:14:38,160
-O-O Goku venceu...?
+Kuririn, o treinamento do 
+Mestre Kame foi difícil?
 
 224
 00:14:38,160 --> 00:14:43,630
-O-O Goku venceu...?
+Trabalhar no campo, entregar leite...
 
 225
 00:14:43,630 --> 00:14:46,840
-Bom, fazer o quê?
+Ah, mas no final eu estava treinando 
+usando um casco de 100 quilos!
 
 226
 00:14:46,840 --> 00:14:50,700
-Goku, você está bem forte!
+100 quilos? Caramba!
 
 227
 00:14:52,340 --> 00:14:54,640
-C-Como você sabe o meu nome?
+Desculpem-me a demora!
 
 228
 00:14:54,640 --> 00:14:58,650
-Mas parece que você esqueceu de 
-tomar cuidado com esta cauda, Goku.
+O que aconteceu? Você não parece muito bem.
 
 229
 00:14:58,650 --> 00:15:03,350
-Eu te alertei diversas vezes.
+Cala a boca! Você sempre 
+fala mais do que deveria!
 
 230
 00:15:03,350 --> 00:15:05,750
-Não me diga que você é...
+Não foi nada.
 
 231
 00:15:05,760 --> 00:15:08,390
-Ai, ai. Lamentável 
-você só ter percebido agora.
+Não foi nada.
 
 232
 00:15:08,390 --> 00:15:11,830
-Isso mesmo, sou eu.
+Vamos voltar pro hotel e 
+assistir uns vídeos porn--
 
 233
 00:15:14,000 --> 00:15:16,330
-V-Vovô! É você, Vovô!
+Digo, vamos jogar cartas e relaxar!
 
 234
 00:15:16,330 --> 00:15:17,530
-Vovô! Vovô!
+Digo, vamos jogar cartas e relaxar!
 
 235
 00:15:20,440 --> 00:15:24,440
-Goku!
+Temos uma solteirona por aqui!
 
 236
 00:15:24,440 --> 00:15:28,810
-Vovô! Vovô!
+Temos uma solteirona por aqui!
 
 237
 00:15:28,820 --> 00:15:31,950
-Eu senti tanto a sua falta, Vovô!
+Temos uma solteirona por aqui!
 
 238
 00:15:31,950 --> 00:15:33,580
-Eu senti tanto a sua falta, Vovô!
+Temos uma solteirona por aqui!
 
 239
 00:15:51,600 --> 00:15:53,820
-Mesmo ele sendo forte, ele 
-ainda é uma criança.
+Uhul! Bati!
 
 240
 00:15:54,640 --> 00:15:57,590
-O Goku parece bem feliz!
+Vejamos...
 
 241
 00:16:04,720 --> 00:16:06,560
-Queria alertá-lo por não ter 
-tomado cuidado com a sua fraqueza,
+Esta aqui!
 
 242
 00:16:32,900 --> 00:16:36,200
-É, há quanto tempo.
+Olá!
 
 243
 00:16:36,200 --> 00:16:40,070
-Peço desculpas.
+Olá!
 
 244
 00:16:41,570 --> 00:16:43,160
-se ele soubesse que era eu.
+Estava pensando aqui... É perigoso 
+para duas garotas dormirem sozinhas,
 
 245
 00:16:43,160 --> 00:16:45,790
-se ele soubesse que era eu.
+então decidi dormir aqui 
+como guarda-costas...
 
 246
 00:16:45,790 --> 00:16:47,320
-Sim, eu entendo o seu desejo
+então decidi dormir aqui 
+como guarda-costas...
 
 247
 00:16:51,380 --> 00:16:53,580
-de ver o quanto o Goku evoluiu.
+Vamos dormir.
 
 248
 00:16:53,590 --> 00:16:57,080
-Desculpa atrapalhar...
+Vamos dormir.
 
 249
 00:17:05,760 --> 00:17:08,030
@@ -1118,32 +1064,27 @@ marciais mortos no Outro Mundo
 
 251
 00:17:38,210 --> 00:17:42,720
-Infelizmente não. Eu só podia 
-ficar neste mundo por um dia.
+Yamcha!
 
 252
 00:17:42,720 --> 00:17:45,050
-Então o encontro de vocês 
-foi pura coincidência?
+Yamcha!
 
 253
 00:17:45,050 --> 00:17:48,520
-Então o encontro de vocês 
-foi pura coincidência?
+Yamcha!
 
 254
 00:17:48,520 --> 00:17:52,690
-Não, a minha irmã provavelmente 
-previu que viríamos aqui hoje.
+Vamos mostrar a nossa força amanhã!
 
 255
 00:17:54,030 --> 00:17:55,860
-Isso mesmo.
+Sim!
 
 256
 00:17:55,860 --> 00:18:00,100
-O Gohan me pediu para contar a ele se 
-um garoto com rabo aparecesse por aqui.
+Sim!
 
 257
 00:18:15,890 --> 00:18:18,410
@@ -1156,149 +1097,150 @@ deixado o Goku tão forte, Mestre Roshi.
 
 259
 00:18:22,390 --> 00:18:25,760
-Muito obrigado.
+Ei, aqueles três se saíram 
+muito bem no último torneio.
 
 260
 00:18:25,760 --> 00:18:27,420
-Não, eu só ensinei o básico a ele.
+Ei, aqueles três se saíram 
+muito bem no último torneio.
 
 261
 00:18:32,800 --> 00:18:34,440
-Eu também estou bem surpreso 
-com o quão forte ele se tornou.
+Eles vão participar de novo? Putz...
 
 262
 00:18:34,440 --> 00:18:38,340
-Obrigado! Agora posso voltar 
-em paz para o Outro Mundo.
+Parece que há mais gente que da última vez.
 
 263
 00:18:38,340 --> 00:18:40,340
-Obrigado! Agora posso voltar 
-em paz para o Outro Mundo.
+Parece que há mais gente que da última vez.
 
 264
 00:18:40,340 --> 00:18:44,150
-Aliás, o Goku chegou a se 
-tornar um macaco gigante?
+Este uniforme realmente é o meu favorito!
 
 265
 00:18:44,150 --> 00:18:47,080
-Aliás, o Goku chegou a se 
-tornar um macaco gigante?
+Ei, você acha que o Goku ficou 
+ainda mais forte nesses três anos?
 
 266
 00:18:52,960 --> 00:18:57,890
-N-Nada de especial!
+Acho bom vocês passarem das preliminares!
 
 267
 00:18:59,630 --> 00:19:01,260
-"Uma coisa legal"?
+Boa sorte!
 
 268
 00:19:09,520 --> 00:19:12,690
-É isto aqui!
+Certo!
 
 269
 00:19:12,690 --> 00:19:15,900
-É isto aqui!
+Ué, cadê o Mestre Muten Roshi?
 
 270
 00:19:15,900 --> 00:19:18,690
-Eu ainda tenho a lembrança 
-que o senhor me deixou!
+Ué, cadê o Mestre Muten Roshi?
 
 271
 00:19:18,690 --> 00:19:23,260
-Ah, se não é a esfera que 
-encontrei há muito tempo...
+Ué, cadê o Mestre Muten Roshi?
 
 272
 00:19:23,260 --> 00:19:24,750
-Hã? Por que há outras dessas 
-esferas com outros números?
+Deixa ele pra lá.
 
 273
 00:19:34,970 --> 00:19:38,940
-e foi graças à sua esfera que 
-o Son e eu nos conhecemos!
+Ei, aquele ali não é o Jackie Chun...?
 
 274
 00:19:38,940 --> 00:19:41,040
-<i>Dizem que elas podem
-realizar qualquer desejo</i>
+Sim, é ele.
 
 275
 00:19:47,420 --> 00:19:48,850
-<i>Exatamente como uma pessoa deseja</i>
+Ora, também é bom te ver.
 
 276
 00:19:49,950 --> 00:19:53,190
-<i>Um drama bem escondido</i>
+Sabia que você viria!
 
 277
 00:19:53,190 --> 00:19:54,490
-<i>Um drama bem escondido</i>
+Sim, eu vim para te ver.
 
 278
 00:19:54,490 --> 00:19:57,150
-<i>Um drama bem escondido</i>
+É mesmo?
 
 279
 00:20:00,030 --> 00:20:01,460
-<i>Nos sonhos de dias longínquos</i>
+Parece que você treinou ainda mais.
 
 280
 00:20:01,470 --> 00:20:06,940
-<i>Os milagres colocados nas 7 esferas</i>
+Mal posso esperar para te ver lutando.
 
 281
 00:20:06,940 --> 00:20:11,840
-<i>Os milagres colocados nas 7 esferas</i>
+Mal posso esperar para te ver lutando.
 
 282
 00:20:13,530 --> 00:20:17,140
-<i>Vão reviver aqui</i>
+Obrigado por comparecerem ao 
+22º Torneio de Artes Marciais.
 
 283
 00:20:17,140 --> 00:20:20,470
-<i>Venha só para mim, dragão</i>
+Obrigado por comparecerem ao 
+22º Torneio de Artes Marciais.
 
 284
 00:20:20,470 --> 00:20:24,210
-<i>Meu coração está palpitando</i>
+Como vocês sabem, o número de 
+participantes cresceu nos últimos anos,
 
 285
 00:20:24,210 --> 00:20:26,010
-<i>Tenha coragem e voe para longe</i>
+então os torneios serão realizados 
+a cada três anos a partir de agora.
 
 286
 00:20:26,010 --> 00:20:28,710
-<i>Venha só para mim, dragão</i>
+então os torneios serão realizados 
+a cada três anos a partir de agora.
 
 287
 00:20:28,710 --> 00:20:34,890
-<i>Venha só para mim, dragão</i>
+Recebemos 182 inscritos para as preliminares.
 
 288
 00:20:34,890 --> 00:20:36,150
-<i>Corra longe atrás dos seus sonhos</i>
+Dentre eles, apenas oito se classificarão.
 
 289
 00:20:36,990 --> 00:20:39,860
-<i>Corra longe atrás dos seus sonhos</i>
+As batalhas serão nada fáceis! 
+Mostrem-nos o resultado do treinamento...
 
 290
 00:20:39,860 --> 00:20:42,020
-<i>Esferas do Dragão</i>
+As batalhas serão nada fáceis! 
+Mostrem-nos o resultado do treinamento...
 
 291
 00:20:43,580 --> 00:20:45,810
-<i>Esferas do Dragão, eu vou pegar!</i>
+As batalhas serão nada fáceis! 
+Mostrem-nos o resultado do treinamento...
 
 292
 00:20:45,810 --> 00:20:49,620
-<i>Esferas do Dragão, eu vou pegar!</i>
+Esferas do Dragão, eu vou pegar!
 
 293
 00:20:51,170 --> 00:20:58,550
@@ -1306,71 +1248,73 @@ E isso é tudo.
 
 294
 00:20:58,550 --> 00:20:59,550
-E isso é tudo.
+Venha aqui, fantasia
 
 295
 00:20:59,550 --> 00:21:01,720
-E isso é tudo.
+Venha aqui, fantasia
 
 296
 00:21:01,720 --> 00:21:03,780
-Nossa, é mesmo? Eu não fazia ideia.
+Venha aqui, fantasia
 
 297
 00:21:03,790 --> 00:21:06,920
-Goku, você vivenciou tantas aventuras!
+Venha aqui, fantasia
 
 298
 00:21:06,920 --> 00:21:10,060
-Goku, você vivenciou tantas aventuras!
+Eu adoro um mistério
 
 299
 00:21:10,060 --> 00:21:14,760
-Agora você pode ficar feliz! 
-Seu pai voltará à vida.
+Não vá esconder
+a sua juventude!
 
 300
 00:21:14,760 --> 00:21:15,970
-O que foi? Não está feliz com isso?
+Quero fazer o que é misterioso
 
 301
 00:21:24,000 --> 00:21:26,660
-Estou me divertindo bastante no Outro Mundo.
+Todo mundo não vê a hora de ir!
 
 302
 00:21:30,950 --> 00:21:34,080
-É-É mesmo?!
+Se você agir feito
+adulto e desistir
 
 303
 00:22:04,290 --> 00:22:05,650
-Bem, a minha hora chegou. Preciso 
-retornar ao Outro Mundo agora.
+Vou te dar um romance
 
 304
 00:22:05,660 --> 00:22:08,460
-Bem, a minha hora chegou. Preciso 
-retornar ao Outro Mundo agora.
+Vou te dar um romance
 
 305
 00:22:08,460 --> 00:22:10,530
-Você já está indo, Vovô?!
+Vou te dar um romance
 
 306
 00:22:10,530 --> 00:22:13,660
-Você já está indo, Vovô?!
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
 
 307
 00:22:13,660 --> 00:22:16,470
-Agora que vi o quanto você cresceu
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
 
 308
 00:22:16,470 --> 00:22:18,630
-e os incríveis amigos que você 
-fez, não preciso mais me preocupar.
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
 
 309
 00:22:18,640 --> 00:22:21,000
-Mestre Roshi. Amigos de Goku.
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
 
 310
 00:22:21,000 --> 00:22:23,670
@@ -1495,21 +1439,21 @@ Eba!
 
 338
 00:24:17,370 --> 00:24:20,740
-<i>Finalmente a localização da sétima 
-Esfera do Dragão foi revelada.</i>
+Finalmente a localização da sétima 
+Esfera do Dragão foi revelada.
 
 339
 00:24:20,740 --> 00:24:22,300
-<i>Mas Goku não sabe que terá 
-de enfrentar o grupo de Pilaf,</i>
+Mas Goku não sabe que terá 
+de enfrentar o grupo de Pilaf,
 
 340
 00:24:26,440 --> 00:24:29,750
-<i>que estão municiados com um novo arsenal!</i>
+que estão municiados com um novo arsenal!
 
 341
 00:24:29,750 --> 00:24:35,120
-<i>O que irá acontecer?!</i>
+O que irá acontecer?!
 
 342
 00:24:53,190 --> 00:24:56,060
@@ -1517,7 +1461,7 @@ Venha aqui, fantasia
 
 343
 00:24:53,190 --> 00:24:56,060
-<i>Oide FANTAJI</i>
+Oide FANTAJI
 
 344
 00:24:56,060 --> 00:24:58,700
@@ -1525,7 +1469,7 @@ Eu adoro um mistério
 
 345
 00:24:56,060 --> 00:24:58,700
-<i>suki sa MISUTERI</i>
+suki sa MISUTERI
 
 346
 00:24:58,700 --> 00:25:05,240
@@ -1534,7 +1478,7 @@ a sua juventude!
 
 347
 00:24:58,700 --> 00:25:05,240
-<i>Kimi no wakasa kakusa nai de</i>
+Kimi no wakasa kakusa nai de
 
 348
 00:25:05,240 --> 00:25:08,270
@@ -1542,7 +1486,7 @@ Quero fazer o que é misterioso
 
 349
 00:25:05,240 --> 00:25:08,270
-<i>Fushigi shitakute</i>
+Fushigi shitakute
 
 350
 00:25:08,270 --> 00:25:10,740
@@ -1550,7 +1494,7 @@ Quero correr atrás de aventura
 
 351
 00:25:08,270 --> 00:25:10,740
-<i>Bouken shitakute</i>
+Bouken shitakute
 
 352
 00:25:10,740 --> 00:25:16,780
@@ -1558,7 +1502,7 @@ Todo mundo não vê a hora de ir!
 
 353
 00:25:10,740 --> 00:25:16,780
-<i>Dare mo minna uzu-uzu shiteru</i>
+Dare mo minna uzu-uzu shiteru
 
 354
 00:25:16,780 --> 00:25:22,750
@@ -1567,7 +1511,7 @@ adulto e desistir
 
 355
 00:25:16,780 --> 00:25:22,750
-<i>Otona no furi shite akiramecha</i>
+Otona no furi shite akiramecha
 
 356
 00:25:22,750 --> 00:25:28,930
@@ -1576,7 +1520,7 @@ o mistério do milagre
 
 357
 00:25:22,750 --> 00:25:28,930
-<i>Kiseki no nazo nado tokenai yo</i>
+Kiseki no nazo nado tokenai yo
 
 358
 00:25:28,930 --> 00:25:40,070
@@ -1585,8 +1529,8 @@ mais intensa e forte!
 
 359
 00:25:28,930 --> 00:25:40,070
-<i>Motto WAIRUDO ni 
-motto takumashiku ikite goran</i>
+Motto WAIRUDO ni 
+motto takumashiku ikite goran
 
 360
 00:25:40,070 --> 00:25:47,610
@@ -1594,7 +1538,7 @@ Vou te dar um romance
 
 361
 00:25:40,070 --> 00:25:47,610
-<i>ROMANTIKKU Ageru yo!</i>
+ROMANTIKKU Ageru yo!
 
 362
 00:25:47,610 --> 00:25:52,120
@@ -1603,7 +1547,7 @@ verdadeira coragem
 
 363
 00:25:47,610 --> 00:25:52,120
-<i>Hontou no yuuki wo misete kuretara</i>
+Hontou no yuuki wo misete kuretara
 
 364
 00:25:52,120 --> 00:25:59,520
@@ -1611,7 +1555,7 @@ Vou te dar um romance
 
 365
 00:25:52,120 --> 00:25:59,520
-<i>ROMANTIKKU Ageru yo!</i>
+ROMANTIKKU Ageru yo!
 
 366
 00:25:59,520 --> 00:26:08,120
@@ -1620,5 +1564,5 @@ reluzente ao seu coração acelerado!
 
 367
 00:25:59,520 --> 00:26:08,120
-<i>Tokimeku mune ni 
-kirakira hikatta yume wo ageru yo</i>
+Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo
