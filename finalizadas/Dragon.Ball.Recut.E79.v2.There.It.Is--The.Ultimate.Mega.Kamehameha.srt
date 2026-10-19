@@ -1,0 +1,788 @@
+1
+00:00:10,360 --> 00:00:13,860
+<i>Tsukamou ze! DRAGON BALL</i>
+
+2
+00:00:10,360 --> 00:00:13,860
+Vamos pegar as
+Esferas do Dragão!
+
+3
+00:00:13,860 --> 00:00:17,330
+<i>Sekai de ittou suriru na himitsu</i>
+
+4
+00:00:13,860 --> 00:00:17,330
+Um dos segredos mais
+impressionantes do mundo
+
+5
+00:00:17,330 --> 00:00:20,870
+<i>Sagasou ze! DRAGON BALL</i>
+
+6
+00:00:17,330 --> 00:00:20,870
+Vamos procurar as
+Esferas do Dragão!
+
+7
+00:00:20,870 --> 00:00:24,200
+<i>Sekai de ittou yukai na kiseki</i>
+
+8
+00:00:20,870 --> 00:00:24,200
+Um dos milagres mais
+encantadores do mundo
+
+9
+00:00:24,200 --> 00:00:27,670
+<i>Kono yo wa dekkai takarajima</i>
+
+10
+00:00:24,200 --> 00:00:27,670
+A vida é uma grande
+ilha do tesouro
+
+11
+00:00:27,670 --> 00:00:33,310
+<i>Sou sa Ima koso adobenchaa!</i>
+
+12
+00:00:27,670 --> 00:00:33,310
+Isso mesmo!
+A aventura começou!
+
+13
+00:00:35,280 --> 00:00:38,820
+<i>Mune waku-waku no ai ga GISSIRI</i>
+
+14
+00:00:35,280 --> 00:00:38,820
+O amor que bate no
+peito faz GISSIRI
+
+15
+00:00:38,820 --> 00:00:42,350
+<i>Iro tori-dori no yume ga DOSSARI</i>
+
+16
+00:00:38,820 --> 00:00:42,350
+Uma chuva de sonhos
+multicoloridos faz DOSSARI
+
+17
+00:00:42,360 --> 00:00:49,330
+<i>Kono no yo doko ka de hikatteiru</i>
+
+18
+00:00:42,360 --> 00:00:49,330
+Em algum lugar do
+mundo elas vão brilhar
+
+19
+00:00:49,330 --> 00:00:52,160
+<i>Soitsu mitsuke ni yukou ze BOY</i>
+
+20
+00:00:49,330 --> 00:00:52,160
+Vamos lá encontrá-las, rapaz
+
+21
+00:00:53,000 --> 00:00:56,100
+<i>Youkai henka mo buttobashi</i>
+
+22
+00:00:53,000 --> 00:00:56,100
+Enquanto passamos por cima
+de monstros e demônios
+
+23
+00:00:56,100 --> 00:01:02,530
+<i>Kumo no mashin de kyou mo tobu no sa</i>
+
+24
+00:00:56,100 --> 00:01:02,530
+E na nuvem voadora
+nós vamos voar!
+
+25
+00:01:03,510 --> 00:01:07,010
+<i>Let's try try try Makafushigi</i>
+
+26
+00:01:03,510 --> 00:01:07,010
+Vamos experimentar
+esse profundo mistério
+
+27
+00:01:07,010 --> 00:01:09,780
+Avançando pelos céus,
+superando as montanhas
+
+28
+00:01:07,010 --> 00:01:09,780
+<i>Sora wo kakenuke yama wo koe</i>
+
+29
+00:01:10,680 --> 00:01:13,740
+Vamos voar rumo a
+uma grande aventura
+
+30
+00:01:10,680 --> 00:01:13,740
+<i>Let's fly fly fly Daibouken</i>
+
+31
+00:01:14,250 --> 00:01:21,390
+A nossa jornada
+estranha vai começar!
+
+32
+00:01:14,250 --> 00:01:21,390
+<i>Fushigi na tabi ga hajimaru ze</i>
+
+33
+00:01:21,390 --> 00:01:24,900
+Vamos pegá-las em mãos!
+As Esferas do Dragão!
+
+34
+00:01:21,390 --> 00:01:24,900
+<i>Te ni irero! DRAGON BALL</i>
+
+35
+00:01:24,900 --> 00:01:28,100
+Uma das apostas mais
+formidáveis do mundo
+
+36
+00:01:24,900 --> 00:01:28,100
+<i>Sekai de ittou degowai chansu</i>
+
+37
+00:01:28,500 --> 00:01:31,560
+Vamos persegui-las!
+As Esferas do Dragão!
+
+38
+00:01:28,500 --> 00:01:31,560
+<i>Oikakero! DRAGON BALL</i>
+
+39
+00:01:31,910 --> 00:01:35,140
+Um dos mistérios mais
+dramáticos do mundo
+
+40
+00:01:31,910 --> 00:01:35,140
+<i>Sekai de ittou ikashita dorama</i>
+
+41
+00:01:35,140 --> 00:01:38,610
+A vida é uma grande
+ilha do tesouro
+
+42
+00:01:35,140 --> 00:01:38,610
+<i>Kono yo wa dekkai takarajima</i>
+
+43
+00:01:38,610 --> 00:01:48,380
+Isso mesmo!
+A aventura começou!
+
+44
+00:01:38,610 --> 00:01:48,380
+<i>Sou sa Ima koso adobenchaa!</i>
+
+45
+00:01:58,790 --> 00:02:02,850
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+46
+00:02:16,950 --> 00:02:22,420
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+47
+00:02:22,420 --> 00:02:29,190
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+48
+00:02:29,190 --> 00:02:33,030
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+49
+00:02:33,030 --> 00:02:35,660
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+50
+00:02:35,660 --> 00:02:41,400
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+51
+00:02:41,400 --> 00:02:44,100
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+52
+00:02:44,110 --> 00:02:45,700
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+53
+00:02:47,380 --> 00:02:52,210
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+54
+00:02:52,210 --> 00:02:54,580
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+55
+00:03:00,890 --> 00:03:05,590
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+56
+00:03:13,030 --> 00:03:17,200
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+57
+00:03:21,620 --> 00:03:23,750
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+58
+00:03:30,060 --> 00:03:31,720
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+59
+00:03:33,430 --> 00:03:37,030
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+60
+00:03:37,030 --> 00:03:40,430
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+61
+00:03:40,430 --> 00:03:42,600
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+62
+00:03:42,600 --> 00:03:45,530
+<i>Piccolo Daimaoh, que estava aprisionado 
+dentro da panela elétrica há décadas,</i>
+
+63
+00:03:46,800 --> 00:03:50,310
+<i>foi trazido de volta à vida.</i>
+
+64
+00:03:50,310 --> 00:03:52,740
+<i>Temendo que o Mafuba fosse 
+usado contra ele novamente,</i>
+
+65
+00:03:56,810 --> 00:04:03,650
+<i>Mas ao saber que Címbalo 
+havia sido derrotado,</i>
+
+66
+00:04:05,520 --> 00:04:10,030
+<i>ele enviou seu Tamborim, uma de suas crias,
+para conseguir vingança.</i>
+
+67
+00:04:10,030 --> 00:04:12,260
+Então você está vivo?
+
+68
+00:04:12,260 --> 00:04:15,430
+Então você está vivo?
+
+69
+00:04:15,430 --> 00:04:18,330
+Você matou o Kuririn, matou 
+a minha Nuvem Voadora,
+
+70
+00:04:18,330 --> 00:04:21,500
+e não satisfeito, roubou 
+a minha Esfera do Dragão!
+
+71
+00:04:23,210 --> 00:04:26,340
+Você não vai se safar dessa!
+
+72
+00:04:26,340 --> 00:04:30,180
+Quer apanhar de novo?
+
+73
+00:05:40,650 --> 00:05:45,890
+Ah, o senhor é o famoso 
+Muten Roshi, não é?
+
+74
+00:06:01,820 --> 00:06:07,020
+Dessa vez podemos acabar encontrando 
+aquele que matou o Kuririn.
+
+75
+00:06:20,800 --> 00:06:22,300
+Se ele estiver vivo...
+
+76
+00:06:22,300 --> 00:06:24,170
+Se ele estiver vivo...
+
+77
+00:06:26,870 --> 00:06:29,140
+Então?
+
+78
+00:06:31,950 --> 00:06:33,410
+Então?
+
+79
+00:06:33,410 --> 00:06:34,910
+Então?
+
+80
+00:06:34,920 --> 00:06:36,440
+Então?
+
+81
+00:06:54,950 --> 00:06:57,420
+Me ataca!
+
+82
+00:06:57,420 --> 00:06:59,950
+O quê?!
+
+83
+00:06:59,950 --> 00:07:05,950
+O quê?!
+
+84
+00:07:08,460 --> 00:07:14,930
+Hein?!
+
+85
+00:07:17,570 --> 00:07:20,900
+Hein?!
+
+86
+00:07:27,210 --> 00:07:29,680
+Hein?!
+
+87
+00:07:29,680 --> 00:07:31,240
+Hein?!
+
+88
+00:07:40,420 --> 00:07:41,560
+Paz!
+
+89
+00:07:41,560 --> 00:07:44,990
+Paz!
+
+90
+00:07:51,460 --> 00:07:54,630
+Paz!
+
+91
+00:07:54,630 --> 00:07:58,720
+Paz!
+
+92
+00:08:00,320 --> 00:08:02,750
+Paz!
+
+93
+00:09:17,780 --> 00:09:19,800
+Impossível.
+
+94
+00:09:24,350 --> 00:09:27,220
+Não há cabimento o Clã Demônio 
+ser derrotado por humanos!
+
+95
+00:09:30,960 --> 00:09:33,150
+Não há cabimento o Clã Demônio 
+ser derrotado por humanos!
+
+96
+00:09:43,600 --> 00:09:47,510
+O desgraçado virou pó!
+
+97
+00:09:49,240 --> 00:09:55,270
+O desgraçado virou pó!
+
+98
+00:09:58,350 --> 00:10:01,030
+Idiota! Eu disse que o Clã 
+Demônio era invencível!
+
+99
+00:10:01,030 --> 00:10:04,590
+Idiota! Eu disse que o Clã 
+Demônio era invencível!
+
+100
+00:10:05,440 --> 00:10:08,270
+Merda!
+
+101
+00:10:08,270 --> 00:10:09,940
+Merda!
+
+102
+00:10:09,940 --> 00:10:12,380
+Merda!
+
+103
+00:10:12,380 --> 00:10:13,750
+Merda!
+
+104
+00:10:13,750 --> 00:10:16,410
+<i>Você </i>quem é o idiota!
+
+105
+00:10:16,420 --> 00:10:19,920
+<i>Você </i>quem é o idiota!
+
+106
+00:10:19,920 --> 00:10:23,380
+<i>Você </i>quem é o idiota!
+
+107
+00:10:45,060 --> 00:10:46,590
+Ei, não deixa ele escapar!
+
+108
+00:10:46,600 --> 00:10:48,690
+Ei, não deixa ele escapar!
+
+109
+00:10:50,900 --> 00:10:53,740
+Cresça, Bastão Mágico!
+
+110
+00:10:53,740 --> 00:10:58,640
+Cresça, Bastão Mágico!
+
+111
+00:10:58,640 --> 00:11:01,510
+Ka...
+
+112
+00:11:02,610 --> 00:11:04,440
+...me...
+
+113
+00:11:08,780 --> 00:11:13,920
+...me...
+
+114
+00:11:13,920 --> 00:11:15,890
+...ha!
+
+115
+00:11:18,930 --> 00:11:24,500
+...ha!
+
+116
+00:11:24,500 --> 00:11:29,230
+Senhor Piccolo!
+
+117
+00:11:31,610 --> 00:11:36,310
+Senhor Piccolo!
+
+118
+00:11:36,310 --> 00:11:41,480
+Senhor Piccolo!
+
+119
+00:11:41,480 --> 00:11:43,120
+O-O que está acontecendo?
+
+120
+00:11:43,120 --> 00:11:45,130
+O-O que está acontecendo?
+
+121
+00:11:45,130 --> 00:11:54,480
+Não pode ser!
+
+122
+00:11:54,480 --> 00:11:56,100
+Quem é que está lá embaixo?
+
+123
+00:11:59,480 --> 00:12:02,280
+Quem é que está lá embaixo?
+
+124
+00:12:05,460 --> 00:12:12,360
+Há uns caras bem poderosos 
+por esse mundo mesmo, né?
+
+125
+00:12:12,360 --> 00:12:14,860
+Ei.
+
+126
+00:12:14,860 --> 00:12:21,460
+Pouse esta nave no lugar em 
+que o Tamborim foi morto.
+
+127
+00:12:26,580 --> 00:12:28,710
+Por que você explodiu aquele cara, hein?!
+
+128
+00:12:28,710 --> 00:12:33,210
+Por que você explodiu aquele cara, hein?!
+
+129
+00:12:34,420 --> 00:12:36,410
+Como eu vou comer ele agora?
+
+130
+00:12:40,660 --> 00:12:42,660
+Você prometeu dar ele para mim!
+
+131
+00:12:42,660 --> 00:12:45,390
+Você prometeu dar ele para mim!
+
+132
+00:13:03,350 --> 00:13:07,520
+novos caras malvados
+continuarão aparecendo.
+
+133
+00:13:07,520 --> 00:13:10,850
+novos caras malvados
+continuarão aparecendo.
+
+134
+00:13:10,850 --> 00:13:13,560
+novos caras malvados
+continuarão aparecendo.
+
+135
+00:13:13,560 --> 00:13:16,530
+novos caras malvados
+continuarão aparecendo.
+
+136
+00:13:40,250 --> 00:13:42,380
+Mataram <i>dois </i>dos guerreiros que 
+eu sofri tanto para dar à luz...
+
+137
+00:13:42,390 --> 00:13:44,440
+Acho que eles não vão aparecer...
+
+138
+00:13:50,260 --> 00:13:51,730
+Você disse que eles viriam enquanto 
+esta esfera estivesse comigo.
+
+139
+00:13:51,730 --> 00:13:54,060
+Vou vasculhar a região.
+
+140
+00:13:54,060 --> 00:13:57,900
+Traga-o até mim se acabar matando um
+
+141
+00:13:59,540 --> 00:14:03,740
+e esta esfera será sua.
+
+142
+00:14:03,740 --> 00:14:06,300
+Hã?
+
+143
+00:14:06,300 --> 00:14:10,240
+Tá me ouvindo? Podemos combinar isso aí?
+
+144
+00:14:10,240 --> 00:14:11,670
+Estão bem próximos.
+
+145
+00:14:11,670 --> 00:14:15,340
+Há uma Esfera do Dragão bem perto daqui!
+
+146
+00:14:15,340 --> 00:14:17,710
+Hã?
+
+147
+00:14:23,690 --> 00:14:27,820
+Está aqui!
+
+148
+00:14:35,830 --> 00:14:40,330
+O que foi? O que está aqui?!
+
+149
+00:14:40,840 --> 00:14:43,030
+Não vejo nada!
+
+150
+00:14:45,440 --> 00:14:48,010
+Em cima de nós!
+
+151
+00:14:48,010 --> 00:14:50,740
+O que é <i>aquilo</i>?!
+
+152
+00:15:30,820 --> 00:15:34,260
+<i>Piccolo Daimaoh, aquele que 
+o Mestre Kame tanto teme,</i>
+
+153
+00:16:10,730 --> 00:16:13,690
+<i>apareceu diante de Goku para 
+vingar os seus guerreiros.</i>
+
+154
+00:16:13,700 --> 00:16:18,660
+<i>Porém, Goku não faz ideia do 
+terrível poder que ele possui...</i>
+
+155
+00:16:36,890 --> 00:16:39,790
+Venha aqui, fantasia
+
+156
+00:16:36,890 --> 00:16:39,790
+<i>Oide FANTAJI</i>
+
+157
+00:16:39,790 --> 00:16:42,320
+Eu adoro um mistério
+
+158
+00:16:39,790 --> 00:16:42,320
+<i>suki sa MISUTERI</i>
+
+159
+00:16:42,320 --> 00:16:49,000
+Não vá esconder
+a sua juventude!
+
+160
+00:16:42,320 --> 00:16:49,000
+<i>Kimi no wakasa kakusa nai de</i>
+
+161
+00:16:49,000 --> 00:16:51,970
+Quero fazer o que é misterioso
+
+162
+00:16:49,000 --> 00:16:51,970
+<i>Fushigi shitakute</i>
+
+163
+00:16:51,970 --> 00:16:54,470
+Quero correr atrás de aventura
+
+164
+00:16:51,970 --> 00:16:54,470
+<i>Bouken shitakute</i>
+
+165
+00:16:54,470 --> 00:17:00,510
+Todo mundo não vê a hora de ir!
+
+166
+00:16:54,470 --> 00:17:00,510
+<i>Dare mo minna uzu-uzu shiteru</i>
+
+167
+00:17:00,510 --> 00:17:06,510
+Se você agir feito
+adulto e desistir
+
+168
+00:17:00,510 --> 00:17:06,510
+<i>Otona no furi shite akiramecha</i>
+
+169
+00:17:06,520 --> 00:17:12,650
+Você nunca desvendará
+o mistério do milagre
+
+170
+00:17:06,520 --> 00:17:12,650
+<i>Kiseki no nazo nado tokenai yo</i>
+
+171
+00:17:12,650 --> 00:17:23,760
+Vá e viva de forma
+mais intensa e forte!
+
+172
+00:17:12,650 --> 00:17:23,760
+<i>Motto WAIRUDO ni 
+motto takumashiku ikite goran</i>
+
+173
+00:17:23,770 --> 00:17:31,340
+Vou te dar um romance
+
+174
+00:17:23,770 --> 00:17:31,340
+<i>ROMANTIKKU Ageru yo!</i>
+
+175
+00:17:31,340 --> 00:17:35,840
+Se você me mostrar sua
+verdadeira coragem
+
+176
+00:17:31,340 --> 00:17:35,840
+<i>Hontou no yuuki wo misete kuretara</i>
+
+177
+00:17:35,840 --> 00:17:43,220
+Vou te dar um romance
+
+178
+00:17:35,840 --> 00:17:43,220
+<i>ROMANTIKKU Ageru yo!</i>
+
+179
+00:17:43,220 --> 00:17:51,850
+Vou dar um sonho brilhante e
+reluzente ao seu coração acelerado!
+
+180
+00:17:43,220 --> 00:17:51,850
+<i>Tokimeku mune ni 
+kirakira hikatta yume wo ageru yo</i>
