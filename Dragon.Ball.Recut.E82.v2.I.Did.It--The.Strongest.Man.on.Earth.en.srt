@@ -1,0 +1,1078 @@
+1
+00:00:10,260 --> 00:00:13,770
+<font face="Avenir Black" size="33">{\an8}<i>Tsukamo ze! Doragon Booru</i></font>
+
+2
+00:00:10,260 --> 00:00:13,770
+<font face="Avenir Black" size="33"><i>Let's go grab them up! The Dragon Balls!</i></font>
+
+3
+00:00:13,770 --> 00:00:17,240
+<font face="Avenir Black" size="33">{\an8}<i>Sekai de itto suriru na himitsu</i></font>
+
+4
+00:00:13,770 --> 00:00:17,240
+<font face="Avenir Black" size="33"><i>One of the most thrilling secrets in the world</i></font>
+
+5
+00:00:17,240 --> 00:00:20,770
+<font face="Avenir Black" size="33">{\an8}<i>Sagaso ze! Doragon Booru</i></font>
+
+6
+00:00:17,240 --> 00:00:20,770
+<font face="Avenir Black" size="33"><i>Let's go seek them out! The Dragon Balls!</i></font>
+
+7
+00:00:20,770 --> 00:00:24,110
+<font face="Avenir Black" size="33">{\an8}<i>Sekai de itto yukai na kiseki</i></font>
+
+8
+00:00:20,770 --> 00:00:24,110
+<font face="Avenir Black" size="33"><i>One of the most delightful miracles in the world</i></font>
+
+9
+00:00:24,110 --> 00:00:27,580
+<font face="Avenir Black" size="33">{\an8}<i>Kono yo wa dekkai takarajima</i></font>
+
+10
+00:00:24,110 --> 00:00:27,580
+<font face="Avenir Black" size="33"><i>This life is one big treasure island</i></font>
+
+11
+00:00:27,580 --> 00:00:33,210
+<font face="Avenir Black" size="33">{\an8}<i>So sa ima koso adobencha!</i></font>
+
+12
+00:00:27,580 --> 00:00:33,210
+<font face="Avenir Black" size="33"><i>It's the truth! Now more than ever, Adventure!</i></font>
+
+13
+00:00:35,190 --> 00:00:38,720
+<font face="Avenir Black" size="33">{\an8}<i>Mune waku-waku no ai ga GISSIRI</i></font>
+
+14
+00:00:35,190 --> 00:00:38,720
+<font face="Avenir Black" size="33"><i>The love of a pounding chest is GISSIRI</i></font>
+
+15
+00:00:38,720 --> 00:00:42,260
+<font face="Avenir Black" size="33">{\an8}<i>Iro toridori no yume ga DOSSARI</i></font>
+
+16
+00:00:38,720 --> 00:00:42,260
+<font face="Avenir Black" size="33"><i>Multi-colored dreams rain down DOSSARI</i></font>
+
+17
+00:00:42,260 --> 00:00:49,230
+<font face="Avenir Black" size="33">{\an8}<i>Kono yo no doko ka de hikatte 'ru</i></font>
+
+18
+00:00:42,260 --> 00:00:49,230
+<font face="Avenir Black" size="33"><i>Somewhere in this world, they are glowing</i></font>
+
+19
+00:00:49,240 --> 00:00:52,070
+<font face="Avenir Black" size="33">{\an8}<i>Soitsu mitsuke ni yuko ze BOY</i></font>
+
+20
+00:00:49,240 --> 00:00:52,070
+<font face="Avenir Black" size="33"><i>Let's go on out there and find them, boy</i></font>
+
+21
+00:00:52,910 --> 00:00:56,010
+<font face="Avenir Black" size="33">{\an8}<i>Yokai henge mo buttobashi</i></font>
+
+22
+00:00:52,910 --> 00:00:56,010
+<font face="Avenir Black" size="33"><i>All the while pounding on mutants and monsters</i></font>
+
+23
+00:00:56,010 --> 00:01:02,440
+<font face="Avenir Black" size="33">{\an8}<i>Kumo no mashin de kyo mo tobu no sa</i></font>
+
+24
+00:00:56,010 --> 00:01:02,440
+<font face="Avenir Black" size="33"><i>And we'll fly through the day</i>
+<i>on our cloud machine as well!</i></font>
+
+25
+00:01:03,420 --> 00:01:06,920
+<font face="Avenir Black" size="33">{\an8}<i>Let's try, try, try makafushigi</i></font>
+
+26
+00:01:03,420 --> 00:01:06,920
+<font face="Avenir Black" size="33"><i>Let's try, try, try, how mysterious</i></font>
+
+27
+00:01:06,920 --> 00:01:09,680
+<font face="Avenir Black" size="33">{\an8}<i>Sora o kakenuke yama o koe</i></font>
+
+28
+00:01:06,920 --> 00:01:09,680
+<font face="Avenir Black" size="33"><i>Charging through the sky,</i>
+<i>while we overcome mountains!</i></font>
+
+29
+00:01:10,590 --> 00:01:13,650
+<font face="Avenir Black" size="33">{\an8}<i>Let's fly, fly, fly, daiboken</i></font>
+
+30
+00:01:10,590 --> 00:01:13,650
+<font face="Avenir Black" size="33"><i>Let's fly, fly, fly, such an adventure</i></font>
+
+31
+00:01:14,160 --> 00:01:21,300
+<font face="Avenir Black" size="33">{\an8}<i>Fushigi na tabi ga hajimaru ze</i></font>
+
+32
+00:01:14,160 --> 00:01:21,300
+<font face="Avenir Black" size="33"><i>Our strange little journey now begins!</i></font>
+
+33
+00:01:21,300 --> 00:01:24,800
+<font face="Avenir Black" size="33">{\an8}<i>Te ni irero! Doragon Booru</i></font>
+
+34
+00:01:21,300 --> 00:01:24,800
+<font face="Avenir Black" size="33"><i>Let's get them in hand! The Dragon Balls!</i></font>
+
+35
+00:01:24,800 --> 00:01:28,000
+<font face="Avenir Black" size="33">{\an8}<i>Sekai de itto tegowai chansu</i></font>
+
+36
+00:01:24,800 --> 00:01:28,000
+<font face="Avenir Black" size="33"><i>One of the most formidable gambles in the world</i></font>
+
+37
+00:01:28,410 --> 00:01:31,470
+<font face="Avenir Black" size="33">{\an8}<i>Oikakero! Doragon Booru</i></font>
+
+38
+00:01:28,410 --> 00:01:31,470
+<font face="Avenir Black" size="33"><i>Let's go chase them down! The Dragon Balls!</i></font>
+
+39
+00:01:31,810 --> 00:01:35,050
+<font face="Avenir Black" size="33">{\an8}<i>Sekai de itto ikashita dorama</i></font>
+
+40
+00:01:31,810 --> 00:01:35,050
+<font face="Avenir Black" size="33"><i>Some of the most enjoyable drama in the world</i></font>
+
+41
+00:01:35,050 --> 00:01:38,520
+<font face="Avenir Black" size="33">{\an8}<i>Kono yo wa dekkai takarajima</i></font>
+
+42
+00:01:35,050 --> 00:01:38,520
+<font face="Avenir Black" size="33"><i>This life is one big treasure island</i></font>
+
+43
+00:01:38,520 --> 00:01:48,290
+<font face="Avenir Black" size="33">{\an8}<i>So sa ima koso adobencha!</i></font>
+
+44
+00:01:38,520 --> 00:01:48,290
+<font face="Avenir Black" size="33"><i>It's the truth! Now more than ever, Adventure!</i></font>
+
+45
+00:01:58,600 --> 00:02:03,600
+<font face="Avenir Black" size="35">"I Did lt! The Strongest Man on Earth"</font>
+
+46
+00:03:04,030 --> 00:03:06,460
+<font face="Avenir Black" size="35">Your vision starting to get hazy?</font>
+
+47
+00:03:06,460 --> 00:03:09,990
+<font face="Avenir Black" size="35">Losing as much blood as
+you are, it's only natural!</font>
+
+48
+00:03:14,240 --> 00:03:17,040
+<font face="Avenir Black" size="35">Goku-<i>san</i>!</font>
+
+49
+00:03:44,000 --> 00:03:45,940
+<font face="Avenir Black" size="35">H-His legs are broken!</font>
+
+50
+00:03:49,870 --> 00:03:53,330
+<font face="Avenir Black" size="35">I-I can't watch any more of this!</font>
+
+51
+00:03:54,850 --> 00:03:57,710
+<font face="Avenir Black" size="35">Your left arm's the only
+thing you can use now.</font>
+
+52
+00:03:57,720 --> 00:04:03,280
+<font face="Avenir Black" size="35">But my father met defeat last time
+when he left you with one usable limb!</font>
+
+53
+00:04:12,760 --> 00:04:14,200
+<font face="Avenir Black" size="35">Goku!</font>
+
+54
+00:04:19,340 --> 00:04:20,900
+<font face="Avenir Black" size="35">What do you think, Son Goku?</font>
+
+55
+00:04:20,900 --> 00:04:23,370
+<font face="Avenir Black" size="35">Now you can't use your left arm, either!</font>
+
+56
+00:04:24,910 --> 00:04:26,540
+<font face="Avenir Black" size="35">Goku-<i>san</i>!</font>
+
+57
+00:04:31,880 --> 00:04:36,020
+<font face="Avenir Black" size="35">Now you can't move at all!</font>
+
+58
+00:04:36,020 --> 00:04:39,550
+<font face="Avenir Black" size="35">Well then, it's time for you
+to take my final attack!</font>
+
+59
+00:04:42,930 --> 00:04:46,490
+<font face="Avenir Black" size="35">How I've longed for this moment!</font>
+
+60
+00:05:00,530 --> 00:05:03,400
+<font face="Avenir Black" size="35">G-Goku's going to be killed!</font>
+
+61
+00:05:03,400 --> 00:05:05,370
+<font face="Avenir Black" size="35">Goku's going to die!</font>
+
+62
+00:05:05,370 --> 00:05:08,370
+<font face="Avenir Black" size="35">Come on, you guys! What should we do?!</font>
+
+63
+00:05:08,370 --> 00:05:10,530
+<font face="Avenir Black" size="35">We have to do <i>something</i>!</font>
+
+64
+00:05:27,060 --> 00:05:30,520
+<font face="Avenir Black" size="35">Someone do something!</font>
+
+65
+00:05:33,330 --> 00:05:36,770
+<font face="Avenir Black" size="35">You. Tenshinhan, was it?</font>
+
+66
+00:05:36,770 --> 00:05:41,300
+<font face="Avenir Black" size="35">If you kill me...</font>
+
+67
+00:05:41,300 --> 00:05:43,420
+<font face="Avenir Black" size="35">...he, too, will expire.</font>
+
+68
+00:05:44,610 --> 00:05:47,920
+<font face="Avenir Black" size="35">Hurry! Before it is too late!</font>
+
+69
+00:05:47,920 --> 00:05:50,580
+<font face="Avenir Black" size="35">Tenshinhan!</font>
+
+70
+00:05:50,590 --> 00:05:53,290
+<font face="Avenir Black" size="35">As a God, I am
+unable to commit suicide!</font>
+
+71
+00:05:53,290 --> 00:05:56,790
+<font face="Avenir Black" size="35">There is no other way to save Son!</font>
+
+72
+00:05:56,790 --> 00:05:59,260
+<font face="Avenir Black" size="35">B-But!</font>
+
+73
+00:05:59,260 --> 00:06:01,590
+<font face="Avenir Black" size="35">I will only temporarily die.</font>
+
+74
+00:06:03,100 --> 00:06:08,000
+<font face="Avenir Black" size="35">You can always ask Shen Long to
+give me life anew once this is all over!</font>
+
+75
+00:06:08,000 --> 00:06:10,770
+<font face="Avenir Black" size="35">Come now! Hurry!</font>
+
+76
+00:06:19,610 --> 00:06:23,050
+<font face="Avenir Black" size="35">Tenshinhan!</font>
+
+77
+00:06:23,050 --> 00:06:25,280
+<font face="Avenir Black" size="35">Very well.</font>
+
+78
+00:06:41,600 --> 00:06:43,430
+<font face="Avenir Black" size="35">Stop!</font>
+
+79
+00:06:44,810 --> 00:06:48,810
+<font face="Avenir Black" size="35">Don't... do that!</font>
+
+80
+00:06:48,810 --> 00:06:50,400
+<font face="Avenir Black" size="35">Son!</font>
+
+81
+00:06:52,180 --> 00:06:57,990
+<font face="Avenir Black" size="35">I-I'm going to win...</font>
+
+82
+00:06:57,990 --> 00:07:00,190
+<font face="Avenir Black" size="35">You're going to win?!</font>
+
+83
+00:07:00,190 --> 00:07:03,720
+<font face="Avenir Black" size="35">Don't be stupid! You can't
+do anything in your shape!</font>
+
+84
+00:07:03,730 --> 00:07:05,190
+<font face="Avenir Black" size="35">He is correct!</font>
+
+85
+00:07:05,190 --> 00:07:08,220
+<font face="Avenir Black" size="35">You have no chance of winning now!</font>
+
+86
+00:07:22,710 --> 00:07:24,590
+<font face="Avenir Black" size="35">We're too late!</font>
+
+87
+00:07:30,190 --> 00:07:34,220
+<font face="Avenir Black" size="35">Can't do your usual tricks now
+that your legs and arms are useless!</font>
+
+88
+00:07:49,190 --> 00:07:52,780
+<font face="Avenir Black" size="35">Goku-<i>san</i>!</font>
+
+89
+00:09:01,660 --> 00:09:05,360
+<font face="Avenir Black" size="35">Vaporized him!</font>
+
+90
+00:09:05,370 --> 00:09:12,070
+<font face="Avenir Black" size="35">I doubt even Shen Long could
+bring him back to life now!</font>
+
+91
+00:09:12,070 --> 00:09:13,700
+<font face="Avenir Black" size="35">No...</font>
+
+92
+00:09:20,550 --> 00:09:24,220
+<font face="Avenir Black" size="35">I won! Son Goku is dead!</font>
+
+93
+00:09:24,220 --> 00:09:28,150
+<font face="Avenir Black" size="35">Dead!</font>
+
+94
+00:09:28,150 --> 00:09:31,120
+<font face="Avenir Black" size="35">This world now belongs to <i>me</i>!</font>
+
+95
+00:09:33,260 --> 00:09:37,630
+<font face="Avenir Black" size="35">I can bring about a terror-filled
+world of evil once more!</font>
+
+96
+00:09:37,630 --> 00:09:39,260
+<font face="Avenir Black" size="35">Goku-<i>san</i>!</font>
+
+97
+00:09:39,260 --> 00:09:45,230
+<font face="Avenir Black" size="35">I was just about to be married,
+and already I'm a widow!</font>
+
+98
+00:09:50,610 --> 00:09:52,910
+<font face="Avenir Black" size="35">Damn it! How dare you?!</font>
+
+99
+00:09:52,910 --> 00:09:58,780
+<font face="Avenir Black" size="35">The worst possible situation
+has become a reality.</font>
+
+100
+00:09:58,780 --> 00:10:01,250
+<font face="Avenir Black" size="35">You needn't cry.</font>
+
+101
+00:10:01,250 --> 00:10:05,460
+<font face="Avenir Black" size="35">I'll put an end to you all while I'm at it.</font>
+
+102
+00:10:05,460 --> 00:10:06,920
+<font face="Avenir Black" size="35">What did you say?!</font>
+
+103
+00:10:06,930 --> 00:10:10,290
+<font face="Avenir Black" size="35">You can talk to Son Goku in the next world.</font>
+
+104
+00:10:30,870 --> 00:10:32,340
+<font face="Avenir Black" size="35">W-What is it?!</font>
+
+105
+00:10:32,340 --> 00:10:35,200
+<font face="Avenir Black" size="35">I-lsn't that?</font>
+
+106
+00:10:43,410 --> 00:10:45,210
+<font face="Avenir Black" size="35">Goku...</font>
+
+107
+00:10:47,350 --> 00:10:50,550
+<font face="Avenir Black" size="35">It is! It <i>is</i> Goku!</font>
+
+108
+00:10:51,890 --> 00:10:52,820
+<font face="Avenir Black" size="35">What?!</font>
+
+109
+00:11:04,690 --> 00:11:06,680
+<font face="Avenir Black" size="35"><i>My word!</i></font>
+
+110
+00:11:09,230 --> 00:11:11,190
+<font face="Avenir Black" size="35">The flying technique!</font>
+
+111
+00:11:12,070 --> 00:11:14,760
+<font face="Avenir Black" size="35">You lose!</font>
+
+112
+00:11:39,890 --> 00:11:43,190
+<font face="Avenir Black" size="35">M-Mr. Referee!</font>
+
+113
+00:11:43,190 --> 00:11:46,700
+<font face="Avenir Black" size="35">He fell...</font>
+
+114
+00:11:46,700 --> 00:11:49,720
+<font face="Avenir Black" size="35">...outside the ring... right?</font>
+
+115
+00:11:54,000 --> 00:11:55,910
+<font face="Avenir Black" size="35">Now that you mention it...</font>
+
+116
+00:11:55,910 --> 00:12:00,510
+<font face="Avenir Black" size="35">I... won the match... right?</font>
+
+117
+00:12:00,510 --> 00:12:05,410
+<font face="Avenir Black" size="35">T-This certainly <i>is</i> outside of the ring...</font>
+
+118
+00:12:09,020 --> 00:12:13,850
+<font face="Avenir Black" size="35">Competitor Son Goku wins
+the Tenkaichi Budokai!</font>
+
+119
+00:12:16,530 --> 00:12:18,930
+<font face="Avenir Black" size="35">- He did it!
+- He did it!</font>
+
+120
+00:12:18,930 --> 00:12:20,930
+<font face="Avenir Black" size="35">He did it!</font>
+
+121
+00:12:20,930 --> 00:12:23,370
+<font face="Avenir Black" size="35">- Goku!
+- Son-<i>kun</i>!</font>
+
+122
+00:12:23,370 --> 00:12:27,060
+<font face="Avenir Black" size="35">You did it, Goku-<i>san</i>! You won!</font>
+
+123
+00:12:29,070 --> 00:12:31,070
+<font face="Avenir Black" size="35">Looks safe to come out now...</font>
+
+124
+00:12:31,070 --> 00:12:33,610
+<font face="Avenir Black" size="35">It's finally over...</font>
+
+125
+00:12:33,610 --> 00:12:34,980
+<font face="Avenir Black" size="35">You did it, Goku!</font>
+
+126
+00:12:34,980 --> 00:12:37,010
+<font face="Avenir Black" size="35">You're totally awesome!</font>
+
+127
+00:12:37,010 --> 00:12:39,880
+<font face="Avenir Black" size="35">Are you okay, Goku-<i>san</i>?</font>
+
+128
+00:12:39,880 --> 00:12:42,590
+<font face="Avenir Black" size="35">N-Not really...</font>
+
+129
+00:12:42,590 --> 00:12:45,050
+<font face="Avenir Black" size="35">We'll take you to the hospital right away!</font>
+
+130
+00:12:47,620 --> 00:12:51,390
+<font face="Avenir Black" size="35">Now then, what to do with him?</font>
+
+131
+00:12:54,160 --> 00:12:57,300
+<font face="Avenir Black" size="35">Looks like you did it again.</font>
+
+132
+00:12:57,300 --> 00:12:58,930
+<font face="Avenir Black" size="35">Y-Yajirobe...</font>
+
+133
+00:12:58,940 --> 00:13:00,640
+<font face="Avenir Black" size="35">What are you doing here?</font>
+
+134
+00:13:00,640 --> 00:13:03,940
+<font face="Avenir Black" size="35">Came to check on things. That's all.</font>
+
+135
+00:13:03,940 --> 00:13:06,480
+<font face="Avenir Black" size="35">Here. Eat this.</font>
+
+136
+00:13:06,480 --> 00:13:08,440
+<font face="Avenir Black" size="35">T-Thanks!</font>
+
+137
+00:13:33,600 --> 00:13:36,310
+<font face="Avenir Black" size="35">I did it!</font>
+
+138
+00:13:36,310 --> 00:13:39,380
+<font face="Avenir Black" size="35">I won the Tenkaichi Budokai!</font>
+
+139
+00:13:39,380 --> 00:13:43,310
+<font face="Avenir Black" size="35">- W-What just happened?!
+- What happened to his injuries?!</font>
+
+140
+00:13:43,310 --> 00:13:44,310
+<font face="Avenir Black" size="35">Hurray!</font>
+
+141
+00:13:44,310 --> 00:13:48,280
+<font face="Avenir Black" size="35">So senzu do more than
+just fill your stomach up?</font>
+
+142
+00:13:48,290 --> 00:13:52,190
+<font face="Avenir Black" size="35">You ate 'em without
+realizin' that for yourself?</font>
+
+143
+00:13:52,190 --> 00:13:55,680
+<font face="Avenir Black" size="35">- Hurray!
+- Amazing.</font>
+
+144
+00:14:00,060 --> 00:14:02,360
+<font face="Avenir Black" size="35">Yahoo!</font>
+
+145
+00:14:05,840 --> 00:14:07,460
+<font face="Avenir Black" size="35">No!</font>
+
+146
+00:14:17,380 --> 00:14:18,250
+<font face="Avenir Black" size="35">Stop!</font>
+
+147
+00:14:18,250 --> 00:14:20,520
+<font face="Avenir Black" size="35">What are you doing, Son?!</font>
+
+148
+00:14:20,520 --> 00:14:23,850
+<font face="Avenir Black" size="35">That's <i>my</i> line, God!</font>
+
+149
+00:14:23,850 --> 00:14:27,310
+<font face="Avenir Black" size="35">What on earth were you about to do?!</font>
+
+150
+00:14:31,160 --> 00:14:33,860
+<font face="Avenir Black" size="35">He still lives!</font>
+
+151
+00:14:33,860 --> 00:14:36,100
+<font face="Avenir Black" size="35">His life <i>must</i> be ended!</font>
+
+152
+00:14:36,100 --> 00:14:39,030
+<font face="Avenir Black" size="35">We cannot afford to let him to live!</font>
+
+153
+00:14:41,740 --> 00:14:44,840
+<font face="Avenir Black" size="35">He will repeat the same thing yet again!</font>
+
+154
+00:14:44,840 --> 00:14:47,580
+<font face="Avenir Black" size="35">And when he does, I'll stop him then, too!</font>
+
+155
+00:14:47,580 --> 00:14:50,510
+<font face="Avenir Black" size="35">If you kill Ma-Junior, you'll die, too!</font>
+
+156
+00:14:50,510 --> 00:14:51,950
+<font face="Avenir Black" size="35">I went through this once before!</font>
+
+157
+00:14:51,950 --> 00:14:57,590
+<font face="Avenir Black" size="35">You can always have Shen Long
+bring only me back to life!</font>
+
+158
+00:14:57,590 --> 00:15:00,090
+<font face="Avenir Black" size="35">He's right, Son.</font>
+
+159
+00:15:00,090 --> 00:15:03,690
+<font face="Avenir Black" size="35">That is the only way.</font>
+
+160
+00:15:03,690 --> 00:15:06,730
+<font face="Avenir Black" size="35">So even God is allowed to lie?!</font>
+
+161
+00:15:06,730 --> 00:15:08,100
+<font face="Avenir Black" size="35">W-What?</font>
+
+162
+00:15:08,100 --> 00:15:13,700
+<font face="Avenir Black" size="35">The Dragon Balls and Shen Long were
+originally <i>your</i> creations, weren't they?!</font>
+
+163
+00:15:16,110 --> 00:15:24,210
+<font face="Avenir Black" size="35">So wouldn't the Dragon Balls
+disappear if you died?!</font>
+
+164
+00:15:24,210 --> 00:15:26,050
+<font face="Avenir Black" size="35">What?!</font>
+
+165
+00:15:46,940 --> 00:15:52,930
+<font face="Avenir Black" size="35">I should have stepped down
+as a God long ago!</font>
+
+166
+00:15:54,680 --> 00:15:57,150
+<font face="Avenir Black" size="35">I gave birth to the evil that is Piccolo.</font>
+
+167
+00:15:57,150 --> 00:16:02,410
+<font face="Avenir Black" size="35">Eventually his power surpassed my own
+as he drove this world into chaos!</font>
+
+168
+00:16:06,020 --> 00:16:10,790
+<font face="Avenir Black" size="35">I am ill fit to be a God!</font>
+
+169
+00:16:10,790 --> 00:16:13,200
+<font face="Avenir Black" size="35">I have every right to die.</font>
+
+170
+00:16:13,200 --> 00:16:19,500
+<font face="Avenir Black" size="35">Yet it's thanks to <i>you</i> that the
+world is blessed with peace again.</font>
+
+171
+00:16:19,500 --> 00:16:22,640
+<font face="Avenir Black" size="35">Without the Dragon Balls,
+which <i>you</i> created,</font>
+
+172
+00:16:22,640 --> 00:16:27,840
+<font face="Avenir Black" size="35">neither Goku nor any of the others
+would have met or grown stronger!</font>
+
+173
+00:16:29,510 --> 00:16:35,450
+<font face="Avenir Black" size="35">It all began with a single Dragon Ball.</font>
+
+174
+00:16:55,040 --> 00:16:58,800
+<font face="Avenir Black" size="35">And they were able to
+protect this world as a result.</font>
+
+175
+00:17:04,350 --> 00:17:09,680
+<font face="Avenir Black" size="35">Son. You were trained
+by an exceptional master.</font>
+
+176
+00:17:11,490 --> 00:17:13,920
+<font face="Avenir Black" size="35">Though he <i>is</i> a little perverted...</font>
+
+177
+00:17:13,920 --> 00:17:18,060
+<font face="Avenir Black" size="35">No, all I did was teach him the basics...</font>
+
+178
+00:17:18,060 --> 00:17:23,660
+<font face="Avenir Black" size="35">It was you and Karin-<i>sama</i> who
+helped him develop this far!</font>
+
+179
+00:17:25,040 --> 00:17:26,830
+<font face="Avenir Black" size="35">Son!</font>
+
+180
+00:17:38,630 --> 00:17:43,740
+<font face="Avenir Black" size="35">Your turtle symbol uniform
+becomes you the most.</font>
+
+181
+00:17:43,740 --> 00:17:46,340
+<font face="Avenir Black" size="35">Thank you!</font>
+
+182
+00:17:46,340 --> 00:17:50,710
+<font face="Avenir Black" size="35">Yajirobe! Can you give
+me another senzu?</font>
+
+183
+00:17:50,710 --> 00:17:53,720
+<font face="Avenir Black" size="35">One wasn't enough for ya, huh?</font>
+
+184
+00:17:53,720 --> 00:17:54,820
+<font face="Avenir Black" size="35">Catch.</font>
+
+185
+00:17:54,820 --> 00:17:57,350
+<font face="Avenir Black" size="35">Thank you!</font>
+
+186
+00:17:57,350 --> 00:17:58,850
+<font face="Avenir Black" size="35">Here, eat this!</font>
+
+187
+00:17:58,860 --> 00:18:01,490
+<font face="Avenir Black" size="35">It'll make you all better!</font>
+
+188
+00:18:01,490 --> 00:18:04,480
+<font face="Avenir Black" size="35">W-What the heck are you doing?!</font>
+
+189
+00:18:25,250 --> 00:18:26,720
+<font face="Avenir Black" size="35">You idiot!</font>
+
+190
+00:18:26,720 --> 00:18:28,720
+<font face="Avenir Black" size="35">What are you <i>thinking</i>, Goku?!</font>
+
+191
+00:18:28,720 --> 00:18:30,390
+<font face="Avenir Black" size="35">Goku-<i>san</i>!</font>
+
+192
+00:18:30,390 --> 00:18:35,410
+<font face="Avenir Black" size="35">If you had died there,
+God would've died, too!</font>
+
+193
+00:18:37,030 --> 00:18:42,560
+<font face="Avenir Black" size="35">Plus, I might get a little lonely if
+my archenemy kicked the bucket!</font>
+
+194
+00:18:44,730 --> 00:18:49,870
+<font face="Avenir Black" size="35">I warned you before that your
+softheartedness would be your undoing!</font>
+
+195
+00:18:49,870 --> 00:18:55,380
+<font face="Avenir Black" size="35">I'll let you go for now, but one
+of these days I <i>will</i> destroy you!</font>
+
+196
+00:18:55,380 --> 00:18:59,110
+<font face="Avenir Black" size="35">This world <i>will</i> be mine!</font>
+
+197
+00:18:59,120 --> 00:19:01,210
+<font face="Avenir Black" size="35"><i>What a situation!</i></font>
+
+198
+00:19:03,550 --> 00:19:06,590
+<font face="Avenir Black" size="35">See!? We should've sealed
+him up or something!</font>
+
+199
+00:19:06,590 --> 00:19:08,290
+<font face="Avenir Black" size="35">Until the day we next meet...</font>
+
+200
+00:19:08,290 --> 00:19:11,560
+<font face="Avenir Black" size="35">...enjoy the time you have left!</font>
+
+201
+00:19:11,560 --> 00:19:14,930
+<font face="Avenir Black" size="35"><i>Train even more and</i>
+<i>become stronger, Piccolo!</i></font>
+
+202
+00:19:14,930 --> 00:19:19,300
+<font face="Avenir Black" size="35"><i>I'll grow one step beyond that!</i></font>
+
+203
+00:19:23,810 --> 00:19:27,140
+<font face="Avenir Black" size="35"><i>Son-kun used to be such a little runt...</i></font>
+
+204
+00:19:27,140 --> 00:19:30,050
+<font face="Avenir Black" size="35"><i>But now!</i></font>
+
+205
+00:19:30,050 --> 00:19:32,810
+<font face="Avenir Black" size="35">Goku-<i>san!</i></font>
+
+206
+00:19:32,820 --> 00:19:36,750
+<font face="Avenir Black" size="35">Goku-<i>san!!</i></font>
+
+207
+00:19:36,750 --> 00:19:39,790
+<font face="Avenir Black" size="35">I'm so happy you're alive!</font>
+
+208
+00:19:39,790 --> 00:19:42,790
+<font face="Avenir Black" size="35">W-What are you doing, Chichi?!
+Stop holding on to me!</font>
+
+209
+00:19:42,790 --> 00:19:45,360
+<font face="Avenir Black" size="35">Oh, that's right! I forgot!</font>
+
+210
+00:19:45,360 --> 00:19:48,760
+<font face="Avenir Black" size="35">Goku's a newlywed!</font>
+
+211
+00:19:48,760 --> 00:19:53,340
+<font face="Avenir Black" size="35">Son. Will you take my place as...</font>
+
+212
+00:19:53,340 --> 00:19:55,740
+<font face="Avenir Black" size="35">That's!</font>
+
+213
+00:19:55,740 --> 00:19:58,210
+<font face="Avenir Black" size="35">Ten-<i>san</i>!</font>
+
+214
+00:19:58,210 --> 00:20:00,440
+<font face="Avenir Black" size="35">Chaozu! You're all right!</font>
+
+215
+00:20:00,440 --> 00:20:02,640
+<font face="Avenir Black" size="35">Son!</font>
+
+216
+00:20:02,650 --> 00:20:07,650
+<font face="Avenir Black" size="35">Will you take my place
+as the new God?</font>
+
+217
+00:20:07,650 --> 00:20:10,320
+<font face="Avenir Black" size="35">Me? A God?!</font>
+
+218
+00:20:10,320 --> 00:20:12,850
+<font face="Avenir Black" size="35">You are more than fit for the role!</font>
+
+219
+00:20:12,860 --> 00:20:15,320
+<font face="Avenir Black" size="35">The two of you can live in the Upper World.</font>
+
+220
+00:20:15,320 --> 00:20:18,490
+<font face="Avenir Black" size="35">Heck, no! I don't want that!</font>
+
+221
+00:20:18,490 --> 00:20:22,160
+<font face="Avenir Black" size="35">I would die if I had to
+stay there! It's so boring!</font>
+
+222
+00:20:22,170 --> 00:20:23,670
+<font face="Avenir Black" size="35">Listen to me, Son!</font>
+
+223
+00:20:23,670 --> 00:20:27,170
+<font face="Avenir Black" size="35">God! You can become God!</font>
+
+224
+00:20:27,170 --> 00:20:31,470
+<font face="Avenir Black" size="35"><i>You</i> are the only one who can
+take over what I have left behind!</font>
+
+225
+00:20:34,140 --> 00:20:37,810
+<font face="Avenir Black" size="35">Come, <i>Kinto Un</i>!</font>
+
+226
+00:20:39,020 --> 00:20:41,540
+<font face="Avenir Black" size="35">- Goku!
+- Let's go!</font>
+
+227
+00:20:43,390 --> 00:20:48,590
+<font face="Avenir Black" size="35">Bye, everyone! See you later!</font>
+
+228
+00:20:48,590 --> 00:20:52,760
+<font face="Avenir Black" size="35">Goku!</font>
+
+229
+00:20:59,340 --> 00:21:02,330
+<font face="Avenir Black" size="35">It's over already?</font>
+
+230
+00:21:04,210 --> 00:21:08,080
+<font face="Avenir Black" size="35"><i>Nobody knows what tomorrow will bring.</i></font>
+
+231
+00:21:08,080 --> 00:21:14,510
+<font face="Avenir Black" size="35"><i>Just what lies in store for Goku?</i></font>
+
+232
+00:21:30,770 --> 00:21:33,840
+<font face="Avenir Black" size="33">{\an8}<i>Oide fantaji</i></font>
+
+233
+00:21:30,770 --> 00:21:33,840
+<font face="Avenir Black" size="33"><i>Come along, fantasy</i></font>
+
+234
+00:21:33,840 --> 00:21:36,200
+<font face="Avenir Black" size="33">{\an8}<i>Suki sa misuteri</i></font>
+
+235
+00:21:33,840 --> 00:21:36,200
+<font face="Avenir Black" size="33"><i>I enjoy a mystery</i></font>
+
+236
+00:21:36,210 --> 00:21:42,910
+<font face="Avenir Black" size="33">{\an8}<i>Kimi no wakasa kakusanai de</i></font>
+
+237
+00:21:36,210 --> 00:21:42,910
+<font face="Avenir Black" size="33"><i>Don't you go hiding your youth!</i></font>
+
+238
+00:21:42,910 --> 00:21:45,880
+<font face="Avenir Black" size="33">{\an8}<i>Fushigi shitakute</i></font>
+
+239
+00:21:42,910 --> 00:21:45,880
+<font face="Avenir Black" size="33"><i>Wanting to perform the mysterious</i></font>
+
+240
+00:21:45,880 --> 00:21:48,320
+<font face="Avenir Black" size="33">{\an8}<i>Boken shitakute</i></font>
+
+241
+00:21:45,880 --> 00:21:48,320
+<font face="Avenir Black" size="33"><i>Wanting to pursue the adventure</i></font>
+
+242
+00:21:48,320 --> 00:21:54,390
+<font face="Avenir Black" size="33">{\an8}<i>Dare mo min'na uzu-uzu shite 'ru</i></font>
+
+243
+00:21:48,320 --> 00:21:54,390
+<font face="Avenir Black" size="33"><i>Everyone is itching to go!</i></font>
+
+244
+00:21:54,390 --> 00:22:00,400
+<font face="Avenir Black" size="33">{\an8}<i>Otona no furi shite akiramecha</i></font>
+
+245
+00:21:54,390 --> 00:22:00,400
+<font face="Avenir Black" size="33"><i>If you act like an adult and give up</i></font>
+
+246
+00:22:00,400 --> 00:22:06,570
+<font face="Avenir Black" size="33">{\an8}<i>Kiseki no nazo nado tokenai yo</i></font>
+
+247
+00:22:00,400 --> 00:22:06,570
+<font face="Avenir Black" size="33"><i>You'll never unravel the mystery of the miracle!</i></font>
+
+248
+00:22:06,570 --> 00:22:17,680
+<font face="Avenir Black" size="33">{\an8}<i>Motto wairudo ni motto takumashiku ikite goran</i></font>
+
+249
+00:22:06,570 --> 00:22:17,680
+<font face="Avenir Black" size="33"><i>Go on and try to live</i>
+<i>even more wild and strong!</i></font>
+
+250
+00:22:17,680 --> 00:22:25,190
+<font face="Avenir Black" size="33">{\an8}<i>Romantikku ageru yo, romantikku ageru yo</i></font>
+
+251
+00:22:17,680 --> 00:22:25,190
+<font face="Avenir Black" size="33"><i>I'll give you a romance,</i>
+<i>I'll give you a romance</i></font>
+
+252
+00:22:25,190 --> 00:22:29,760
+<font face="Avenir Black" size="33">{\an8}<i>Honto no yuki misete kuretara</i></font>
+
+253
+00:22:25,190 --> 00:22:29,760
+<font face="Avenir Black" size="33"><i>If you will show me your true courage</i></font>
+
+254
+00:22:29,760 --> 00:22:37,130
+<font face="Avenir Black" size="33">{\an8}<i>Romantikku ageru yo, romantikku ageru yo</i></font>
+
+255
+00:22:29,760 --> 00:22:37,130
+<font face="Avenir Black" size="33"><i>I'll give you a romance,</i>
+<i>I'll give you a romance</i></font>
+
+256
+00:22:37,130 --> 00:22:45,670
+<font face="Avenir Black" size="33">{\an8}<i>Tokimeku mune ni</i>
+<i>kira-kira hikatta yume o ageru yo</i></font>
+
+257
+00:22:37,130 --> 00:22:45,670
+<font face="Avenir Black" size="33"><i>I'll give your pounding heart</i>
+<i>a glittery, shining dream!</i></font>
+
